@@ -481,6 +481,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -3247,7 +3260,132 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NoMercy_Intro_0: -6474091496926421851
+      NoMercy_Intro_1: 4887242318560953797
+      NoMercy_Intro_10: 792404730179881216
+      NoMercy_Intro_100: 6924311924930124122
+      NoMercy_Intro_101: 4317839643486245660
+      NoMercy_Intro_102: -783382487286826171
+      NoMercy_Intro_103: -1221168591065937525
+      NoMercy_Intro_104: -1232040728843855360
+      NoMercy_Intro_105: -5392794991614627351
+      NoMercy_Intro_106: -4594132670588677535
+      NoMercy_Intro_107: 2258954192633836178
+      NoMercy_Intro_108: 4796877838521935263
+      NoMercy_Intro_109: 3086214949899682351
+      NoMercy_Intro_11: -2018410894012676652
+      NoMercy_Intro_110: 2191449314890773582
+      NoMercy_Intro_111: 1526243196150793726
+      NoMercy_Intro_112: 7070110851165506377
+      NoMercy_Intro_113: -5462095196711694250
+      NoMercy_Intro_114: 1081295691581164814
+      NoMercy_Intro_115: -8752499631434431732
+      NoMercy_Intro_116: 6580864110674983563
+      NoMercy_Intro_117: -7167698666902093217
+      NoMercy_Intro_118: 4254633718587600661
+      NoMercy_Intro_119: -5568890880552916190
+      NoMercy_Intro_12: -8274148583742150289
+      NoMercy_Intro_120: 3146421243588087913
+      NoMercy_Intro_121: -4128293819210520527
+      NoMercy_Intro_122: -6733059421661948929
+      NoMercy_Intro_123: -302813669760199430
+      NoMercy_Intro_124: -1500745416773586026
+      NoMercy_Intro_13: 1462605662082343149
+      NoMercy_Intro_14: -6824656430822322764
+      NoMercy_Intro_15: 7837309768492761493
+      NoMercy_Intro_16: 1507255146454961129
+      NoMercy_Intro_17: 5252525442786010462
+      NoMercy_Intro_18: -6477995760540302291
+      NoMercy_Intro_19: 1974177035270009154
+      NoMercy_Intro_2: 844045090696375679
+      NoMercy_Intro_20: 6378977068836112234
+      NoMercy_Intro_21: -8699428847248462982
+      NoMercy_Intro_22: -4911048660351632133
+      NoMercy_Intro_23: 1848037952436137257
+      NoMercy_Intro_24: 4600505029657890391
+      NoMercy_Intro_25: -7167825583470908082
+      NoMercy_Intro_26: 6894753447943786557
+      NoMercy_Intro_27: 5396205192237232419
+      NoMercy_Intro_28: -8190526000227851717
+      NoMercy_Intro_29: 1889101096234056309
+      NoMercy_Intro_3: -8717994662234829213
+      NoMercy_Intro_30: -2506431929030908728
+      NoMercy_Intro_31: 5731643960439182609
+      NoMercy_Intro_32: 384997064006446362
+      NoMercy_Intro_33: -2894938495844021221
+      NoMercy_Intro_34: -547727222327959813
+      NoMercy_Intro_35: 3301099506023761527
+      NoMercy_Intro_36: 1678618184559313766
+      NoMercy_Intro_37: -2814350686669880136
+      NoMercy_Intro_38: -8887763823762223112
+      NoMercy_Intro_39: -694289963476837077
+      NoMercy_Intro_4: -4436607005134728238
+      NoMercy_Intro_40: 4477641977803219912
+      NoMercy_Intro_41: 3920105325770144107
+      NoMercy_Intro_42: -249611745144370059
+      NoMercy_Intro_43: 2432212186418084936
+      NoMercy_Intro_44: 8853900999332298497
+      NoMercy_Intro_45: 6795698780390402306
+      NoMercy_Intro_46: 1862632685499434432
+      NoMercy_Intro_47: 6789051789288066624
+      NoMercy_Intro_48: -458323644673076749
+      NoMercy_Intro_49: -8738537305589969432
+      NoMercy_Intro_5: -3759978402133405885
+      NoMercy_Intro_50: -3131528259660350153
+      NoMercy_Intro_51: 8693026004701107276
+      NoMercy_Intro_52: 997830917385086994
+      NoMercy_Intro_53: -2902611526525740681
+      NoMercy_Intro_54: -4779762842335633639
+      NoMercy_Intro_55: -6937012982826011002
+      NoMercy_Intro_56: -1345506884510651336
+      NoMercy_Intro_57: -4613476105161772561
+      NoMercy_Intro_58: 1064751620965398737
+      NoMercy_Intro_59: -5491731877762808470
+      NoMercy_Intro_6: -1219407044801958143
+      NoMercy_Intro_60: -3825416350142950181
+      NoMercy_Intro_61: -7051427448108841625
+      NoMercy_Intro_62: -7532207023594360855
+      NoMercy_Intro_63: 7247420544662543837
+      NoMercy_Intro_64: -7287148088154326418
+      NoMercy_Intro_65: -809750784824097338
+      NoMercy_Intro_66: 8151249651472559620
+      NoMercy_Intro_67: -2915558273407982043
+      NoMercy_Intro_68: -6686418886194369956
+      NoMercy_Intro_69: 7794651747685216871
+      NoMercy_Intro_7: 8357351185275309838
+      NoMercy_Intro_70: 4252531513358171256
+      NoMercy_Intro_71: 2304967946248933726
+      NoMercy_Intro_72: 7243296030419074391
+      NoMercy_Intro_73: 6649235067155743237
+      NoMercy_Intro_74: -4462622499873776747
+      NoMercy_Intro_75: -5748540994581538192
+      NoMercy_Intro_76: -1009704468853274708
+      NoMercy_Intro_77: -4772230238202949711
+      NoMercy_Intro_78: 1618631382889805062
+      NoMercy_Intro_79: 2781389084472529189
+      NoMercy_Intro_8: -5949832334072764992
+      NoMercy_Intro_80: 2474093730495579071
+      NoMercy_Intro_81: -9034736806523980305
+      NoMercy_Intro_82: -3112216973235708835
+      NoMercy_Intro_83: -847800932759420203
+      NoMercy_Intro_84: -4732531848346646218
+      NoMercy_Intro_85: 8297095749553797040
+      NoMercy_Intro_86: 1874824486954857972
+      NoMercy_Intro_87: -235866960649147301
+      NoMercy_Intro_88: -7356398353342714842
+      NoMercy_Intro_89: 7455741913720041520
+      NoMercy_Intro_9: 7696146381939243800
+      NoMercy_Intro_90: 2888983678856073043
+      NoMercy_Intro_91: 1054687329512163129
+      NoMercy_Intro_92: 2078626116328168711
+      NoMercy_Intro_93: -7753857655112752243
+      NoMercy_Intro_94: -6062159489935031133
+      NoMercy_Intro_95: 7822842595960820957
+      NoMercy_Intro_96: 601910452776275111
+      NoMercy_Intro_97: 3371691007119813664
+      NoMercy_Intro_98: 1945821675587676432
+      NoMercy_Intro_99: -63077128844239014
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

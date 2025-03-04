@@ -199,6 +199,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -897,7 +910,38 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rmHighwayNight_0: -7480807380144424980
+      rmHighwayNight_1: 8389226926863269178
+      rmHighwayNight_10: -3885593530144644799
+      rmHighwayNight_11: 7531122471364436965
+      rmHighwayNight_12: -3612450366415998555
+      rmHighwayNight_13: 3542859564890884991
+      rmHighwayNight_14: 6411977255805267908
+      rmHighwayNight_15: 1637196405841200094
+      rmHighwayNight_16: 2530017615333308995
+      rmHighwayNight_17: 1756987396172580633
+      rmHighwayNight_18: -6813761511784483270
+      rmHighwayNight_19: 6787500359375982112
+      rmHighwayNight_2: 2372056481163742051
+      rmHighwayNight_20: 8018848521023328872
+      rmHighwayNight_21: -3686298782092072683
+      rmHighwayNight_22: 3763855368793225887
+      rmHighwayNight_23: 9134969989037780362
+      rmHighwayNight_24: 9154660728452322051
+      rmHighwayNight_25: 8362330053597109109
+      rmHighwayNight_26: -8547253429121216584
+      rmHighwayNight_27: 6853838278254325208
+      rmHighwayNight_28: 1897720614321930431
+      rmHighwayNight_29: 1109678623002272755
+      rmHighwayNight_3: 890936959289535711
+      rmHighwayNight_30: -4087613292607132397
+      rmHighwayNight_4: 4124387635805526989
+      rmHighwayNight_5: 4576061160127375078
+      rmHighwayNight_6: -7151912333005527242
+      rmHighwayNight_7: 640451743325675146
+      rmHighwayNight_8: 4382875973694747167
+      rmHighwayNight_9: -8168707059857975209
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

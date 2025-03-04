@@ -121,6 +121,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -247,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Zombie-Tileset---_0495_Capa-496_0: 865870125328233660
+      Zombie-Tileset---_0495_Capa-496_1: 6667751995337992368
+      Zombie-Tileset---_0495_Capa-496_2: 6821446757595251812
+      Zombie-Tileset---_0495_Capa-496_3: 6066499414826158303
+      Zombie-Tileset---_0495_Capa-496_4: 4817155578555330531
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

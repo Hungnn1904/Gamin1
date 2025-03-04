@@ -346,6 +346,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2122,7 +2135,87 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rmNickeStore_0: -1713657016123232639
+      rmNickeStore_1: 2962408768736993693
+      rmNickeStore_10: 3345585206008573839
+      rmNickeStore_11: -4504949222327497821
+      rmNickeStore_12: 6481984787754164696
+      rmNickeStore_13: -1560881693259680671
+      rmNickeStore_14: 76107993852470840
+      rmNickeStore_15: 6359605415082923004
+      rmNickeStore_16: 3610134023686144143
+      rmNickeStore_17: 4094506908073987278
+      rmNickeStore_18: -1249782725509106729
+      rmNickeStore_19: -4878667821897845792
+      rmNickeStore_2: 720764159998612744
+      rmNickeStore_20: -5765705630232949278
+      rmNickeStore_21: 3346546464231848917
+      rmNickeStore_22: 8128477030873862833
+      rmNickeStore_23: -950590994296902935
+      rmNickeStore_24: -6821709204342211627
+      rmNickeStore_25: 5172395623825624715
+      rmNickeStore_26: -9204691971911715505
+      rmNickeStore_27: -9018785296278296431
+      rmNickeStore_28: -4201118459311587820
+      rmNickeStore_29: 883260917101832637
+      rmNickeStore_3: -1857205813223788827
+      rmNickeStore_30: 7563298993706632909
+      rmNickeStore_31: -4594738306300937542
+      rmNickeStore_32: -906277506600636289
+      rmNickeStore_33: 5810025277699844930
+      rmNickeStore_34: 5768359031820214976
+      rmNickeStore_35: 72011770917946182
+      rmNickeStore_36: 3169065369438278592
+      rmNickeStore_37: -5112530369431680788
+      rmNickeStore_38: -7084076195896184211
+      rmNickeStore_39: -763955978776656453
+      rmNickeStore_4: 3788917432059710315
+      rmNickeStore_40: 8485205092438119702
+      rmNickeStore_41: 201242482227534992
+      rmNickeStore_42: 6170156540432152783
+      rmNickeStore_43: 7680751356883573504
+      rmNickeStore_44: -1014810028425618218
+      rmNickeStore_45: 5888897215453325424
+      rmNickeStore_46: 2637325935036632043
+      rmNickeStore_47: 3475959352986640930
+      rmNickeStore_48: 8273570964719042008
+      rmNickeStore_49: -3876374819839485492
+      rmNickeStore_5: 2328082043323323632
+      rmNickeStore_50: -548569327996254037
+      rmNickeStore_51: 7273033486027001353
+      rmNickeStore_52: 3722308578052310281
+      rmNickeStore_53: -8911855649645042017
+      rmNickeStore_54: -6029320364762491243
+      rmNickeStore_55: 1244131004750912860
+      rmNickeStore_56: 5882884321591158311
+      rmNickeStore_57: 8009249610341483289
+      rmNickeStore_58: -4239886535162509859
+      rmNickeStore_59: 6490179011974935464
+      rmNickeStore_6: -6903314721634366552
+      rmNickeStore_60: 144741456079041989
+      rmNickeStore_61: -1407572560399460614
+      rmNickeStore_62: -1536056567619322659
+      rmNickeStore_63: 2244848497908227061
+      rmNickeStore_64: 9176528584583417898
+      rmNickeStore_65: -4192104553831355975
+      rmNickeStore_66: 3280276649693888108
+      rmNickeStore_67: -9206122672305947820
+      rmNickeStore_68: -7477553577326305064
+      rmNickeStore_69: -5318505104358452011
+      rmNickeStore_7: -5943817927172651269
+      rmNickeStore_70: -7195427367779882418
+      rmNickeStore_71: -9062719421929286118
+      rmNickeStore_72: 6210648581748318029
+      rmNickeStore_73: -288166229577959704
+      rmNickeStore_74: 910756728672398659
+      rmNickeStore_75: -8705758046112062709
+      rmNickeStore_76: 5028136074095353136
+      rmNickeStore_77: -8404990506329710115
+      rmNickeStore_78: -3721207936242005582
+      rmNickeStore_79: 1600823843478606631
+      rmNickeStore_8: 289550723229528462
+      rmNickeStore_9: 5902053041556811366
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
