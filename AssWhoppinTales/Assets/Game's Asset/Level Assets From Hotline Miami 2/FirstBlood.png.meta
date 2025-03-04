@@ -1,0 +1,5805 @@
+fileFormatVersion: 2
+guid: 3fc0050601f69ee4ea63943f30d57327
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -750415128677379607
+    second: FirstBlood_0
+  - first:
+      213: -7321269903538270178
+    second: FirstBlood_1
+  - first:
+      213: -3128121386067164991
+    second: FirstBlood_2
+  - first:
+      213: -1403179976570532389
+    second: FirstBlood_3
+  - first:
+      213: 2310968736646435459
+    second: FirstBlood_4
+  - first:
+      213: -1725476822252764399
+    second: FirstBlood_5
+  - first:
+      213: 7667969225458451211
+    second: FirstBlood_6
+  - first:
+      213: -7023339974845970495
+    second: FirstBlood_7
+  - first:
+      213: 606800705760049682
+    second: FirstBlood_8
+  - first:
+      213: -6534117145670125388
+    second: FirstBlood_9
+  - first:
+      213: -5877379819016135402
+    second: FirstBlood_10
+  - first:
+      213: -1804011352686125049
+    second: FirstBlood_11
+  - first:
+      213: 8310522802178288536
+    second: FirstBlood_12
+  - first:
+      213: 2876643184121389472
+    second: FirstBlood_13
+  - first:
+      213: 7179229348688585580
+    second: FirstBlood_14
+  - first:
+      213: -6707001270651853607
+    second: FirstBlood_15
+  - first:
+      213: 1633218186963255308
+    second: FirstBlood_16
+  - first:
+      213: 4590803344594061813
+    second: FirstBlood_17
+  - first:
+      213: 3085188892497020715
+    second: FirstBlood_18
+  - first:
+      213: -6245482190047392093
+    second: FirstBlood_19
+  - first:
+      213: 3630874580054853217
+    second: FirstBlood_20
+  - first:
+      213: 4113530891038436570
+    second: FirstBlood_21
+  - first:
+      213: -9115435201687558892
+    second: FirstBlood_22
+  - first:
+      213: 5714496533471191401
+    second: FirstBlood_23
+  - first:
+      213: -7422832271796067732
+    second: FirstBlood_24
+  - first:
+      213: 5692433412457806595
+    second: FirstBlood_25
+  - first:
+      213: 3906868433887096614
+    second: FirstBlood_26
+  - first:
+      213: -4244420034195876770
+    second: FirstBlood_27
+  - first:
+      213: -4562196746457140340
+    second: FirstBlood_28
+  - first:
+      213: 390662806610826386
+    second: FirstBlood_29
+  - first:
+      213: -2879924512221354989
+    second: FirstBlood_30
+  - first:
+      213: 6238802021357857647
+    second: FirstBlood_31
+  - first:
+      213: 4680495701000146337
+    second: FirstBlood_32
+  - first:
+      213: -3298832552960483871
+    second: FirstBlood_33
+  - first:
+      213: 320586524173563004
+    second: FirstBlood_34
+  - first:
+      213: -1625135940182489083
+    second: FirstBlood_35
+  - first:
+      213: -8661381658574134883
+    second: FirstBlood_36
+  - first:
+      213: -5799096908455352739
+    second: FirstBlood_37
+  - first:
+      213: 4607427771534372854
+    second: FirstBlood_38
+  - first:
+      213: 2179356135335815859
+    second: FirstBlood_39
+  - first:
+      213: -4889159727868004050
+    second: FirstBlood_40
+  - first:
+      213: 3162730904637628144
+    second: FirstBlood_41
+  - first:
+      213: -5947073227934331476
+    second: FirstBlood_42
+  - first:
+      213: -3720475947721562104
+    second: FirstBlood_43
+  - first:
+      213: -4792174343413374863
+    second: FirstBlood_44
+  - first:
+      213: -694821913916780665
+    second: FirstBlood_45
+  - first:
+      213: -6706520691184830880
+    second: FirstBlood_46
+  - first:
+      213: -3780354126145260887
+    second: FirstBlood_47
+  - first:
+      213: 1454054361707183959
+    second: FirstBlood_48
+  - first:
+      213: 6427711744736623933
+    second: FirstBlood_49
+  - first:
+      213: 178847028311912400
+    second: FirstBlood_50
+  - first:
+      213: 122775634667126670
+    second: FirstBlood_51
+  - first:
+      213: 6441901917549154033
+    second: FirstBlood_52
+  - first:
+      213: -8700142132818566984
+    second: FirstBlood_53
+  - first:
+      213: -1082693782089238047
+    second: FirstBlood_54
+  - first:
+      213: 2258220057196849245
+    second: FirstBlood_55
+  - first:
+      213: 567252864751003960
+    second: FirstBlood_56
+  - first:
+      213: -5422148857672735945
+    second: FirstBlood_57
+  - first:
+      213: 2470240633449455115
+    second: FirstBlood_58
+  - first:
+      213: 5129911117915328018
+    second: FirstBlood_59
+  - first:
+      213: 1963542041526836287
+    second: FirstBlood_60
+  - first:
+      213: 4636283889859570643
+    second: FirstBlood_61
+  - first:
+      213: -5481093619069208471
+    second: FirstBlood_62
+  - first:
+      213: 1739382895058624167
+    second: FirstBlood_63
+  - first:
+      213: 8327044334860491705
+    second: FirstBlood_64
+  - first:
+      213: 6000698949393220355
+    second: FirstBlood_65
+  - first:
+      213: -35485684034801442
+    second: FirstBlood_66
+  - first:
+      213: -277978000625239990
+    second: FirstBlood_67
+  - first:
+      213: 5041674112726481449
+    second: FirstBlood_68
+  - first:
+      213: 2305891923031104748
+    second: FirstBlood_69
+  - first:
+      213: 3972160123289447110
+    second: FirstBlood_70
+  - first:
+      213: 8893949187893733484
+    second: FirstBlood_71
+  - first:
+      213: -1601220959187434766
+    second: FirstBlood_72
+  - first:
+      213: 1437723787782571075
+    second: FirstBlood_73
+  - first:
+      213: -1372838769333214460
+    second: FirstBlood_74
+  - first:
+      213: 6033440270586240755
+    second: FirstBlood_75
+  - first:
+      213: -6677020069517137198
+    second: FirstBlood_76
+  - first:
+      213: -5095881392275353396
+    second: FirstBlood_77
+  - first:
+      213: -3720699382678465545
+    second: FirstBlood_78
+  - first:
+      213: -8758466298324170534
+    second: FirstBlood_79
+  - first:
+      213: 2392901501340304142
+    second: FirstBlood_80
+  - first:
+      213: 2250107480139044609
+    second: FirstBlood_81
+  - first:
+      213: -5051501155214714989
+    second: FirstBlood_82
+  - first:
+      213: 3318556446821914319
+    second: FirstBlood_83
+  - first:
+      213: 536874519879102849
+    second: FirstBlood_84
+  - first:
+      213: 1347850669211436713
+    second: FirstBlood_85
+  - first:
+      213: -8556685077016983941
+    second: FirstBlood_86
+  - first:
+      213: 5843969833102558951
+    second: FirstBlood_87
+  - first:
+      213: -1732434208478020278
+    second: FirstBlood_88
+  - first:
+      213: -7791194840897989499
+    second: FirstBlood_89
+  - first:
+      213: 417141917915900010
+    second: FirstBlood_90
+  - first:
+      213: -5423369774764002736
+    second: FirstBlood_91
+  - first:
+      213: -3907014012518229277
+    second: FirstBlood_92
+  - first:
+      213: -2923093150483575998
+    second: FirstBlood_93
+  - first:
+      213: -6794803026421565760
+    second: FirstBlood_94
+  - first:
+      213: -1586264953591862511
+    second: FirstBlood_95
+  - first:
+      213: -8579686339712464265
+    second: FirstBlood_96
+  - first:
+      213: -3863339118128277877
+    second: FirstBlood_97
+  - first:
+      213: 402636768657799910
+    second: FirstBlood_98
+  - first:
+      213: -5097311203290305144
+    second: FirstBlood_99
+  - first:
+      213: -3365940449685025475
+    second: FirstBlood_100
+  - first:
+      213: 1986063399638632675
+    second: FirstBlood_101
+  - first:
+      213: 4953421973336937878
+    second: FirstBlood_102
+  - first:
+      213: -4443386436471225455
+    second: FirstBlood_103
+  - first:
+      213: 7845866460718380131
+    second: FirstBlood_104
+  - first:
+      213: 3431899705042936594
+    second: FirstBlood_105
+  - first:
+      213: -6854686037957512522
+    second: FirstBlood_106
+  - first:
+      213: 1402054283558853214
+    second: FirstBlood_107
+  - first:
+      213: -6443409286653148062
+    second: FirstBlood_108
+  - first:
+      213: 3184499158070172534
+    second: FirstBlood_109
+  - first:
+      213: 2752203240695623242
+    second: FirstBlood_110
+  - first:
+      213: -6375586373185362166
+    second: FirstBlood_111
+  - first:
+      213: -8895687714716609341
+    second: FirstBlood_112
+  - first:
+      213: 7153336953261794200
+    second: FirstBlood_113
+  - first:
+      213: 2920639814375303044
+    second: FirstBlood_114
+  - first:
+      213: -3957989051548891512
+    second: FirstBlood_115
+  - first:
+      213: -4281034913387254670
+    second: FirstBlood_116
+  - first:
+      213: -6144524038333586338
+    second: FirstBlood_117
+  - first:
+      213: 5350188957981389033
+    second: FirstBlood_118
+  - first:
+      213: -6132202587647190386
+    second: FirstBlood_119
+  - first:
+      213: 5570787845853146741
+    second: FirstBlood_120
+  - first:
+      213: -8352584818595423243
+    second: FirstBlood_121
+  - first:
+      213: -8573512748455235268
+    second: FirstBlood_122
+  - first:
+      213: -4722728655203206462
+    second: FirstBlood_123
+  - first:
+      213: -6730686569838497912
+    second: FirstBlood_124
+  - first:
+      213: -1324298173956949207
+    second: FirstBlood_125
+  - first:
+      213: -7639024215979250015
+    second: FirstBlood_126
+  - first:
+      213: 511909188114124927
+    second: FirstBlood_127
+  - first:
+      213: 2407485971172390146
+    second: FirstBlood_128
+  - first:
+      213: 9129863039900939534
+    second: FirstBlood_129
+  - first:
+      213: 6471488627376234025
+    second: FirstBlood_130
+  - first:
+      213: 4046981702099048234
+    second: FirstBlood_131
+  - first:
+      213: -7848833354248942727
+    second: FirstBlood_132
+  - first:
+      213: 1274624993720191667
+    second: FirstBlood_133
+  - first:
+      213: -2841086636746335051
+    second: FirstBlood_134
+  - first:
+      213: -7894721723352064854
+    second: FirstBlood_135
+  - first:
+      213: 4006924153912185999
+    second: FirstBlood_136
+  - first:
+      213: -7643079670599874729
+    second: FirstBlood_137
+  - first:
+      213: -3659750717884152403
+    second: FirstBlood_138
+  - first:
+      213: 2005495848019922794
+    second: FirstBlood_139
+  - first:
+      213: 5820572941407225347
+    second: FirstBlood_140
+  - first:
+      213: -9158690758281756809
+    second: FirstBlood_141
+  - first:
+      213: -4491357050886046
+    second: FirstBlood_142
+  - first:
+      213: 3553278599770145303
+    second: FirstBlood_143
+  - first:
+      213: 3060847246895873738
+    second: FirstBlood_144
+  - first:
+      213: -2988543383301449449
+    second: FirstBlood_145
+  - first:
+      213: -8009155857014975345
+    second: FirstBlood_146
+  - first:
+      213: 4001618183221070506
+    second: FirstBlood_147
+  - first:
+      213: 4399316994955062680
+    second: FirstBlood_148
+  - first:
+      213: 6457412213052520559
+    second: FirstBlood_149
+  - first:
+      213: -3710409762640894122
+    second: FirstBlood_150
+  - first:
+      213: 7251124633940775474
+    second: FirstBlood_151
+  - first:
+      213: -4851396439355313937
+    second: FirstBlood_152
+  - first:
+      213: 2896312250047233387
+    second: FirstBlood_153
+  - first:
+      213: -521463961933338900
+    second: FirstBlood_154
+  - first:
+      213: -2172983487491876453
+    second: FirstBlood_155
+  - first:
+      213: 3458835874077413059
+    second: FirstBlood_156
+  - first:
+      213: -1634049161312357233
+    second: FirstBlood_157
+  - first:
+      213: -2469408600156746076
+    second: FirstBlood_158
+  - first:
+      213: 5477375878604287485
+    second: FirstBlood_159
+  - first:
+      213: 7762873969490909203
+    second: FirstBlood_160
+  - first:
+      213: 3285664066439873852
+    second: FirstBlood_161
+  - first:
+      213: 6404732298392247660
+    second: FirstBlood_162
+  - first:
+      213: 3848942741259733653
+    second: FirstBlood_163
+  - first:
+      213: 3036747294454824657
+    second: FirstBlood_164
+  - first:
+      213: -8619221541715919727
+    second: FirstBlood_165
+  - first:
+      213: -1138798080547545429
+    second: FirstBlood_166
+  - first:
+      213: -3056954010540089169
+    second: FirstBlood_167
+  - first:
+      213: 4113270620611092101
+    second: FirstBlood_168
+  - first:
+      213: 9079614738977600535
+    second: FirstBlood_169
+  - first:
+      213: 7261738942175105784
+    second: FirstBlood_170
+  - first:
+      213: -8761722529978405036
+    second: FirstBlood_171
+  - first:
+      213: -5713109961056985041
+    second: FirstBlood_172
+  - first:
+      213: -4314715024316584518
+    second: FirstBlood_173
+  - first:
+      213: -5545708554251717229
+    second: FirstBlood_174
+  - first:
+      213: -8113677298217162392
+    second: FirstBlood_175
+  - first:
+      213: 5393233297057441931
+    second: FirstBlood_176
+  - first:
+      213: 5032617874366616451
+    second: FirstBlood_177
+  - first:
+      213: -1198310510693889239
+    second: FirstBlood_178
+  - first:
+      213: -174124877979834677
+    second: FirstBlood_179
+  - first:
+      213: -2591890211926085284
+    second: FirstBlood_180
+  - first:
+      213: 4946109815478346143
+    second: FirstBlood_181
+  - first:
+      213: 6955833639083637742
+    second: FirstBlood_182
+  - first:
+      213: 2040169123735018378
+    second: FirstBlood_183
+  - first:
+      213: 2424244388432281368
+    second: FirstBlood_184
+  - first:
+      213: 5159048637022547309
+    second: FirstBlood_185
+  - first:
+      213: -3611540296622926734
+    second: FirstBlood_186
+  - first:
+      213: 272025883370880383
+    second: FirstBlood_187
+  - first:
+      213: 5745761742958711798
+    second: FirstBlood_188
+  - first:
+      213: -1396350293272321942
+    second: FirstBlood_189
+  - first:
+      213: 9058408750045697999
+    second: FirstBlood_190
+  - first:
+      213: -443815680441252914
+    second: FirstBlood_191
+  - first:
+      213: -6397842926159936731
+    second: FirstBlood_192
+  - first:
+      213: -4336690178930179704
+    second: FirstBlood_193
+  - first:
+      213: -194366342708664163
+    second: FirstBlood_194
+  - first:
+      213: -7892608235259048090
+    second: FirstBlood_195
+  - first:
+      213: -2790846632368812655
+    second: FirstBlood_196
+  - first:
+      213: -680525855856474771
+    second: FirstBlood_197
+  - first:
+      213: -8179156579664357247
+    second: FirstBlood_198
+  - first:
+      213: 5304012898520030950
+    second: FirstBlood_199
+  - first:
+      213: -4848134387312065163
+    second: FirstBlood_200
+  - first:
+      213: -5830691436907783374
+    second: FirstBlood_201
+  - first:
+      213: 899524533638608944
+    second: FirstBlood_202
+  - first:
+      213: 1013016622515709618
+    second: FirstBlood_203
+  - first:
+      213: -7203977591358917077
+    second: FirstBlood_204
+  - first:
+      213: 6705538196313516643
+    second: FirstBlood_205
+  - first:
+      213: -1060902956472363059
+    second: FirstBlood_206
+  - first:
+      213: 3533274632537730421
+    second: FirstBlood_207
+  - first:
+      213: -8114963052870590761
+    second: FirstBlood_208
+  - first:
+      213: -5036183263446322848
+    second: FirstBlood_209
+  - first:
+      213: 8006554422871603250
+    second: FirstBlood_210
+  - first:
+      213: 1542100397001783765
+    second: FirstBlood_211
+  - first:
+      213: -2716208147441370475
+    second: FirstBlood_212
+  - first:
+      213: 745222420923724074
+    second: FirstBlood_213
+  - first:
+      213: -1196742062019251184
+    second: FirstBlood_214
+  - first:
+      213: 5387969749592751432
+    second: FirstBlood_215
+  - first:
+      213: -657078356656169952
+    second: FirstBlood_216
+  - first:
+      213: -3164859745633611905
+    second: FirstBlood_217
+  - first:
+      213: -1211182086138975307
+    second: FirstBlood_218
+  - first:
+      213: 1780902420219646488
+    second: FirstBlood_219
+  - first:
+      213: 1522460790278032462
+    second: FirstBlood_220
+  - first:
+      213: 3967132786511872980
+    second: FirstBlood_221
+  - first:
+      213: 4555663827420049052
+    second: FirstBlood_222
+  - first:
+      213: 8177219743347152606
+    second: FirstBlood_223
+  - first:
+      213: 7752872959374012686
+    second: FirstBlood_224
+  - first:
+      213: -8559849439312916553
+    second: FirstBlood_225
+  - first:
+      213: -3501902169798587765
+    second: FirstBlood_226
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FirstBlood_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e11b159a6df595f0800000000000000
+      internalID: -750415128677379607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 283
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10d7deffcf956a90800000000000000
+      internalID: -7321269903538270178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 379
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c00a214c2ea694d0800000000000000
+      internalID: -3128121386067164991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 379
+        width: 38
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd8294ee37e68ce0800000000000000
+      internalID: -1403179976570532389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 363
+        width: 162
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38218da62d5321020800000000000000
+      internalID: 2310968736646435459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 379
+        width: 130
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113447dd8ffdd08e0800000000000000
+      internalID: -1725476822252764399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 470
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03041842691a6a60800000000000000
+      internalID: 7667969225458451211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 434
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7418e0185188e90800000000000000
+      internalID: -7023339974845970495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 409
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ab844e60acb6800800000000000000
+      internalID: 606800705760049682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_9
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 376
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8fa8343172255a0800000000000000
+      internalID: -6534117145670125388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 363
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d5e7db13a5f6ea0800000000000000
+      internalID: -5877379819016135402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_11
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 376
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7002f589b3dd6f6e0800000000000000
+      internalID: -1804011352686125049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 257
+        width: 50
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bee912578e45370800000000000000
+      internalID: 8310522802178288536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 267
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1aa1f1cb3ebe720800000000000000
+      internalID: 2876643184121389472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 182
+        width: 114
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6364a13e0fb1a360800000000000000
+      internalID: 7179229348688585580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_15
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 347
+        width: 186
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4e3ba21e1fbe2a0800000000000000
+      internalID: -6707001270651853607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_16
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 317
+        width: 82
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0007a2b94b5aa610800000000000000
+      internalID: 1633218186963255308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 324
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9443c915fc5bf30800000000000000
+      internalID: 4590803344594061813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_18
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 324
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b270442a3fac0da20800000000000000
+      internalID: 3085188892497020715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_19
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 346
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae4233c9079359a0800000000000000
+      internalID: -6245482190047392093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_20
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 266
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1664a208135736230800000000000000
+      internalID: 3630874580054853217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_21
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 266
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc21fc0d82361930800000000000000
+      internalID: 4113530891038436570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 295
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415625ecaf77f7180800000000000000
+      internalID: -9115435201687558892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_23
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 273
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96160cb0258fd4f40800000000000000
+      internalID: 5714496533471191401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_24
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 296
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c622a4c606dccf890800000000000000
+      internalID: -7422832271796067732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_25
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 274
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bbc1167069ffe40800000000000000
+      internalID: 5692433412457806595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fe602242cf73630800000000000000
+      internalID: 3906868433887096614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 243
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e541430877ac815c0800000000000000
+      internalID: -4244420034195876770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 253
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83bafb0b32dfa0c0800000000000000
+      internalID: -4562196746457140340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 253
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294def6b0c9eb6500800000000000000
+      internalID: 390662806610826386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 220
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3142b152ae37808d0800000000000000
+      internalID: -2879924512221354989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_31
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 242
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b2603426da49650800000000000000
+      internalID: 6238802021357857647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_32
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 244
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad4bdeaa0674f040800000000000000
+      internalID: 4680495701000146337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 244
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed9b4365413832d0800000000000000
+      internalID: -3298832552960483871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_34
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 244
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c747425ceb3f27400800000000000000
+      internalID: 320586524173563004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_35
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 253
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508c3b5097b5279e0800000000000000
+      internalID: -1625135940182489083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 239
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91ea9085479cc780800000000000000
+      internalID: -8661381658574134883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 236
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56e3713618758fa0800000000000000
+      internalID: -5799096908455352739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 221
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff6392a52fd0ff30800000000000000
+      internalID: 4607427771534372854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 235
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba62cdbbd0ae3e10800000000000000
+      internalID: 2179356135335815859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 235
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e293842a127362cb0800000000000000
+      internalID: -4889159727868004050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_41
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 221
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe531b300744eb20800000000000000
+      internalID: 3162730904637628144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_42
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 236
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad0dbb7860c77da0800000000000000
+      internalID: -5947073227934331476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_43
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 243
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808eba466d63e5cc0800000000000000
+      internalID: -3720475947721562104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 239
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170ea1f13d6ce7db0800000000000000
+      internalID: -4792174343413374863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_45
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 236
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f45de862f7b56f0800000000000000
+      internalID: -694821913916780665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_46
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 222
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066fe1bc6f6ade2a0800000000000000
+      internalID: -6706520691184830880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 222
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2fde193fb798bc0800000000000000
+      internalID: -3780354126145260887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_48
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 223
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ff9a1fcb6dd2410800000000000000
+      internalID: 1454054361707183959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_49
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 223
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3df1afb6c1d33950800000000000000
+      internalID: 6427711744736623933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 236
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df6aa7bc646b7200800000000000000
+      internalID: 178847028311912400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 211
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f386b0acf24b100800000000000000
+      internalID: 122775634667126670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_52
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 221
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fecc61d9ab366950800000000000000
+      internalID: 6441901917549154033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_53
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 228
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0a0f553d2e24780800000000000000
+      internalID: -8700142132818566984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_54
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 222
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9fb06ddbf79f0f0800000000000000
+      internalID: -1082693782089238047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_55
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 221
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5861ed6d2fc65f10800000000000000
+      internalID: 2258220057196849245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 221
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8396e4d99794fd700800000000000000
+      internalID: 567252864751003960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_57
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 221
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733602b7758a0c4b0800000000000000
+      internalID: -5422148857672735945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_58
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 228
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e9d7aa4ce084220800000000000000
+      internalID: 2470240633449455115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_59
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 221
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e8ba87bfa113740800000000000000
+      internalID: 5129911117915328018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c90ce5517ef3b10800000000000000
+      internalID: 1963542041526836287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 207
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db22fc32a3675040800000000000000
+      internalID: 4636283889859570643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_62
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 205
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96838beb46e3fe3b0800000000000000
+      internalID: -5481093619069208471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 205
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae1c540787832810800000000000000
+      internalID: 1739382895058624167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_64
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 207
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbd94834ba9f8370800000000000000
+      internalID: 8327044334860491705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_65
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 204
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30384a2c6e3c64350800000000000000
+      internalID: 6000698949393220355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_66
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 203
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed07e7855fde18ff0800000000000000
+      internalID: -35485684034801442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 207
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48fb513b7c642cf0800000000000000
+      internalID: -277978000625239990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 203
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a3852c4ef97f540800000000000000
+      internalID: 5041674112726481449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_69
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 204
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec16b2ac7c200020800000000000000
+      internalID: 2305891923031104748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_70
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 205
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6caa3a33692ff1730800000000000000
+      internalID: 3972160123289447110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_71
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 205
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68a7ca0aa7ad6b70800000000000000
+      internalID: 8893949187893733484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_72
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 207
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f209b0750257c9e0800000000000000
+      internalID: -1601220959187434766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_73
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 204
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344c8e7ea22d3f310800000000000000
+      internalID: 1437723787782571075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_74
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 197
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4036204b962b2fce0800000000000000
+      internalID: -1372838769333214460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_75
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 199
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe54d5a5f51bb350800000000000000
+      internalID: 6033440270586240755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_76
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 192
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dae6468f957653a0800000000000000
+      internalID: -6677020069517137198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_77
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 152
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc097e37fdac749b0800000000000000
+      internalID: -5095881392275353396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_78
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 204
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f35f63ef9b6d5cc0800000000000000
+      internalID: -3720699382678465545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad848275e4da37680800000000000000
+      internalID: -8758466298324170534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_80
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0343e1cc3b453120800000000000000
+      internalID: 2392901501340304142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_81
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 188
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1071324e4dcf93f10800000000000000
+      internalID: 2250107480139044609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 172
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39793fc967675e9b0800000000000000
+      internalID: -5051501155214714989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_83
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 193
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc617e38181ed0e20800000000000000
+      internalID: 3318556446821914319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_84
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 196
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1813a56088c537700800000000000000
+      internalID: 536874519879102849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 196
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6ce9cda0784b210800000000000000
+      internalID: 1347850669211436713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_86
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 193
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b764489f14c804980800000000000000
+      internalID: -8556685077016983941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_87
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 172
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e64d2cb993f91150800000000000000
+      internalID: 5843969833102558951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_88
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 188
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dbee6244825f7e0800000000000000
+      internalID: -1732434208478020278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_89
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5845b6c529d10e390800000000000000
+      internalID: -7791194840897989499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_90
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 172
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a686d4e3d5cf9c500800000000000000
+      internalID: 417141917915900010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 180
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052f9919ce15cb4b0800000000000000
+      internalID: -5423369774764002736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_92
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 174
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea9063b47f77c9c0800000000000000
+      internalID: -3907014012518229277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_93
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 174
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b8c0054461f67d0800000000000000
+      internalID: -2923093150483575998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_94
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 188
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6b46bd5a204b1a0800000000000000
+      internalID: -6794803026421565760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 188
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b6189dd647cf9e0800000000000000
+      internalID: -1586264953591862511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_96
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 182
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77aca2d2bb4dee880800000000000000
+      internalID: -8579686339712464265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_97
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 175
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86d7197a89a26ac0800000000000000
+      internalID: -3863339118128277877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_98
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 172
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eafb510204769500800000000000000
+      internalID: 402636768657799910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d2342a776b249b0800000000000000
+      internalID: -5097311203290305144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_100
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 172
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dc7699ef6c941d0800000000000000
+      internalID: -3365940449685025475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_101
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 172
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e88ddca32aef8b10800000000000000
+      internalID: 1986063399638632675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_102
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695dc575a071eb440800000000000000
+      internalID: 4953421973336937878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_103
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 172
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193085ef39be552c0800000000000000
+      internalID: -4443386436471225455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_104
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 175
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36435421afd12ec60800000000000000
+      internalID: 7845866460718380131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 139
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2132ad7499e80af20800000000000000
+      internalID: 3431899705042936594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_106
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 180
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b276bcbd534fd0a0800000000000000
+      internalID: -6854686037957512522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_107
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 139
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a175741f8157310800000000000000
+      internalID: 1402054283558853214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_108
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 180
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264069674696496a0800000000000000
+      internalID: -6443409286653148062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 181
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b9d40bc1d913c20800000000000000
+      internalID: 3184499158070172534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e675ff34ac13620800000000000000
+      internalID: 2752203240695623242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_111
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 157
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07277f09fd5587a0800000000000000
+      internalID: -6375586373185362166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_112
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 164
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c49283a72b2c8480800000000000000
+      internalID: -8895687714716609341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_113
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 163
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89328d91f02c54360800000000000000
+      internalID: 7153336953261794200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 157
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487e3bcdf62388820800000000000000
+      internalID: 2920639814375303044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_115
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 156
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8860b8d8de56219c0800000000000000
+      internalID: -3957989051548891512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_116
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 155
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ce18c9d65b694c0800000000000000
+      internalID: -4281034913387254670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_117
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 155
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54274531f34abaa0800000000000000
+      internalID: -6144524038333586338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_118
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 156
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0b2b1c280bf3a40800000000000000
+      internalID: 5350188957981389033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_119
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 163
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ade808c3a06eaa0800000000000000
+      internalID: -6132202587647190386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_120
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 157
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ee32fc70a6f4d40800000000000000
+      internalID: 5570787845853146741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 157
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb9c438c58a51c80800000000000000
+      internalID: -8352584818595423243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_122
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 75
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31fa076493c40980800000000000000
+      internalID: -8573512748455235268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_123
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 164
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cafd086f4f757eb0800000000000000
+      internalID: -4722728655203206462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_124
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 151
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fa846b93cc792a0800000000000000
+      internalID: -6730686569838497912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_125
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 159
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bf894c3d52f9de0800000000000000
+      internalID: -1324298173956949207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_126
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 141
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae23f7e2fbbcf590800000000000000
+      internalID: -7639024215979250015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_127
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 154
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f701dc2c1baaa1700800000000000000
+      internalID: 511909188114124927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_128
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 148
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20577714cbb196120800000000000000
+      internalID: 2407485971172390146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_129
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 148
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05734d001ac3be70800000000000000
+      internalID: 9129863039900939534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_130
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 150
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e9db28e985fc950800000000000000
+      internalID: 6471488627376234025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_131
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a279e1e8a64c92830800000000000000
+      internalID: 4046981702099048234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_132
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 158
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b01c236a7531390800000000000000
+      internalID: -7848833354248942727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_133
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 124
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bac684bda060b110800000000000000
+      internalID: 1274624993720191667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_134
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 128
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc10a0b1ce6298d0800000000000000
+      internalID: -2841086636746335051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_135
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 140
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac5a0fab60507290800000000000000
+      internalID: -7894721723352064854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_136
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 140
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f845ed3d9447b9730800000000000000
+      internalID: 4006924153912185999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_137
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 128
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75782ebc8835ee590800000000000000
+      internalID: -7643079670599874729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_138
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 124
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5c80ebc14f53dc0800000000000000
+      internalID: -3659750717884152403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_139
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 123
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f8fb329d3f4db10800000000000000
+      internalID: 2005495848019922794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_140
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30604d16044d6c050800000000000000
+      internalID: 5820572941407225347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_141
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 121
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f76f8b74bc5e080800000000000000
+      internalID: -9158690758281756809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_142
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2682c62722b00fff0800000000000000
+      internalID: -4491357050886046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_143
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 129
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7120c477f08cf4130800000000000000
+      internalID: 3553278599770145303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_144
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 115
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acef5fe9a505a7a20800000000000000
+      internalID: 3060847246895873738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_145
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719197a70af8686d0800000000000000
+      internalID: -2988543383301449449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_146
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 124
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8412efae23c9d090800000000000000
+      internalID: -8009155857014975345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_147
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 126
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaac2a1498a988730800000000000000
+      internalID: 4001618183221070506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_148
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 124
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89da2a29f738d0d30800000000000000
+      internalID: 4399316994955062680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_149
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68b347e1365d9950800000000000000
+      internalID: 6457412213052520559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_150
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 117
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657e5aebaf9f18cc0800000000000000
+      internalID: -3710409762640894122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_151
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 103
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232df1cbf6b21a460800000000000000
+      internalID: 7251124633940775474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_152
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 93
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0b1a764a06cacb0800000000000000
+      internalID: -4851396439355313937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_153
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 108
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d7da665a4c13820800000000000000
+      internalID: 2896312250047233387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_154
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 91
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6abc91a4363c8f0800000000000000
+      internalID: -521463961933338900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_155
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99d145f70308d1e0800000000000000
+      internalID: -2172983487491876453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_156
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce03cad6e0400030800000000000000
+      internalID: 3458835874077413059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_157
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84b37202f0b259e0800000000000000
+      internalID: -1634049161312357233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 108
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aecc5e26f5eabdd0800000000000000
+      internalID: -2469408600156746076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_159
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 91
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd6089575c830c40800000000000000
+      internalID: 5477375878604287485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_160
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 93
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318d1abeeb44bbb60800000000000000
+      internalID: 7762873969490909203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_161
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 103
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c350a6b6f06099d20800000000000000
+      internalID: 3285664066439873852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_162
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 92
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d1427771e22e850800000000000000
+      internalID: 6404732298392247660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 56
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aca95d7013a6530800000000000000
+      internalID: 3848942741259733653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_164
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 88
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1debb9e2391b42a20800000000000000
+      internalID: 3036747294454824657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_165
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 88
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cb0a5acaf526880800000000000000
+      internalID: -8619221541715919727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_166
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 83
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae111aed2d2230f0800000000000000
+      internalID: -1138798080547545429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_167
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 104
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa06d0b16848395d0800000000000000
+      internalID: -3056954010540089169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_168
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 82
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e139e16d5451930800000000000000
+      internalID: 4113270620611092101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_169
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 97
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714392ecf75410e70800000000000000
+      internalID: 9079614738977600535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 93
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2d7f3f711e6c460800000000000000
+      internalID: 7261738942175105784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_171
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 97
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fa914d7cb186680800000000000000
+      internalID: -8761722529978405036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_172
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20e37082c4f6b0b0800000000000000
+      internalID: -5713109961056985041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_173
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abda194bb8d0f14c0800000000000000
+      internalID: -4314715024316584518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_174
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 74
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3953bfbc37fa903b0800000000000000
+      internalID: -5545708554251717229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_175
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8696d914c7d666f80800000000000000
+      internalID: -8113677298217162392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_176
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 74
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88eaedeb1d98da40800000000000000
+      internalID: 5393233297057441931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_177
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38357e3fa4377d540800000000000000
+      internalID: 5032617874366616451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_178
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b497f70febe5fe0800000000000000
+      internalID: -1198310510693889239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_179
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc624759852659df0800000000000000
+      internalID: -174124877979834677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_180
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 58
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51755da591c70cd0800000000000000
+      internalID: -2591890211926085284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_181
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 49
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91e8abebac14a440800000000000000
+      internalID: 4946109815478346143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_182
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 61
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebfa4657d5188060800000000000000
+      internalID: 6955833639083637742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_183
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 79
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b12fd3203205c10800000000000000
+      internalID: 2040169123735018378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_184
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f7d355d65a4a120800000000000000
+      internalID: 2424244388432281368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_185
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d21bcc66f989740800000000000000
+      internalID: 5159048637022547309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_186
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 58
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27418c72c3b31edc0800000000000000
+      internalID: -3611540296622926734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_187
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 63
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d7804891e66c300800000000000000
+      internalID: 272025883370880383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_188
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 63
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f35515ecdb0dbf40800000000000000
+      internalID: 5745761742958711798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_189
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 58
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60ad737eca2f9ce0800000000000000
+      internalID: -1396350293272321942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_190
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc793c0c3cee5bd70800000000000000
+      internalID: 9058408750045697999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_191
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec30d857dff37d9f0800000000000000
+      internalID: -443815680441252914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_192
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 50
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523cd7181cb4637a0800000000000000
+      internalID: -6397842926159936731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_193
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 50
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88101ff424bf0d3c0800000000000000
+      internalID: -4336690178930179704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_194
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 49
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98ee8257d87d4df0800000000000000
+      internalID: -194366342708664163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_195
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 48
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fcf0a70a2d77290800000000000000
+      internalID: -7892608235259048090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_196
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dcf0f36cbe449d0800000000000000
+      internalID: -2790846632368812655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_197
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 45
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65c435f6594e86f0800000000000000
+      internalID: -680525855856474771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_198
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 45
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1889ec20d6ccd7e80800000000000000
+      internalID: -8179156579664357247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_199
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee506c11a3ab9940800000000000000
+      internalID: 5304012898520030950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_200
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57588e41677f7bcb0800000000000000
+      internalID: -4848134387312065163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_201
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 45
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b133cc709351fa0800000000000000
+      internalID: -5830691436907783374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_202
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 45
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03837462cc0cb7c00800000000000000
+      internalID: 899524533638608944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_203
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b66d904045fe0e00800000000000000
+      internalID: 1013016622515709618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_204
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b267d298c84560c90800000000000000
+      internalID: -7203977591358917077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_205
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 17
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36aa41b467bde0d50800000000000000
+      internalID: 6705538196313516643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_206
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 35
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc79d4ac16ae641f0800000000000000
+      internalID: -1060902956472363059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_207
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 4
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d6f46ee86b80130800000000000000
+      internalID: 3533274632537730421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_208
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 17
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de9a3c291cd16f80800000000000000
+      internalID: -8114963052870590761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_209
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 23
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061b3863102eb1ab0800000000000000
+      internalID: -5036183263446322848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_210
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 15
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238381ab3defc1f60800000000000000
+      internalID: 8006554422871603250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_211
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 188
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9b7430424a66510800000000000000
+      internalID: 1542100397001783765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_212
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 23
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a3cbbb4171e4ad0800000000000000
+      internalID: -2716208147441370475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_213
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 13
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21b0dde7df875a00800000000000000
+      internalID: 745222420923724074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_214
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014f2996f61546fe0800000000000000
+      internalID: -1196742062019251184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_215
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 97
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84db609c0f9e5ca40800000000000000
+      internalID: 5387969749592751432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_216
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c59e947b691e6f0800000000000000
+      internalID: -657078356656169952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_217
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f439954d82414d0800000000000000
+      internalID: -3164859745633611905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_218
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbae5d4f44013fe0800000000000000
+      internalID: -1211182086138975307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_219
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 6
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81253d8c05907b810800000000000000
+      internalID: 1780902420219646488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_220
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 6
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c8bfcb50ed02510800000000000000
+      internalID: 1522460790278032462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_221
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d388d420461e0730800000000000000
+      internalID: 3967132786511872980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_222
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ee7753d18f83f30800000000000000
+      internalID: 4555663827420049052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_223
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6948428025b7170800000000000000
+      internalID: 8177219743347152606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_224
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01383c41ecb79b60800000000000000
+      internalID: 7752872959374012686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_225
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf4de6794e453980800000000000000
+      internalID: -8559849439312916553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstBlood_226
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a4cfac78eb66fc0800000000000000
+      internalID: -3501902169798587765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

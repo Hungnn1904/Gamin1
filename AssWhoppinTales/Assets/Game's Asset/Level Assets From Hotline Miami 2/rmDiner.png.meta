@@ -1,0 +1,3130 @@
+fileFormatVersion: 2
+guid: d1de8733b4c6e2b40a351f9aaa99f5f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -310915172468273191
+    second: rmDiner_0
+  - first:
+      213: -5049392443924294861
+    second: rmDiner_1
+  - first:
+      213: -1044508858373112829
+    second: rmDiner_2
+  - first:
+      213: 7925874008171135911
+    second: rmDiner_3
+  - first:
+      213: 3643132179192545059
+    second: rmDiner_4
+  - first:
+      213: -6455524054608143685
+    second: rmDiner_5
+  - first:
+      213: -8582755184003309683
+    second: rmDiner_6
+  - first:
+      213: -7051628500084241146
+    second: rmDiner_7
+  - first:
+      213: -2086988017388082976
+    second: rmDiner_8
+  - first:
+      213: 182717335782003758
+    second: rmDiner_9
+  - first:
+      213: 1806550586455471484
+    second: rmDiner_10
+  - first:
+      213: 7649521330491979887
+    second: rmDiner_11
+  - first:
+      213: -2699927251430369578
+    second: rmDiner_12
+  - first:
+      213: 6399450691188121800
+    second: rmDiner_13
+  - first:
+      213: -8495344794867151234
+    second: rmDiner_14
+  - first:
+      213: -7388453186400733288
+    second: rmDiner_15
+  - first:
+      213: -7156286500470065912
+    second: rmDiner_16
+  - first:
+      213: 1792430183055193215
+    second: rmDiner_17
+  - first:
+      213: 8453817167625910095
+    second: rmDiner_18
+  - first:
+      213: 7766806437833689897
+    second: rmDiner_19
+  - first:
+      213: -6202679163410076569
+    second: rmDiner_20
+  - first:
+      213: 1401396746520693972
+    second: rmDiner_21
+  - first:
+      213: 673246412407219031
+    second: rmDiner_22
+  - first:
+      213: -3758499820034238562
+    second: rmDiner_23
+  - first:
+      213: 8557671929895886991
+    second: rmDiner_24
+  - first:
+      213: -4366272930552927278
+    second: rmDiner_25
+  - first:
+      213: 7231422532538038865
+    second: rmDiner_26
+  - first:
+      213: -7497235244184601425
+    second: rmDiner_27
+  - first:
+      213: 8939258289034142723
+    second: rmDiner_28
+  - first:
+      213: -8889733890272380094
+    second: rmDiner_29
+  - first:
+      213: 1908561972019235162
+    second: rmDiner_30
+  - first:
+      213: -537150091056992427
+    second: rmDiner_31
+  - first:
+      213: 7404600108554473915
+    second: rmDiner_32
+  - first:
+      213: -6813868047713855131
+    second: rmDiner_33
+  - first:
+      213: 29894908825278995
+    second: rmDiner_34
+  - first:
+      213: 1252036164193549509
+    second: rmDiner_35
+  - first:
+      213: 953575686435262290
+    second: rmDiner_36
+  - first:
+      213: 7615697352585297783
+    second: rmDiner_37
+  - first:
+      213: -7778625797088629786
+    second: rmDiner_38
+  - first:
+      213: -1497913551946511395
+    second: rmDiner_39
+  - first:
+      213: 4304566238934996624
+    second: rmDiner_40
+  - first:
+      213: -6918343467835358308
+    second: rmDiner_41
+  - first:
+      213: -5726400820128441313
+    second: rmDiner_42
+  - first:
+      213: -2451023034985141244
+    second: rmDiner_43
+  - first:
+      213: -4866626733790884937
+    second: rmDiner_44
+  - first:
+      213: 9139893911565154536
+    second: rmDiner_45
+  - first:
+      213: 7265807332191249129
+    second: rmDiner_46
+  - first:
+      213: 7413296914163707607
+    second: rmDiner_47
+  - first:
+      213: -2790302676183952087
+    second: rmDiner_48
+  - first:
+      213: -3188732576586051861
+    second: rmDiner_49
+  - first:
+      213: 365254082719325665
+    second: rmDiner_50
+  - first:
+      213: 2365817671761742980
+    second: rmDiner_51
+  - first:
+      213: -557913119412863583
+    second: rmDiner_52
+  - first:
+      213: 1940059916270651028
+    second: rmDiner_53
+  - first:
+      213: 7019333312329547047
+    second: rmDiner_54
+  - first:
+      213: -4597357192873555024
+    second: rmDiner_55
+  - first:
+      213: 4628894125337944992
+    second: rmDiner_56
+  - first:
+      213: -4773070506306923608
+    second: rmDiner_57
+  - first:
+      213: 6975972860992149367
+    second: rmDiner_58
+  - first:
+      213: 8384283933461853425
+    second: rmDiner_59
+  - first:
+      213: -4246599410825117158
+    second: rmDiner_60
+  - first:
+      213: -2312953404139112417
+    second: rmDiner_61
+  - first:
+      213: -5568809311123112238
+    second: rmDiner_62
+  - first:
+      213: -5951007658890567615
+    second: rmDiner_63
+  - first:
+      213: -1653835801542172883
+    second: rmDiner_64
+  - first:
+      213: -5944011328350343792
+    second: rmDiner_65
+  - first:
+      213: 8886616536200017319
+    second: rmDiner_66
+  - first:
+      213: 1029189611773530018
+    second: rmDiner_67
+  - first:
+      213: 467935737727655540
+    second: rmDiner_68
+  - first:
+      213: 2523901666945476204
+    second: rmDiner_69
+  - first:
+      213: -7818005629927178889
+    second: rmDiner_70
+  - first:
+      213: 4844553780984425760
+    second: rmDiner_71
+  - first:
+      213: 7030333524795762730
+    second: rmDiner_72
+  - first:
+      213: 8994820239621279170
+    second: rmDiner_73
+  - first:
+      213: -4822441422012492900
+    second: rmDiner_74
+  - first:
+      213: 2495783852186981114
+    second: rmDiner_75
+  - first:
+      213: 7863486059989262057
+    second: rmDiner_76
+  - first:
+      213: 1162398508327282572
+    second: rmDiner_77
+  - first:
+      213: 2830675870021627092
+    second: rmDiner_78
+  - first:
+      213: -1453749398125453567
+    second: rmDiner_79
+  - first:
+      213: -362486829611716663
+    second: rmDiner_80
+  - first:
+      213: 6636628477791547637
+    second: rmDiner_81
+  - first:
+      213: 6699223210175749920
+    second: rmDiner_82
+  - first:
+      213: 525504612258943748
+    second: rmDiner_83
+  - first:
+      213: -2183678209683042844
+    second: rmDiner_84
+  - first:
+      213: -3724742528263547458
+    second: rmDiner_85
+  - first:
+      213: -6661245664253269157
+    second: rmDiner_86
+  - first:
+      213: 1037238719301616120
+    second: rmDiner_87
+  - first:
+      213: 5640277472541414708
+    second: rmDiner_88
+  - first:
+      213: 2926731501062059491
+    second: rmDiner_89
+  - first:
+      213: 8900464998538858924
+    second: rmDiner_90
+  - first:
+      213: 79177955693047226
+    second: rmDiner_91
+  - first:
+      213: 1092976675427683984
+    second: rmDiner_92
+  - first:
+      213: -8984942407433077641
+    second: rmDiner_93
+  - first:
+      213: -5256432551617778678
+    second: rmDiner_94
+  - first:
+      213: -1781953108051887428
+    second: rmDiner_95
+  - first:
+      213: -8996627608097545938
+    second: rmDiner_96
+  - first:
+      213: -6304101220051074582
+    second: rmDiner_97
+  - first:
+      213: 3094176985625233209
+    second: rmDiner_98
+  - first:
+      213: 3507413334880421965
+    second: rmDiner_99
+  - first:
+      213: 2589126453412368718
+    second: rmDiner_100
+  - first:
+      213: -2482235251623194926
+    second: rmDiner_101
+  - first:
+      213: 8453948287135088799
+    second: rmDiner_102
+  - first:
+      213: -3144825960122719961
+    second: rmDiner_103
+  - first:
+      213: 7500068066818508653
+    second: rmDiner_104
+  - first:
+      213: 5786756343117513584
+    second: rmDiner_105
+  - first:
+      213: 8388671553285920153
+    second: rmDiner_106
+  - first:
+      213: -2657537048733453583
+    second: rmDiner_107
+  - first:
+      213: 6196363665122903486
+    second: rmDiner_108
+  - first:
+      213: 6292453704135501135
+    second: rmDiner_109
+  - first:
+      213: 2610658001591844099
+    second: rmDiner_110
+  - first:
+      213: 1059850239916338955
+    second: rmDiner_111
+  - first:
+      213: -1798178651658887557
+    second: rmDiner_112
+  - first:
+      213: -942141684893387821
+    second: rmDiner_113
+  - first:
+      213: -1121019154823448363
+    second: rmDiner_114
+  - first:
+      213: -8655265295593217014
+    second: rmDiner_115
+  - first:
+      213: 8786170733577537601
+    second: rmDiner_116
+  - first:
+      213: -1430829761387702717
+    second: rmDiner_117
+  - first:
+      213: 1245536844920362174
+    second: rmDiner_118
+  - first:
+      213: -5351957318086408007
+    second: rmDiner_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmDiner_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 189
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfcfb54c486fabf0800000000000000
+      internalID: -310915172468273191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 377
+        width: 6
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333d9583354fce9b0800000000000000
+      internalID: -5049392443924294861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 377
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cfbe33ab82181f0800000000000000
+      internalID: -1044508858373112829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 473
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3ca87da6c5efd60800000000000000
+      internalID: 7925874008171135911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 473
+        width: 38
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ff0923a610f8230800000000000000
+      internalID: 3643132179192545059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_5
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 409
+        width: 114
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba971e331f5966a0800000000000000
+      internalID: -6455524054608143685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 490
+        width: 23
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f175f22ade3e880800000000000000
+      internalID: -8582755184003309683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_7
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 425
+        width: 17
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d45748d35932e90800000000000000
+      internalID: -7051628500084241146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_8
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 457
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8261d94778903e0800000000000000
+      internalID: -2086988017388082976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 361
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e249795e274298200800000000000000
+      internalID: 182717335782003758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 361
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75b376df28221910800000000000000
+      internalID: 1806550586455471484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 362
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f687fb50f1f882a60800000000000000
+      internalID: 7649521330491979887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_12
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 410
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6981b387ee78ad0800000000000000
+      internalID: -2699927251430369578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_13
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 395
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c065e57f7a6fc850800000000000000
+      internalID: 6399450691188121800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_14
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 369
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7eca795be87a1a80800000000000000
+      internalID: -8495344794867151234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 341
+        width: 98
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8973bf009f0f67990800000000000000
+      internalID: -7388453186400733288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_16
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 332
+        width: 82
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805fe8ce753cfac90800000000000000
+      internalID: -7156286500470065912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 346
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7471b931cdffd810800000000000000
+      internalID: 1792430183055193215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_18
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 349
+        width: 98
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47f0787cedf15570800000000000000
+      internalID: 8453817167625910095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_19
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 337
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b4b4e0e4d39cb60800000000000000
+      internalID: 7766806437833689897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 344
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ca9310a28abe9a0800000000000000
+      internalID: -6202679163410076569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 335
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc01c18ae2c27310800000000000000
+      internalID: 1401396746520693972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_22
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 337
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753a6d98b0ad75900800000000000000
+      internalID: 673246412407219031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_23
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 332
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e975d7ab35027dbc0800000000000000
+      internalID: -3758499820034238562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 332
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80a6cd9745f2c670800000000000000
+      internalID: 8557671929895886991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_25
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 336
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db2df537e1e763c0800000000000000
+      internalID: -4366272930552927278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_26
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 338
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a7fa8ca7c2b5460800000000000000
+      internalID: 7231422532538038865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 161
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac76d8744874f790800000000000000
+      internalID: -7497235244184601425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 286
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304a8593d00ae0c70800000000000000
+      internalID: 8939258289034142723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_29
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 286
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b309a602251a480800000000000000
+      internalID: -8889733890272380094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 286
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59860660039c7a10800000000000000
+      internalID: 1908561972019235162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_31
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 292
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55faa7f86d8ab88f0800000000000000
+      internalID: -537150091056992427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_32
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 298
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb15536419c62c660800000000000000
+      internalID: 7404600108554473915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 239
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56991adac174071a0800000000000000
+      internalID: -6813868047713855131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 233
+        width: 109
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a9f1dd2453a6000800000000000000
+      internalID: 29894908825278995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_35
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 265
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccf2bcf140206110800000000000000
+      internalID: 1252036164193549509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_36
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 262
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f4c68d808cb3d00800000000000000
+      internalID: 953575686435262290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_37
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 267
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fbab9746460b960800000000000000
+      internalID: 7615697352585297783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_38
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 243
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eba7dbec05cc0490800000000000000
+      internalID: -7778625797088629786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_39
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 240
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb0cff8f87563be0800000000000000
+      internalID: -1497913551946511395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_40
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 245
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0961cdf0034ecbb30800000000000000
+      internalID: 4304566238934996624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 190
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93878d554b1dff90800000000000000
+      internalID: -6918343467835358308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_42
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 190
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c1dba3bccb780b0800000000000000
+      internalID: -5726400820128441313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_43
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 231
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c296729873cfdd0800000000000000
+      internalID: -2451023034985141244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_44
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 232
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb89f525c4467cb0800000000000000
+      internalID: -4866626733790884937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_45
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 225
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8b89b561d67de70800000000000000
+      internalID: 9139893911565154536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_46
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 178
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e220b1d54555d460800000000000000
+      internalID: 7265807332191249129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_47
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 178
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de2a3f144251e660800000000000000
+      internalID: 7413296914163707607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_48
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 178
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925db3aef7ad649d0800000000000000
+      internalID: -2790302676183952087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_49
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 215
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee4fd0cd985fb3d0800000000000000
+      internalID: -3188732576586051861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_50
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 210
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed1f3d27a4a11500800000000000000
+      internalID: 365254082719325665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_51
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 205
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c43b843a215d020800000000000000
+      internalID: 2365817671761742980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 193
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adbddd49f4e148f0800000000000000
+      internalID: -557913119412863583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_53
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 190
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4964948073a7cea10800000000000000
+      internalID: 1940059916270651028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_54
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 173
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72df771257ea96160800000000000000
+      internalID: 7019333312329547047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 143
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb4f2dadf7e230c0800000000000000
+      internalID: -4597357192873555024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 172
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a329ab9ea22d3040800000000000000
+      internalID: 4628894125337944992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_57
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 189
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a39eafc9a5a2cdb0800000000000000
+      internalID: -4773070506306923608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_58
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 176
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777d3365b52afc060800000000000000
+      internalID: 6975972860992149367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_59
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 176
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4320ec0d5fa5470800000000000000
+      internalID: 8384283933461853425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_60
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 144
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12c266d55c0115c0800000000000000
+      internalID: -4246599410825117158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 110
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18f14c222db6efd0800000000000000
+      internalID: -2312953404139112417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_62
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 75
+        width: 12
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de7e94bf6d97b2b0800000000000000
+      internalID: -5568809311123112238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_63
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 150
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140e2346016c96da0800000000000000
+      internalID: -5951007658890567615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 145
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f5144d9156c09e0800000000000000
+      internalID: -1653835801542172883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_65
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 152
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09da7c88031a28da0800000000000000
+      internalID: -5944011328350343792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_66
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 152
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5705708aa935b70800000000000000
+      internalID: 8886616536200017319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_67
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 152
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af8840cf7a684e00800000000000000
+      internalID: 1029189611773530018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_68
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 152
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e97f003117e7600800000000000000
+      internalID: 467935737727655540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_69
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 152
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c662d42a133b60320800000000000000
+      internalID: 2523901666945476204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_70
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 129
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dbf281d4dd08390800000000000000
+      internalID: -7818005629927178889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d2ada0fff4b3340800000000000000
+      internalID: 4844553780984425760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_72
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 128
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28a8fda713c09160800000000000000
+      internalID: 7030333524795762730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_73
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 105
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdce11f95504dc70800000000000000
+      internalID: 8994820239621279170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_74
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 105
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93d0dab31f331db0800000000000000
+      internalID: -4822441422012492900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_75
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 105
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2d2c9b03ec2a220800000000000000
+      internalID: 2495783852186981114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_76
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 105
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee55e5b8e6b02d60800000000000000
+      internalID: 7863486059989262057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_77
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 105
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87aa40e84ba12010800000000000000
+      internalID: 1162398508327282572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_78
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 105
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dca8eac4b4984720800000000000000
+      internalID: 2830675870021627092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_79
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 130
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f5b4cef9e33dbe0800000000000000
+      internalID: -1453749398125453567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_80
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 132
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf6c35262038faf0800000000000000
+      internalID: -362486829611716663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_81
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 106
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0b10d207a0a1c50800000000000000
+      internalID: 6636628477791547637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_82
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 104
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fd391040c68fc50800000000000000
+      internalID: 6699223210175749920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_83
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403168d19a7fa4700800000000000000
+      internalID: 525504612258943748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edc418ec3402b1e0800000000000000
+      internalID: -2183678209683042844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_85
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb59f03b76e0f4cc0800000000000000
+      internalID: -3724742528263547458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 49
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ba2947c508e83a0800000000000000
+      internalID: -6661245664253269157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_87
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 84
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f10143ae13056e00800000000000000
+      internalID: 1037238719301616120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_88
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 65
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43518715a7a464e40800000000000000
+      internalID: 5640277472541414708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_89
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 65
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5ffb13bc6dd9820800000000000000
+      internalID: 2926731501062059491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_90
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 65
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1d4bd62cdc48b70800000000000000
+      internalID: 8900464998538858924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_91
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 90
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd20236eeb491100800000000000000
+      internalID: 79177955693047226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_92
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 90
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e87a6de780b2f00800000000000000
+      internalID: 1092976675427683984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_93
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 84
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cbb951c721f4380800000000000000
+      internalID: -8984942407433077641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_94
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 84
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ca50fa1766d07b0800000000000000
+      internalID: -5256432551617778678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_95
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 54
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaf924e61b3547e0800000000000000
+      internalID: -1781953108051887428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_96
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 64
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21afda4bde852380800000000000000
+      internalID: -8996627608097545938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_97
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 64
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1cfb647555388a0800000000000000
+      internalID: -6304101220051074582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_98
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 59
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93781642399b0fa20800000000000000
+      internalID: 3094176985625233209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_99
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 59
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48040258d5dca030800000000000000
+      internalID: 3507413334880421965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_100
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 16
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e411636aacc6ee320800000000000000
+      internalID: 2589126453412368718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_101
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de0c0aa0345d8dd0800000000000000
+      internalID: -2482235251623194926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 28
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90853c1d25725570800000000000000
+      internalID: 8453948287135088799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721657683755b54d0800000000000000
+      internalID: -3144825960122719961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_104
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 26
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67c7f17b28951860800000000000000
+      internalID: 7500068066818508653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_105
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 25
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07302490c30be4050800000000000000
+      internalID: 5786756343117513584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_106
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 25
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9951807255c8a6470800000000000000
+      internalID: 8388671553285920153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_107
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 11
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f27dc862288e1bd0800000000000000
+      internalID: -2657537048733453583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_108
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5c9c67ce7edf550800000000000000
+      internalID: 6196363665122903486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_109
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4566981e49435750800000000000000
+      internalID: 6292453704135501135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_110
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 10
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30db9eede9bea3420800000000000000
+      internalID: 2610658001591844099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_111
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 24
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f63598d2855be00800000000000000
+      internalID: 1059850239916338955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e5e212b069b07e0800000000000000
+      internalID: -1798178651658887557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_113
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d377d71127dce2f0800000000000000
+      internalID: -942141684893387821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_114
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8f652a4075170f0800000000000000
+      internalID: -1121019154823448363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_115
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04666b321252e780800000000000000
+      internalID: -8655265295593217014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_116
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 3
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14882d62bbfbee970800000000000000
+      internalID: 8786170733577537601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_117
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 6
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346dd62b9eba42ce0800000000000000
+      internalID: -1430829761387702717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_118
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 6
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4932c4929094110800000000000000
+      internalID: 1245536844920362174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmDiner_119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 7
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b84862dc270ab5b0800000000000000
+      internalID: -5351957318086408007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

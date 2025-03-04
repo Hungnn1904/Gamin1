@@ -1,0 +1,6180 @@
+fileFormatVersion: 2
+guid: 91e2f4eefac3afe4bab5087901b61365
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1076289943367374901
+    second: FirstTrial_Intro_0
+  - first:
+      213: 2513954603504031534
+    second: FirstTrial_Intro_1
+  - first:
+      213: -2144084038537879107
+    second: FirstTrial_Intro_2
+  - first:
+      213: -1934595983480575504
+    second: FirstTrial_Intro_3
+  - first:
+      213: -7143126725960799995
+    second: FirstTrial_Intro_4
+  - first:
+      213: -653990206619819123
+    second: FirstTrial_Intro_5
+  - first:
+      213: 7771278637184436013
+    second: FirstTrial_Intro_6
+  - first:
+      213: -3069420172312762131
+    second: FirstTrial_Intro_7
+  - first:
+      213: -5630637000882115858
+    second: FirstTrial_Intro_8
+  - first:
+      213: 4149076225679669295
+    second: FirstTrial_Intro_9
+  - first:
+      213: 7893602385216375890
+    second: FirstTrial_Intro_10
+  - first:
+      213: -3294866845733173333
+    second: FirstTrial_Intro_11
+  - first:
+      213: 4922057857297936269
+    second: FirstTrial_Intro_12
+  - first:
+      213: 8597102818697528474
+    second: FirstTrial_Intro_13
+  - first:
+      213: 2940934089215590933
+    second: FirstTrial_Intro_14
+  - first:
+      213: -5487848457378824285
+    second: FirstTrial_Intro_15
+  - first:
+      213: -6718114851125086699
+    second: FirstTrial_Intro_16
+  - first:
+      213: 5284642654171066013
+    second: FirstTrial_Intro_17
+  - first:
+      213: -6428581478194369169
+    second: FirstTrial_Intro_18
+  - first:
+      213: -6446511051781791684
+    second: FirstTrial_Intro_19
+  - first:
+      213: -825971792745153858
+    second: FirstTrial_Intro_20
+  - first:
+      213: -7494351298577256174
+    second: FirstTrial_Intro_21
+  - first:
+      213: 3800952235225583661
+    second: FirstTrial_Intro_22
+  - first:
+      213: -1483464761638592943
+    second: FirstTrial_Intro_23
+  - first:
+      213: -6905859319953028904
+    second: FirstTrial_Intro_24
+  - first:
+      213: 6655404642191776688
+    second: FirstTrial_Intro_25
+  - first:
+      213: -6790073331608126614
+    second: FirstTrial_Intro_26
+  - first:
+      213: 5608748471146466018
+    second: FirstTrial_Intro_27
+  - first:
+      213: -6714464280796679948
+    second: FirstTrial_Intro_28
+  - first:
+      213: 5220970291025899398
+    second: FirstTrial_Intro_29
+  - first:
+      213: -2652922748821175698
+    second: FirstTrial_Intro_30
+  - first:
+      213: -2891323505730462235
+    second: FirstTrial_Intro_31
+  - first:
+      213: -7323571388159982181
+    second: FirstTrial_Intro_32
+  - first:
+      213: -7919476696573032064
+    second: FirstTrial_Intro_33
+  - first:
+      213: -5873008232881773913
+    second: FirstTrial_Intro_34
+  - first:
+      213: -4053830778289558593
+    second: FirstTrial_Intro_35
+  - first:
+      213: 3190022703379297907
+    second: FirstTrial_Intro_36
+  - first:
+      213: -2277348961377651791
+    second: FirstTrial_Intro_37
+  - first:
+      213: -6785334688031727916
+    second: FirstTrial_Intro_38
+  - first:
+      213: -5458920927365697032
+    second: FirstTrial_Intro_39
+  - first:
+      213: -1472638210038560822
+    second: FirstTrial_Intro_40
+  - first:
+      213: -356357381903495818
+    second: FirstTrial_Intro_41
+  - first:
+      213: 545435402317765877
+    second: FirstTrial_Intro_42
+  - first:
+      213: 3284369787764574538
+    second: FirstTrial_Intro_43
+  - first:
+      213: -8446385414818519290
+    second: FirstTrial_Intro_44
+  - first:
+      213: 4843401152056381945
+    second: FirstTrial_Intro_45
+  - first:
+      213: -8345589226143298798
+    second: FirstTrial_Intro_46
+  - first:
+      213: 6866630954872537403
+    second: FirstTrial_Intro_47
+  - first:
+      213: -5775627784612042477
+    second: FirstTrial_Intro_48
+  - first:
+      213: 3793410805292704889
+    second: FirstTrial_Intro_49
+  - first:
+      213: -330964140377957894
+    second: FirstTrial_Intro_50
+  - first:
+      213: 4248570708401725641
+    second: FirstTrial_Intro_51
+  - first:
+      213: 3390892766259075662
+    second: FirstTrial_Intro_52
+  - first:
+      213: 4182043057981455086
+    second: FirstTrial_Intro_53
+  - first:
+      213: -4866360343145515433
+    second: FirstTrial_Intro_54
+  - first:
+      213: -1187273940261866165
+    second: FirstTrial_Intro_55
+  - first:
+      213: -8631333598374950392
+    second: FirstTrial_Intro_56
+  - first:
+      213: 4314076820701194855
+    second: FirstTrial_Intro_57
+  - first:
+      213: 115984552252669866
+    second: FirstTrial_Intro_58
+  - first:
+      213: 6269291767660710480
+    second: FirstTrial_Intro_59
+  - first:
+      213: -3038887296589066115
+    second: FirstTrial_Intro_60
+  - first:
+      213: -1980120403488258680
+    second: FirstTrial_Intro_61
+  - first:
+      213: -2104301811094795713
+    second: FirstTrial_Intro_62
+  - first:
+      213: -1489267444748311176
+    second: FirstTrial_Intro_63
+  - first:
+      213: -3318811397457198401
+    second: FirstTrial_Intro_64
+  - first:
+      213: 4768770962484149512
+    second: FirstTrial_Intro_65
+  - first:
+      213: 8835632228990388754
+    second: FirstTrial_Intro_66
+  - first:
+      213: 6196421056874339633
+    second: FirstTrial_Intro_67
+  - first:
+      213: -1754980810611871643
+    second: FirstTrial_Intro_68
+  - first:
+      213: -3708025669740743260
+    second: FirstTrial_Intro_69
+  - first:
+      213: 5967749592964822221
+    second: FirstTrial_Intro_70
+  - first:
+      213: 1861267480435862341
+    second: FirstTrial_Intro_71
+  - first:
+      213: 396708935216256281
+    second: FirstTrial_Intro_72
+  - first:
+      213: -485740344952175223
+    second: FirstTrial_Intro_73
+  - first:
+      213: 9201666149065677901
+    second: FirstTrial_Intro_74
+  - first:
+      213: 166631759592568165
+    second: FirstTrial_Intro_75
+  - first:
+      213: -5602902480469058817
+    second: FirstTrial_Intro_76
+  - first:
+      213: -596920781029170765
+    second: FirstTrial_Intro_77
+  - first:
+      213: -5388911181305138586
+    second: FirstTrial_Intro_78
+  - first:
+      213: -1963277367197456680
+    second: FirstTrial_Intro_79
+  - first:
+      213: -4263080535962664554
+    second: FirstTrial_Intro_80
+  - first:
+      213: -4181830655308693725
+    second: FirstTrial_Intro_81
+  - first:
+      213: -3482937432998882417
+    second: FirstTrial_Intro_82
+  - first:
+      213: 6020534851462952647
+    second: FirstTrial_Intro_83
+  - first:
+      213: 8987000648967147911
+    second: FirstTrial_Intro_84
+  - first:
+      213: 6816941861717196837
+    second: FirstTrial_Intro_85
+  - first:
+      213: 1964904479176814598
+    second: FirstTrial_Intro_86
+  - first:
+      213: 6862568105092355059
+    second: FirstTrial_Intro_87
+  - first:
+      213: 1578654523813566955
+    second: FirstTrial_Intro_88
+  - first:
+      213: -6609341186011857019
+    second: FirstTrial_Intro_89
+  - first:
+      213: -5712189796290007252
+    second: FirstTrial_Intro_90
+  - first:
+      213: -446778153558385904
+    second: FirstTrial_Intro_91
+  - first:
+      213: 621490200152108836
+    second: FirstTrial_Intro_92
+  - first:
+      213: 1223438325594238989
+    second: FirstTrial_Intro_93
+  - first:
+      213: -3940083033622985132
+    second: FirstTrial_Intro_94
+  - first:
+      213: 5261480183672239134
+    second: FirstTrial_Intro_95
+  - first:
+      213: 6894987283869787975
+    second: FirstTrial_Intro_96
+  - first:
+      213: -7176940347610541130
+    second: FirstTrial_Intro_97
+  - first:
+      213: -6857113646111865104
+    second: FirstTrial_Intro_98
+  - first:
+      213: 3552462548107830323
+    second: FirstTrial_Intro_99
+  - first:
+      213: 8986418998607904440
+    second: FirstTrial_Intro_100
+  - first:
+      213: 1682332174268993618
+    second: FirstTrial_Intro_101
+  - first:
+      213: -4264643738417445282
+    second: FirstTrial_Intro_102
+  - first:
+      213: -646878226317109405
+    second: FirstTrial_Intro_103
+  - first:
+      213: 3843630241594998553
+    second: FirstTrial_Intro_104
+  - first:
+      213: -4976063845408652098
+    second: FirstTrial_Intro_105
+  - first:
+      213: 2979148622700867717
+    second: FirstTrial_Intro_106
+  - first:
+      213: -6198342341218757455
+    second: FirstTrial_Intro_107
+  - first:
+      213: -7005112860997513986
+    second: FirstTrial_Intro_108
+  - first:
+      213: 3182061699349708054
+    second: FirstTrial_Intro_109
+  - first:
+      213: 2235760464508468258
+    second: FirstTrial_Intro_110
+  - first:
+      213: -507679761683483458
+    second: FirstTrial_Intro_111
+  - first:
+      213: 7440301276173318241
+    second: FirstTrial_Intro_112
+  - first:
+      213: -7519804176807861701
+    second: FirstTrial_Intro_113
+  - first:
+      213: 6013508566619901036
+    second: FirstTrial_Intro_114
+  - first:
+      213: 9139334282719337443
+    second: FirstTrial_Intro_115
+  - first:
+      213: 1994264552735928748
+    second: FirstTrial_Intro_116
+  - first:
+      213: 8541876380261364756
+    second: FirstTrial_Intro_117
+  - first:
+      213: 6348997098399174407
+    second: FirstTrial_Intro_118
+  - first:
+      213: -8313208971872300329
+    second: FirstTrial_Intro_119
+  - first:
+      213: -7785315046387261083
+    second: FirstTrial_Intro_120
+  - first:
+      213: 3338246536657158408
+    second: FirstTrial_Intro_121
+  - first:
+      213: -8647431099059929082
+    second: FirstTrial_Intro_122
+  - first:
+      213: 501438542397856068
+    second: FirstTrial_Intro_123
+  - first:
+      213: -7382192853420630090
+    second: FirstTrial_Intro_124
+  - first:
+      213: -4841413218419044279
+    second: FirstTrial_Intro_125
+  - first:
+      213: 7875096966383141647
+    second: FirstTrial_Intro_126
+  - first:
+      213: 3005365276107019343
+    second: FirstTrial_Intro_127
+  - first:
+      213: 6833835307848392071
+    second: FirstTrial_Intro_128
+  - first:
+      213: -4892396345065169
+    second: FirstTrial_Intro_129
+  - first:
+      213: -1591575978604556117
+    second: FirstTrial_Intro_130
+  - first:
+      213: -7430946041681392139
+    second: FirstTrial_Intro_131
+  - first:
+      213: 2325464940387415515
+    second: FirstTrial_Intro_132
+  - first:
+      213: 7406029393608188475
+    second: FirstTrial_Intro_133
+  - first:
+      213: 358157723925220201
+    second: FirstTrial_Intro_134
+  - first:
+      213: 53054130132347623
+    second: FirstTrial_Intro_135
+  - first:
+      213: -2757891522687050812
+    second: FirstTrial_Intro_136
+  - first:
+      213: -4924362908206699042
+    second: FirstTrial_Intro_137
+  - first:
+      213: -7603658073844437420
+    second: FirstTrial_Intro_138
+  - first:
+      213: -6563185756382874166
+    second: FirstTrial_Intro_139
+  - first:
+      213: 2493593017574304609
+    second: FirstTrial_Intro_140
+  - first:
+      213: -1169581204981829000
+    second: FirstTrial_Intro_141
+  - first:
+      213: -5350673935624113438
+    second: FirstTrial_Intro_142
+  - first:
+      213: -442840943678616040
+    second: FirstTrial_Intro_143
+  - first:
+      213: -8343868585125540084
+    second: FirstTrial_Intro_144
+  - first:
+      213: -7109847826530287198
+    second: FirstTrial_Intro_145
+  - first:
+      213: 7471928284499520030
+    second: FirstTrial_Intro_146
+  - first:
+      213: -3564456712369505500
+    second: FirstTrial_Intro_147
+  - first:
+      213: 3311432436438936092
+    second: FirstTrial_Intro_148
+  - first:
+      213: -5891203956191829158
+    second: FirstTrial_Intro_149
+  - first:
+      213: 5765607157001870661
+    second: FirstTrial_Intro_150
+  - first:
+      213: 7754633150993012119
+    second: FirstTrial_Intro_151
+  - first:
+      213: 4173612209572327885
+    second: FirstTrial_Intro_152
+  - first:
+      213: -8872492757305579093
+    second: FirstTrial_Intro_153
+  - first:
+      213: 1969001778690296398
+    second: FirstTrial_Intro_154
+  - first:
+      213: 3826837695378373280
+    second: FirstTrial_Intro_155
+  - first:
+      213: 1428868511986411565
+    second: FirstTrial_Intro_156
+  - first:
+      213: 8223526634207248496
+    second: FirstTrial_Intro_157
+  - first:
+      213: -7979468462478194634
+    second: FirstTrial_Intro_158
+  - first:
+      213: 461192733518279
+    second: FirstTrial_Intro_159
+  - first:
+      213: -5118460471463584808
+    second: FirstTrial_Intro_160
+  - first:
+      213: -511845061679235100
+    second: FirstTrial_Intro_161
+  - first:
+      213: 6057970053667979556
+    second: FirstTrial_Intro_162
+  - first:
+      213: -7436364465197096579
+    second: FirstTrial_Intro_163
+  - first:
+      213: 1472440731991923451
+    second: FirstTrial_Intro_164
+  - first:
+      213: -6520393816557193227
+    second: FirstTrial_Intro_165
+  - first:
+      213: 5257078210017455528
+    second: FirstTrial_Intro_166
+  - first:
+      213: 7013158133756079835
+    second: FirstTrial_Intro_167
+  - first:
+      213: -3514661777184101232
+    second: FirstTrial_Intro_168
+  - first:
+      213: 8326013550230862779
+    second: FirstTrial_Intro_169
+  - first:
+      213: 8417072311110742624
+    second: FirstTrial_Intro_170
+  - first:
+      213: -3064555528029643902
+    second: FirstTrial_Intro_171
+  - first:
+      213: -497027915595442821
+    second: FirstTrial_Intro_172
+  - first:
+      213: -4026806590841875782
+    second: FirstTrial_Intro_173
+  - first:
+      213: 6411947010328343055
+    second: FirstTrial_Intro_174
+  - first:
+      213: 2982960477152079613
+    second: FirstTrial_Intro_175
+  - first:
+      213: 4607919412529065673
+    second: FirstTrial_Intro_176
+  - first:
+      213: -3446598783186817262
+    second: FirstTrial_Intro_177
+  - first:
+      213: -5087816857607639695
+    second: FirstTrial_Intro_178
+  - first:
+      213: -2923840215339731569
+    second: FirstTrial_Intro_179
+  - first:
+      213: -6529983955643181740
+    second: FirstTrial_Intro_180
+  - first:
+      213: -7883214699928276024
+    second: FirstTrial_Intro_181
+  - first:
+      213: -5462330396092725751
+    second: FirstTrial_Intro_182
+  - first:
+      213: -1207857988082314423
+    second: FirstTrial_Intro_183
+  - first:
+      213: -5304747996391397533
+    second: FirstTrial_Intro_184
+  - first:
+      213: -2463173215858316321
+    second: FirstTrial_Intro_185
+  - first:
+      213: 9453055139484538
+    second: FirstTrial_Intro_186
+  - first:
+      213: -5036258091191241885
+    second: FirstTrial_Intro_187
+  - first:
+      213: 5152364732217200037
+    second: FirstTrial_Intro_188
+  - first:
+      213: -4383084938287781288
+    second: FirstTrial_Intro_189
+  - first:
+      213: -2032007735049623806
+    second: FirstTrial_Intro_190
+  - first:
+      213: 2739552018449708441
+    second: FirstTrial_Intro_191
+  - first:
+      213: -1739754066442015802
+    second: FirstTrial_Intro_192
+  - first:
+      213: 8046517610964247244
+    second: FirstTrial_Intro_193
+  - first:
+      213: 9158592868716853075
+    second: FirstTrial_Intro_194
+  - first:
+      213: -1444727822007777335
+    second: FirstTrial_Intro_195
+  - first:
+      213: -1900085811103116477
+    second: FirstTrial_Intro_196
+  - first:
+      213: -1994591575648903366
+    second: FirstTrial_Intro_197
+  - first:
+      213: -7730017234105160180
+    second: FirstTrial_Intro_198
+  - first:
+      213: -4648491185738144875
+    second: FirstTrial_Intro_199
+  - first:
+      213: -8929561802204893484
+    second: FirstTrial_Intro_200
+  - first:
+      213: 7536558229433726085
+    second: FirstTrial_Intro_201
+  - first:
+      213: 1804571230161251820
+    second: FirstTrial_Intro_202
+  - first:
+      213: 7844991016158184196
+    second: FirstTrial_Intro_203
+  - first:
+      213: -6529728294272787077
+    second: FirstTrial_Intro_204
+  - first:
+      213: 458639041397453255
+    second: FirstTrial_Intro_205
+  - first:
+      213: 3398422860357410923
+    second: FirstTrial_Intro_206
+  - first:
+      213: -5895348755794085645
+    second: FirstTrial_Intro_207
+  - first:
+      213: -3405785309034440716
+    second: FirstTrial_Intro_208
+  - first:
+      213: -3166139069906337890
+    second: FirstTrial_Intro_209
+  - first:
+      213: 28551362332473971
+    second: FirstTrial_Intro_210
+  - first:
+      213: 6485059476473845039
+    second: FirstTrial_Intro_211
+  - first:
+      213: -3849094851861278250
+    second: FirstTrial_Intro_212
+  - first:
+      213: -1479982462772769057
+    second: FirstTrial_Intro_213
+  - first:
+      213: 8256121851284798440
+    second: FirstTrial_Intro_214
+  - first:
+      213: 7152857359308227124
+    second: FirstTrial_Intro_215
+  - first:
+      213: 5773825031549363696
+    second: FirstTrial_Intro_216
+  - first:
+      213: -6878092319593089199
+    second: FirstTrial_Intro_217
+  - first:
+      213: -2428547223759688026
+    second: FirstTrial_Intro_218
+  - first:
+      213: -5784376017550906855
+    second: FirstTrial_Intro_219
+  - first:
+      213: -7402310297815945772
+    second: FirstTrial_Intro_220
+  - first:
+      213: 5403415449620482173
+    second: FirstTrial_Intro_221
+  - first:
+      213: 4728474611332162439
+    second: FirstTrial_Intro_222
+  - first:
+      213: 9109145335355753988
+    second: FirstTrial_Intro_223
+  - first:
+      213: -880622874557767460
+    second: FirstTrial_Intro_224
+  - first:
+      213: -1418328231921411270
+    second: FirstTrial_Intro_225
+  - first:
+      213: 6360068410795885035
+    second: FirstTrial_Intro_226
+  - first:
+      213: 3546862068439864932
+    second: FirstTrial_Intro_227
+  - first:
+      213: 731275626842077562
+    second: FirstTrial_Intro_228
+  - first:
+      213: 7101525613652881567
+    second: FirstTrial_Intro_229
+  - first:
+      213: -2211889445941308272
+    second: FirstTrial_Intro_230
+  - first:
+      213: -2141127293566790865
+    second: FirstTrial_Intro_231
+  - first:
+      213: 1401992165580374493
+    second: FirstTrial_Intro_232
+  - first:
+      213: -2553693317850615234
+    second: FirstTrial_Intro_233
+  - first:
+      213: 373919734720704195
+    second: FirstTrial_Intro_234
+  - first:
+      213: -1538867648394158595
+    second: FirstTrial_Intro_235
+  - first:
+      213: 3799404464227921855
+    second: FirstTrial_Intro_236
+  - first:
+      213: 76650938400857702
+    second: FirstTrial_Intro_237
+  - first:
+      213: -8585475951160957464
+    second: FirstTrial_Intro_238
+  - first:
+      213: -3354934735315003519
+    second: FirstTrial_Intro_239
+  - first:
+      213: 1105462072257874871
+    second: FirstTrial_Intro_240
+  - first:
+      213: -6673894280283334796
+    second: FirstTrial_Intro_241
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FirstTrial_Intro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 697
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538dcb54000cfee00800000000000000
+      internalID: 1076289943367374901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_1
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 463
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27d053746c53e220800000000000000
+      internalID: 2513954603504031534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_2
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 463
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db16d524deeae32e0800000000000000
+      internalID: -2144084038537879107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_3
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 467
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f92eb4f33fe625e0800000000000000
+      internalID: -1934595983480575504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_4
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 462
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509e181b6148edc90800000000000000
+      internalID: -7143126725960799995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 5
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8367df3f5f8ce6f0800000000000000
+      internalID: -653990206619819123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 252
+        width: 43
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27c5fb1fb029db60800000000000000
+      internalID: 7771278637184436013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 348
+        width: 42
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de821e2ad9a3765d0800000000000000
+      internalID: -3069420172312762131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 348
+        width: 38
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea2047ea75fbd1b0800000000000000
+      internalID: -5630637000882115858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 284
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28b7a138da749930800000000000000
+      internalID: 4149076225679669295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 348
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c8ff81c85bb8d60800000000000000
+      internalID: 7893602385216375890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_11
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 439
+        width: 91
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7ccdd8f084642d0800000000000000
+      internalID: -3294866845733173333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_12
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 443
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fe9240b89ae4440800000000000000
+      internalID: 4922057857297936269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 443
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94c9f5d67b0f4770800000000000000
+      internalID: 8597102818697528474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 445
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512488fe8fb40d820800000000000000
+      internalID: 2940934089215590933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_15
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 445
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af72c467ee37d3b0800000000000000
+      internalID: -5487848457378824285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_16
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 445
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516b962132674c2a0800000000000000
+      internalID: -6718114851125086699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_17
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 445
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e6eb6ae72d65940800000000000000
+      internalID: 5284642654171066013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_18
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 445
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6da196a43719c6a0800000000000000
+      internalID: -6428581478194369169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_19
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 445
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30aaed7a546986a0800000000000000
+      internalID: -6446511051781791684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_20
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 445
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebabeead70f8984f0800000000000000
+      internalID: -825971792745153858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_21
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 447
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211b0526337bef790800000000000000
+      internalID: -7494351298577256174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_22
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 447
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2019dc6be1bfb430800000000000000
+      internalID: 3800952235225583661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_23
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 451
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ed8b5b8aca96be0800000000000000
+      internalID: -1483464761638592943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_24
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 450
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8016d89857920a0800000000000000
+      internalID: -6905859319953028904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_25
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 448
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb935e924fbc5c50800000000000000
+      internalID: 6655404642191776688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 410
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bf4aeb740d4c1a0800000000000000
+      internalID: -6790073331608126614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_27
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 412
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea4331a40746dd40800000000000000
+      internalID: 5608748471146466018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_28
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 412
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0b016bf4e61d2a0800000000000000
+      internalID: -6714464280796679948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_29
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 412
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f677b51dc947840800000000000000
+      internalID: 5220970291025899398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_30
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 410
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6206f3d0dcee2bd0800000000000000
+      internalID: -2652922748821175698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_31
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 410
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edd2362794ffd7d0800000000000000
+      internalID: -2891323505730462235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_32
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 407
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b958289df927d5a90800000000000000
+      internalID: -7323571388159982181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_33
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 374
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089c7c557ed581290800000000000000
+      internalID: -7919476696573032064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_34
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 373
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a22324f022ee7ea0800000000000000
+      internalID: -5873008232881773913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_35
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 378
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb6180a266edb7c0800000000000000
+      internalID: -4053830778289558593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_36
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 378
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376ba5c4fbc354c20800000000000000
+      internalID: 3190022703379297907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_37
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 378
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3fa7f7f2b3560e0800000000000000
+      internalID: -2277348961377651791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_38
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 378
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de9bbd2d06a5d1a0800000000000000
+      internalID: -6785334688031727916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_39
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 378
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1fb63d6540e34b0800000000000000
+      internalID: -5458920927365697032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_40
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 378
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac70cffa953209be0800000000000000
+      internalID: -1472638210038560822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_41
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 377
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dcd8669d6fd0bf0800000000000000
+      internalID: -356357381903495818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_42
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 377
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc921bcb96c19700800000000000000
+      internalID: 545435402317765877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_43
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 328
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a498bbeabec649d20800000000000000
+      internalID: 3284369787764574538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_44
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 344
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607a3b1573968ca80800000000000000
+      internalID: -8446385414818519290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_45
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 344
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1d905bfa7373340800000000000000
+      internalID: 4843401152056381945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_46
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 344
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bc66ec0d28e2c80800000000000000
+      internalID: -8345589226143298798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_47
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 344
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3101e4f87c2b4f50800000000000000
+      internalID: 6866630954872537403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_48
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 344
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319a2576129d8dfa0800000000000000
+      internalID: -5775627784612042477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_49
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 344
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974a9907707e4a430800000000000000
+      internalID: 3793410805292704889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_50
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 344
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9116b2edd286bf0800000000000000
+      internalID: -330964140377957894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_51
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 344
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c02a65ac84f5fa30800000000000000
+      internalID: 4248570708401725641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_52
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 345
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a5054510fde0f20800000000000000
+      internalID: 3390892766259075662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_53
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 345
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea7f5af00a990a30800000000000000
+      internalID: 4182043057981455086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 236
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75673cd0d07377cb0800000000000000
+      internalID: -4866360343145515433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_55
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 236
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45fc9b44a4f58fe0800000000000000
+      internalID: -1187273940261866165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_56
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 281
+        width: 109
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a87f2b2d7573880800000000000000
+      internalID: -8631333598374950392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_57
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 299
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a24afe20eaedb30800000000000000
+      internalID: 4314076820701194855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_58
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 299
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaff374f55f0c9100800000000000000
+      internalID: 115984552252669866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_59
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 279
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a82b485aff00750800000000000000
+      internalID: 6269291767660710480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_60
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 312
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d709c5eba14b3d5d0800000000000000
+      internalID: -3038887296589066115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_61
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 312
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8854491fbf23584e0800000000000000
+      internalID: -1980120403488258680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_62
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 312
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3acb71e6a40cc2e0800000000000000
+      internalID: -2104301811094795713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_63
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 312
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8752934462f055be0800000000000000
+      internalID: -1489267444748311176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_64
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 312
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2cb0a2e9631f1d0800000000000000
+      internalID: -3318811397457198401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_65
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 312
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80db012ace31e2240800000000000000
+      internalID: 4768770962484149512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_66
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 312
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a07f6f2b87e9a70800000000000000
+      internalID: 8835632228990388754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_67
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 312
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ddeb50f1c1ef550800000000000000
+      internalID: 6196421056874339633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_68
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 312
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5603ad3404e05a7e0800000000000000
+      internalID: -1754980810611871643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_69
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 312
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5b211ac427a8cc0800000000000000
+      internalID: -3708025669740743260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 107
+        width: 114
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc47625e2a4b1d250800000000000000
+      internalID: 5967749592964822221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_71
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 139
+        width: 6
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bad5b79ec84d910800000000000000
+      internalID: 1861267480435862341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_72
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 139
+        width: 6
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915d9cabca4618500800000000000000
+      internalID: 396708935216256281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_73
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 258
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985cc06dabd4249f0800000000000000
+      internalID: -485740344952175223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_74
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 238
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cdbcc2c92e2bf70800000000000000
+      internalID: 9201666149065677901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_75
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 279
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56530d6d3beff4200800000000000000
+      internalID: 166631759592568165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_76
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 280
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa9c7421ed7e32b0800000000000000
+      internalID: -5602902480469058817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_77
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 273
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b125b756bf47b7f0800000000000000
+      internalID: -596920781029170765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_78
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 253
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6623d2015ddb635b0800000000000000
+      internalID: -5388911181305138586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_79
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 285
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6a1ace2a901c4e0800000000000000
+      internalID: -1963277367197456680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_80
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 279
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691401dd6de76d4c0800000000000000
+      internalID: -4263080535962664554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_81
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 277
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f7c7fdc2727f5c0800000000000000
+      internalID: -4181830655308693725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_82
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 277
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83d03babde1aafc0800000000000000
+      internalID: -3482937432998882417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_83
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 277
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6fe4b9c8c3d8350800000000000000
+      internalID: 6020534851462952647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_84
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 277
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78154ed997d38bc70800000000000000
+      internalID: 8987000648967147911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_85
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 277
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520c42a6184aa9e50800000000000000
+      internalID: 6816941861717196837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_86
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 277
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60078ea963eb44b10800000000000000
+      internalID: 1964904479176814598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_87
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 279
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f394f6055dbc3f50800000000000000
+      internalID: 6862568105092355059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_88
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 279
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be998f2ece188e510800000000000000
+      internalID: 1578654523813566955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_89
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 279
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f77688537e644a0800000000000000
+      internalID: -6609341186011857019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_90
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 260
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fe58e05a93ab0b0800000000000000
+      internalID: -5712189796290007252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_91
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 236
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b5fbfe2a9bcc9f0800000000000000
+      internalID: -446778153558385904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_92
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 260
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fe3735b0aff9800800000000000000
+      internalID: 621490200152108836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_93
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 236
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00b4a1dca68af010800000000000000
+      internalID: 1223438325594238989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_94
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 258
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456cb5b3b530259c0800000000000000
+      internalID: -3940083033622985132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_95
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 253
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e147a8cb958840940800000000000000
+      internalID: 5261480183672239134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_96
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 257
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747e4e9476aefaf50800000000000000
+      internalID: 6894987283869787975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_97
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 246
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3518667c2666c90800000000000000
+      internalID: -7176940347610541130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_98
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 246
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6c40b2873a6d0a0800000000000000
+      internalID: -6857113646111865104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_99
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 246
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334a8d1add1ec4130800000000000000
+      internalID: 3552462548107830323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_100
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 246
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be78d6977c26bc70800000000000000
+      internalID: 8986418998607904440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_101
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 245
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2509389f238d85710800000000000000
+      internalID: 1682332174268993618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_102
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 246
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56c80e6d11f0d4c0800000000000000
+      internalID: -4264643738417445282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_103
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 246
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3671f633ea3d507f0800000000000000
+      internalID: -646878226317109405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_104
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 241
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ff73e1751575530800000000000000
+      internalID: 3843630241594998553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_105
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 249
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4c0c20c4871fab0800000000000000
+      internalID: -4976063845408652098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_106
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 246
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580fd2d53ef085920800000000000000
+      internalID: 2979148622700867717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 193
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4946b1b701bf9a0800000000000000
+      internalID: -6198342341218757455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_108
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 227
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc09b4b7f6d8ce90800000000000000
+      internalID: -7005112860997513986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_109
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 220
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d7d1b9144f82c20800000000000000
+      internalID: 3182061699349708054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_110
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 237
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cb3e10c44070f10800000000000000
+      internalID: 2235760464508468258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_111
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 229
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4733152fb54f8f0800000000000000
+      internalID: -507679761683483458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_112
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 231
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168323c1792414760800000000000000
+      internalID: 7440301276173318241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_113
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 232
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b326edc51f944a790800000000000000
+      internalID: -7519804176807861701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_114
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 213
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cc52f2e26447350800000000000000
+      internalID: 6013508566619901036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_115
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 213
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb190d9b1075de70800000000000000
+      internalID: 9139334282719337443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_116
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 211
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca17afd6b0d0dab10800000000000000
+      internalID: 1994264552735928748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_117
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 210
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41437c0af47da8670800000000000000
+      internalID: 8541876380261364756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_118
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 215
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f811af83b2c1850800000000000000
+      internalID: 6348997098399174407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_119
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 215
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d216ff3c7c81ac80800000000000000
+      internalID: -8313208971872300329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_120
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 215
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5616593b63105f390800000000000000
+      internalID: -7785315046387261083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_121
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 215
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801c02ec985d35e20800000000000000
+      internalID: 3338246536657158408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_122
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 212
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6000ed04b372ef780800000000000000
+      internalID: -8647431099059929082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_123
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 212
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449505492b775f600800000000000000
+      internalID: 501438542397856068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_124
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 196
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf9f6c56be2d8990800000000000000
+      internalID: -7382192853420630090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_125
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 186
+        width: 97
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94090492458dfccb0800000000000000
+      internalID: -4841413218419044279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_126
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 195
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03060587f6f94d60800000000000000
+      internalID: 7875096966383141647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_127
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 207
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4417a6abc335b920800000000000000
+      internalID: 3005365276107019343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_128
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 214
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d53d95109a6de50800000000000000
+      internalID: 6833835307848392071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_129
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 214
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2180c5346e9eeff0800000000000000
+      internalID: -4892396345065169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_130
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 188
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba01b3a741699e9e0800000000000000
+      internalID: -1591575978604556117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_131
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 164
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd4c7822f9ffd890800000000000000
+      internalID: -7430946041681392139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_132
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 188
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5ba6dda06b54020800000000000000
+      internalID: 2325464940387415515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_133
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 164
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b322e12ae7087c660800000000000000
+      internalID: 7406029393608188475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_134
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 158
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b00246d8e68f400800000000000000
+      internalID: 358157723925220201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_135
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 182
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eae764437c7cb000800000000000000
+      internalID: 53054130132347623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_136
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 180
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb5d25a5400ab9d0800000000000000
+      internalID: -2757891522687050812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_137
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 180
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddea3f760629abb0800000000000000
+      internalID: -4924362908206699042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_138
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 180
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ea8fa84416a7690800000000000000
+      internalID: -7603658073844437420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_139
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 181
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac535ebe351eae4a0800000000000000
+      internalID: -6563185756382874166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_140
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 181
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b29ea43a50b9220800000000000000
+      internalID: 2493593017574304609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_141
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 181
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872b51d3710d4cfe0800000000000000
+      internalID: -1169581204981829000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_142
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 181
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2fe2697669eb5b0800000000000000
+      internalID: -5350673935624113438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_143
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 181
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e890c0286bad9f0800000000000000
+      internalID: -442840943678616040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_144
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 181
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f0d03cabf943c80800000000000000
+      internalID: -8343868585125540084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_145
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 181
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a14494421fb45d90800000000000000
+      internalID: -7109847826530287198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_146
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 140
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aa9c0df2f91b760800000000000000
+      internalID: 7471928284499520030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_147
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 140
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b75f16181888ec0800000000000000
+      internalID: -3564456712369505500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_148
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 150
+        width: 97
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a26a7914294fd20800000000000000
+      internalID: 3311432436438936092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_149
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 160
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a536fcbf63d3e3ea0800000000000000
+      internalID: -5891203956191829158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_150
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 157
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ddb8b692d830050800000000000000
+      internalID: 5765607157001870661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_151
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 147
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7951868d3cdfd9b60800000000000000
+      internalID: 7754633150993012119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_152
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 147
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1bacd1136abe930800000000000000
+      internalID: 4173612209572327885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_153
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 145
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9239088d29ed480800000000000000
+      internalID: -8872492757305579093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_154
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 148
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a82fc7fac435b10800000000000000
+      internalID: 1969001778690296398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_155
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 148
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa3a16cb98ab1530800000000000000
+      internalID: 3826837695378373280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_156
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 148
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28e0b7575c54d310800000000000000
+      internalID: 1428868511986411565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_157
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 148
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07003e857e5df1270800000000000000
+      internalID: 8223526634207248496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_158
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 148
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6380e8dd5bb334190800000000000000
+      internalID: -7979468462478194634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_159
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 146
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9ed0dc373a10000800000000000000
+      internalID: 461192733518279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_160
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 146
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbd889e15397f8b0800000000000000
+      internalID: -5118460471463584808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_161
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 148
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef3296d0af85e8f0800000000000000
+      internalID: -511845061679235100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_162
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 117
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42185d4daab321450800000000000000
+      internalID: 6057970053667979556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_163
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 112
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71e69f1be9bcc890800000000000000
+      internalID: -7436364465197096579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_164
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 117
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfad13f5b092f6410800000000000000
+      internalID: 1472440731991923451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_165
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 118
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f77470de58e285a0800000000000000
+      internalID: -6520393816557193227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_166
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 118
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad698067c4e4f840800000000000000
+      internalID: 5257078210017455528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_167
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 132
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde2c245a2eb35160800000000000000
+      internalID: 7013158133756079835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_168
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 114
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c6c413cb9693fc0800000000000000
+      internalID: -3514661777184101232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_169
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 121
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb7998f531fb8370800000000000000
+      internalID: 8326013550230862779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_170
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 112
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0623880eba27fc470800000000000000
+      internalID: 8417072311110742624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_171
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 115
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b5555ebf28875d0800000000000000
+      internalID: -3064555528029643902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_172
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 115
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b751b7f7eb33a19f0800000000000000
+      internalID: -497027915595442821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_173
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 114
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab21ba59db8ed18c0800000000000000
+      internalID: -4026806590841875782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_174
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 120
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02bf3d75dfcbf850800000000000000
+      internalID: 6411947010328343055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_175
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 119
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfeeda3efba956920800000000000000
+      internalID: 2982960477152079613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_176
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 115
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceeb69ba4e92ff30800000000000000
+      internalID: 4607919412529065673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_177
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 120
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f2bd4eaa83b20d0800000000000000
+      internalID: -3446598783186817262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_178
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 66
+        width: 179
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d6d0046817469b0800000000000000
+      internalID: -5087816857607639695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_179
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 74
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f857ca8b0de6c67d0800000000000000
+      internalID: -2923840215339731569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_180
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 107
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45553ee8036d065a0800000000000000
+      internalID: -6529983955643181740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_181
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 90
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c333aa5ff1399290800000000000000
+      internalID: -7883214699928276024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_182
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 72
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90603170277e134b0800000000000000
+      internalID: -5462330396092725751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_183
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 73
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9435c313f83dc3fe0800000000000000
+      internalID: -1207857988082314423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_184
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 38
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36720249dcfb166b0800000000000000
+      internalID: -5304747996391397533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_185
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 82
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb2288b20d01ddd0800000000000000
+      internalID: -2463173215858316321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_186
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 81
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7391a9e085912000800000000000000
+      internalID: 9453055139484538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_187
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 80
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363fb5503fd9b1ab0800000000000000
+      internalID: -5036258091191241885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_188
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 81
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad8e01fc60e08740800000000000000
+      internalID: 5152364732217200037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_189
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 82
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aedf0a8772c23c0800000000000000
+      internalID: -4383084938287781288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_190
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 82
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20765832bbbdcc3e0800000000000000
+      internalID: -2032007735049623806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_191
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 87
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9953667cb08d40620800000000000000
+      internalID: 2739552018449708441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_192
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 88
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbae29e4e62bd7e0800000000000000
+      internalID: -1739754066442015802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_193
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 57
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2e2788229faaf60800000000000000
+      internalID: 8046517610964247244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_194
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 67
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3573b4690bbd91f70800000000000000
+      internalID: 9158592868716853075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_195
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 45
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c74a1c43bb43fbe0800000000000000
+      internalID: -1444727822007777335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_196
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 55
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343507a950a81a5e0800000000000000
+      internalID: -1900085811103116477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_197
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 65
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fd57d9789c154e0800000000000000
+      internalID: -1994591575648903366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_198
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 74
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ea38de74679b490800000000000000
+      internalID: -7730017234105160180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_199
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 23
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5932b8435ed3d7fb0800000000000000
+      internalID: -4648491185738144875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_200
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 64
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de2eab0ad2d31480800000000000000
+      internalID: -8929561802204893484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_201
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 23
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584b17e77cb379860800000000000000
+      internalID: 7536558229433726085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_202
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 64
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceda6a909ff1b0910800000000000000
+      internalID: 1804571230161251820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_203
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 65
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4034d30c3c10fdc60800000000000000
+      internalID: 7844991016158184196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_204
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 45
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d9d0c56beb165a0800000000000000
+      internalID: -6529728294272787077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_205
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 57
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1fe9637c96d5600800000000000000
+      internalID: 458639041397453255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_206
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 48
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60ab2cf59f992f20800000000000000
+      internalID: 3398422860357410923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_207
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 47
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f83adf9a838f2ea0800000000000000
+      internalID: -5895348755794085645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_208
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 49
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f712c95e483cb0d0800000000000000
+      internalID: -3405785309034440716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_209
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 49
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f3fb47a4d9f04d0800000000000000
+      internalID: -3166139069906337890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_210
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 47
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a3ea1105f656000800000000000000
+      internalID: 28551362332473971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_211
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 61
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25118a0c3f8ff950800000000000000
+      internalID: 6485059476473845039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_212
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1160820a4459ac0800000000000000
+      internalID: -3849094851861278250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_213
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 38
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde0f989acb067be0800000000000000
+      internalID: -1479982462772769057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_214
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 20
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebbb28b413a39270800000000000000
+      internalID: 8256121851284798440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_215
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 43
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4320b9eeedd044360800000000000000
+      internalID: 7152857359308227124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_216
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 32
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f522c0764fb02050800000000000000
+      internalID: 5773825031549363696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_217
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 29
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157bf4e1a7b1c80a0800000000000000
+      internalID: -6878092319593089199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_218
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 10
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeea8fba211c4ed0800000000000000
+      internalID: -2428547223759688026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_219
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 40
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ae692b8a4c9bfa0800000000000000
+      internalID: -5784376017550906855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 170
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dde675d006b54990800000000000000
+      internalID: -7402310297815945772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_221
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 6
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d788c7019b9ccfa40800000000000000
+      internalID: 5403415449620482173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_222
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78328e14b9aee9140800000000000000
+      internalID: 4728474611332162439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_223
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 5
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40649419b6f2a6e70800000000000000
+      internalID: 9109145335355753988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_224
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0a6ec492667c3f0800000000000000
+      internalID: -880622874557767460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_225
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 7
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b9a69dcf5115ce0800000000000000
+      internalID: -1418328231921411270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_226
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be10ca4c580834850800000000000000
+      internalID: 6360068410795885035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_227
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 9
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4665aa8524cf83130800000000000000
+      internalID: 3546862068439864932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_228
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 18
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79b2d2ee43062a00800000000000000
+      internalID: 731275626842077562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_229
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f903e1d8befad8260800000000000000
+      internalID: 7101525613652881567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_230
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 15
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0949b3c944acd41e0800000000000000
+      internalID: -2211889445941308272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_231
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 15
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23de0812103942e0800000000000000
+      internalID: -2141127293566790865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_232
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 12
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd18c4f4270e47310800000000000000
+      internalID: 1401992165580374493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_233
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 16
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32b93c15757f8cd0800000000000000
+      internalID: -2553693317850615234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_234
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 16
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce2982840e603500800000000000000
+      internalID: 373919734720704195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_235
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 20
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd102de608d4aae0800000000000000
+      internalID: -1538867648394158595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_236
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 15
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfa658ea323ab430800000000000000
+      internalID: 3799404464227921855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_237
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 4
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e55135f91501100800000000000000
+      internalID: 76650938400857702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_238
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e564673c134ad880800000000000000
+      internalID: -8585475951160957464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_239
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1871ee822a0e071d0800000000000000
+      internalID: -3354934735315003519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_240
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb0991d5e3675f00800000000000000
+      internalID: 1105462072257874871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTrial_Intro_241
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477533b03809163a0800000000000000
+      internalID: -6673894280283334796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

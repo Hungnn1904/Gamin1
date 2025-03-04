@@ -1,0 +1,4655 @@
+fileFormatVersion: 2
+guid: b3b7051032170fe46b6422f48b26a99d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1303934145221619228
+    second: Withdrawal_Outro_0
+  - first:
+      213: -2492986848635537881
+    second: Withdrawal_Outro_1
+  - first:
+      213: -2544667097007787756
+    second: Withdrawal_Outro_2
+  - first:
+      213: -8320699691825353460
+    second: Withdrawal_Outro_3
+  - first:
+      213: -872576319278105664
+    second: Withdrawal_Outro_4
+  - first:
+      213: -5247054545619450339
+    second: Withdrawal_Outro_5
+  - first:
+      213: 7069216327134713853
+    second: Withdrawal_Outro_6
+  - first:
+      213: -5017300829431007950
+    second: Withdrawal_Outro_7
+  - first:
+      213: 7230869746116158866
+    second: Withdrawal_Outro_8
+  - first:
+      213: -6073026825444766589
+    second: Withdrawal_Outro_9
+  - first:
+      213: -7905916862889419552
+    second: Withdrawal_Outro_10
+  - first:
+      213: 6550819733668614968
+    second: Withdrawal_Outro_11
+  - first:
+      213: 6288133441091847781
+    second: Withdrawal_Outro_12
+  - first:
+      213: -7069908980012781876
+    second: Withdrawal_Outro_13
+  - first:
+      213: -1113697749002804709
+    second: Withdrawal_Outro_14
+  - first:
+      213: 9061843553077139189
+    second: Withdrawal_Outro_15
+  - first:
+      213: -1307612166245660499
+    second: Withdrawal_Outro_16
+  - first:
+      213: -2056761323262623456
+    second: Withdrawal_Outro_17
+  - first:
+      213: 5228387006072883618
+    second: Withdrawal_Outro_18
+  - first:
+      213: 1713034925183415440
+    second: Withdrawal_Outro_19
+  - first:
+      213: 360501184198920682
+    second: Withdrawal_Outro_20
+  - first:
+      213: 2060298734085623892
+    second: Withdrawal_Outro_21
+  - first:
+      213: 852029948271153169
+    second: Withdrawal_Outro_22
+  - first:
+      213: 690013446543645506
+    second: Withdrawal_Outro_23
+  - first:
+      213: -4343733893660993485
+    second: Withdrawal_Outro_24
+  - first:
+      213: -3347836445898527496
+    second: Withdrawal_Outro_25
+  - first:
+      213: 3701635050612807942
+    second: Withdrawal_Outro_26
+  - first:
+      213: 5594569935442832480
+    second: Withdrawal_Outro_27
+  - first:
+      213: 4505217935563387460
+    second: Withdrawal_Outro_28
+  - first:
+      213: -1629695638243337072
+    second: Withdrawal_Outro_29
+  - first:
+      213: -2078181895898600248
+    second: Withdrawal_Outro_30
+  - first:
+      213: -8540205188026257114
+    second: Withdrawal_Outro_31
+  - first:
+      213: 9185986452132955098
+    second: Withdrawal_Outro_32
+  - first:
+      213: 3043466099464819346
+    second: Withdrawal_Outro_33
+  - first:
+      213: 6878229545949756112
+    second: Withdrawal_Outro_34
+  - first:
+      213: 5651086888015044334
+    second: Withdrawal_Outro_35
+  - first:
+      213: -5527014227377431178
+    second: Withdrawal_Outro_36
+  - first:
+      213: 7246994830952349704
+    second: Withdrawal_Outro_37
+  - first:
+      213: 4973567846159584734
+    second: Withdrawal_Outro_38
+  - first:
+      213: -5192627327363630749
+    second: Withdrawal_Outro_39
+  - first:
+      213: 5007505293952609268
+    second: Withdrawal_Outro_40
+  - first:
+      213: 3431053202398525885
+    second: Withdrawal_Outro_41
+  - first:
+      213: -3917427258979484937
+    second: Withdrawal_Outro_42
+  - first:
+      213: -4765713842431243052
+    second: Withdrawal_Outro_43
+  - first:
+      213: -1457137144982577314
+    second: Withdrawal_Outro_44
+  - first:
+      213: 4299142623213396992
+    second: Withdrawal_Outro_45
+  - first:
+      213: -5288063328437740191
+    second: Withdrawal_Outro_46
+  - first:
+      213: -8520797780871362562
+    second: Withdrawal_Outro_47
+  - first:
+      213: 1677786055433238028
+    second: Withdrawal_Outro_48
+  - first:
+      213: -7778825490317978201
+    second: Withdrawal_Outro_49
+  - first:
+      213: -6490580206996391846
+    second: Withdrawal_Outro_50
+  - first:
+      213: 5823302718950425738
+    second: Withdrawal_Outro_51
+  - first:
+      213: -4698266581303221827
+    second: Withdrawal_Outro_52
+  - first:
+      213: -974749442802587040
+    second: Withdrawal_Outro_53
+  - first:
+      213: 120695409263167768
+    second: Withdrawal_Outro_54
+  - first:
+      213: 1772585011168140560
+    second: Withdrawal_Outro_55
+  - first:
+      213: 8250052669086885244
+    second: Withdrawal_Outro_56
+  - first:
+      213: -2240473097074411330
+    second: Withdrawal_Outro_57
+  - first:
+      213: -4870459925642510266
+    second: Withdrawal_Outro_58
+  - first:
+      213: -4567109263393034153
+    second: Withdrawal_Outro_59
+  - first:
+      213: -7248245566545335318
+    second: Withdrawal_Outro_60
+  - first:
+      213: 4895342831280699064
+    second: Withdrawal_Outro_61
+  - first:
+      213: -5663316727041334058
+    second: Withdrawal_Outro_62
+  - first:
+      213: -7265090095747979442
+    second: Withdrawal_Outro_63
+  - first:
+      213: -414456840756283127
+    second: Withdrawal_Outro_64
+  - first:
+      213: -6417578575899995667
+    second: Withdrawal_Outro_65
+  - first:
+      213: -665690573177226746
+    second: Withdrawal_Outro_66
+  - first:
+      213: 5357269528712616247
+    second: Withdrawal_Outro_67
+  - first:
+      213: -1715498071736285813
+    second: Withdrawal_Outro_68
+  - first:
+      213: -2070587683368244399
+    second: Withdrawal_Outro_69
+  - first:
+      213: 4004018633296996034
+    second: Withdrawal_Outro_70
+  - first:
+      213: -6597438444121507128
+    second: Withdrawal_Outro_71
+  - first:
+      213: -8642634361978123628
+    second: Withdrawal_Outro_72
+  - first:
+      213: -2061414884811424269
+    second: Withdrawal_Outro_73
+  - first:
+      213: -2632664028811587891
+    second: Withdrawal_Outro_74
+  - first:
+      213: -7352378780629369279
+    second: Withdrawal_Outro_75
+  - first:
+      213: -168934039085721928
+    second: Withdrawal_Outro_76
+  - first:
+      213: -3989015845683913179
+    second: Withdrawal_Outro_77
+  - first:
+      213: -3119300820753760572
+    second: Withdrawal_Outro_78
+  - first:
+      213: -3694743015734682453
+    second: Withdrawal_Outro_79
+  - first:
+      213: -7242857184149381589
+    second: Withdrawal_Outro_80
+  - first:
+      213: -3036995847193002095
+    second: Withdrawal_Outro_81
+  - first:
+      213: -5682875049150342395
+    second: Withdrawal_Outro_82
+  - first:
+      213: -5494725121378777275
+    second: Withdrawal_Outro_83
+  - first:
+      213: -3068067685550371616
+    second: Withdrawal_Outro_84
+  - first:
+      213: 4129380022087312074
+    second: Withdrawal_Outro_85
+  - first:
+      213: 8907773945649432828
+    second: Withdrawal_Outro_86
+  - first:
+      213: -7870995931236039920
+    second: Withdrawal_Outro_87
+  - first:
+      213: -5297317062027138514
+    second: Withdrawal_Outro_88
+  - first:
+      213: 5070536220804632578
+    second: Withdrawal_Outro_89
+  - first:
+      213: -8302472292677545687
+    second: Withdrawal_Outro_90
+  - first:
+      213: 7640801836168799248
+    second: Withdrawal_Outro_91
+  - first:
+      213: -5341514069775836205
+    second: Withdrawal_Outro_92
+  - first:
+      213: 8532903051789846630
+    second: Withdrawal_Outro_93
+  - first:
+      213: 6614077669527381622
+    second: Withdrawal_Outro_94
+  - first:
+      213: 7371349088513219000
+    second: Withdrawal_Outro_95
+  - first:
+      213: 7138958653109642867
+    second: Withdrawal_Outro_96
+  - first:
+      213: 1165459612473398115
+    second: Withdrawal_Outro_97
+  - first:
+      213: -7089577207126636003
+    second: Withdrawal_Outro_98
+  - first:
+      213: 1580879904380087439
+    second: Withdrawal_Outro_99
+  - first:
+      213: -4172961376186949934
+    second: Withdrawal_Outro_100
+  - first:
+      213: 8930436640321860364
+    second: Withdrawal_Outro_101
+  - first:
+      213: 9187434134238718281
+    second: Withdrawal_Outro_102
+  - first:
+      213: -4922322320957730176
+    second: Withdrawal_Outro_103
+  - first:
+      213: -6072868004208028490
+    second: Withdrawal_Outro_104
+  - first:
+      213: -7335414129904995556
+    second: Withdrawal_Outro_105
+  - first:
+      213: -6168260380532202583
+    second: Withdrawal_Outro_106
+  - first:
+      213: -2914222495670518042
+    second: Withdrawal_Outro_107
+  - first:
+      213: 1820913041994415596
+    second: Withdrawal_Outro_108
+  - first:
+      213: 5705796257859769309
+    second: Withdrawal_Outro_109
+  - first:
+      213: 1126004024831196003
+    second: Withdrawal_Outro_110
+  - first:
+      213: -1164706852620645432
+    second: Withdrawal_Outro_111
+  - first:
+      213: -6454137343082124711
+    second: Withdrawal_Outro_112
+  - first:
+      213: 845200367485110832
+    second: Withdrawal_Outro_113
+  - first:
+      213: 4945327318612267078
+    second: Withdrawal_Outro_114
+  - first:
+      213: -6344841263551512523
+    second: Withdrawal_Outro_115
+  - first:
+      213: 8805334176117687470
+    second: Withdrawal_Outro_116
+  - first:
+      213: 3513610836509688953
+    second: Withdrawal_Outro_117
+  - first:
+      213: 3626790024296946662
+    second: Withdrawal_Outro_118
+  - first:
+      213: 1058527711728127207
+    second: Withdrawal_Outro_119
+  - first:
+      213: -4336895563032893212
+    second: Withdrawal_Outro_120
+  - first:
+      213: -6235570144338102590
+    second: Withdrawal_Outro_121
+  - first:
+      213: -1804320425250708880
+    second: Withdrawal_Outro_122
+  - first:
+      213: 7673954349052512187
+    second: Withdrawal_Outro_123
+  - first:
+      213: 766475476653163987
+    second: Withdrawal_Outro_124
+  - first:
+      213: -1766601598379999947
+    second: Withdrawal_Outro_125
+  - first:
+      213: 3811458559695022726
+    second: Withdrawal_Outro_126
+  - first:
+      213: 4803677013747971107
+    second: Withdrawal_Outro_127
+  - first:
+      213: 2275326475928535440
+    second: Withdrawal_Outro_128
+  - first:
+      213: -7140486885648275388
+    second: Withdrawal_Outro_129
+  - first:
+      213: -1126777080310746768
+    second: Withdrawal_Outro_130
+  - first:
+      213: 4416262345377134541
+    second: Withdrawal_Outro_131
+  - first:
+      213: 1071846016217068496
+    second: Withdrawal_Outro_132
+  - first:
+      213: 5132407327487493603
+    second: Withdrawal_Outro_133
+  - first:
+      213: -2246302029891496383
+    second: Withdrawal_Outro_134
+  - first:
+      213: -6668851193956190134
+    second: Withdrawal_Outro_135
+  - first:
+      213: -1610077006901350453
+    second: Withdrawal_Outro_136
+  - first:
+      213: 5122356051294880798
+    second: Withdrawal_Outro_137
+  - first:
+      213: 4748354520785363011
+    second: Withdrawal_Outro_138
+  - first:
+      213: 2664706300816110078
+    second: Withdrawal_Outro_139
+  - first:
+      213: 5100258679233315483
+    second: Withdrawal_Outro_140
+  - first:
+      213: -7410760776603543048
+    second: Withdrawal_Outro_141
+  - first:
+      213: 2132536939543156113
+    second: Withdrawal_Outro_142
+  - first:
+      213: 343848186032780816
+    second: Withdrawal_Outro_143
+  - first:
+      213: -8271691111985373696
+    second: Withdrawal_Outro_144
+  - first:
+      213: -5471762696658796869
+    second: Withdrawal_Outro_145
+  - first:
+      213: -27455865004092305
+    second: Withdrawal_Outro_146
+  - first:
+      213: -5801381476446045091
+    second: Withdrawal_Outro_147
+  - first:
+      213: 2483842879889612538
+    second: Withdrawal_Outro_148
+  - first:
+      213: -1029145822515763516
+    second: Withdrawal_Outro_149
+  - first:
+      213: -633151337271560960
+    second: Withdrawal_Outro_150
+  - first:
+      213: -8164819578780030810
+    second: Withdrawal_Outro_151
+  - first:
+      213: 1512055731075174430
+    second: Withdrawal_Outro_152
+  - first:
+      213: 3379816497454986203
+    second: Withdrawal_Outro_153
+  - first:
+      213: 1246684784552741864
+    second: Withdrawal_Outro_154
+  - first:
+      213: -1730797770964808880
+    second: Withdrawal_Outro_155
+  - first:
+      213: -7543770945591983464
+    second: Withdrawal_Outro_156
+  - first:
+      213: 4524517548649044040
+    second: Withdrawal_Outro_157
+  - first:
+      213: -7936236611920887753
+    second: Withdrawal_Outro_158
+  - first:
+      213: -7503161297902215252
+    second: Withdrawal_Outro_159
+  - first:
+      213: 4143931239475489068
+    second: Withdrawal_Outro_160
+  - first:
+      213: -1315771219267259916
+    second: Withdrawal_Outro_161
+  - first:
+      213: -8070856736152443870
+    second: Withdrawal_Outro_162
+  - first:
+      213: -2166708933962387928
+    second: Withdrawal_Outro_163
+  - first:
+      213: 844501299529107559
+    second: Withdrawal_Outro_164
+  - first:
+      213: -5404893947162908233
+    second: Withdrawal_Outro_165
+  - first:
+      213: -4322243592864314787
+    second: Withdrawal_Outro_166
+  - first:
+      213: 9019979580045512676
+    second: Withdrawal_Outro_167
+  - first:
+      213: -2031853668667544654
+    second: Withdrawal_Outro_168
+  - first:
+      213: -882275998723567718
+    second: Withdrawal_Outro_169
+  - first:
+      213: 2343845608508771534
+    second: Withdrawal_Outro_170
+  - first:
+      213: 807130392199190860
+    second: Withdrawal_Outro_171
+  - first:
+      213: -6293750318490257834
+    second: Withdrawal_Outro_172
+  - first:
+      213: 2427969347352616015
+    second: Withdrawal_Outro_173
+  - first:
+      213: 3440979181712398433
+    second: Withdrawal_Outro_174
+  - first:
+      213: -2182197508914093893
+    second: Withdrawal_Outro_175
+  - first:
+      213: -7704008992044306139
+    second: Withdrawal_Outro_176
+  - first:
+      213: 3661560128227804519
+    second: Withdrawal_Outro_177
+  - first:
+      213: 4346872822530925667
+    second: Withdrawal_Outro_178
+  - first:
+      213: -4433646970933658657
+    second: Withdrawal_Outro_179
+  - first:
+      213: 5725719952498098737
+    second: Withdrawal_Outro_180
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Withdrawal_Outro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eef605231881210800000000000000
+      internalID: 1303934145221619228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 315
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726bb596ba1276dd0800000000000000
+      internalID: -2492986848635537881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 411
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411f93be1c68facd0800000000000000
+      internalID: -2544667097007787756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 411
+        width: 38
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d2c0a17bfe68c80800000000000000
+      internalID: -8320699691825353460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 301
+        width: 194
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbb202f57cf3e3f0800000000000000
+      internalID: -872576319278105664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 443
+        width: 32
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16014bd0b7be27b0800000000000000
+      internalID: -5247054545619450339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 491
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df791439bc6ea1260800000000000000
+      internalID: 7069216327134713853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 458
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235fd7a7a77fe5ab0800000000000000
+      internalID: -5017300829431007950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 361
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2956f5a29b5395460800000000000000
+      internalID: 7230869746116158866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 409
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c42fd474648bba0800000000000000
+      internalID: -6073026825444766589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 289
+        width: 50
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec94b3208a884290800000000000000
+      internalID: -7905916862889419552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 299
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833dfec07df29ea50800000000000000
+      internalID: 6550819733668614968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 327
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566c8887c00f34750800000000000000
+      internalID: 6288133441091847781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 305
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce6efb9d33a2ed90800000000000000
+      internalID: -7069908980012781876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 309
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1229834cc95b80f0800000000000000
+      internalID: -1113697749002804709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 306
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6935723b222cd70800000000000000
+      internalID: 9061843553077139189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 303
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8c2fea9ad6adde0800000000000000
+      internalID: -1307612166245660499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0214b23497ae473e0800000000000000
+      internalID: -2056761323262623456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_18
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a90e35e746fe8840800000000000000
+      internalID: 5228387006072883618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_19
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 304
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094356b303ce5c710800000000000000
+      internalID: 1713034925183415440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 303
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9c841cae1c00500800000000000000
+      internalID: 360501184198920682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_21
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 301
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4505c5068c6a79c10800000000000000
+      internalID: 2060298734085623892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 252
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11052b449b403db00800000000000000
+      internalID: 852029948271153169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 275
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b1a73e29b639900800000000000000
+      internalID: 690013446543645506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 285
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338138da905f7b3c0800000000000000
+      internalID: -4343733893660993485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 285
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcac147d781a81d0800000000000000
+      internalID: -3347836445898527496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 107
+        width: 145
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60959e76779de5330800000000000000
+      internalID: 3701635050612807942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 271
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c662907b7e3ad40800000000000000
+      internalID: 5594569935442832480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_28
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 267
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44279fcb7dfb58e30800000000000000
+      internalID: 4505217935563387460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_29
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 267
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c908693782269e0800000000000000
+      internalID: -1629695638243337072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_30
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 280
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cce05c8390d823e0800000000000000
+      internalID: -2078181895898600248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_31
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 271
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6213fb221a81b7980800000000000000
+      internalID: -8540205188026257114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 268
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad38fee320e2b7f70800000000000000
+      internalID: 9185986452132955098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 253
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2925b80ea409c3a20800000000000000
+      internalID: 3043466099464819346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 267
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da7ee16451647f50800000000000000
+      internalID: 6878229545949756112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 267
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee110b7591bc6e40800000000000000
+      internalID: 5651086888015044334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 253
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d53a4f7d91c43b0800000000000000
+      internalID: -5527014227377431178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_37
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 268
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800c10c076f729460800000000000000
+      internalID: 7246994830952349704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_38
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 275
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd85a0ea99a50540800000000000000
+      internalID: 4973567846159584734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 271
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369318d15f410f7b0800000000000000
+      internalID: -5192627327363630749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_40
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 268
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbeee0b88b3e7540800000000000000
+      internalID: 5007505293952609268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_41
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 257
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db93e6685bc8d9f20800000000000000
+      internalID: 3431053202398525885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_42
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 268
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa7813d9a082a9c0800000000000000
+      internalID: -3917427258979484937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 253
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc49b89288ccddb0800000000000000
+      internalID: -4765713842431243052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_44
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 260
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f5944ac7537cbe0800000000000000
+      internalID: -1457137144982577314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 254
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004206f107f99ab30800000000000000
+      internalID: 4299142623213396992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 253
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dd2be8b660d96b0800000000000000
+      internalID: -5288063328437740191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 253
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7c93c309b00c980800000000000000
+      internalID: -8520797780871362562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 253
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06b3333781b84710800000000000000
+      internalID: 1677786055433238028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 260
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5d7d73e6f0c0490800000000000000
+      internalID: -7778825490317978201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_50
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 253
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a587cc7b0b3dce5a0800000000000000
+      internalID: -6490580206996391846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a844b9e38f680d050800000000000000
+      internalID: 5823302718950425738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 239
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db12551df676cceb0800000000000000
+      internalID: -4698266581303221827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_53
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 237
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aedb4db8ef872f0800000000000000
+      internalID: -974749442802587040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 237
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819c623d5dbcca100800000000000000
+      internalID: 120695409263167768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_55
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 239
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ddbd41dac799810800000000000000
+      internalID: 1772585011168140560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 236
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75ef2f11331e7270800000000000000
+      internalID: 8250052669086885244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_57
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 235
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb87f08b69d38e0e0800000000000000
+      internalID: -2240473097074411330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 239
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6408d4f9086a86cb0800000000000000
+      internalID: -4870459925642510266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 235
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750ff01925e5e90c0800000000000000
+      internalID: -4567109263393034153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_60
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 236
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebe3416f0f096b90800000000000000
+      internalID: -7248245566545335318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 237
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6bd305e50cfe340800000000000000
+      internalID: 4895342831280699064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_62
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 237
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d46c2a317bd761b0800000000000000
+      internalID: -5663316727041334058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_63
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 239
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47abbdcc073d2b90800000000000000
+      internalID: -7265090095747979442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_64
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 236
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909bdfff2bd8f3af0800000000000000
+      internalID: -414456840756283127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 213
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1d259794e20f6a0800000000000000
+      internalID: -6417578575899995667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60af17f53fdf2c6f0800000000000000
+      internalID: -665690573177226746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 223
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73990f89048d85a40800000000000000
+      internalID: 5357269528712616247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_68
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 220
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b858a45c7935138e0800000000000000
+      internalID: -1715498071736285813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 204
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b6980f87bc343e0800000000000000
+      internalID: -2070587683368244399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_70
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 225
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c666b79bb1219730800000000000000
+      internalID: 4004018633296996034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_71
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 228
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cab1a690b03174a0800000000000000
+      internalID: -6597438444121507128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_72
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 228
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a85b2a6d13f0880800000000000000
+      internalID: -8642634361978123628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 225
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdbc1885126463e0800000000000000
+      internalID: -2061414884811424269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_74
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 204
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce8cb5a306e67bd0800000000000000
+      internalID: -2632664028811587891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_75
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 220
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e777e147a17f990800000000000000
+      internalID: -7352378780629369279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_76
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 223
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6d2d1f263d7adf0800000000000000
+      internalID: -168934039085721928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_77
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 220
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e1b9a193b24a8c0800000000000000
+      internalID: -3989015845683913179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_78
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 206
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce33672e6406b4d0800000000000000
+      internalID: -3119300820753760572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_79
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 209
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac57c28dc2a9bcc0800000000000000
+      internalID: -3694743015734682453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_80
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 209
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ed3ebe3c33c7b90800000000000000
+      internalID: -7242857184149381589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_81
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 220
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f79bf1e5c6ad5d0800000000000000
+      internalID: -3036995847193002095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 220
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b9670804f5221b0800000000000000
+      internalID: -5682875049150342395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_83
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 207
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5478dc94d90deb3b0800000000000000
+      internalID: -5494725121378777275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_84
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 204
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec4aeff1b80c65d0800000000000000
+      internalID: -3068067685550371616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 203
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2eb1f60418e4930800000000000000
+      internalID: 4129380022087312074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_86
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 204
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf80ae94535ce9b70800000000000000
+      internalID: 8907773945649432828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_87
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 204
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013812227ea94c290800000000000000
+      internalID: -7870995931236039920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_88
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 203
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aa14fc2362c76b0800000000000000
+      internalID: -5297317062027138514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_89
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 204
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200dfc5f3d92e5640800000000000000
+      internalID: 5070536220804632578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_90
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 207
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9219e6d2071b7cc80800000000000000
+      internalID: -8302472292677545687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0146efb89c4990a60800000000000000
+      internalID: 7640801836168799248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_92
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 189
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db924c01412fd5b0800000000000000
+      internalID: -5341514069775836205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_93
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668c7c8cd16fa6670800000000000000
+      internalID: 8532903051789846630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_94
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 195
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676e509f89ce9cb50800000000000000
+      internalID: 6614077669527381622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_95
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 188
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9da30e0fa4c4660800000000000000
+      internalID: 7371349088513219000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_96
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 187
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3762dc8321da21360800000000000000
+      internalID: 7138958653109642867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_97
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 187
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3639a89b75b8c2010800000000000000
+      internalID: 1165459612473398115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_98
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 188
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ac281a713cc9d90800000000000000
+      internalID: -7089577207126636003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_99
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 195
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ce02da5e960f510800000000000000
+      internalID: 1580879904380087439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 189
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de93f6dcb9a616c0800000000000000
+      internalID: -4172961376186949934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_101
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0374831fc84feb70800000000000000
+      internalID: 8930436640321860364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_102
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 188
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949e8900ba2508f70800000000000000
+      internalID: 9187434134238718281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 186
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082965dbde560bbb0800000000000000
+      internalID: -4922322320957730176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_104
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 186
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b45851c9b6d8bba0800000000000000
+      internalID: -6072868004208028490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 189
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13b1aaa6bf533a90800000000000000
+      internalID: -7335414129904995556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_106
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 189
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a323406ddfe56aa0800000000000000
+      internalID: -6168260380532202583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 156
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee3b15941a9e87d0800000000000000
+      internalID: -2914222495670518042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_108
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 160
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedf3fa93ce254910800000000000000
+      internalID: 1820913041994415596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_109
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 172
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd31c76477f0f2f40800000000000000
+      internalID: 5705796257859769309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 172
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b39bbd1be50af00800000000000000
+      internalID: 1126004024831196003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_111
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 160
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb4516d94126dfe0800000000000000
+      internalID: -1164706852620645432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_112
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 156
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95aa10e284c4e66a0800000000000000
+      internalID: -6454137343082124711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_113
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 96
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03acaf39141cabb00800000000000000
+      internalID: 845200367485110832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_114
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6405bebaef451a440800000000000000
+      internalID: 4945327318612267078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_115
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 149
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53085c9bc7892f7a0800000000000000
+      internalID: -6344841263551512523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_116
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 148
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea40a10d7c4d23a70800000000000000
+      internalID: 8805334176117687470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_117
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9748f1d907ad2c030800000000000000
+      internalID: 3513610836509688953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_118
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 156
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb5621cf42f45230800000000000000
+      internalID: 3626790024296946662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_119
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 158
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec46727855a0be00800000000000000
+      internalID: 1058527711728127207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_120
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 156
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8e479967040d3c0800000000000000
+      internalID: -4336895563032893212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_121
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c632bebdfdc679a0800000000000000
+      internalID: -6235570144338102590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_122
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 135
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07223f70224c5f6e0800000000000000
+      internalID: -1804320425250708880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_123
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 125
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7c6d572dc5f7a60800000000000000
+      internalID: 7673954349052512187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_124
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 140
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5c5f2926113aa00800000000000000
+      internalID: 766475476653163987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_125
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 123
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d3ce4c435cb77e0800000000000000
+      internalID: -1766601598379999947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_126
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 141
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a6eb6bd5505e430800000000000000
+      internalID: 3811458559695022726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_127
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 143
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32438240bc61aa240800000000000000
+      internalID: 4803677013747971107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_128
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 141
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09103c9ef55939f10800000000000000
+      internalID: 2275326475928535440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 140
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44869996205e7ec90800000000000000
+      internalID: -7140486885648275388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 123
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071b6032732ec50f0800000000000000
+      internalID: -1126777080310746768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_131
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 125
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7332b6437b94d30800000000000000
+      internalID: 4416262345377134541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_132
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 135
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3398ad546ffde00800000000000000
+      internalID: 1071846016217068496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_133
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 129
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5018d8549f93740800000000000000
+      internalID: 5132407327487493603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 125
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146141a843883d0e0800000000000000
+      internalID: -2246302029891496383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_135
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 129
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a483d441c2b7373a0800000000000000
+      internalID: -6668851193956190134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_136
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 115
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfee962e7bd7a9e0800000000000000
+      internalID: -1610077006901350453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_137
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 115
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14018270b3461740800000000000000
+      internalID: 5122356051294880798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_138
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340280f574b85e140800000000000000
+      internalID: 4748354520785363011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_139
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1b3ea2340faf420800000000000000
+      internalID: 2664706300816110078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_140
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 106
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b920e461f32c7c640800000000000000
+      internalID: 5100258679233315483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_141
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 114
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9d52b6650b72990800000000000000
+      internalID: -7410760776603543048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_142
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 106
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1955edf3c0b489d10800000000000000
+      internalID: 2132536939543156113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_143
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 114
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01675297a1895c400800000000000000
+      internalID: 343848186032780816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_144
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e1b5a42cc053d80800000000000000
+      internalID: -8271691111985373696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_145
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe3b6a61d46014b0800000000000000
+      internalID: -5471762696658796869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_146
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 84
+        width: 91
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f641e6749057e9ff0800000000000000
+      internalID: -27455865004092305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_147
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cf6e1c84a5d7fa0800000000000000
+      internalID: -5801381476446045091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_148
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe14b570f1687220800000000000000
+      internalID: 2483842879889612538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_149
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 92
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6eedab35db7b1f0800000000000000
+      internalID: -1029145822515763516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_150
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 90
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0057ddc96389637f0800000000000000
+      internalID: -633151337271560960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_151
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 95
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a869a72adbb0be80800000000000000
+      internalID: -8164819578780030810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_152
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10545b1da6ebf410800000000000000
+      internalID: 1512055731075174430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_153
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 90
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd33fc8823587ee20800000000000000
+      internalID: 3379816497454986203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_154
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 92
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb8622d43d1d4110800000000000000
+      internalID: 1246684784552741864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_155
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 95
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bca93f898faf7e0800000000000000
+      internalID: -1730797770964808880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_156
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 14
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892c3192b442f4790800000000000000
+      internalID: -7543770945591983464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_157
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8485f331db05ace30800000000000000
+      internalID: 4524517548649044040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_158
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 77
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730810579d2dcd190800000000000000
+      internalID: -7936236611920887753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_159
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 77
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf54129d8a6fd790800000000000000
+      internalID: -7503161297902215252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_160
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 78
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29a49eb183328930800000000000000
+      internalID: 4143931239475489068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_161
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 78
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f174ed1c017dbde0800000000000000
+      internalID: -1315771219267259916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_162
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 77
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224a0984f8e8eff80800000000000000
+      internalID: -8070856736152443870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_163
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 77
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ea18b44bd4ee1e0800000000000000
+      internalID: -2166708933962387928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_164
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768c9c2257548bb00800000000000000
+      internalID: 844501299529107559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 50
+        width: 91
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b922b66795fdf4b0800000000000000
+      internalID: -5404893947162908233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_166
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 67
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a4d9e3a5e4404c0800000000000000
+      internalID: -4322243592864314787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_167
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 76
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efc3ed53a76d2d70800000000000000
+      internalID: 9019979580045512676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_168
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 76
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb2f738ad76dc3e0800000000000000
+      internalID: -2031853668667544654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 90
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f8a3657a681c3f0800000000000000
+      internalID: -882275998723567718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_170
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 42
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc4687a923078020800000000000000
+      internalID: 2343845608508771534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_171
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 25
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49547ab0d0833b00800000000000000
+      internalID: 807130392199190860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_172
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 21
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656f2695e6b18a8a0800000000000000
+      internalID: -6293750318490257834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_173
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 25
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c5d7ae141e1b120800000000000000
+      internalID: 2427969347352616015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_174
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 33
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1685b7da550d0cf20800000000000000
+      internalID: 3440979181712398433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_175
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 43
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0ee6b6de647b1e0800000000000000
+      internalID: -2182197508914093893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_176
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 43
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521b8caa3acd51590800000000000000
+      internalID: -7704008992044306139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 126
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76580ce698970d230800000000000000
+      internalID: 3661560128227804519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_178
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36461c62dc1335c30800000000000000
+      internalID: 4346872822530925667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_179
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb330602958872c0800000000000000
+      internalID: -4433646970933658657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdrawal_Outro_180
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132040ce5f7d57f40800000000000000
+      internalID: 5725719952498098737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

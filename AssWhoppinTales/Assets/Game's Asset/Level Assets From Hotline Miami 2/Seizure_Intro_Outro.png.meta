@@ -1,0 +1,4355 @@
+fileFormatVersion: 2
+guid: d9654f8a02c98dd4488bc5d99aaa04ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2878079466368214264
+    second: Seizure_Intro_Outro_0
+  - first:
+      213: -2803292341651344502
+    second: Seizure_Intro_Outro_1
+  - first:
+      213: -6084232242884301720
+    second: Seizure_Intro_Outro_2
+  - first:
+      213: 7390627898391798188
+    second: Seizure_Intro_Outro_3
+  - first:
+      213: -6917234446064429273
+    second: Seizure_Intro_Outro_4
+  - first:
+      213: 1690232611545810965
+    second: Seizure_Intro_Outro_5
+  - first:
+      213: -334391665690107633
+    second: Seizure_Intro_Outro_6
+  - first:
+      213: 2107904602146609042
+    second: Seizure_Intro_Outro_7
+  - first:
+      213: -419748239604125398
+    second: Seizure_Intro_Outro_8
+  - first:
+      213: 5883969149212346692
+    second: Seizure_Intro_Outro_9
+  - first:
+      213: -6132729509057223091
+    second: Seizure_Intro_Outro_10
+  - first:
+      213: -5922717534408668919
+    second: Seizure_Intro_Outro_11
+  - first:
+      213: 9135280799599821881
+    second: Seizure_Intro_Outro_12
+  - first:
+      213: 4499065156065413470
+    second: Seizure_Intro_Outro_13
+  - first:
+      213: -8044710116868194106
+    second: Seizure_Intro_Outro_14
+  - first:
+      213: -2591630720913219879
+    second: Seizure_Intro_Outro_15
+  - first:
+      213: -1938839752484862948
+    second: Seizure_Intro_Outro_16
+  - first:
+      213: -6392070100194898957
+    second: Seizure_Intro_Outro_17
+  - first:
+      213: -3705612266216886221
+    second: Seizure_Intro_Outro_18
+  - first:
+      213: -3616599898029379634
+    second: Seizure_Intro_Outro_19
+  - first:
+      213: 1700308868972526053
+    second: Seizure_Intro_Outro_20
+  - first:
+      213: -6969269463697478369
+    second: Seizure_Intro_Outro_21
+  - first:
+      213: 1067058136013458678
+    second: Seizure_Intro_Outro_22
+  - first:
+      213: -5385154898814274045
+    second: Seizure_Intro_Outro_23
+  - first:
+      213: 7620197944631919395
+    second: Seizure_Intro_Outro_24
+  - first:
+      213: -7991797558377845200
+    second: Seizure_Intro_Outro_25
+  - first:
+      213: -5754044949292436484
+    second: Seizure_Intro_Outro_26
+  - first:
+      213: 7534218869119249741
+    second: Seizure_Intro_Outro_27
+  - first:
+      213: 8803228996821934597
+    second: Seizure_Intro_Outro_28
+  - first:
+      213: 4296022578920029152
+    second: Seizure_Intro_Outro_29
+  - first:
+      213: 6929573327417103718
+    second: Seizure_Intro_Outro_30
+  - first:
+      213: 1422069617870373134
+    second: Seizure_Intro_Outro_31
+  - first:
+      213: -7416923006578130162
+    second: Seizure_Intro_Outro_32
+  - first:
+      213: -6760978601570421019
+    second: Seizure_Intro_Outro_33
+  - first:
+      213: -5491282456317406042
+    second: Seizure_Intro_Outro_34
+  - first:
+      213: 7272530572371786543
+    second: Seizure_Intro_Outro_35
+  - first:
+      213: -608218666979510297
+    second: Seizure_Intro_Outro_36
+  - first:
+      213: 4722375483460431697
+    second: Seizure_Intro_Outro_37
+  - first:
+      213: -3273801420866428473
+    second: Seizure_Intro_Outro_38
+  - first:
+      213: 9062555312788258682
+    second: Seizure_Intro_Outro_39
+  - first:
+      213: 6219768158431052614
+    second: Seizure_Intro_Outro_40
+  - first:
+      213: 3910321466859639715
+    second: Seizure_Intro_Outro_41
+  - first:
+      213: 1827317657627260881
+    second: Seizure_Intro_Outro_42
+  - first:
+      213: -8509587295984360165
+    second: Seizure_Intro_Outro_43
+  - first:
+      213: 7965923901108868472
+    second: Seizure_Intro_Outro_44
+  - first:
+      213: -3437039770723863341
+    second: Seizure_Intro_Outro_45
+  - first:
+      213: 5569494596366275864
+    second: Seizure_Intro_Outro_46
+  - first:
+      213: -4354491446981359722
+    second: Seizure_Intro_Outro_47
+  - first:
+      213: -3765636652060105037
+    second: Seizure_Intro_Outro_48
+  - first:
+      213: -5740928976153511149
+    second: Seizure_Intro_Outro_49
+  - first:
+      213: 5076950080333262932
+    second: Seizure_Intro_Outro_50
+  - first:
+      213: 1043452608648072354
+    second: Seizure_Intro_Outro_51
+  - first:
+      213: -8758586288166380247
+    second: Seizure_Intro_Outro_52
+  - first:
+      213: 4923031668089636471
+    second: Seizure_Intro_Outro_53
+  - first:
+      213: 4657781652994917357
+    second: Seizure_Intro_Outro_54
+  - first:
+      213: 735586978629788024
+    second: Seizure_Intro_Outro_55
+  - first:
+      213: -2135918850574673168
+    second: Seizure_Intro_Outro_56
+  - first:
+      213: 3832488400857546576
+    second: Seizure_Intro_Outro_57
+  - first:
+      213: -5620759892711103290
+    second: Seizure_Intro_Outro_58
+  - first:
+      213: -3461940657024655231
+    second: Seizure_Intro_Outro_59
+  - first:
+      213: -4189643502450191555
+    second: Seizure_Intro_Outro_60
+  - first:
+      213: 6474895330633509883
+    second: Seizure_Intro_Outro_61
+  - first:
+      213: 6607776745228679494
+    second: Seizure_Intro_Outro_62
+  - first:
+      213: -968489020255815561
+    second: Seizure_Intro_Outro_63
+  - first:
+      213: 2963766235106178002
+    second: Seizure_Intro_Outro_64
+  - first:
+      213: 7278624955974703863
+    second: Seizure_Intro_Outro_65
+  - first:
+      213: -4619506653614989707
+    second: Seizure_Intro_Outro_66
+  - first:
+      213: -1188482919881495188
+    second: Seizure_Intro_Outro_67
+  - first:
+      213: -6887267461542544696
+    second: Seizure_Intro_Outro_68
+  - first:
+      213: 4559924629079463838
+    second: Seizure_Intro_Outro_69
+  - first:
+      213: -913438338749888988
+    second: Seizure_Intro_Outro_70
+  - first:
+      213: -7435823916122220026
+    second: Seizure_Intro_Outro_71
+  - first:
+      213: 254430188113341576
+    second: Seizure_Intro_Outro_72
+  - first:
+      213: -505538015213452329
+    second: Seizure_Intro_Outro_73
+  - first:
+      213: 373331388889183816
+    second: Seizure_Intro_Outro_74
+  - first:
+      213: -3791115025308035147
+    second: Seizure_Intro_Outro_75
+  - first:
+      213: -4086933315111809986
+    second: Seizure_Intro_Outro_76
+  - first:
+      213: -8667085810679661147
+    second: Seizure_Intro_Outro_77
+  - first:
+      213: 7480298326659069454
+    second: Seizure_Intro_Outro_78
+  - first:
+      213: 7576665362471107335
+    second: Seizure_Intro_Outro_79
+  - first:
+      213: 4817956480421239946
+    second: Seizure_Intro_Outro_80
+  - first:
+      213: -4188634452819591639
+    second: Seizure_Intro_Outro_81
+  - first:
+      213: 6259417992625132144
+    second: Seizure_Intro_Outro_82
+  - first:
+      213: 4296154111577879709
+    second: Seizure_Intro_Outro_83
+  - first:
+      213: 7340127824043537310
+    second: Seizure_Intro_Outro_84
+  - first:
+      213: -8429272756561546560
+    second: Seizure_Intro_Outro_85
+  - first:
+      213: -1732844030720979281
+    second: Seizure_Intro_Outro_86
+  - first:
+      213: 903174844096537711
+    second: Seizure_Intro_Outro_87
+  - first:
+      213: -7105298714327434512
+    second: Seizure_Intro_Outro_88
+  - first:
+      213: -4893062343467756456
+    second: Seizure_Intro_Outro_89
+  - first:
+      213: 7492246281935675554
+    second: Seizure_Intro_Outro_90
+  - first:
+      213: -5886422749464379093
+    second: Seizure_Intro_Outro_91
+  - first:
+      213: -4652436169022072426
+    second: Seizure_Intro_Outro_92
+  - first:
+      213: 3972358776203840687
+    second: Seizure_Intro_Outro_93
+  - first:
+      213: 6083199241067227067
+    second: Seizure_Intro_Outro_94
+  - first:
+      213: -1601374691648243822
+    second: Seizure_Intro_Outro_95
+  - first:
+      213: 1424606920869141874
+    second: Seizure_Intro_Outro_96
+  - first:
+      213: -3120125523746728819
+    second: Seizure_Intro_Outro_97
+  - first:
+      213: 7981230629673193066
+    second: Seizure_Intro_Outro_98
+  - first:
+      213: 7044861682214877355
+    second: Seizure_Intro_Outro_99
+  - first:
+      213: -7607303579125171196
+    second: Seizure_Intro_Outro_100
+  - first:
+      213: 8794518862632457087
+    second: Seizure_Intro_Outro_101
+  - first:
+      213: 4824271215396525444
+    second: Seizure_Intro_Outro_102
+  - first:
+      213: 1044429097507952192
+    second: Seizure_Intro_Outro_103
+  - first:
+      213: -2594718004545181484
+    second: Seizure_Intro_Outro_104
+  - first:
+      213: 5967353108193726246
+    second: Seizure_Intro_Outro_105
+  - first:
+      213: -7065407097988672055
+    second: Seizure_Intro_Outro_106
+  - first:
+      213: 6817932458840328396
+    second: Seizure_Intro_Outro_107
+  - first:
+      213: 8584979234728171806
+    second: Seizure_Intro_Outro_108
+  - first:
+      213: 3770671004272096718
+    second: Seizure_Intro_Outro_109
+  - first:
+      213: -4996392189740332540
+    second: Seizure_Intro_Outro_110
+  - first:
+      213: 2989940314664269824
+    second: Seizure_Intro_Outro_111
+  - first:
+      213: -7712866595061680672
+    second: Seizure_Intro_Outro_112
+  - first:
+      213: -8302651965492165629
+    second: Seizure_Intro_Outro_113
+  - first:
+      213: 3239197960372864933
+    second: Seizure_Intro_Outro_114
+  - first:
+      213: 1924891914727547078
+    second: Seizure_Intro_Outro_115
+  - first:
+      213: 4307351628535355447
+    second: Seizure_Intro_Outro_116
+  - first:
+      213: -580792553197562575
+    second: Seizure_Intro_Outro_117
+  - first:
+      213: -1163424685642880133
+    second: Seizure_Intro_Outro_118
+  - first:
+      213: 6634641359335775154
+    second: Seizure_Intro_Outro_119
+  - first:
+      213: -6447601698752037653
+    second: Seizure_Intro_Outro_120
+  - first:
+      213: -3499924856486867077
+    second: Seizure_Intro_Outro_121
+  - first:
+      213: -369614569053961560
+    second: Seizure_Intro_Outro_122
+  - first:
+      213: 5417488719307876627
+    second: Seizure_Intro_Outro_123
+  - first:
+      213: -2060169437625742806
+    second: Seizure_Intro_Outro_124
+  - first:
+      213: 5530959411457481311
+    second: Seizure_Intro_Outro_125
+  - first:
+      213: 5788678900543938468
+    second: Seizure_Intro_Outro_126
+  - first:
+      213: -106475103785971998
+    second: Seizure_Intro_Outro_127
+  - first:
+      213: -1038981206903943253
+    second: Seizure_Intro_Outro_128
+  - first:
+      213: 7980415834676844268
+    second: Seizure_Intro_Outro_129
+  - first:
+      213: -1782701697473436670
+    second: Seizure_Intro_Outro_130
+  - first:
+      213: 4144244497314853024
+    second: Seizure_Intro_Outro_131
+  - first:
+      213: 2744066655158749496
+    second: Seizure_Intro_Outro_132
+  - first:
+      213: 3478670272881409144
+    second: Seizure_Intro_Outro_133
+  - first:
+      213: 6575838862992760702
+    second: Seizure_Intro_Outro_134
+  - first:
+      213: -1406619007384571089
+    second: Seizure_Intro_Outro_135
+  - first:
+      213: 1668230543793482846
+    second: Seizure_Intro_Outro_136
+  - first:
+      213: -5153246964722172465
+    second: Seizure_Intro_Outro_137
+  - first:
+      213: -1203684213860809519
+    second: Seizure_Intro_Outro_138
+  - first:
+      213: 3623169756570421702
+    second: Seizure_Intro_Outro_139
+  - first:
+      213: -1978439081283365883
+    second: Seizure_Intro_Outro_140
+  - first:
+      213: 2395959445805942986
+    second: Seizure_Intro_Outro_141
+  - first:
+      213: 181939669461594596
+    second: Seizure_Intro_Outro_142
+  - first:
+      213: 4584919363170634029
+    second: Seizure_Intro_Outro_143
+  - first:
+      213: 5027618339260992281
+    second: Seizure_Intro_Outro_144
+  - first:
+      213: -2361463661257095269
+    second: Seizure_Intro_Outro_145
+  - first:
+      213: 5163521795393209547
+    second: Seizure_Intro_Outro_146
+  - first:
+      213: -8000057539113486270
+    second: Seizure_Intro_Outro_147
+  - first:
+      213: 451071932235156401
+    second: Seizure_Intro_Outro_148
+  - first:
+      213: 7453827408024267187
+    second: Seizure_Intro_Outro_149
+  - first:
+      213: -6233663818026888578
+    second: Seizure_Intro_Outro_150
+  - first:
+      213: -5199980332846896867
+    second: Seizure_Intro_Outro_151
+  - first:
+      213: 3385852339992381900
+    second: Seizure_Intro_Outro_152
+  - first:
+      213: -8914602950762511535
+    second: Seizure_Intro_Outro_153
+  - first:
+      213: -1746025468326110748
+    second: Seizure_Intro_Outro_154
+  - first:
+      213: 8847651286502548412
+    second: Seizure_Intro_Outro_155
+  - first:
+      213: 357123263094164854
+    second: Seizure_Intro_Outro_156
+  - first:
+      213: 2421288509256710470
+    second: Seizure_Intro_Outro_157
+  - first:
+      213: -8950586150827401223
+    second: Seizure_Intro_Outro_158
+  - first:
+      213: 9141215619613699347
+    second: Seizure_Intro_Outro_159
+  - first:
+      213: -6740050079921157113
+    second: Seizure_Intro_Outro_160
+  - first:
+      213: -287624623438861303
+    second: Seizure_Intro_Outro_161
+  - first:
+      213: -429737284222821443
+    second: Seizure_Intro_Outro_162
+  - first:
+      213: 8142167828196719410
+    second: Seizure_Intro_Outro_163
+  - first:
+      213: 6428826044404107781
+    second: Seizure_Intro_Outro_164
+  - first:
+      213: 4052267734129463583
+    second: Seizure_Intro_Outro_165
+  - first:
+      213: 5548408952452448502
+    second: Seizure_Intro_Outro_166
+  - first:
+      213: -1960380475771812384
+    second: Seizure_Intro_Outro_167
+  - first:
+      213: 7689695220530742992
+    second: Seizure_Intro_Outro_168
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f42934a60ef0f720800000000000000
+      internalID: 2878079466368214264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 465
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a837c4eb774b819d0800000000000000
+      internalID: -2803292341651344502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 561
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c27efb207709ba0800000000000000
+      internalID: -6084232242884301720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 561
+        width: 38
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca12cb69ae8c09660800000000000000
+      internalID: 7390627898391798188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 609
+        width: 100
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727db3e9beb0100a0800000000000000
+      internalID: -6917234446064429273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 627
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51808feda99e47710800000000000000
+      internalID: 1690232611545810965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 668
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01a0be3d800c5bf0800000000000000
+      internalID: -334391665690107633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 627
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2971c574118c04d10800000000000000
+      internalID: 2107904602146609042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 668
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21fc433331cc2af0800000000000000
+      internalID: -419748239604125398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_9
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 669
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449c82044ce08a150800000000000000
+      internalID: 5883969149212346692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 630
+        width: 120
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46a61d010b24eaa0800000000000000
+      internalID: -6132729509057223091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 609
+        width: 121
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909089848c74ecda0800000000000000
+      internalID: -5922717534408668919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_12
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 630
+        width: 119
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93408978c7907ce70800000000000000
+      internalID: 9135280799599821881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_13
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 647
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59cd902ce3ef6e30800000000000000
+      internalID: 4499065156065413470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 626
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0841b75c27b5090800000000000000
+      internalID: -8044710116868194106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 609
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de5af2279da80cd0800000000000000
+      internalID: -2591630720913219879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_16
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 626
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14cbbc748bd715e0800000000000000
+      internalID: -1938839752484862948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_17
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 614
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbcc7a4c1eca47a0800000000000000
+      internalID: -6392070100194898957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_18
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 564
+        width: 120
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330ffcce645039cc0800000000000000
+      internalID: -3705612266216886221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_19
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 613
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfae37ed814fcdc0800000000000000
+      internalID: -3616599898029379634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_20
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 613
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9bd8f58e5b89710800000000000000
+      internalID: 1700308868972526053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_21
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 612
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1da558f85e284f90800000000000000
+      internalID: -6969269463697478369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_22
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 611
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcc5cf98b3fece00800000000000000
+      internalID: 1067058136013458678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_23
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 611
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30678bbb6261445b0800000000000000
+      internalID: -5385154898814274045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_24
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 612
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32382f738a160c960800000000000000
+      internalID: 7620197944631919395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 564
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eed08867e671190800000000000000
+      internalID: -7991797558377845200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_26
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 564
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf33bc7da968520b0800000000000000
+      internalID: -5754044949292436484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_27
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 564
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4de5e9b42cee8860800000000000000
+      internalID: 7534218869119249741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_28
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 560
+        width: 104
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5026dff812a5b2a70800000000000000
+      internalID: 8803228996821934597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 449
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebf59336c98e9b30800000000000000
+      internalID: 4296022578920029152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_30
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 449
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665d7b11a3aca2060800000000000000
+      internalID: 6929573327417103718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_31
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 513
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e010a0378c43cb310800000000000000
+      internalID: 1422069617870373134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_32
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 513
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e030d7272dbc11990800000000000000
+      internalID: -7416923006578130162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_33
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 513
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6b06778cd2c22a0800000000000000
+      internalID: -6760978601570421019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_34
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 513
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4ddd533bb0bc3b0800000000000000
+      internalID: -5491282456317406042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_35
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 509
+        width: 104
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b736826083de460800000000000000
+      internalID: 7272530572371786543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_36
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 462
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7bce8485c2f87f0800000000000000
+      internalID: -608218666979510297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_37
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 462
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f2ca36b7f398140800000000000000
+      internalID: 4722375483460431697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_38
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 462
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1661cf3fe1192d0800000000000000
+      internalID: -3273801420866428473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_39
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 462
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fb210aa0aa4cd70800000000000000
+      internalID: 9062555312788258682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_40
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 461
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6438194bf2e015650800000000000000
+      internalID: 6219768158431052614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_41
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 482
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3d0c508a0444630800000000000000
+      internalID: 3910321466859639715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7fba26abfeb5910800000000000000
+      internalID: 1827317657627260881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 411
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15eca5a07fd7e980800000000000000
+      internalID: -8509587295984360165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_44
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 411
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87553613595ac8e60800000000000000
+      internalID: 7965923901108868472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_45
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 411
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d43d1be98e2d40d0800000000000000
+      internalID: -3437039770723863341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_46
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 411
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8159ed2b3d1da4d40800000000000000
+      internalID: 5569494596366275864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_47
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 443
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697033d991db193c0800000000000000
+      internalID: -4354491446981359722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_48
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 431
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b624c88a65cdbbc0800000000000000
+      internalID: -3765636652060105037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_49
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 360
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b7f9f438f1450b0800000000000000
+      internalID: -5740928976153511149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_50
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 360
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450b7a00333f47640800000000000000
+      internalID: 5076950080333262932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_51
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 360
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac4c6e7e961b7e00800000000000000
+      internalID: 1043452608648072354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_52
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 360
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d5c370d20437680800000000000000
+      internalID: -8758586288166380247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_53
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 359
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7764b72083f125440800000000000000
+      internalID: 4923031668089636471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_54
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 380
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de308144cb3c3a040800000000000000
+      internalID: 4657781652994917357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 309
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871a1a2b574553a00800000000000000
+      internalID: 735586978629788024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_56
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 309
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa9f6a3f11bb52e0800000000000000
+      internalID: -2135918850574673168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 254
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f3bea25ebbf2530800000000000000
+      internalID: 3832488400857546576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_58
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 308
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4213b58ac0ff1b0800000000000000
+      internalID: -5620759892711103290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 296
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18020988057b4ffc0800000000000000
+      internalID: -3461940657024655231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_60
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 308
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33dee4ae656bd5c0800000000000000
+      internalID: -4189643502450191555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_61
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 281
+        width: 72
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbee3c6ff27bd950800000000000000
+      internalID: 6474895330633509883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_62
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 292
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6493176b0f983bb50800000000000000
+      internalID: 6607776745228679494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_63
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 308
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77839ca0e5c3f82f0800000000000000
+      internalID: -968489020255815561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_64
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 277
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3fcc820b9612920800000000000000
+      internalID: 2963766235106178002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_65
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 258
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa5a2a65ded20560800000000000000
+      internalID: 7278624955974703863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_66
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 258
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e99b97c2734efb0800000000000000
+      internalID: -4619506653614989707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_67
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 275
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d28dac419a18fe0800000000000000
+      internalID: -1188482919881495188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 113
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca76a9ebb28b60a0800000000000000
+      internalID: -6887267461542544696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_69
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 173
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9716d66a4b184f30800000000000000
+      internalID: 4559924629079463838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_70
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 239
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4260796aba0d253f0800000000000000
+      internalID: -913438338749888988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_71
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 207
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a5e238b85aec890800000000000000
+      internalID: -7435823916122220026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_72
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 207
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ca1a678eae78300800000000000000
+      internalID: 254430188113341576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 155
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d30fb68ad7fbf8f0800000000000000
+      internalID: -505538015213452329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_74
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 192
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8463e329be65e2500800000000000000
+      internalID: 373331388889183816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_75
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 247
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b75edd78f0436bc0800000000000000
+      internalID: -3791115025308035147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_76
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 210
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c0d0cadcb4847c0800000000000000
+      internalID: -4086933315111809986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_77
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 210
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad3c98106358b780800000000000000
+      internalID: -8667085810679661147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_78
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 210
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06767e12bb5fc760800000000000000
+      internalID: 7480298326659069454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_79
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 206
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bb8181109b52960800000000000000
+      internalID: 7576665362471107335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_80
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 222
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c9cce64e1dcd240800000000000000
+      internalID: 4817956480421239946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_81
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 222
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92eb9b1582bfed5c0800000000000000
+      internalID: -4188634452819591639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_82
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 222
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0721c1f108bedd650800000000000000
+      internalID: 6259417992625132144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_83
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 182
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94fee807610f9b30800000000000000
+      internalID: 4296154111577879709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_84
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 156
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e937316cd5f5dd560800000000000000
+      internalID: 7340127824043537310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_85
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 156
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2754e8615350b80800000000000000
+      internalID: -8429272756561546560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_86
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 121
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae48b9f883b3f7e0800000000000000
+      internalID: -1732844030720979281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_87
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 186
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6461784cb8b88c00800000000000000
+      internalID: 903174844096537711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_88
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 186
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa397df678e46d90800000000000000
+      internalID: -7105298714327434512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_89
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 186
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85493c129b9581cb0800000000000000
+      internalID: -4893062343467756456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_90
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 177
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0648c3c4ec9f760800000000000000
+      internalID: 7492246281935675554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_91
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 177
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21c56c62b93f4ea0800000000000000
+      internalID: -5886422749464379093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_92
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 177
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699924534f93f6fb0800000000000000
+      internalID: -4652436169022072426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_93
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 177
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac0900b247a02730800000000000000
+      internalID: 3972358776203840687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_94
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 186
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7ecb5ca7ddb6450800000000000000
+      internalID: 6083199241067227067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_95
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 141
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2977100d336c6c9e0800000000000000
+      internalID: -1601374691648243822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_96
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 150
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dd7f6527835c310800000000000000
+      internalID: 1424606920869141874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_97
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 153
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8452760e5613b4d0800000000000000
+      internalID: -3120125523746728819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_98
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 153
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e4328a8f603ce60800000000000000
+      internalID: 7981230629673193066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_99
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 144
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8bd2cef5064c160800000000000000
+      internalID: 7044861682214877355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_100
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 144
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cbfa333bd6d6690800000000000000
+      internalID: -7607303579125171196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_101
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 144
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f731ea96f486c0a70800000000000000
+      internalID: 8794518862632457087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_102
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 144
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4851add3c1143f240800000000000000
+      internalID: 4824271215396525444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_103
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 144
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0461b060bbe8e7e00800000000000000
+      internalID: 1044429097507952192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_104
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 153
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d826c6e8b5bdfbd0800000000000000
+      internalID: -2594718004545181484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_105
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 124
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fc537190c40d250800000000000000
+      internalID: 5967353108193726246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_106
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 105
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c59cd2bda1a2fd90800000000000000
+      internalID: -7065407097988672055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_107
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 105
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc888c7c2792e9e50800000000000000
+      internalID: 6817932458840328396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_108
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 123
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19d31af029f32770800000000000000
+      internalID: 8584979234728171806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_109
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 120
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5f08eec4d145430800000000000000
+      internalID: 3770671004272096718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_110
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 120
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40acdf386cf39aab0800000000000000
+      internalID: -4996392189740332540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_111
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 111
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008fe23ffd66e7920800000000000000
+      internalID: 2989940314664269824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_112
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 111
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e53f5142b466f490800000000000000
+      internalID: -7712866595061680672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_113
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 111
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3040427d60e07cc80800000000000000
+      internalID: -8302651965492165629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_114
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 111
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7c1390261f3fc20800000000000000
+      internalID: 3239197960372864933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_115
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 111
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c06b587ff696ba10800000000000000
+      internalID: 1924891914727547078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_116
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 120
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738dc8d1c79c6cb30800000000000000
+      internalID: 4307351628535355447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_117
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 103
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1359772004c90f7f0800000000000000
+      internalID: -580792553197562575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_118
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7be559996faadfe0800000000000000
+      internalID: -1163424685642880133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_119
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 95
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbd25b1a2bf21c50800000000000000
+      internalID: 6634641359335775154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_120
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 98
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becfda47a648586a0800000000000000
+      internalID: -6447601698752037653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_121
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 97
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f4a8ce2e4cd6fc0800000000000000
+      internalID: -3499924856486867077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_122
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 87
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2cabbf18ddedaf0800000000000000
+      internalID: -369614569053961560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_123
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 87
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31928018949ce2b40800000000000000
+      internalID: 5417488719307876627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_124
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 78
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a833dcfcec863e0800000000000000
+      internalID: -2060169437625742806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_125
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 78
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ad60bc74ae1cc40800000000000000
+      internalID: 5530959411457481311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_126
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 78
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af58b15ac4855050800000000000000
+      internalID: 5788678900543938468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_127
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 92
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee0a6d0579b58ef0800000000000000
+      internalID: -106475103785971998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_128
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 90
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf0f2ad81cc491f0800000000000000
+      internalID: -1038981206903943253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_129
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 91
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6d0d96be120ce60800000000000000
+      internalID: 7980415834676844268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 12
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2042c9550429247e0800000000000000
+      internalID: -1782701697473436670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_131
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 30
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0b1d4c960538930800000000000000
+      internalID: 4144244497314853024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_132
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 63
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8394bbc8512e41620800000000000000
+      internalID: 2744066655158749496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_133
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 72
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cbec1be28b64030800000000000000
+      internalID: 3478670272881409144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_134
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 54
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f54e80b92124b50800000000000000
+      internalID: 6575838862992760702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_135
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23b782277faa7ce0800000000000000
+      internalID: -1406619007384571089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_136
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 17
+        width: 19
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c644647deb62710800000000000000
+      internalID: 1668230543793482846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_137
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 17
+        width: 19
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdffdb403dfb78b0800000000000000
+      internalID: -5153246964722172465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_138
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 74
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4c41bb597ab4fe0800000000000000
+      internalID: -1203684213860809519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_139
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 62
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9815d72b5184230800000000000000
+      internalID: 3623169756570421702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_140
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 71
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504da56432c2b84e0800000000000000
+      internalID: -1978439081283365883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_141
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 45
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8418feb68204120800000000000000
+      internalID: 2395959445805942986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_142
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 45
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e17fc85a21668200800000000000000
+      internalID: 181939669461594596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_143
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 45
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29889d6ed7e0af30800000000000000
+      internalID: 4584919363170634029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_144
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 62
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b04e9fd30b5c540800000000000000
+      internalID: 5027618339260992281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_145
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 62
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9707c8cf456a3fd0800000000000000
+      internalID: -2361463661257095269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_146
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 46
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4466427b388a740800000000000000
+      internalID: 5163521795393209547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_147
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 48
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2487476ed061af090800000000000000
+      internalID: -8000057539113486270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_148
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 45
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb86015887824600800000000000000
+      internalID: 451071932235156401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_149
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 54
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b96b581980517760800000000000000
+      internalID: 7453827408024267187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_150
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 54
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e725d4de8c39d79a0800000000000000
+      internalID: -6233663818026888578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_151
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 6
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19a4ad1075f5d7b0800000000000000
+      internalID: -5199980332846896867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9cb23a3c6fcfe20800000000000000
+      internalID: 3385852339992381900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_153
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 23
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153c62e09d7f84480800000000000000
+      internalID: -8914602950762511535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_154
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 22
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e913af561fd4c7e0800000000000000
+      internalID: -1746025468326110748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_155
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3238cd7fb29ca70800000000000000
+      internalID: 8847651286502548412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_156
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 4
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d81c537b1c4f400800000000000000
+      internalID: 357123263094164854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_157
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 19
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6493bf412152a9120800000000000000
+      internalID: 2421288509256710470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_158
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 21
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffd66c615129c380800000000000000
+      internalID: -8950586150827401223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_159
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31da35e7c2f1cde70800000000000000
+      internalID: 9141215619613699347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_160
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 12
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cc4f1a9288672a0800000000000000
+      internalID: -6740050079921157113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_161
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 12
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c654bcde6220cf0800000000000000
+      internalID: -287624623438861303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_162
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 22
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb58238734490af0800000000000000
+      internalID: -429737284222821443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_163
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 32
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b774d208acef070800000000000000
+      internalID: 8142167828196719410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a8c7bd937c73950800000000000000
+      internalID: 6428826044404107781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_165
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 8
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11509bc80c8c3830800000000000000
+      internalID: 4052267734129463583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_166
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f08687ab88effc40800000000000000
+      internalID: 5548408952452448502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_167
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5820508545bc4e0800000000000000
+      internalID: -1960380475771812384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seizure_Intro_Outro_168
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d601c2bf0947ba60800000000000000
+      internalID: 7689695220530742992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

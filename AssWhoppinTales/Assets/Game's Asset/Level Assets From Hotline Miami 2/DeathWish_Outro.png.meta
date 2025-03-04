@@ -1,0 +1,6730 @@
+fileFormatVersion: 2
+guid: 31114181c6b979842a70b0ebaf8884a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5548485825250328792
+    second: DeathWish_Outro_0
+  - first:
+      213: -3998017591370438995
+    second: DeathWish_Outro_1
+  - first:
+      213: 1091365499464607227
+    second: DeathWish_Outro_2
+  - first:
+      213: -1246775634978206139
+    second: DeathWish_Outro_3
+  - first:
+      213: 8292449643042115504
+    second: DeathWish_Outro_4
+  - first:
+      213: 874899726571541378
+    second: DeathWish_Outro_5
+  - first:
+      213: 444794457630239555
+    second: DeathWish_Outro_6
+  - first:
+      213: -9176781945584042118
+    second: DeathWish_Outro_7
+  - first:
+      213: -8144144412712562867
+    second: DeathWish_Outro_8
+  - first:
+      213: 2669217546926767924
+    second: DeathWish_Outro_9
+  - first:
+      213: 1896239563908591925
+    second: DeathWish_Outro_10
+  - first:
+      213: 1248055212717195211
+    second: DeathWish_Outro_11
+  - first:
+      213: 6161373093610517306
+    second: DeathWish_Outro_12
+  - first:
+      213: 7567411275003644526
+    second: DeathWish_Outro_13
+  - first:
+      213: -7923549642712629228
+    second: DeathWish_Outro_14
+  - first:
+      213: 8819520553843322782
+    second: DeathWish_Outro_15
+  - first:
+      213: -514188272638801533
+    second: DeathWish_Outro_16
+  - first:
+      213: -5841765149662659347
+    second: DeathWish_Outro_17
+  - first:
+      213: -8182376126140815195
+    second: DeathWish_Outro_18
+  - first:
+      213: -8627079005033292836
+    second: DeathWish_Outro_19
+  - first:
+      213: 5597966293562340600
+    second: DeathWish_Outro_20
+  - first:
+      213: -8056445775067509345
+    second: DeathWish_Outro_21
+  - first:
+      213: -8675346275337970776
+    second: DeathWish_Outro_22
+  - first:
+      213: -5724921709306416778
+    second: DeathWish_Outro_23
+  - first:
+      213: -9218826260804870381
+    second: DeathWish_Outro_24
+  - first:
+      213: -6208715831312525943
+    second: DeathWish_Outro_25
+  - first:
+      213: 4737750780215362034
+    second: DeathWish_Outro_26
+  - first:
+      213: 2167164223069213486
+    second: DeathWish_Outro_27
+  - first:
+      213: -8017791487500203603
+    second: DeathWish_Outro_28
+  - first:
+      213: 7773536234746900388
+    second: DeathWish_Outro_29
+  - first:
+      213: -2613744390538856395
+    second: DeathWish_Outro_30
+  - first:
+      213: 3405186262764510207
+    second: DeathWish_Outro_31
+  - first:
+      213: -6637396102608531984
+    second: DeathWish_Outro_32
+  - first:
+      213: 2134127860422387420
+    second: DeathWish_Outro_33
+  - first:
+      213: 557522348344936012
+    second: DeathWish_Outro_34
+  - first:
+      213: -2556641474298548884
+    second: DeathWish_Outro_35
+  - first:
+      213: -4704888561247668656
+    second: DeathWish_Outro_36
+  - first:
+      213: 8022251306065878715
+    second: DeathWish_Outro_37
+  - first:
+      213: -5557913120924832524
+    second: DeathWish_Outro_38
+  - first:
+      213: -6542589816212437187
+    second: DeathWish_Outro_39
+  - first:
+      213: -2567667248217913777
+    second: DeathWish_Outro_40
+  - first:
+      213: -7415670116854645921
+    second: DeathWish_Outro_41
+  - first:
+      213: 919818522289666791
+    second: DeathWish_Outro_42
+  - first:
+      213: -575613946615081107
+    second: DeathWish_Outro_43
+  - first:
+      213: -653037124719552349
+    second: DeathWish_Outro_44
+  - first:
+      213: 392992981792914304
+    second: DeathWish_Outro_45
+  - first:
+      213: 5509071611441722513
+    second: DeathWish_Outro_46
+  - first:
+      213: 3764228163707056997
+    second: DeathWish_Outro_47
+  - first:
+      213: 2890005457852503607
+    second: DeathWish_Outro_48
+  - first:
+      213: 1162814454724456500
+    second: DeathWish_Outro_49
+  - first:
+      213: -5140166357286229861
+    second: DeathWish_Outro_50
+  - first:
+      213: 4863143265784067272
+    second: DeathWish_Outro_51
+  - first:
+      213: -1619152006867269661
+    second: DeathWish_Outro_52
+  - first:
+      213: 5012253152434585017
+    second: DeathWish_Outro_53
+  - first:
+      213: 7918842341924573267
+    second: DeathWish_Outro_54
+  - first:
+      213: -5634653781475726323
+    second: DeathWish_Outro_55
+  - first:
+      213: 1030110677307524319
+    second: DeathWish_Outro_56
+  - first:
+      213: -8150847227247967131
+    second: DeathWish_Outro_57
+  - first:
+      213: -7620470605979945660
+    second: DeathWish_Outro_58
+  - first:
+      213: 5277808839364120817
+    second: DeathWish_Outro_59
+  - first:
+      213: 436943241945329916
+    second: DeathWish_Outro_60
+  - first:
+      213: 8934337096441058944
+    second: DeathWish_Outro_61
+  - first:
+      213: 277243554868425933
+    second: DeathWish_Outro_62
+  - first:
+      213: -8852248434695153408
+    second: DeathWish_Outro_63
+  - first:
+      213: -8534723124503356184
+    second: DeathWish_Outro_64
+  - first:
+      213: 500582933725559899
+    second: DeathWish_Outro_65
+  - first:
+      213: -6188290188339129888
+    second: DeathWish_Outro_66
+  - first:
+      213: 7987308686321708487
+    second: DeathWish_Outro_67
+  - first:
+      213: -6888677037700979410
+    second: DeathWish_Outro_68
+  - first:
+      213: 4440030593416024684
+    second: DeathWish_Outro_69
+  - first:
+      213: 7614768273156089089
+    second: DeathWish_Outro_70
+  - first:
+      213: -4310158895667940937
+    second: DeathWish_Outro_71
+  - first:
+      213: 2671085588615183841
+    second: DeathWish_Outro_72
+  - first:
+      213: 7080730789416386706
+    second: DeathWish_Outro_73
+  - first:
+      213: 4643006277161756094
+    second: DeathWish_Outro_74
+  - first:
+      213: 7690668244663976071
+    second: DeathWish_Outro_75
+  - first:
+      213: 4095936179012410552
+    second: DeathWish_Outro_76
+  - first:
+      213: -7914429800829741639
+    second: DeathWish_Outro_77
+  - first:
+      213: 5851617768524656290
+    second: DeathWish_Outro_78
+  - first:
+      213: 1512084909215541659
+    second: DeathWish_Outro_79
+  - first:
+      213: 614822414878517147
+    second: DeathWish_Outro_80
+  - first:
+      213: -6834452917407588793
+    second: DeathWish_Outro_81
+  - first:
+      213: 2085759701783953757
+    second: DeathWish_Outro_82
+  - first:
+      213: 390974435009770262
+    second: DeathWish_Outro_83
+  - first:
+      213: 7755334028087372559
+    second: DeathWish_Outro_84
+  - first:
+      213: 2685196000998825987
+    second: DeathWish_Outro_85
+  - first:
+      213: -3453478587551963204
+    second: DeathWish_Outro_86
+  - first:
+      213: -8415755844323309230
+    second: DeathWish_Outro_87
+  - first:
+      213: 8652688513257398848
+    second: DeathWish_Outro_88
+  - first:
+      213: 5390942949970877613
+    second: DeathWish_Outro_89
+  - first:
+      213: -423664032370191109
+    second: DeathWish_Outro_90
+  - first:
+      213: -2150854649455420109
+    second: DeathWish_Outro_91
+  - first:
+      213: 6657426101267458891
+    second: DeathWish_Outro_92
+  - first:
+      213: -4257009727642531754
+    second: DeathWish_Outro_93
+  - first:
+      213: 1400860635224846366
+    second: DeathWish_Outro_94
+  - first:
+      213: -8972126395312581447
+    second: DeathWish_Outro_95
+  - first:
+      213: -8200265145867034625
+    second: DeathWish_Outro_96
+  - first:
+      213: 7243267082816139970
+    second: DeathWish_Outro_97
+  - first:
+      213: 3818333584169630059
+    second: DeathWish_Outro_98
+  - first:
+      213: 3785677768855244086
+    second: DeathWish_Outro_99
+  - first:
+      213: 3279130227027161119
+    second: DeathWish_Outro_100
+  - first:
+      213: 7535190897394601619
+    second: DeathWish_Outro_101
+  - first:
+      213: 5673114724375554690
+    second: DeathWish_Outro_102
+  - first:
+      213: -8394112170658478219
+    second: DeathWish_Outro_103
+  - first:
+      213: 3804790402910398666
+    second: DeathWish_Outro_104
+  - first:
+      213: -7154035818054301447
+    second: DeathWish_Outro_105
+  - first:
+      213: 5432133115729403445
+    second: DeathWish_Outro_106
+  - first:
+      213: 7194109609794053997
+    second: DeathWish_Outro_107
+  - first:
+      213: -7222989825062404897
+    second: DeathWish_Outro_108
+  - first:
+      213: 3986611816637181155
+    second: DeathWish_Outro_109
+  - first:
+      213: -9193397360740810828
+    second: DeathWish_Outro_110
+  - first:
+      213: -3862880712662520356
+    second: DeathWish_Outro_111
+  - first:
+      213: 6526892396585991885
+    second: DeathWish_Outro_112
+  - first:
+      213: -1290464720213896430
+    second: DeathWish_Outro_113
+  - first:
+      213: 4287390286214253340
+    second: DeathWish_Outro_114
+  - first:
+      213: 7153427489417094925
+    second: DeathWish_Outro_115
+  - first:
+      213: 7763832677548067185
+    second: DeathWish_Outro_116
+  - first:
+      213: 5209969941198812239
+    second: DeathWish_Outro_117
+  - first:
+      213: -8440339091371295144
+    second: DeathWish_Outro_118
+  - first:
+      213: 5127493853546460039
+    second: DeathWish_Outro_119
+  - first:
+      213: -8016781085482424116
+    second: DeathWish_Outro_120
+  - first:
+      213: 4003507225973018933
+    second: DeathWish_Outro_121
+  - first:
+      213: 3233720087376211431
+    second: DeathWish_Outro_122
+  - first:
+      213: 1525120779461590760
+    second: DeathWish_Outro_123
+  - first:
+      213: -5477238392622618388
+    second: DeathWish_Outro_124
+  - first:
+      213: -4155891801139086126
+    second: DeathWish_Outro_125
+  - first:
+      213: -1667852640579114169
+    second: DeathWish_Outro_126
+  - first:
+      213: 428919083308990901
+    second: DeathWish_Outro_127
+  - first:
+      213: -8300750844180175955
+    second: DeathWish_Outro_128
+  - first:
+      213: -1761157021308267016
+    second: DeathWish_Outro_129
+  - first:
+      213: -4005633206911479016
+    second: DeathWish_Outro_130
+  - first:
+      213: 1903819998905148685
+    second: DeathWish_Outro_131
+  - first:
+      213: -5505809860376375636
+    second: DeathWish_Outro_132
+  - first:
+      213: -2913021162506030861
+    second: DeathWish_Outro_133
+  - first:
+      213: -6219401116535264951
+    second: DeathWish_Outro_134
+  - first:
+      213: -8191262378848965409
+    second: DeathWish_Outro_135
+  - first:
+      213: 2246846401194542775
+    second: DeathWish_Outro_136
+  - first:
+      213: 3782362248537332924
+    second: DeathWish_Outro_137
+  - first:
+      213: 1347778308443662156
+    second: DeathWish_Outro_138
+  - first:
+      213: 5767007727250796781
+    second: DeathWish_Outro_139
+  - first:
+      213: -4582586359900227895
+    second: DeathWish_Outro_140
+  - first:
+      213: 3127268694778396763
+    second: DeathWish_Outro_141
+  - first:
+      213: 4250447869566110532
+    second: DeathWish_Outro_142
+  - first:
+      213: 7087829964618008724
+    second: DeathWish_Outro_143
+  - first:
+      213: 9094578920313168303
+    second: DeathWish_Outro_144
+  - first:
+      213: -16653146453042915
+    second: DeathWish_Outro_145
+  - first:
+      213: -9136797756470391692
+    second: DeathWish_Outro_146
+  - first:
+      213: -3068277910273118781
+    second: DeathWish_Outro_147
+  - first:
+      213: 2992837131252642922
+    second: DeathWish_Outro_148
+  - first:
+      213: -2201169687678370251
+    second: DeathWish_Outro_149
+  - first:
+      213: -204378629042079190
+    second: DeathWish_Outro_150
+  - first:
+      213: -3964183274355186861
+    second: DeathWish_Outro_151
+  - first:
+      213: 493183981595750055
+    second: DeathWish_Outro_152
+  - first:
+      213: -6019330341327591753
+    second: DeathWish_Outro_153
+  - first:
+      213: 2838104635093068795
+    second: DeathWish_Outro_154
+  - first:
+      213: -3511087032887433441
+    second: DeathWish_Outro_155
+  - first:
+      213: -870141686221043164
+    second: DeathWish_Outro_156
+  - first:
+      213: -35970325656961527
+    second: DeathWish_Outro_157
+  - first:
+      213: 68757926243445878
+    second: DeathWish_Outro_158
+  - first:
+      213: 1436673172081333547
+    second: DeathWish_Outro_159
+  - first:
+      213: 1562354222446239774
+    second: DeathWish_Outro_160
+  - first:
+      213: -8763241863579885982
+    second: DeathWish_Outro_161
+  - first:
+      213: 520060765541551366
+    second: DeathWish_Outro_162
+  - first:
+      213: 2531723565844912476
+    second: DeathWish_Outro_163
+  - first:
+      213: -708926197244053030
+    second: DeathWish_Outro_164
+  - first:
+      213: -2193895372823490348
+    second: DeathWish_Outro_165
+  - first:
+      213: -3264816914513635312
+    second: DeathWish_Outro_166
+  - first:
+      213: 1812931451848066552
+    second: DeathWish_Outro_167
+  - first:
+      213: 5770009308755434743
+    second: DeathWish_Outro_168
+  - first:
+      213: 3798712693182984726
+    second: DeathWish_Outro_169
+  - first:
+      213: -3093735484932965530
+    second: DeathWish_Outro_170
+  - first:
+      213: -1917349143432720223
+    second: DeathWish_Outro_171
+  - first:
+      213: -8912825320726070214
+    second: DeathWish_Outro_172
+  - first:
+      213: 8187018352908842758
+    second: DeathWish_Outro_173
+  - first:
+      213: 4915344612091635370
+    second: DeathWish_Outro_174
+  - first:
+      213: -3533616297361878156
+    second: DeathWish_Outro_175
+  - first:
+      213: 878202479639316916
+    second: DeathWish_Outro_176
+  - first:
+      213: -5121406731799790972
+    second: DeathWish_Outro_177
+  - first:
+      213: -2130328811487935306
+    second: DeathWish_Outro_178
+  - first:
+      213: -3446799600584238138
+    second: DeathWish_Outro_179
+  - first:
+      213: -4827209375130304470
+    second: DeathWish_Outro_180
+  - first:
+      213: -4485318332576749507
+    second: DeathWish_Outro_181
+  - first:
+      213: -8522464019960497957
+    second: DeathWish_Outro_182
+  - first:
+      213: -3963676634396795243
+    second: DeathWish_Outro_183
+  - first:
+      213: 5187122610713428693
+    second: DeathWish_Outro_184
+  - first:
+      213: 6812054015488730246
+    second: DeathWish_Outro_185
+  - first:
+      213: -3491082009990609950
+    second: DeathWish_Outro_186
+  - first:
+      213: -7263610827548180457
+    second: DeathWish_Outro_187
+  - first:
+      213: 3545864086539247578
+    second: DeathWish_Outro_188
+  - first:
+      213: -9198108253686171018
+    second: DeathWish_Outro_189
+  - first:
+      213: 6253197538968068359
+    second: DeathWish_Outro_190
+  - first:
+      213: -923395923486269986
+    second: DeathWish_Outro_191
+  - first:
+      213: 8002972406663553285
+    second: DeathWish_Outro_192
+  - first:
+      213: 7542715469023868098
+    second: DeathWish_Outro_193
+  - first:
+      213: 1377773928990035683
+    second: DeathWish_Outro_194
+  - first:
+      213: 2260531700594556757
+    second: DeathWish_Outro_195
+  - first:
+      213: -212084605185431903
+    second: DeathWish_Outro_196
+  - first:
+      213: -3019010906415327014
+    second: DeathWish_Outro_197
+  - first:
+      213: -3557248862565896912
+    second: DeathWish_Outro_198
+  - first:
+      213: 1884703492389724391
+    second: DeathWish_Outro_199
+  - first:
+      213: -5144918656620844165
+    second: DeathWish_Outro_200
+  - first:
+      213: -623512111362614545
+    second: DeathWish_Outro_201
+  - first:
+      213: -8679984427264183664
+    second: DeathWish_Outro_202
+  - first:
+      213: 9163142540765916978
+    second: DeathWish_Outro_203
+  - first:
+      213: 8216579634566358030
+    second: DeathWish_Outro_204
+  - first:
+      213: 6503014409128098766
+    second: DeathWish_Outro_205
+  - first:
+      213: 5583370552239251770
+    second: DeathWish_Outro_206
+  - first:
+      213: -4729670687303774182
+    second: DeathWish_Outro_207
+  - first:
+      213: -7968936182628859703
+    second: DeathWish_Outro_208
+  - first:
+      213: -3891848386037388767
+    second: DeathWish_Outro_209
+  - first:
+      213: 187352990296601342
+    second: DeathWish_Outro_210
+  - first:
+      213: 7626554259070849369
+    second: DeathWish_Outro_211
+  - first:
+      213: 6048485363730727859
+    second: DeathWish_Outro_212
+  - first:
+      213: 5457747344355765705
+    second: DeathWish_Outro_213
+  - first:
+      213: 1339174869062469864
+    second: DeathWish_Outro_214
+  - first:
+      213: 3956921390792524598
+    second: DeathWish_Outro_215
+  - first:
+      213: 2231497640136184258
+    second: DeathWish_Outro_216
+  - first:
+      213: -5019233047218045283
+    second: DeathWish_Outro_217
+  - first:
+      213: -9002819828391530931
+    second: DeathWish_Outro_218
+  - first:
+      213: -3114968663203818583
+    second: DeathWish_Outro_219
+  - first:
+      213: 8263829655408295481
+    second: DeathWish_Outro_220
+  - first:
+      213: -1882005844558758660
+    second: DeathWish_Outro_221
+  - first:
+      213: -392899831633582271
+    second: DeathWish_Outro_222
+  - first:
+      213: 9183848426646931368
+    second: DeathWish_Outro_223
+  - first:
+      213: -2925553722274396360
+    second: DeathWish_Outro_224
+  - first:
+      213: -8593080450719401635
+    second: DeathWish_Outro_225
+  - first:
+      213: 1512826379930919812
+    second: DeathWish_Outro_226
+  - first:
+      213: -619124760325264385
+    second: DeathWish_Outro_227
+  - first:
+      213: -6658787141200845378
+    second: DeathWish_Outro_228
+  - first:
+      213: 2840798849523888345
+    second: DeathWish_Outro_229
+  - first:
+      213: -7694541712141388231
+    second: DeathWish_Outro_230
+  - first:
+      213: -701246874241794418
+    second: DeathWish_Outro_231
+  - first:
+      213: 8307341765962829844
+    second: DeathWish_Outro_232
+  - first:
+      213: -5998331848046919644
+    second: DeathWish_Outro_233
+  - first:
+      213: -402343897700130543
+    second: DeathWish_Outro_234
+  - first:
+      213: 6902276668427047771
+    second: DeathWish_Outro_235
+  - first:
+      213: -5657034732329482301
+    second: DeathWish_Outro_236
+  - first:
+      213: -2314502255771549299
+    second: DeathWish_Outro_237
+  - first:
+      213: 6117075877064847946
+    second: DeathWish_Outro_238
+  - first:
+      213: -4096986431385625775
+    second: DeathWish_Outro_239
+  - first:
+      213: 2051371740630158806
+    second: DeathWish_Outro_240
+  - first:
+      213: 6597057775373079984
+    second: DeathWish_Outro_241
+  - first:
+      213: -6738253181276231071
+    second: DeathWish_Outro_242
+  - first:
+      213: -4210505316736210088
+    second: DeathWish_Outro_243
+  - first:
+      213: -616232458740059944
+    second: DeathWish_Outro_244
+  - first:
+      213: 1091249944084342583
+    second: DeathWish_Outro_245
+  - first:
+      213: 232785766149698725
+    second: DeathWish_Outro_246
+  - first:
+      213: 8304307177325069113
+    second: DeathWish_Outro_247
+  - first:
+      213: -2275405992645736043
+    second: DeathWish_Outro_248
+  - first:
+      213: 8632825831059068439
+    second: DeathWish_Outro_249
+  - first:
+      213: 3573059497503475474
+    second: DeathWish_Outro_250
+  - first:
+      213: -985149600130715590
+    second: DeathWish_Outro_251
+  - first:
+      213: -701927464428472411
+    second: DeathWish_Outro_252
+  - first:
+      213: 2976717364212249429
+    second: DeathWish_Outro_253
+  - first:
+      213: 5310142785831907436
+    second: DeathWish_Outro_254
+  - first:
+      213: -8547892526645639947
+    second: DeathWish_Outro_255
+  - first:
+      213: 6196746081363951186
+    second: DeathWish_Outro_256
+  - first:
+      213: -4620930989666155380
+    second: DeathWish_Outro_257
+  - first:
+      213: 2203481670792520649
+    second: DeathWish_Outro_258
+  - first:
+      213: -7318434579149504978
+    second: DeathWish_Outro_259
+  - first:
+      213: -5255353902598975548
+    second: DeathWish_Outro_260
+  - first:
+      213: -4761539067651967493
+    second: DeathWish_Outro_261
+  - first:
+      213: -6923179467491186292
+    second: DeathWish_Outro_262
+  - first:
+      213: 5045962017012876630
+    second: DeathWish_Outro_263
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeathWish_Outro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 611
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ff9a00a81dff2b0800000000000000
+      internalID: -5548485825250328792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 611
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da62a9cde203488c0800000000000000
+      internalID: -3998017591370438995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 707
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf564b3b32f452f00800000000000000
+      internalID: 1091365499464607227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 707
+        width: 38
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e038a6a2092bee0800000000000000
+      internalID: -1246775634978206139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 643
+        width: 194
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf075bd303b41370800000000000000
+      internalID: 8292449643042115504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 643
+        width: 114
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28312687aa4442c00800000000000000
+      internalID: 874899726571541378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_6
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 760
+        width: 120
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bec1dd33a3c2600800000000000000
+      internalID: 444794457630239555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_7
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 747
+        width: 90
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fbe30f07585a080800000000000000
+      internalID: -9176781945584042118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_8
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 747
+        width: 90
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f09c06ecf2afe80800000000000000
+      internalID: -8144144412712562867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_9
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 774
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f3fc08737fa0520800000000000000
+      internalID: 2669217546926767924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_10
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 755
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53130df26dbc05a10800000000000000
+      internalID: 1896239563908591925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_11
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 676
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf351e7a9bf15110800000000000000
+      internalID: 1248055212717195211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_12
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 724
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33fd4d2f28918550800000000000000
+      internalID: 6161373093610517306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_13
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 660
+        width: 98
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ac0e3f578d40960800000000000000
+      internalID: 7567411275003644526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_14
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 674
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410c0f9a495e90290800000000000000
+      internalID: -7923549642712629228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_15
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 701
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f6615473b356a70800000000000000
+      internalID: 8819520553843322782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 595
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38941b58d7c3dd8f0800000000000000
+      internalID: -514188272638801533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 595
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decb9112c81edeea0800000000000000
+      internalID: -5841765149662659347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_18
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 688
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a86dbee34c527e80800000000000000
+      internalID: -8182376126140815195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_19
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 673
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb92c76a55764880800000000000000
+      internalID: -8627079005033292836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_20
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 651
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4b4684fa8ffad40800000000000000
+      internalID: 5597966293562340600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_21
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 643
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d87e0a041c13090800000000000000
+      internalID: -8056445775067509345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_22
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 664
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abd8fac68afa9780800000000000000
+      internalID: -8675346275337970776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_23
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 647
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6717edd890efc80b0800000000000000
+      internalID: -5724921709306416778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_24
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 647
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fdea6fb56201080800000000000000
+      internalID: -9218826260804870381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_25
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 646
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985d54bb8d536d9a0800000000000000
+      internalID: -6208715831312525943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_26
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 646
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f10111ab3fdfb140800000000000000
+      internalID: 4737750780215362034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_27
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 645
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23d9f5f060531e10800000000000000
+      internalID: 2167164223069213486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_28
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 653
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da946684f151bb090800000000000000
+      internalID: -8017791487500203603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_29
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 648
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af67b0050621eb60800000000000000
+      internalID: 7773536234746900388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_30
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 649
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538f244335d1abbd0800000000000000
+      internalID: -2613744390538856395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_31
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 646
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb5e125dd6a14f20800000000000000
+      internalID: 3405186262764510207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 193
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdc47e396b33e3a0800000000000000
+      internalID: -6637396102608531984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 570
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6adb16bf1fd9d10800000000000000
+      internalID: 2134127860422387420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_34
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 570
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4601773f97bcb700800000000000000
+      internalID: 557522348344936012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_35
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 570
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d6762ff1cf48cd0800000000000000
+      internalID: -2556641474298548884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_36
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 573
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056b807f7c0e4beb0800000000000000
+      internalID: -4704888561247668656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_37
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 573
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe58f42f03c45f60800000000000000
+      internalID: 8022251306065878715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_38
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 573
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fceacea6735ed2b0800000000000000
+      internalID: -5557913120924832524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_39
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 578
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37c19de93d0435a0800000000000000
+      internalID: -6542589816212437187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 497
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f460198ed30dd5cd0800000000000000
+      internalID: -2567667248217913777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_41
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 500
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b3661915f361990800000000000000
+      internalID: -7415670116854645921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_42
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 500
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea76e6921ad3cc00800000000000000
+      internalID: 919818522289666791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_43
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 500
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d675f305a220308f0800000000000000
+      internalID: -575613946615081107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_44
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 500
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8d2fbe132ffe6f0800000000000000
+      internalID: -653037124719552349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_45
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 502
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bfcf6e801347500800000000000000
+      internalID: 392992981792914304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_46
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 502
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1943c2a3177247c40800000000000000
+      internalID: 5509071611441722513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_47
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 524
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563b74732993d3430800000000000000
+      internalID: 3764228163707056997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_48
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 514
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7361d3ae6ac5b1820800000000000000
+      internalID: 2890005457852503607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_49
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 505
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4307a81f595232010800000000000000
+      internalID: 1162814454724456500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 424
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b986a8b8ee57aa8b0800000000000000
+      internalID: -5140166357286229861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_51
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 424
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c474e0c80b5d7340800000000000000
+      internalID: 4863143265784067272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_52
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 424
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7c05114dd9789e0800000000000000
+      internalID: -1619152006867269661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_53
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 424
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdf133afa91f8540800000000000000
+      internalID: 5012253152434585017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_54
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 424
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3509cb6772165ed60800000000000000
+      internalID: 7918842341924573267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_55
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 424
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ce3da4d30bdc1b0800000000000000
+      internalID: -5634653781475726323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_56
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 472
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd480480430bb4e00800000000000000
+      internalID: 1030110677307524319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_57
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 472
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5644861c1af52ee80800000000000000
+      internalID: -8150847227247967131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_58
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 444
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445724ddb56ae3690800000000000000
+      internalID: -7620470605979945660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_59
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 351
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f017b62d2b8e3940800000000000000
+      internalID: 5277808839364120817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_60
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 351
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0b8234095501600800000000000000
+      internalID: 436943241945329916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_61
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 351
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086d6f8c0442dfb70800000000000000
+      internalID: 8934337096441058944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_62
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 391
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4f2345b87f8d300800000000000000
+      internalID: 277243554868425933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_63
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 391
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009dc7a23fe762580800000000000000
+      internalID: -8852248434695153408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_64
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 391
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec5aa389829e8980800000000000000
+      internalID: -8534723124503356184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_65
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 391
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cb559a68d62f600800000000000000
+      internalID: 500582933725559899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_66
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 391
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1d2055cd6ce1aa0800000000000000
+      internalID: -6188290188339129888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_67
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 391
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cde89f7eee98de60800000000000000
+      internalID: 7987308686321708487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_68
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 374
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2561736bb08660a0800000000000000
+      internalID: -6888677037700979410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 374
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62dd68ec482e9d30800000000000000
+      internalID: 4440030593416024684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_70
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 344
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105226056671da960800000000000000
+      internalID: 7614768273156089089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 353
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1f832125d3f24c0800000000000000
+      internalID: -4310158895667940937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 339
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edb21ad03a911520800000000000000
+      internalID: 2671085588615183841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_73
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 355
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290c55d332fc34260800000000000000
+      internalID: 7080730789416386706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_74
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 358
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5a2200c954f6040800000000000000
+      internalID: 4643006277161756094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_75
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 355
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780c298850ebaba60800000000000000
+      internalID: 7690668244663976071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 362
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc94bce040b7d830800000000000000
+      internalID: 4095936179012410552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_77
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 340
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b517c1570c4a2290800000000000000
+      internalID: -7914429800829741639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_78
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 354
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aea6467b5f153150800000000000000
+      internalID: 5851617768524656290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 354
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99650ca6310cf410800000000000000
+      internalID: 1512084909215541659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_80
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 340
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9728c69ab9488800800000000000000
+      internalID: 614822414878517147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_81
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 355
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ed9c738452721a0800000000000000
+      internalID: -6834452917407588793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_82
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 362
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5148afd56b12fc10800000000000000
+      internalID: 2085759701783953757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 358
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613340b5d250d6500800000000000000
+      internalID: 390974435009770262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_84
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 355
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ba5a2853b70ab60800000000000000
+      internalID: 7755334028087372559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_85
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 358
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300a5df398bb34520800000000000000
+      internalID: 2685196000998825987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_86
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 358
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb72c8d9587c210d0800000000000000
+      internalID: -3453478587551963204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_87
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 358
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25901bee5aa353b80800000000000000
+      internalID: -8415755844323309230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_88
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 358
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0426fc0eb56841870800000000000000
+      internalID: 8652688513257398848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_89
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 358
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac1961fc0a70da40800000000000000
+      internalID: 5390942949970877613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_90
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 358
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf41776aec7de1af0800000000000000
+      internalID: -423664032370191109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_91
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 358
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d56bf8711a622e0800000000000000
+      internalID: -2150854649455420109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_92
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 340
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4be57c34cde36c50800000000000000
+      internalID: 6657426101267458891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_93
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 347
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6580c7215301ce4c0800000000000000
+      internalID: -4257009727642531754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_94
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 341
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10b76e535bd07310800000000000000
+      internalID: 1400860635224846366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_95
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 340
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4dc7f649a9c7380800000000000000
+      internalID: -8972126395312581447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_96
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 340
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff1494fb4ec23e80800000000000000
+      internalID: -8200265145867034625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_97
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 340
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2398c0901458460800000000000000
+      internalID: 7243267082816139970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_98
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 347
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69ff561a227df430800000000000000
+      internalID: 3818333584169630059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_99
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 339
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dc5b69fdd698430800000000000000
+      internalID: 3785677768855244086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 321
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f103332619fc18d20800000000000000
+      internalID: 3279130227027161119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_101
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 278
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e46f1b230629860800000000000000
+      internalID: 7535190897394601619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_102
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 278
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a617cc8c3fabe40800000000000000
+      internalID: 5673114724375554690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_103
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 278
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5774e17647f128b80800000000000000
+      internalID: -8394112170658478219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac82a4a76b45dc430800000000000000
+      internalID: 3804790402910398666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_105
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 326
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8c372c352c7bc90800000000000000
+      internalID: -7154035818054301447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_106
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 324
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53edfafb940d26b40800000000000000
+      internalID: 5432133115729403445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 324
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67aff6f29c96d360800000000000000
+      internalID: 7194109609794053997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_108
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 326
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcf4ece509c2cb90800000000000000
+      internalID: -7222989825062404897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_109
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 323
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eca804435a435730800000000000000
+      internalID: 3986611816637181155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_110
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfb7022fcd7a6080800000000000000
+      internalID: -9193397360740810828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 326
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddea00557a446ac0800000000000000
+      internalID: -3862880712662520356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_112
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceb4b1cd0e249a50800000000000000
+      internalID: 6526892396585991885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_113
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 323
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2131a749c29571ee0800000000000000
+      internalID: -1290464720213896430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_114
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 324
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bc24fefbedf7b30800000000000000
+      internalID: 4287390286214253340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_115
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 324
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d076831b664164360800000000000000
+      internalID: 7153427489417094925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_116
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 326
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17982d88facaebb60800000000000000
+      internalID: 7763832677548067185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_117
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 323
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f443e93de088d4840800000000000000
+      internalID: 5209969941198812239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_118
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 278
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e78f2b054edda80800000000000000
+      internalID: -8440339091371295144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_119
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 325
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783b2a04e74882740800000000000000
+      internalID: 5127493853546460039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_120
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 325
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8efb5d31caeb090800000000000000
+      internalID: -8016781085482424116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_121
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 325
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531d4db4c905f8730800000000000000
+      internalID: 4003507225973018933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_122
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 325
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edaa17594b70ec20800000000000000
+      internalID: 3233720087376211431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_123
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 325
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeff5bb4415a2510800000000000000
+      internalID: 1525120779461590760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_124
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 325
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8e89993b0fcf3b0800000000000000
+      internalID: -5477238392622618388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc752cfc6e4356c0800000000000000
+      internalID: -4155891801139086126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_126
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 310
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ba59c2cd89ad8e0800000000000000
+      internalID: -1667852640579114169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_127
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 307
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1c40e32a3d3f500800000000000000
+      internalID: 428919083308990901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_128
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 291
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3ed93261fcdcc80800000000000000
+      internalID: -8300750844180175955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_129
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 312
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f55c37250d1f87e0800000000000000
+      internalID: -1761157021308267016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_130
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 315
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813588132d12968c0800000000000000
+      internalID: -4005633206911479016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_131
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 315
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05a60fb33abb6a10800000000000000
+      internalID: 1903819998905148685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_132
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 312
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae4c6f5a1f6793b0800000000000000
+      internalID: -5505809860376375636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_133
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 291
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0f1a1cfaed297d0800000000000000
+      internalID: -2913021162506030861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_134
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 307
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9496f35e2af30b9a0800000000000000
+      internalID: -6219401116535264951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_135
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 310
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcafaef34ac25e80800000000000000
+      internalID: -8191262378848965409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_136
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 291
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6c018c5e66e2f10800000000000000
+      internalID: 2246846401194542775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 301
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc5aebdc66ad7430800000000000000
+      internalID: 3782362248537332924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_138
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 280
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47e2ce0b3544b210800000000000000
+      internalID: 1347778308443662156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_139
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 280
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de077b719f6880050800000000000000
+      internalID: 5767007727250796781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_140
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 307
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6b8993cf16760c0800000000000000
+      internalID: -4582586359900227895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_141
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 307
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5047751f4a466b20800000000000000
+      internalID: 3127268694778396763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_142
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 294
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bcdc941df9cfa30800000000000000
+      internalID: 4250447869566110532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_143
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 291
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4980d65ccc70d5260800000000000000
+      internalID: 7087829964618008724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_144
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 290
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1a507c75f663e70800000000000000
+      internalID: 9094578920313168303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_145
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 291
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1916413d06d4cff0800000000000000
+      internalID: -16653146453042915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_146
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 291
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c0ffc69d2933180800000000000000
+      internalID: -9136797756470391692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_147
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 290
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd2efd3f794b65d0800000000000000
+      internalID: -3068277910273118781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_148
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 291
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64b9ee9381b88920800000000000000
+      internalID: 2992837131252642922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_149
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 294
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eb293d4dfd371e0800000000000000
+      internalID: -2201169687678370251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2af34048b6e92df0800000000000000
+      internalID: -204378629042079190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_151
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 276
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353a38ba0546cf8c0800000000000000
+      internalID: -3964183274355186861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_152
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 283
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae6defd73428d600800000000000000
+      internalID: 493183981595750055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_153
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 282
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6207342fa077ca0800000000000000
+      internalID: -6019330341327591753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_154
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 275
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbac12f029f26720800000000000000
+      internalID: 2838104635093068795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_155
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 274
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17a34532fc164fc0800000000000000
+      internalID: -3511087032887433441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_156
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 274
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a09802fb2ace3f0800000000000000
+      internalID: -870141686221043164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_157
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 275
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ef2cced25308ff0800000000000000
+      internalID: -35970325656961527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_158
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 282
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cab3938f644f000800000000000000
+      internalID: 68757926243445878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_159
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 276
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25dd3063a610f310800000000000000
+      internalID: 1436673172081333547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_160
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 252
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e106d3a33e89ea510800000000000000
+      internalID: 1562354222446239774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_161
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 283
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e1d7864f5b26680800000000000000
+      internalID: -8763241863579885982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_162
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 276
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dc8b7c280a73700800000000000000
+      internalID: 520060765541551366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_163
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 276
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59dba36b2d722320800000000000000
+      internalID: 2531723565844912476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_164
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 276
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9bc4131636926f0800000000000000
+      internalID: -708926197244053030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_165
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 205
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d09b7c38c7bd81e0800000000000000
+      internalID: -2193895372823490348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_166
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 205
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0185ab1605a01b2d0800000000000000
+      internalID: -3264816914513635312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_167
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 205
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f58985dc83d82910800000000000000
+      internalID: 1812931451848066552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_168
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 266
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc901f35e0331050800000000000000
+      internalID: 5770009308755434743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_169
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 233
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61270f8611db7b430800000000000000
+      internalID: 3798712693182984726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_170
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 231
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bbc8fb7f7d015d0800000000000000
+      internalID: -3093735484932965530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_171
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 243
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a01b43dc153465e0800000000000000
+      internalID: -1917349143432720223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_172
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 247
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cf30dc7984f4480800000000000000
+      internalID: -8912825320726070214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_173
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 259
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6073cb6b0d12e9170800000000000000
+      internalID: 8187018352908842758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_174
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 259
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa62a50d1efc63440800000000000000
+      internalID: 4915344612091635370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_175
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 247
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473d63f03b216fec0800000000000000
+      internalID: -3533616297361878156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_176
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 214
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9c4c79080003c00800000000000000
+      internalID: 878202479639316916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_177
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 242
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a77c836bb1de8b0800000000000000
+      internalID: -5121406731799790972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_178
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 242
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b44b70ab3d8f62e0800000000000000
+      internalID: -2130328811487935306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_179
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 243
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbd73376028a20d0800000000000000
+      internalID: -3446799600584238138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_180
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 245
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a204ce226ae420db0800000000000000
+      internalID: -4827209375130304470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_181
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 243
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d382732adb2f0c1c0800000000000000
+      internalID: -4485318332576749507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_182
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 242
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8f437b0202ab980800000000000000
+      internalID: -8522464019960497957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_183
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 222
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e534af9113ef8c0800000000000000
+      internalID: -3963676634396795243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_184
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 212
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d288f9288c5cf740800000000000000
+      internalID: 5187122610713428693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_185
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 227
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684aaf70907498e50800000000000000
+      internalID: 6812054015488730246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_186
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 210
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3c0c0986f2d8fc0800000000000000
+      internalID: -3491082009990609950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_187
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 228
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7104f45cf68723b90800000000000000
+      internalID: -7263610827548180457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_188
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 230
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf9cf39990753130800000000000000
+      internalID: 3545864086539247578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_189
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 228
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a7275e641c95080800000000000000
+      internalID: -9198108253686171018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_190
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 227
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701e984e702d7c650800000000000000
+      internalID: 6253197538968068359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_191
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 210
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd9e89cc407f23f0800000000000000
+      internalID: -923395923486269986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_192
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 212
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5012f669005401f60800000000000000
+      internalID: 8002972406663553285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_193
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 222
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4f20d81cb1da860800000000000000
+      internalID: 7542715469023868098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_194
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 195
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eece32b616de1310800000000000000
+      internalID: 1377773928990035683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_195
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 186
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fb279da950f5f10800000000000000
+      internalID: 2260531700594556757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_196
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 184
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6e79ddc268e0df0800000000000000
+      internalID: -212084605185431903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_197
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 184
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8951673915a16d0800000000000000
+      internalID: -3019010906415327014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_198
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 216
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03de811b10d12aec0800000000000000
+      internalID: -3557248862565896912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_199
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 212
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0e3da37dfc72a10800000000000000
+      internalID: 1884703492389724391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_200
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 216
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ba5d1adb39998b0800000000000000
+      internalID: -5144918656620844165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_201
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 194
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fead319c907d857f0800000000000000
+      internalID: -623512111362614545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_202
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 211
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092fef4e6208a8780800000000000000
+      internalID: -8679984427264183664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_203
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f6f98a7950a2f70800000000000000
+      internalID: 9163142540765916978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_204
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 204
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e046903f4a7270270800000000000000
+      internalID: 8216579634566358030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_205
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 193
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbb35196295f3a50800000000000000
+      internalID: 6503014409128098766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_206
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31e89f6fed1c7d40800000000000000
+      internalID: 5583370552239251770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_207
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 193
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a105eaa9195dc5eb0800000000000000
+      internalID: -4729670687303774182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_208
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c046ac53c6a86190800000000000000
+      internalID: -7968936182628859703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_209
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 204
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a609643806df9c0800000000000000
+      internalID: -3891848386037388767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_210
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 193
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef27c325d8c999200800000000000000
+      internalID: 187352990296601342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_211
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 132
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951192001b6f6d960800000000000000
+      internalID: 7626554259070849369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_212
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 132
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3c15e546980f350800000000000000
+      internalID: 6048485363730727859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_213
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 132
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd28261b40ddbb40800000000000000
+      internalID: 5457747344355765705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_214
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 182
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8499ab274b59210800000000000000
+      internalID: 1339174869062469864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_215
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 179
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633455e4a0fc9e630800000000000000
+      internalID: 3956921390792524598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_216
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 177
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1907dd74fd7fe10800000000000000
+      internalID: 2231497640136184258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_217
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 182
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ebaa7f22a185ab0800000000000000
+      internalID: -5019233047218045283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_218
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 182
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e21e7a01f8f0380800000000000000
+      internalID: -9002819828391530931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_219
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 177
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3534f218865c4d0800000000000000
+      internalID: -3114968663203818583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_220
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 179
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e33f6b9450fa270800000000000000
+      internalID: 8263829655408295481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_221
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 182
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcbdd9d7a5c1e5e0800000000000000
+      internalID: -1882005844558758660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_222
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 184
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1476b2f4fa32c8af0800000000000000
+      internalID: -392899831633582271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_223
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 171
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a702556c75937f70800000000000000
+      internalID: 9183848426646931368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_224
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 170
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837438cc3685667d0800000000000000
+      internalID: -2925553722274396360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_225
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 137
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d593480bbde3fb880800000000000000
+      internalID: -8593080450719401635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_226
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 133
+        width: 109
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4836f96c393aef410800000000000000
+      internalID: 1512826379930919812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_227
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 168
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbe92d8f4d6867f0800000000000000
+      internalID: -619124760325264385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_228
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 164
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5e8c5ff5c3793a0800000000000000
+      internalID: -6658787141200845378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_229
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 164
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0b530a08b8c6720800000000000000
+      internalID: 2840798849523888345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_230
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 165
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936f26a841f773590800000000000000
+      internalID: -7694541712141388231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_231
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 165
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ef6f8eeaba446f0800000000000000
+      internalID: -701246874241794418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_232
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 164
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4101bfb625b994370800000000000000
+      internalID: 8307341765962829844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_233
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 164
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4204048f6f4a1cca0800000000000000
+      internalID: -5998331848046919644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_234
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 168
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111a9045b569a6af0800000000000000
+      internalID: -402343897700130543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_235
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 139
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b539f036f00d9cf50800000000000000
+      internalID: 6902276668427047771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_236
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 129
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7447912ec2e71b0800000000000000
+      internalID: -5657034732329482301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_237
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 115
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8185ec067c31efd0800000000000000
+      internalID: -2314502255771549299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_238
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 128
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42bf8cb91834e450800000000000000
+      internalID: 6117075877064847946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_239
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 59
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b1aa32c849427c0800000000000000
+      internalID: -4096986431385625775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_240
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 59
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd098ebabfe77c10800000000000000
+      internalID: 2051371740630158806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_241
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 59
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b557df08157d8b50800000000000000
+      internalID: 6597057775373079984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_242
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 92
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a6263be6aec72a0800000000000000
+      internalID: -6738253181276231071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_243
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 90
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b6b0ff8b74195c0800000000000000
+      internalID: -4210505316736210088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_244
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 90
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0bbbdf7d3b277f0800000000000000
+      internalID: -616232458740059944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_245
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 131
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737ef4eda06e42f00800000000000000
+      internalID: 1091249944084342583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_246
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 132
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4be14cb650b3300800000000000000
+      internalID: 232785766149698725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_247
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 120
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93300323163de3370800000000000000
+      internalID: 8304307177325069113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_248
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 68
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5994e882e422c60e0800000000000000
+      internalID: -2275405992645736043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_249
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 114
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716971cca55fdc770800000000000000
+      internalID: 8632825831059068439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_250
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217c70e9eae069130800000000000000
+      internalID: 3573059497503475474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_251
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 105
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30379188ab0452f0800000000000000
+      internalID: -985149600130715590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_252
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 90
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a776a8a0b04246f0800000000000000
+      internalID: -701927464428472411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_253
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 43
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553bb92ebac6f4920800000000000000
+      internalID: 2976717364212249429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_254
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 72
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c603d18baba61b940800000000000000
+      internalID: 5310142785831907436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_255
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f402132909cf5980800000000000000
+      internalID: -8547892526645639947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_256
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 75
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25efdfeaab34ff550800000000000000
+      internalID: 6196746081363951186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_257
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 45
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84ca556fb72fdfb0800000000000000
+      internalID: -4620930989666155380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_258
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c32ca0b7e6549e10800000000000000
+      internalID: 2203481670792520649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_259
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 3
+        width: 100
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ebbd56682bf6a90800000000000000
+      internalID: -7318434579149504978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_260
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 34
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf00aa387b3117b0800000000000000
+      internalID: -5255353902598975548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_261
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 3
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5b578127d9bedb0800000000000000
+      internalID: -4761539067651967493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_262
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89e8e374fcebef90800000000000000
+      internalID: -6923179467491186292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathWish_Outro_263
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6558a2648bbd60640800000000000000
+      internalID: 5045962017012876630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

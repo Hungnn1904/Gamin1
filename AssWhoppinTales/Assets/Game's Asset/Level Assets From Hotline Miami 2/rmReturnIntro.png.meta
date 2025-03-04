@@ -1,0 +1,6130 @@
+fileFormatVersion: 2
+guid: 45043c6adbdaf9a4cb2495714749d8a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 692433524574533483
+    second: rmReturnIntro_0
+  - first:
+      213: 3707450902680827519
+    second: rmReturnIntro_1
+  - first:
+      213: 2164865340660560971
+    second: rmReturnIntro_2
+  - first:
+      213: -630164477866369897
+    second: rmReturnIntro_3
+  - first:
+      213: 8287546850856222460
+    second: rmReturnIntro_4
+  - first:
+      213: -2246938338057594125
+    second: rmReturnIntro_5
+  - first:
+      213: -3433639475486530298
+    second: rmReturnIntro_6
+  - first:
+      213: -2903041974872482747
+    second: rmReturnIntro_7
+  - first:
+      213: 4851037970575974506
+    second: rmReturnIntro_8
+  - first:
+      213: 860048278248013195
+    second: rmReturnIntro_9
+  - first:
+      213: 2054937119915064356
+    second: rmReturnIntro_10
+  - first:
+      213: -8206270495109276864
+    second: rmReturnIntro_11
+  - first:
+      213: -3801650342567465754
+    second: rmReturnIntro_12
+  - first:
+      213: 3175253375743264540
+    second: rmReturnIntro_13
+  - first:
+      213: -347604725737595639
+    second: rmReturnIntro_14
+  - first:
+      213: -3562625533357946546
+    second: rmReturnIntro_15
+  - first:
+      213: -421459968843064658
+    second: rmReturnIntro_16
+  - first:
+      213: 5288198161082025442
+    second: rmReturnIntro_17
+  - first:
+      213: 1938751688828659793
+    second: rmReturnIntro_18
+  - first:
+      213: 5549412645766994220
+    second: rmReturnIntro_19
+  - first:
+      213: -1639694475450149025
+    second: rmReturnIntro_20
+  - first:
+      213: -8986487768221821979
+    second: rmReturnIntro_21
+  - first:
+      213: 5870511048473771629
+    second: rmReturnIntro_22
+  - first:
+      213: 7968991158047517335
+    second: rmReturnIntro_23
+  - first:
+      213: 6911747954863985396
+    second: rmReturnIntro_24
+  - first:
+      213: 9188237863592354210
+    second: rmReturnIntro_25
+  - first:
+      213: 2637794542167352782
+    second: rmReturnIntro_26
+  - first:
+      213: 5201470703099670658
+    second: rmReturnIntro_27
+  - first:
+      213: 3984645887971650800
+    second: rmReturnIntro_28
+  - first:
+      213: 1677843282030848856
+    second: rmReturnIntro_29
+  - first:
+      213: 5917138079668784522
+    second: rmReturnIntro_30
+  - first:
+      213: 4351920997565560756
+    second: rmReturnIntro_31
+  - first:
+      213: -4018001254587359493
+    second: rmReturnIntro_32
+  - first:
+      213: 3566172901928842412
+    second: rmReturnIntro_33
+  - first:
+      213: 3176603231622514859
+    second: rmReturnIntro_34
+  - first:
+      213: -5666887950939861278
+    second: rmReturnIntro_35
+  - first:
+      213: 3345356103372091553
+    second: rmReturnIntro_36
+  - first:
+      213: -4078347438234513950
+    second: rmReturnIntro_37
+  - first:
+      213: 7887069127788068511
+    second: rmReturnIntro_38
+  - first:
+      213: -3990105512755611902
+    second: rmReturnIntro_39
+  - first:
+      213: 6814379834631046819
+    second: rmReturnIntro_40
+  - first:
+      213: -3415574273738527082
+    second: rmReturnIntro_41
+  - first:
+      213: -5960352006972339050
+    second: rmReturnIntro_42
+  - first:
+      213: -632827761570799471
+    second: rmReturnIntro_43
+  - first:
+      213: -6055514919534143412
+    second: rmReturnIntro_44
+  - first:
+      213: -6211103312653462095
+    second: rmReturnIntro_45
+  - first:
+      213: -8004820104413732737
+    second: rmReturnIntro_46
+  - first:
+      213: -1380676745148049975
+    second: rmReturnIntro_47
+  - first:
+      213: -2031536278609985210
+    second: rmReturnIntro_48
+  - first:
+      213: 1965553829567992459
+    second: rmReturnIntro_49
+  - first:
+      213: -3575373206984246281
+    second: rmReturnIntro_50
+  - first:
+      213: 930150860766438053
+    second: rmReturnIntro_51
+  - first:
+      213: 7191178233488461296
+    second: rmReturnIntro_52
+  - first:
+      213: -6941049349487261444
+    second: rmReturnIntro_53
+  - first:
+      213: -1804155484175564323
+    second: rmReturnIntro_54
+  - first:
+      213: 2137191016788594928
+    second: rmReturnIntro_55
+  - first:
+      213: -7005622287031193167
+    second: rmReturnIntro_56
+  - first:
+      213: -8059044771735580227
+    second: rmReturnIntro_57
+  - first:
+      213: 7221086878241588875
+    second: rmReturnIntro_58
+  - first:
+      213: -7053943404730188522
+    second: rmReturnIntro_59
+  - first:
+      213: -1611804704777657896
+    second: rmReturnIntro_60
+  - first:
+      213: -2695353614527451879
+    second: rmReturnIntro_61
+  - first:
+      213: -4139249413511558844
+    second: rmReturnIntro_62
+  - first:
+      213: 8636412276315510166
+    second: rmReturnIntro_63
+  - first:
+      213: -2243643652754803886
+    second: rmReturnIntro_64
+  - first:
+      213: -8556834734270768916
+    second: rmReturnIntro_65
+  - first:
+      213: 2648187811301432721
+    second: rmReturnIntro_66
+  - first:
+      213: 8745146515887122525
+    second: rmReturnIntro_67
+  - first:
+      213: -2094689228295329118
+    second: rmReturnIntro_68
+  - first:
+      213: -3080785663926203614
+    second: rmReturnIntro_69
+  - first:
+      213: 9138054780655456811
+    second: rmReturnIntro_70
+  - first:
+      213: -8304465290458820271
+    second: rmReturnIntro_71
+  - first:
+      213: 3569313054542178778
+    second: rmReturnIntro_72
+  - first:
+      213: -1680309005755273710
+    second: rmReturnIntro_73
+  - first:
+      213: -7449310581783693145
+    second: rmReturnIntro_74
+  - first:
+      213: 7754245039594299491
+    second: rmReturnIntro_75
+  - first:
+      213: 7855133174205600545
+    second: rmReturnIntro_76
+  - first:
+      213: -2039635439137521996
+    second: rmReturnIntro_77
+  - first:
+      213: 8373143205910682064
+    second: rmReturnIntro_78
+  - first:
+      213: 788559291489913304
+    second: rmReturnIntro_79
+  - first:
+      213: 7316736368827020805
+    second: rmReturnIntro_80
+  - first:
+      213: -3330491074985574518
+    second: rmReturnIntro_81
+  - first:
+      213: 4059524722133862101
+    second: rmReturnIntro_82
+  - first:
+      213: 5133383310459116098
+    second: rmReturnIntro_83
+  - first:
+      213: -4713617294387086440
+    second: rmReturnIntro_84
+  - first:
+      213: 8065458033054232554
+    second: rmReturnIntro_85
+  - first:
+      213: 3975647777764015575
+    second: rmReturnIntro_86
+  - first:
+      213: -6704436394073712003
+    second: rmReturnIntro_87
+  - first:
+      213: -4908402746580777568
+    second: rmReturnIntro_88
+  - first:
+      213: 1407848852639415965
+    second: rmReturnIntro_89
+  - first:
+      213: -5379738561943635569
+    second: rmReturnIntro_90
+  - first:
+      213: -6859426651812983345
+    second: rmReturnIntro_91
+  - first:
+      213: 5042011190477379648
+    second: rmReturnIntro_92
+  - first:
+      213: -43037096893573460
+    second: rmReturnIntro_93
+  - first:
+      213: 6977435796549850359
+    second: rmReturnIntro_94
+  - first:
+      213: 540724078537021404
+    second: rmReturnIntro_95
+  - first:
+      213: 580244790718105098
+    second: rmReturnIntro_96
+  - first:
+      213: -2850156951093786933
+    second: rmReturnIntro_97
+  - first:
+      213: 7721422042706210010
+    second: rmReturnIntro_98
+  - first:
+      213: -5593223070704671442
+    second: rmReturnIntro_99
+  - first:
+      213: 7319746637339900082
+    second: rmReturnIntro_100
+  - first:
+      213: 8167344538707142781
+    second: rmReturnIntro_101
+  - first:
+      213: 6476978890692695152
+    second: rmReturnIntro_102
+  - first:
+      213: -7615117267254818070
+    second: rmReturnIntro_103
+  - first:
+      213: 2076518052028879223
+    second: rmReturnIntro_104
+  - first:
+      213: -7851206340047791308
+    second: rmReturnIntro_105
+  - first:
+      213: -1594760403587246325
+    second: rmReturnIntro_106
+  - first:
+      213: -6343518229652349049
+    second: rmReturnIntro_107
+  - first:
+      213: -8781150174543856568
+    second: rmReturnIntro_108
+  - first:
+      213: 4287216813308299248
+    second: rmReturnIntro_109
+  - first:
+      213: -5926110706471210839
+    second: rmReturnIntro_110
+  - first:
+      213: 8270182554223675728
+    second: rmReturnIntro_111
+  - first:
+      213: -1592181262453975246
+    second: rmReturnIntro_112
+  - first:
+      213: -2033675889026694060
+    second: rmReturnIntro_113
+  - first:
+      213: -3367661634605746146
+    second: rmReturnIntro_114
+  - first:
+      213: -4917924225721251947
+    second: rmReturnIntro_115
+  - first:
+      213: -1798821923496964635
+    second: rmReturnIntro_116
+  - first:
+      213: -255973451350920039
+    second: rmReturnIntro_117
+  - first:
+      213: -8757027837756427898
+    second: rmReturnIntro_118
+  - first:
+      213: -6703668149584727600
+    second: rmReturnIntro_119
+  - first:
+      213: -2010584122498808895
+    second: rmReturnIntro_120
+  - first:
+      213: 868682384294151617
+    second: rmReturnIntro_121
+  - first:
+      213: 7438650971649435103
+    second: rmReturnIntro_122
+  - first:
+      213: 8460970680710031931
+    second: rmReturnIntro_123
+  - first:
+      213: -7945500483224647099
+    second: rmReturnIntro_124
+  - first:
+      213: 5795919113640353423
+    second: rmReturnIntro_125
+  - first:
+      213: 6188224577119078447
+    second: rmReturnIntro_126
+  - first:
+      213: -4208539548195295625
+    second: rmReturnIntro_127
+  - first:
+      213: -1256752566633568889
+    second: rmReturnIntro_128
+  - first:
+      213: 4768761462289497953
+    second: rmReturnIntro_129
+  - first:
+      213: 9158119610139486173
+    second: rmReturnIntro_130
+  - first:
+      213: 2565668153876453876
+    second: rmReturnIntro_131
+  - first:
+      213: -7429454833315435906
+    second: rmReturnIntro_132
+  - first:
+      213: 1116657754902840461
+    second: rmReturnIntro_133
+  - first:
+      213: -3578513648911743191
+    second: rmReturnIntro_134
+  - first:
+      213: -7402977990948410206
+    second: rmReturnIntro_135
+  - first:
+      213: 7025249461272788584
+    second: rmReturnIntro_136
+  - first:
+      213: 1128824470272127972
+    second: rmReturnIntro_137
+  - first:
+      213: -7176222656399031806
+    second: rmReturnIntro_138
+  - first:
+      213: 4650465411964781912
+    second: rmReturnIntro_139
+  - first:
+      213: 5661074407326635488
+    second: rmReturnIntro_140
+  - first:
+      213: -5084235138875984228
+    second: rmReturnIntro_141
+  - first:
+      213: 6508988310388985336
+    second: rmReturnIntro_142
+  - first:
+      213: 692364911434108889
+    second: rmReturnIntro_143
+  - first:
+      213: 9133904124662511639
+    second: rmReturnIntro_144
+  - first:
+      213: -2672425587373230023
+    second: rmReturnIntro_145
+  - first:
+      213: -3298195737082708329
+    second: rmReturnIntro_146
+  - first:
+      213: -4796526910838130050
+    second: rmReturnIntro_147
+  - first:
+      213: 4327482924417281938
+    second: rmReturnIntro_148
+  - first:
+      213: -1437446557773048537
+    second: rmReturnIntro_149
+  - first:
+      213: 7981530478858274469
+    second: rmReturnIntro_150
+  - first:
+      213: -4134185915520885877
+    second: rmReturnIntro_151
+  - first:
+      213: -20261443367181145
+    second: rmReturnIntro_152
+  - first:
+      213: 3351406253940269778
+    second: rmReturnIntro_153
+  - first:
+      213: 4132274677722974392
+    second: rmReturnIntro_154
+  - first:
+      213: -377888293029681231
+    second: rmReturnIntro_155
+  - first:
+      213: -4567009211830553448
+    second: rmReturnIntro_156
+  - first:
+      213: 1826736364649475993
+    second: rmReturnIntro_157
+  - first:
+      213: -8357145752678281854
+    second: rmReturnIntro_158
+  - first:
+      213: -230310226390921049
+    second: rmReturnIntro_159
+  - first:
+      213: -7174817342085248879
+    second: rmReturnIntro_160
+  - first:
+      213: -3140533836421498800
+    second: rmReturnIntro_161
+  - first:
+      213: 540968071728064680
+    second: rmReturnIntro_162
+  - first:
+      213: -1012118841257216431
+    second: rmReturnIntro_163
+  - first:
+      213: 4864636339083539552
+    second: rmReturnIntro_164
+  - first:
+      213: -9163830080222862800
+    second: rmReturnIntro_165
+  - first:
+      213: -366925293864009442
+    second: rmReturnIntro_166
+  - first:
+      213: -411121559039788139
+    second: rmReturnIntro_167
+  - first:
+      213: 3498376029876194821
+    second: rmReturnIntro_168
+  - first:
+      213: -3852037839913717372
+    second: rmReturnIntro_169
+  - first:
+      213: 3892562700787885712
+    second: rmReturnIntro_170
+  - first:
+      213: -8819539564261522734
+    second: rmReturnIntro_171
+  - first:
+      213: 7797286314714130302
+    second: rmReturnIntro_172
+  - first:
+      213: -5496683366774853926
+    second: rmReturnIntro_173
+  - first:
+      213: -3436622786152875729
+    second: rmReturnIntro_174
+  - first:
+      213: 7472968467907973386
+    second: rmReturnIntro_175
+  - first:
+      213: 2832257464013312369
+    second: rmReturnIntro_176
+  - first:
+      213: -7991102846853718812
+    second: rmReturnIntro_177
+  - first:
+      213: 2891616522416794373
+    second: rmReturnIntro_178
+  - first:
+      213: 689270808884107359
+    second: rmReturnIntro_179
+  - first:
+      213: 3367864486523538943
+    second: rmReturnIntro_180
+  - first:
+      213: -1781203728722257620
+    second: rmReturnIntro_181
+  - first:
+      213: 2424689910890239228
+    second: rmReturnIntro_182
+  - first:
+      213: 6747529175006402644
+    second: rmReturnIntro_183
+  - first:
+      213: -1489071492535418936
+    second: rmReturnIntro_184
+  - first:
+      213: 3603977612043390861
+    second: rmReturnIntro_185
+  - first:
+      213: -4591850208252127870
+    second: rmReturnIntro_186
+  - first:
+      213: -9123800416265051369
+    second: rmReturnIntro_187
+  - first:
+      213: -728288394345385049
+    second: rmReturnIntro_188
+  - first:
+      213: -971921324460373467
+    second: rmReturnIntro_189
+  - first:
+      213: -6386773544747227573
+    second: rmReturnIntro_190
+  - first:
+      213: -3709641634811396055
+    second: rmReturnIntro_191
+  - first:
+      213: -2876659783068948060
+    second: rmReturnIntro_192
+  - first:
+      213: 7377792568379711660
+    second: rmReturnIntro_193
+  - first:
+      213: 9191561475919747859
+    second: rmReturnIntro_194
+  - first:
+      213: -7330760874336482156
+    second: rmReturnIntro_195
+  - first:
+      213: -2298693046386301709
+    second: rmReturnIntro_196
+  - first:
+      213: -2619939036318161603
+    second: rmReturnIntro_197
+  - first:
+      213: 1465661407258684769
+    second: rmReturnIntro_198
+  - first:
+      213: 2640248641931645396
+    second: rmReturnIntro_199
+  - first:
+      213: -3922550367395454877
+    second: rmReturnIntro_200
+  - first:
+      213: -8438318513867289299
+    second: rmReturnIntro_201
+  - first:
+      213: -8639536367406275497
+    second: rmReturnIntro_202
+  - first:
+      213: -2087828445834106349
+    second: rmReturnIntro_203
+  - first:
+      213: -7815667210909510360
+    second: rmReturnIntro_204
+  - first:
+      213: -502754930681405273
+    second: rmReturnIntro_205
+  - first:
+      213: -6917256070013799028
+    second: rmReturnIntro_206
+  - first:
+      213: 2565980141571519633
+    second: rmReturnIntro_207
+  - first:
+      213: 7671223132623548063
+    second: rmReturnIntro_208
+  - first:
+      213: -5879041500232195120
+    second: rmReturnIntro_209
+  - first:
+      213: 6754911054429962235
+    second: rmReturnIntro_210
+  - first:
+      213: -6451082738016343982
+    second: rmReturnIntro_211
+  - first:
+      213: -2648173307716384739
+    second: rmReturnIntro_212
+  - first:
+      213: -9187078089928354554
+    second: rmReturnIntro_213
+  - first:
+      213: 140039112084791731
+    second: rmReturnIntro_214
+  - first:
+      213: -4262477704855627093
+    second: rmReturnIntro_215
+  - first:
+      213: -4283207693220145844
+    second: rmReturnIntro_216
+  - first:
+      213: -3320254554537798153
+    second: rmReturnIntro_217
+  - first:
+      213: 5887325709777437943
+    second: rmReturnIntro_218
+  - first:
+      213: -2134443901538366918
+    second: rmReturnIntro_219
+  - first:
+      213: 7820936463673047317
+    second: rmReturnIntro_220
+  - first:
+      213: 7449593149138690313
+    second: rmReturnIntro_221
+  - first:
+      213: 3873422668125246649
+    second: rmReturnIntro_222
+  - first:
+      213: 2043036550498666547
+    second: rmReturnIntro_223
+  - first:
+      213: -7959155152555996326
+    second: rmReturnIntro_224
+  - first:
+      213: -1812036099808428381
+    second: rmReturnIntro_225
+  - first:
+      213: 8360058961801217020
+    second: rmReturnIntro_226
+  - first:
+      213: 851981257699113290
+    second: rmReturnIntro_227
+  - first:
+      213: 1238040750938818872
+    second: rmReturnIntro_228
+  - first:
+      213: 3371728855144396543
+    second: rmReturnIntro_229
+  - first:
+      213: -1612973674797729853
+    second: rmReturnIntro_230
+  - first:
+      213: -6850459163860503396
+    second: rmReturnIntro_231
+  - first:
+      213: -2027256273580096548
+    second: rmReturnIntro_232
+  - first:
+      213: 4628877105037175247
+    second: rmReturnIntro_233
+  - first:
+      213: -5081207689709166422
+    second: rmReturnIntro_234
+  - first:
+      213: 4258557669252502036
+    second: rmReturnIntro_235
+  - first:
+      213: -9191792387598218477
+    second: rmReturnIntro_236
+  - first:
+      213: -4624835630842557667
+    second: rmReturnIntro_237
+  - first:
+      213: 8419718080251572255
+    second: rmReturnIntro_238
+  - first:
+      213: -4298439933952937910
+    second: rmReturnIntro_239
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmReturnIntro_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6736d63f940c9900800000000000000
+      internalID: 692433524574533483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 482
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76fd7cf3f2837330800000000000000
+      internalID: 3707450902680827519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 492
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44b0a0be852b0e10800000000000000
+      internalID: 2164865340660560971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 492
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c94b20fb43147f0800000000000000
+      internalID: -630164477866369897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 482
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe31b893f7430370800000000000000
+      internalID: 8287546850856222460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 478
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fadedf7c7541d0e0800000000000000
+      internalID: -2246938338057594125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 464
+        width: 222
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605edd8d6134950d0800000000000000
+      internalID: -3433639475486530298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_7
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 464
+        width: 252
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c5daf64b256b7d0800000000000000
+      internalID: -2903041974872482747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 474
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60ec141559525340800000000000000
+      internalID: 4851037970575974506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_9
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 478
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8db8a23a518feb00800000000000000
+      internalID: 860048278248013195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 460
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c3d4c4c6a948c10800000000000000
+      internalID: 2054937119915064356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 475
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b1e30a6787d1e80800000000000000
+      internalID: -8206270495109276864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 478
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec260bc723dd3bc0800000000000000
+      internalID: -3801650342567465754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 467
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17890d3f14c01c20800000000000000
+      internalID: 3175253375743264540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 461
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dd928f75f0d2bf0800000000000000
+      internalID: -347604725737595639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 475
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e498678f3f20f8ec0800000000000000
+      internalID: -3562625533357946546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 460
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaadf0e246ca62af0800000000000000
+      internalID: -421459968843064658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 474
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e50b2d9534736940800000000000000
+      internalID: 5288198161082025442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 460
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15822589364d7ea10800000000000000
+      internalID: 1938751688828659793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 460
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2990073669730d40800000000000000
+      internalID: 5549412645766994220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 474
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f579f92ef82ae39e0800000000000000
+      internalID: -1639694475450149025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 460
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3debcbcf4994380800000000000000
+      internalID: -8986487768221821979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 460
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ef84ef1be387150800000000000000
+      internalID: 5870511048473771629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_23
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 475
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79aa6a99c3b879e60800000000000000
+      internalID: 7968991158047517335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 467
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f253ba15267bef50800000000000000
+      internalID: 6911747954863985396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 478
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a16733d7ad238f70800000000000000
+      internalID: 9188237863592354210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 459
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5695419245b9420800000000000000
+      internalID: 2637794542167352782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_27
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 475
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2807bdfbb065f2840800000000000000
+      internalID: 5201470703099670658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 422
+        width: 213
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc6544d25e4c4730800000000000000
+      internalID: 3984645887971650800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_29
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 422
+        width: 213
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b693e4395e84710800000000000000
+      internalID: 1677843282030848856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_30
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 465
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d489dabb5ed1250800000000000000
+      internalID: 5917138079668784522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_31
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 428
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7757ef611256c30800000000000000
+      internalID: 4351920997565560756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_32
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 465
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe1f31b5213d38c0800000000000000
+      internalID: -4018001254587359493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_33
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 436
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4b7132c579d7130800000000000000
+      internalID: 3566172901928842412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8c73d0fcf851c20800000000000000
+      internalID: 3176603231622514859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_35
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 446
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eec94ede6b2b51b0800000000000000
+      internalID: -5666887950939861278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 444
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0bdacc6a71d6e20800000000000000
+      internalID: 3345356103372091553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 444
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed4869ec9cc667c0800000000000000
+      internalID: -4078347438234513950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_38
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 446
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ef1c0959f747d60800000000000000
+      internalID: 7887069127788068511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 443
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207bfd73d2c40a8c0800000000000000
+      internalID: -3990105512755611902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_40
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 442
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6c4cffa5a819e50800000000000000
+      internalID: 6814379834631046819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 446
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e2ad56b417990d0800000000000000
+      internalID: -3415574273738527082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 442
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c8020dd63984da0800000000000000
+      internalID: -5960352006972339050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 443
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1902193f08eb737f0800000000000000
+      internalID: -632827761570799471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_44
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 444
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48d611a34d76fba0800000000000000
+      internalID: -6055514919534143412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_45
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 444
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5d90ae17abdc9a0800000000000000
+      internalID: -6211103312653462095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 446
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70a381c68a29e090800000000000000
+      internalID: -8004820104413732737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 443
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5decfb0d9d6dce0800000000000000
+      internalID: -1380676745148049975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6410225a4888ec3e0800000000000000
+      internalID: -2031536278609985210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 430
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b821f464bcc074b10800000000000000
+      internalID: 1965553829567992459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 427
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb314ae209b16ec0800000000000000
+      internalID: -3575373206984246281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 411
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2e18b974f88ec00800000000000000
+      internalID: 930150860766438053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_52
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 432
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdc99bb0823cc360800000000000000
+      internalID: 7191178233488461296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_53
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 435
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf80b5354607caf90800000000000000
+      internalID: -6941049349487261444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 435
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1842e552a56f6e0800000000000000
+      internalID: -1804155484175564323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_55
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 432
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f017dc08e3d8ad10800000000000000
+      internalID: 2137191016788594928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_56
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 411
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b132f6b5a707ce90800000000000000
+      internalID: -7005622287031193167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_57
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 427
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db15bbf8a75882090800000000000000
+      internalID: -8059044771735580227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_58
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 430
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8603ddb144763460800000000000000
+      internalID: 7221086878241588875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_59
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 411
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61df857c8db5b1e90800000000000000
+      internalID: -7053943404730188522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 427
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1ac642928b1a9e0800000000000000
+      internalID: -1611804704777657896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 427
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91da60e0b2e289ad0800000000000000
+      internalID: -2695353614527451879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_62
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 423
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44946eec69e6e86c0800000000000000
+      internalID: -4139249413511558844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_63
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 423
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695db972533bad770800000000000000
+      internalID: 8636412276315510166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 414
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2537df23cf9fcd0e0800000000000000
+      internalID: -2243643652754803886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_65
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 411
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8111e2524004980800000000000000
+      internalID: -8556834734270768916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 410
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d142f98c040c420800000000000000
+      internalID: 2648187811301432721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_67
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 411
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5862342c600d5970800000000000000
+      internalID: 8745146515887122525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_68
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 411
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaae98be3b2ee2e0800000000000000
+      internalID: -2094689228295329118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_69
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 410
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b0098e2c9de35d0800000000000000
+      internalID: -3080785663926203614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_70
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 411
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2257035864e0de70800000000000000
+      internalID: 9138054780655456811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_71
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 414
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15114a831dc90cc80800000000000000
+      internalID: -8304465290458820271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_72
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 380
+        width: 217
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9a624ef4fb88130800000000000000
+      internalID: 3569313054542178778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_73
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 380
+        width: 213
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e2117acd75ea8e0800000000000000
+      internalID: -1680309005755273710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_74
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 386
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a879377e7bbe9890800000000000000
+      internalID: -7449310581783693145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_75
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 389
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3606a5e97cc9c9b60800000000000000
+      internalID: 7754245039594299491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12359efe00a030d60800000000000000
+      internalID: 7855133174205600545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_77
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 396
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bef8e2ef52c1b3e0800000000000000
+      internalID: -2039635439137521996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_78
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d918c90261633470800000000000000
+      internalID: 8373143205910682064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_79
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 402
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d907956f7681fa00800000000000000
+      internalID: 788559291489913304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_80
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 395
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506bd1336f44a8560800000000000000
+      internalID: 7316736368827020805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_81
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 394
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f30e35308b7c1d0800000000000000
+      internalID: -3330491074985574518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_82
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 394
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d684bbf934565830800000000000000
+      internalID: 4059524722133862101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_83
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 395
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a95db4ce07d3740800000000000000
+      internalID: 5133383310459116098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_84
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 402
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b7be86b0ed59eb0800000000000000
+      internalID: -4713617294387086440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 396
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefa40339534eef60800000000000000
+      internalID: 8065458033054232554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_86
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 372
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddf1b907965c2730800000000000000
+      internalID: 3975647777764015575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_87
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a19080f9e05f2a0800000000000000
+      internalID: -6704436394073712003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 396
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5408335b9d1ebb0800000000000000
+      internalID: -4908402746580777568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_89
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 396
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e7307821fa98310800000000000000
+      internalID: 1407848852639415965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 363
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89f0eee7445755b0800000000000000
+      internalID: -5379738561943635569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_91
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 367
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd07df8dcb6ec0a0800000000000000
+      internalID: -6859426651812983345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_92
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 379
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048d2f9c672d8f540800000000000000
+      internalID: 5042011190477379648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 379
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca69e770df9176ff0800000000000000
+      internalID: -43037096893573460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_94
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 367
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4d27093e4d4d060800000000000000
+      internalID: 6977435796549850359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_95
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 363
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd713be3fa9018700800000000000000
+      internalID: 540724078537021404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_96
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 315
+        width: 244
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06068910917d0800800000000000000
+      internalID: 580244790718105098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_97
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 338
+        width: 213
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6c1ff8a553278d0800000000000000
+      internalID: -2850156951093786933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_98
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 381
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcef502070082b60800000000000000
+      internalID: 7721422042706210010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_99
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 344
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25e0295041e062b0800000000000000
+      internalID: -5593223070704671442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_100
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 380
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b83184f8c6f49560800000000000000
+      internalID: 7319746637339900082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_101
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 347
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78add3e59c385170800000000000000
+      internalID: 8167344538707142781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_102
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074117d0cf9d2e950800000000000000
+      internalID: 6476978890692695152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_103
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 363
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea455a213ba15690800000000000000
+      internalID: -7615117267254818070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_104
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 365
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7711edc9a2641dc10800000000000000
+      internalID: 2076518052028879223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_105
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 363
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b18236e69ea0390800000000000000
+      internalID: -7851206340047791308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_106
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07d252ccd54ed9e0800000000000000
+      internalID: -1594760403587246325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_107
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 342
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f5b5f87cb47f7a0800000000000000
+      internalID: -6343518229652349049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_108
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 332
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c34f6d076132680800000000000000
+      internalID: -8781150174543856568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_109
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 347
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7c2502af04f7b30800000000000000
+      internalID: 4287216813308299248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_110
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 330
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0f429d5b932cda0800000000000000
+      internalID: -5926110706471210839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_111
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 348
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059822c373795c270800000000000000
+      internalID: 8270182554223675728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_112
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 350
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237d569d39f67e9e0800000000000000
+      internalID: -1592181262453975246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_113
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 348
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4548946cd8ee6c3e0800000000000000
+      internalID: -2033675889026694060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 347
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18fc910699a341d0800000000000000
+      internalID: -3367661634605746146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 330
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597c89519f500cbb0800000000000000
+      internalID: -4917924225721251947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_116
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 332
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed47cbbdfc4907e0800000000000000
+      internalID: -1798821923496964635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_117
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 342
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9943c409089927cf0800000000000000
+      internalID: -255973451350920039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_118
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 336
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681325a0499c87680800000000000000
+      internalID: -8757027837756427898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 332
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1f6e3e559c7f2a0800000000000000
+      internalID: -6703668149584727600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_120
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 336
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c30b63a468f814e0800000000000000
+      internalID: -2010584122498808895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_121
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 296
+        width: 218
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c50e7aa60e2e0c00800000000000000
+      internalID: 868682384294151617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_122
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 296
+        width: 213
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd56745a5a56b3760800000000000000
+      internalID: 7438650971649435103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_123
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 305
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a67b681086b6570800000000000000
+      internalID: 8460970680710031931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_124
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 305
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a43b65869ebb190800000000000000
+      internalID: -7945500483224647099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_125
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e1e6bc9bd3f6050800000000000000
+      internalID: 5795919113640353423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_126
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 324
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28468d577df0e550800000000000000
+      internalID: 6188224577119078447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_127
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 313
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ee2a624934895c0800000000000000
+      internalID: -4208539548195295625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_128
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 321
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785ee3ff23e1f8ee0800000000000000
+      internalID: -1256752566633568889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_129
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 313
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f7652b84b0e2240800000000000000
+      internalID: 4768761462289497953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_130
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 321
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd727ec734d281f70800000000000000
+      internalID: 9158119610139486173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_131
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 324
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9965ba7951b9320800000000000000
+      internalID: 2565668153876453876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_132
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7aac69213645e890800000000000000
+      internalID: -7429454833315435906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_133
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 302
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d844ba0df4a2f7f00800000000000000
+      internalID: 1116657754902840461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_134
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 299
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9278abccbc0965ec0800000000000000
+      internalID: -3578513648911743191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_135
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 297
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac2c796db6534990800000000000000
+      internalID: -7402977990948410206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_136
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 302
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e3ba5e923be7160800000000000000
+      internalID: 7025249461272788584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_137
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 302
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3b65cffd36aaf00800000000000000
+      internalID: 1128824470272127972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_138
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 297
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202c938e38fe86c90800000000000000
+      internalID: -7176222656399031806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_139
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 299
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855c66827a5c98040800000000000000
+      internalID: 4650465411964781912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_140
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 302
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e552c70e2d209e40800000000000000
+      internalID: 5661074407326635488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_141
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 288
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96fcb0241b2179b0800000000000000
+      internalID: -5084235138875984228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_142
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 284
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdc7e7d162945a50800000000000000
+      internalID: 6508988310388985336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_143
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 284
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df89f8f736cb9900800000000000000
+      internalID: 692364911434108889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_144
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 285
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718fbfa686522ce70800000000000000
+      internalID: 9133904124662511639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_145
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 285
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93834ff5613a9ead0800000000000000
+      internalID: -2672425587373230023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_146
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 284
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e3a73a3747a32d0800000000000000
+      internalID: -3298195737082708329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_147
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 284
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a34eb00305f6db0800000000000000
+      internalID: -4796526910838130050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 288
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fe571bace4e0c30800000000000000
+      internalID: 4327482924417281938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 254
+        width: 213
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725545cb8f92d0ce0800000000000000
+      internalID: -1437446557773048537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_150
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 254
+        width: 213
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a60d4cbea714ce60800000000000000
+      internalID: 7981530478858274469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_151
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 263
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b54fd40db60a6c0800000000000000
+      internalID: -4134185915520885877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_152
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 263
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a46679135408bff0800000000000000
+      internalID: -20261443367181145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_153
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2e1204b36928e20800000000000000
+      internalID: 3351406253940269778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_154
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 268
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b80508fce9c85930800000000000000
+      internalID: 4132274677722974392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_155
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 271
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7ef21899871caf0800000000000000
+      internalID: -377888293029681231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_156
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 260
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89437e2a159be90c0800000000000000
+      internalID: -4567009211830553448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_157
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 271
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f68319b0fd95910800000000000000
+      internalID: 1826736364649475993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_158
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 271
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d427b4734750c80800000000000000
+      internalID: -8357145752678281854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_159
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 226
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a054dfb116cdccf0800000000000000
+      internalID: -230310226390921049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_160
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 259
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19842b424aded6c90800000000000000
+      internalID: -7174817342085248879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_161
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 171
+        width: 14
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05870037d159a64d0800000000000000
+      internalID: -3140533836421498800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_162
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 249
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8ed265897e18700800000000000000
+      internalID: 540968071728064680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_163
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 212
+        width: 213
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156326cb64b34f1f0800000000000000
+      internalID: -1012118841257216431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_164
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 212
+        width: 213
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064f788f9f8a28340800000000000000
+      internalID: 4864636339083539552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_165
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 221
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032e646181983d080800000000000000
+      internalID: -9163830080222862800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_166
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 221
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e114128a36b68eaf0800000000000000
+      internalID: -366925293864009442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_167
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 191
+        width: 125
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bbde9ce176b4af0800000000000000
+      internalID: -411121559039788139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_168
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 209
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e0387c67abc8030800000000000000
+      internalID: 3498376029876194821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_169
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 194
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481749a5effca8ac0800000000000000
+      internalID: -3852037839913717372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_170
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 170
+        width: 213
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096a5661729250630800000000000000
+      internalID: 3892562700787885712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_171
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 41
+        width: 213
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d240b58e73ba9580800000000000000
+      internalID: -8819539564261522734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_172
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 179
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77ec886796853c60800000000000000
+      internalID: 7797286314714130302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_173
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 179
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade2690c99bd7b3b0800000000000000
+      internalID: -5496683366774853926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 137
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f293854b8c9ae40d0800000000000000
+      internalID: -3436622786152875729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_175
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 176
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0199536a3155b760800000000000000
+      internalID: 7472968467907973386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_176
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 171
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17156f658233e4720800000000000000
+      internalID: 2832257464013312369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_177
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 154
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecdba9ac46e91190800000000000000
+      internalID: -7991102846853718812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_178
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 213
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bad4d18e5112820800000000000000
+      internalID: 2891616522416794373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_179
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 41
+        width: 41
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5855951628c09900800000000000000
+      internalID: 689270808884107359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_180
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 116
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd83e228ee0dbe20800000000000000
+      internalID: 3367864486523538943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_181
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 114
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2998ec55a4e747e0800000000000000
+      internalID: -1781203728722257620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_182
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 122
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4161d90aa36a120800000000000000
+      internalID: 2424689910890239228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_183
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 137
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45857d3e80a04ad50800000000000000
+      internalID: 6747529175006402644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_184
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 137
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cff342fd51c55be0800000000000000
+      internalID: -1489071492535418936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_185
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 137
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f8e402b86e30230800000000000000
+      internalID: 3603977612043390861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_186
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 158
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285145370987640c0800000000000000
+      internalID: -4591850208252127870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_187
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 134
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713e5f28cdfb16180800000000000000
+      internalID: -9123800416265051369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_188
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 120
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3f001609994e5f0800000000000000
+      internalID: -728288394345385049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_189
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 145
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a89e174ba0382f0800000000000000
+      internalID: -971921324460373467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_190
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 118
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46aa74bc4f9d57a0800000000000000
+      internalID: -6386773544747227573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_191
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 86
+        width: 213
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92041117694b48cc0800000000000000
+      internalID: -3709641634811396055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_192
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 128
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9e5822b2d0418d0800000000000000
+      internalID: -2876659783068948060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_193
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 128
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca02ac0704f236660800000000000000
+      internalID: 7377792568379711660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_194
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 128
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b9c5f967cfe8f70800000000000000
+      internalID: 9191561475919747859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_195
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c87d723d7e34a90800000000000000
+      internalID: -7330760874336482156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_196
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 99
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4eb727ad66910e0800000000000000
+      internalID: -2298693046386301709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_197
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 69
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35a317d35b14abd0800000000000000
+      internalID: -2619939036318161603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_198
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 89
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d27a4d843175410800000000000000
+      internalID: 1465661407258684769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_199
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 89
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d11b05b62c04a420800000000000000
+      internalID: 2640248641931645396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_200
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 89
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360e0d1393d4099c0800000000000000
+      internalID: -3922550367395454877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_201
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 89
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d865f050215ea80800000000000000
+      internalID: -8438318513867289299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_202
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 114
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7542ea4b2733a1880800000000000000
+      internalID: -8639536367406275497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_203
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 98
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a2a1e171b8603e0800000000000000
+      internalID: -2087828445834106349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 111
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8251213b41c298390800000000000000
+      internalID: -7815667210909510360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_205
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 55
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0a8a3ed0bd509f0800000000000000
+      internalID: -502754930681405273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_206
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 55
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85b966e048f000a0800000000000000
+      internalID: -6917256070013799028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_207
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 44
+        width: 213
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194b317f7513c9320800000000000000
+      internalID: 2565980141571519633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_208
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 60
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e29c49bc8a57a60800000000000000
+      internalID: 7671223132623548063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_209
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 62
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d361ee67e2796ea0800000000000000
+      internalID: -5879041500232195120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_210
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 56
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff38a0a0d34ebd50800000000000000
+      internalID: 6754911054429962235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_211
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 63
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258a1e7dd662976a0800000000000000
+      internalID: -6451082738016343982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_212
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 66
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18c4e1486ccf3bd0800000000000000
+      internalID: -2648173307716384739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_213
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 42
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605db060721f08080800000000000000
+      internalID: -9187078089928354554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_214
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 66
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1a97a94d481f100800000000000000
+      internalID: 140039112084791731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_215
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 42
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baade0b6c13a8d4c0800000000000000
+      internalID: -4262477704855627093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_216
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 20
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c459462eb4dfe84c0800000000000000
+      internalID: -4283207693220145844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_217
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 55
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5d6e8f2161ce1d0800000000000000
+      internalID: -3320254554537798153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_218
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 23
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f40f486a8bf3b150800000000000000
+      internalID: 5887325709777437943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_219
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 50
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a8ecf849ee062e0800000000000000
+      internalID: -2134443901538366918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_220
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 213
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519b120d64c898c60800000000000000
+      internalID: 7820936463673047317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_221
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 12
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901689fdf75426760800000000000000
+      internalID: 7449593149138690313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_222
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 24
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b41d86f46921c530800000000000000
+      internalID: 3873422668125246649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_223
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 37
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338cc9f0be25a5c10800000000000000
+      internalID: 2043036550498666547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_224
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 18
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b0ea3ee866b8190800000000000000
+      internalID: -7959155152555996326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_225
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 18
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aefbbe84ca5ad6e0800000000000000
+      internalID: -1812036099808428381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_226
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 12
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf38b7f0555e40470800000000000000
+      internalID: 8360058961801217020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_227
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 17
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49327c9078d2db00800000000000000
+      internalID: 851981257699113290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_228
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8398a29e0876e2110800000000000000
+      internalID: 1238040750938818872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_229
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 26
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6f0d19789cace20800000000000000
+      internalID: 3371728855144396543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_230
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 4
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7ff991df09d99e0800000000000000
+      internalID: -1612973674797729853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_231
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9476cd8fa74ee0a0800000000000000
+      internalID: -6850459163860503396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd38398f82dbdd3e0800000000000000
+      internalID: -2027256273580096548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_233
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 10
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9eda2c3331d3040800000000000000
+      internalID: 4628877105037175247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_234
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 10
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0e6e0178ceb79b0800000000000000
+      internalID: -5081207689709166422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_235
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 14
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4129f4b23af691b30800000000000000
+      internalID: 4258557669252502036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_236
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b81101681307080800000000000000
+      internalID: -9191792387598218477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_237
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b4f074f7841dfb0800000000000000
+      internalID: -4624835630842557667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_238
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 3
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1034520cf8d8d470800000000000000
+      internalID: 8419718080251572255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmReturnIntro_239
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 3
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40b16877afd854c0800000000000000
+      internalID: -4298439933952937910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

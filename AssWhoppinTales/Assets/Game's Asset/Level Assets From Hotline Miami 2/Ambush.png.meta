@@ -1,0 +1,7680 @@
+fileFormatVersion: 2
+guid: d5da60454bdccda40b105a106bec58df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2950149734907640760
+    second: Ambush_0
+  - first:
+      213: -8416156841535624260
+    second: Ambush_1
+  - first:
+      213: 2217107835469901839
+    second: Ambush_2
+  - first:
+      213: 2452389178502703637
+    second: Ambush_3
+  - first:
+      213: 6970142146542378474
+    second: Ambush_4
+  - first:
+      213: 4534141400974031337
+    second: Ambush_5
+  - first:
+      213: -792763165737921466
+    second: Ambush_6
+  - first:
+      213: 8900970503982903687
+    second: Ambush_7
+  - first:
+      213: -8569992573163771166
+    second: Ambush_8
+  - first:
+      213: 6403417629923142358
+    second: Ambush_9
+  - first:
+      213: 1797039181923471382
+    second: Ambush_10
+  - first:
+      213: 1808812156658723246
+    second: Ambush_11
+  - first:
+      213: 1078900460837480410
+    second: Ambush_12
+  - first:
+      213: -3103247948981847607
+    second: Ambush_13
+  - first:
+      213: 4779393606841007782
+    second: Ambush_14
+  - first:
+      213: -7730547048816162141
+    second: Ambush_15
+  - first:
+      213: -9085188171309775675
+    second: Ambush_16
+  - first:
+      213: 3539668803242487915
+    second: Ambush_17
+  - first:
+      213: -2954247991986370680
+    second: Ambush_18
+  - first:
+      213: -1382700094227107301
+    second: Ambush_19
+  - first:
+      213: -1633312162971072369
+    second: Ambush_20
+  - first:
+      213: -3012999126507192378
+    second: Ambush_21
+  - first:
+      213: 6298948399900359062
+    second: Ambush_22
+  - first:
+      213: -5885066864772951223
+    second: Ambush_23
+  - first:
+      213: 8466672059343312863
+    second: Ambush_24
+  - first:
+      213: -133025089809261079
+    second: Ambush_25
+  - first:
+      213: -6680021681673318807
+    second: Ambush_26
+  - first:
+      213: 3676444980631243362
+    second: Ambush_27
+  - first:
+      213: 8051564312243760835
+    second: Ambush_28
+  - first:
+      213: 5131588086902947197
+    second: Ambush_29
+  - first:
+      213: -8044540669247816901
+    second: Ambush_30
+  - first:
+      213: -5691684083859856319
+    second: Ambush_31
+  - first:
+      213: -1290261473551108436
+    second: Ambush_32
+  - first:
+      213: -6872378482370598697
+    second: Ambush_33
+  - first:
+      213: -1306816738509283331
+    second: Ambush_34
+  - first:
+      213: -70708053184896733
+    second: Ambush_35
+  - first:
+      213: 4259653160321433931
+    second: Ambush_36
+  - first:
+      213: -6462317568350884217
+    second: Ambush_37
+  - first:
+      213: -3041024630544479461
+    second: Ambush_38
+  - first:
+      213: 7445076502777008394
+    second: Ambush_39
+  - first:
+      213: -7906283866521020374
+    second: Ambush_40
+  - first:
+      213: -300926769265697907
+    second: Ambush_41
+  - first:
+      213: -5602161175465893298
+    second: Ambush_42
+  - first:
+      213: 1237176914582203707
+    second: Ambush_43
+  - first:
+      213: -1942246692461066341
+    second: Ambush_44
+  - first:
+      213: -1336414340767675714
+    second: Ambush_45
+  - first:
+      213: 6696823228531052382
+    second: Ambush_46
+  - first:
+      213: 3977331672653392002
+    second: Ambush_47
+  - first:
+      213: -8098599339058071521
+    second: Ambush_48
+  - first:
+      213: 7410258468629186572
+    second: Ambush_49
+  - first:
+      213: 4505196964202780106
+    second: Ambush_50
+  - first:
+      213: -5217020917276972701
+    second: Ambush_51
+  - first:
+      213: 7053152105133443130
+    second: Ambush_52
+  - first:
+      213: 5250275744636388581
+    second: Ambush_53
+  - first:
+      213: 5971836115773638330
+    second: Ambush_54
+  - first:
+      213: 5180324444517230159
+    second: Ambush_55
+  - first:
+      213: -8190056436858913329
+    second: Ambush_56
+  - first:
+      213: 3486588964304931985
+    second: Ambush_57
+  - first:
+      213: -5714285307438517918
+    second: Ambush_58
+  - first:
+      213: 881198591319877223
+    second: Ambush_59
+  - first:
+      213: -4106626016333394324
+    second: Ambush_60
+  - first:
+      213: -2945481041015274158
+    second: Ambush_61
+  - first:
+      213: -8292849598389739391
+    second: Ambush_62
+  - first:
+      213: 7619635692597513617
+    second: Ambush_63
+  - first:
+      213: -5592317321210247029
+    second: Ambush_64
+  - first:
+      213: 4163990928257407654
+    second: Ambush_65
+  - first:
+      213: 5535847714042155033
+    second: Ambush_66
+  - first:
+      213: -5209986857737014761
+    second: Ambush_67
+  - first:
+      213: 7492518682068005494
+    second: Ambush_68
+  - first:
+      213: 4519183218290413192
+    second: Ambush_69
+  - first:
+      213: -8790690663257403439
+    second: Ambush_70
+  - first:
+      213: -3301671594759727919
+    second: Ambush_71
+  - first:
+      213: -5179367737717156060
+    second: Ambush_72
+  - first:
+      213: -4611652755610863003
+    second: Ambush_73
+  - first:
+      213: -4059712936887316133
+    second: Ambush_74
+  - first:
+      213: -3573970651474256786
+    second: Ambush_75
+  - first:
+      213: 7831725109527140441
+    second: Ambush_76
+  - first:
+      213: -6476428838502302499
+    second: Ambush_77
+  - first:
+      213: 8184656674071647057
+    second: Ambush_78
+  - first:
+      213: 7915608871967222286
+    second: Ambush_79
+  - first:
+      213: -8831676989292387647
+    second: Ambush_80
+  - first:
+      213: 6032129456085762655
+    second: Ambush_81
+  - first:
+      213: -3990695670593580818
+    second: Ambush_82
+  - first:
+      213: -6173177104203778203
+    second: Ambush_83
+  - first:
+      213: 4205916885763931301
+    second: Ambush_84
+  - first:
+      213: 5280597349460138167
+    second: Ambush_85
+  - first:
+      213: 7205357220266158506
+    second: Ambush_86
+  - first:
+      213: 5079081637255006483
+    second: Ambush_87
+  - first:
+      213: 1655040454642323695
+    second: Ambush_88
+  - first:
+      213: -1976813101013197039
+    second: Ambush_89
+  - first:
+      213: 6998242234441295746
+    second: Ambush_90
+  - first:
+      213: 2954199906466970969
+    second: Ambush_91
+  - first:
+      213: -5950395066598214175
+    second: Ambush_92
+  - first:
+      213: 8458078091152494945
+    second: Ambush_93
+  - first:
+      213: -8708337289697139394
+    second: Ambush_94
+  - first:
+      213: 8006587415429564647
+    second: Ambush_95
+  - first:
+      213: -5062203633459669116
+    second: Ambush_96
+  - first:
+      213: -5782639129580280519
+    second: Ambush_97
+  - first:
+      213: 4093599853363761431
+    second: Ambush_98
+  - first:
+      213: 7148276834693360530
+    second: Ambush_99
+  - first:
+      213: -2276118631388144205
+    second: Ambush_100
+  - first:
+      213: 894788593139202226
+    second: Ambush_101
+  - first:
+      213: 5247112631857474134
+    second: Ambush_102
+  - first:
+      213: -7249058294594475440
+    second: Ambush_103
+  - first:
+      213: 355629509381113600
+    second: Ambush_104
+  - first:
+      213: 769618904709384745
+    second: Ambush_105
+  - first:
+      213: -8712721111358262325
+    second: Ambush_106
+  - first:
+      213: 4210092956853201876
+    second: Ambush_107
+  - first:
+      213: 2801074568765209636
+    second: Ambush_108
+  - first:
+      213: 6662480898621595613
+    second: Ambush_109
+  - first:
+      213: 8957624874663157502
+    second: Ambush_110
+  - first:
+      213: -5659731480705149030
+    second: Ambush_111
+  - first:
+      213: 4375419704858031501
+    second: Ambush_112
+  - first:
+      213: 1297206021651307960
+    second: Ambush_113
+  - first:
+      213: -2790182149260589661
+    second: Ambush_114
+  - first:
+      213: 5835463540564357507
+    second: Ambush_115
+  - first:
+      213: 7432891237551242217
+    second: Ambush_116
+  - first:
+      213: -3604653295583653042
+    second: Ambush_117
+  - first:
+      213: -7502377714834944374
+    second: Ambush_118
+  - first:
+      213: 2790604324129418984
+    second: Ambush_119
+  - first:
+      213: -9001351044826699702
+    second: Ambush_120
+  - first:
+      213: -4119361596256161489
+    second: Ambush_121
+  - first:
+      213: -6891974117074247015
+    second: Ambush_122
+  - first:
+      213: -9130236256895655479
+    second: Ambush_123
+  - first:
+      213: -632133729740085738
+    second: Ambush_124
+  - first:
+      213: -1868519434150422194
+    second: Ambush_125
+  - first:
+      213: 4819700074571826055
+    second: Ambush_126
+  - first:
+      213: -4549832511961062498
+    second: Ambush_127
+  - first:
+      213: 6473866801654839392
+    second: Ambush_128
+  - first:
+      213: -7349265612064865734
+    second: Ambush_129
+  - first:
+      213: 4157224943082416873
+    second: Ambush_130
+  - first:
+      213: -2416768372278225647
+    second: Ambush_131
+  - first:
+      213: -1082673513023842648
+    second: Ambush_132
+  - first:
+      213: -8348585061773926098
+    second: Ambush_133
+  - first:
+      213: -3125134589641538826
+    second: Ambush_134
+  - first:
+      213: -1459221162279089544
+    second: Ambush_135
+  - first:
+      213: -6663761763573280992
+    second: Ambush_136
+  - first:
+      213: 5609825890906902781
+    second: Ambush_137
+  - first:
+      213: 364145595938842556
+    second: Ambush_138
+  - first:
+      213: -4377492060980243415
+    second: Ambush_139
+  - first:
+      213: 2894917662680124872
+    second: Ambush_140
+  - first:
+      213: 2225164702942590819
+    second: Ambush_141
+  - first:
+      213: -711580730628948086
+    second: Ambush_142
+  - first:
+      213: 3714050004267906034
+    second: Ambush_143
+  - first:
+      213: 1390365338765788020
+    second: Ambush_144
+  - first:
+      213: -6633467009904764765
+    second: Ambush_145
+  - first:
+      213: -2747918114559799629
+    second: Ambush_146
+  - first:
+      213: -1409218483244249977
+    second: Ambush_147
+  - first:
+      213: 488290149852446106
+    second: Ambush_148
+  - first:
+      213: 283083602880478035
+    second: Ambush_149
+  - first:
+      213: 1496309597839343333
+    second: Ambush_150
+  - first:
+      213: 126383357495130018
+    second: Ambush_151
+  - first:
+      213: -683843056497593039
+    second: Ambush_152
+  - first:
+      213: -4609667195094529166
+    second: Ambush_153
+  - first:
+      213: 1758752794404870206
+    second: Ambush_154
+  - first:
+      213: -2547898776897601560
+    second: Ambush_155
+  - first:
+      213: -9212678063502388491
+    second: Ambush_156
+  - first:
+      213: -1741458645967217224
+    second: Ambush_157
+  - first:
+      213: -6767791466154791674
+    second: Ambush_158
+  - first:
+      213: 1220082791583407974
+    second: Ambush_159
+  - first:
+      213: -4227125616701942797
+    second: Ambush_160
+  - first:
+      213: 5889709679833149707
+    second: Ambush_161
+  - first:
+      213: -8662624166139010760
+    second: Ambush_162
+  - first:
+      213: -3084878564730804227
+    second: Ambush_163
+  - first:
+      213: -2358919448062529360
+    second: Ambush_164
+  - first:
+      213: -8521531601777575294
+    second: Ambush_165
+  - first:
+      213: -8797162083786158551
+    second: Ambush_166
+  - first:
+      213: 6726150239718786357
+    second: Ambush_167
+  - first:
+      213: 3962246832979469241
+    second: Ambush_168
+  - first:
+      213: -7170847686524856697
+    second: Ambush_169
+  - first:
+      213: 8647418055469259611
+    second: Ambush_170
+  - first:
+      213: -5386473034266221769
+    second: Ambush_171
+  - first:
+      213: 7636239450587882769
+    second: Ambush_172
+  - first:
+      213: 3316655304560422116
+    second: Ambush_173
+  - first:
+      213: 8049695324468217016
+    second: Ambush_174
+  - first:
+      213: -6786011280780578296
+    second: Ambush_175
+  - first:
+      213: -8312752722494447816
+    second: Ambush_176
+  - first:
+      213: 768917339455480273
+    second: Ambush_177
+  - first:
+      213: -6673536742437258949
+    second: Ambush_178
+  - first:
+      213: -1359298735031575755
+    second: Ambush_179
+  - first:
+      213: -4364468393099285204
+    second: Ambush_180
+  - first:
+      213: -2026635836267987590
+    second: Ambush_181
+  - first:
+      213: -575153183720271369
+    second: Ambush_182
+  - first:
+      213: 1446398398555911667
+    second: Ambush_183
+  - first:
+      213: 5319693251598319873
+    second: Ambush_184
+  - first:
+      213: 8179522093090024697
+    second: Ambush_185
+  - first:
+      213: -9184680765368917152
+    second: Ambush_186
+  - first:
+      213: 608682385411604052
+    second: Ambush_187
+  - first:
+      213: 2124280511983196603
+    second: Ambush_188
+  - first:
+      213: 1860068358099192752
+    second: Ambush_189
+  - first:
+      213: -1343947668166922500
+    second: Ambush_190
+  - first:
+      213: 4153768757959624365
+    second: Ambush_191
+  - first:
+      213: 8911677310084557641
+    second: Ambush_192
+  - first:
+      213: 789227897367097077
+    second: Ambush_193
+  - first:
+      213: -8298630005759706003
+    second: Ambush_194
+  - first:
+      213: 8636511120256804182
+    second: Ambush_195
+  - first:
+      213: -1797440013219477207
+    second: Ambush_196
+  - first:
+      213: -6072445825644330125
+    second: Ambush_197
+  - first:
+      213: -1679266574444555900
+    second: Ambush_198
+  - first:
+      213: 1724916560006700325
+    second: Ambush_199
+  - first:
+      213: -3891571427993956496
+    second: Ambush_200
+  - first:
+      213: -7959227291192603261
+    second: Ambush_201
+  - first:
+      213: -8828718427348104338
+    second: Ambush_202
+  - first:
+      213: -8673448620086489148
+    second: Ambush_203
+  - first:
+      213: 8121384646330478191
+    second: Ambush_204
+  - first:
+      213: 4182132132287112512
+    second: Ambush_205
+  - first:
+      213: -6361449153964948195
+    second: Ambush_206
+  - first:
+      213: 6825225425184716291
+    second: Ambush_207
+  - first:
+      213: -2291463390495660348
+    second: Ambush_208
+  - first:
+      213: -4523706036880382634
+    second: Ambush_209
+  - first:
+      213: -896964658591599285
+    second: Ambush_210
+  - first:
+      213: -9044482482524144860
+    second: Ambush_211
+  - first:
+      213: 5648059482845771821
+    second: Ambush_212
+  - first:
+      213: -983055184888202747
+    second: Ambush_213
+  - first:
+      213: 1525755070259193721
+    second: Ambush_214
+  - first:
+      213: 8851628594302282411
+    second: Ambush_215
+  - first:
+      213: 4600881134421182372
+    second: Ambush_216
+  - first:
+      213: 7184448468686608546
+    second: Ambush_217
+  - first:
+      213: -1398264521243553621
+    second: Ambush_218
+  - first:
+      213: 5079495776571738903
+    second: Ambush_219
+  - first:
+      213: 7985876066569956743
+    second: Ambush_220
+  - first:
+      213: 8212459539586969769
+    second: Ambush_221
+  - first:
+      213: -5463913817654906624
+    second: Ambush_222
+  - first:
+      213: -2856952325265533654
+    second: Ambush_223
+  - first:
+      213: 8664832721465915214
+    second: Ambush_224
+  - first:
+      213: -8776523797411890061
+    second: Ambush_225
+  - first:
+      213: 2010147650012592661
+    second: Ambush_226
+  - first:
+      213: 8269929115010788706
+    second: Ambush_227
+  - first:
+      213: 2030999581020904611
+    second: Ambush_228
+  - first:
+      213: -4190533286038204150
+    second: Ambush_229
+  - first:
+      213: -7565991302251109674
+    second: Ambush_230
+  - first:
+      213: -3574899997881644365
+    second: Ambush_231
+  - first:
+      213: -5919658003376310212
+    second: Ambush_232
+  - first:
+      213: -2500388128108925074
+    second: Ambush_233
+  - first:
+      213: -5512505972293340314
+    second: Ambush_234
+  - first:
+      213: -2917264996122122707
+    second: Ambush_235
+  - first:
+      213: -2293147123429289651
+    second: Ambush_236
+  - first:
+      213: 8996498787214367188
+    second: Ambush_237
+  - first:
+      213: -9223005980268010270
+    second: Ambush_238
+  - first:
+      213: -8915117769829881102
+    second: Ambush_239
+  - first:
+      213: -4088545063840559990
+    second: Ambush_240
+  - first:
+      213: 9046084431278032315
+    second: Ambush_241
+  - first:
+      213: 6101150826543922118
+    second: Ambush_242
+  - first:
+      213: 2096748642346320718
+    second: Ambush_243
+  - first:
+      213: 7853896986226119783
+    second: Ambush_244
+  - first:
+      213: -5833784489738383372
+    second: Ambush_245
+  - first:
+      213: 5215922341695983607
+    second: Ambush_246
+  - first:
+      213: -6227302963166472556
+    second: Ambush_247
+  - first:
+      213: -1058700950750850307
+    second: Ambush_248
+  - first:
+      213: 4261042742174999357
+    second: Ambush_249
+  - first:
+      213: -958099649185480468
+    second: Ambush_250
+  - first:
+      213: -9190588050150658216
+    second: Ambush_251
+  - first:
+      213: 7256270663142002557
+    second: Ambush_252
+  - first:
+      213: -8703465497734807373
+    second: Ambush_253
+  - first:
+      213: 3430223432752832008
+    second: Ambush_254
+  - first:
+      213: -4983265733400451687
+    second: Ambush_255
+  - first:
+      213: -2801783242034431942
+    second: Ambush_256
+  - first:
+      213: -6023481091750126015
+    second: Ambush_257
+  - first:
+      213: -3077142912694582574
+    second: Ambush_258
+  - first:
+      213: -6757184409728613794
+    second: Ambush_259
+  - first:
+      213: -7371825024205809039
+    second: Ambush_260
+  - first:
+      213: 8812376060092653657
+    second: Ambush_261
+  - first:
+      213: 6489117387111954330
+    second: Ambush_262
+  - first:
+      213: 7613496383972195969
+    second: Ambush_263
+  - first:
+      213: -630224688522557456
+    second: Ambush_264
+  - first:
+      213: 8560713989193008063
+    second: Ambush_265
+  - first:
+      213: -1885131686317637910
+    second: Ambush_266
+  - first:
+      213: 7369604131194035840
+    second: Ambush_267
+  - first:
+      213: 6735078554506893765
+    second: Ambush_268
+  - first:
+      213: 2495361325520354312
+    second: Ambush_269
+  - first:
+      213: 1842013097457741857
+    second: Ambush_270
+  - first:
+      213: 6527345989953025770
+    second: Ambush_271
+  - first:
+      213: 2146388025079937440
+    second: Ambush_272
+  - first:
+      213: -2303170278408530219
+    second: Ambush_273
+  - first:
+      213: -2036021083642860063
+    second: Ambush_274
+  - first:
+      213: 6954805115699540029
+    second: Ambush_275
+  - first:
+      213: 5648933045684628513
+    second: Ambush_276
+  - first:
+      213: -4872894663156831583
+    second: Ambush_277
+  - first:
+      213: 2576584164746345696
+    second: Ambush_278
+  - first:
+      213: -2182245755759230366
+    second: Ambush_279
+  - first:
+      213: -2932812257354539924
+    second: Ambush_280
+  - first:
+      213: 3809248740098904796
+    second: Ambush_281
+  - first:
+      213: 8644648393591169764
+    second: Ambush_282
+  - first:
+      213: -5027541555967144039
+    second: Ambush_283
+  - first:
+      213: -6384553243038798696
+    second: Ambush_284
+  - first:
+      213: -8923851495883719021
+    second: Ambush_285
+  - first:
+      213: -5752875693163953511
+    second: Ambush_286
+  - first:
+      213: -584725260169054500
+    second: Ambush_287
+  - first:
+      213: 4231487534446743034
+    second: Ambush_288
+  - first:
+      213: 7918692126246598504
+    second: Ambush_289
+  - first:
+      213: -234002380723184936
+    second: Ambush_290
+  - first:
+      213: -4836978716121301501
+    second: Ambush_291
+  - first:
+      213: 2746162885861348959
+    second: Ambush_292
+  - first:
+      213: 1007606921726095533
+    second: Ambush_293
+  - first:
+      213: 7285134319416105285
+    second: Ambush_294
+  - first:
+      213: 3759077625120020263
+    second: Ambush_295
+  - first:
+      213: 3005350708743289873
+    second: Ambush_296
+  - first:
+      213: 2119794105631910257
+    second: Ambush_297
+  - first:
+      213: -3523562917348660803
+    second: Ambush_298
+  - first:
+      213: 3331646135845181461
+    second: Ambush_299
+  - first:
+      213: 8560143794502871077
+    second: Ambush_300
+  - first:
+      213: -1885442616833315935
+    second: Ambush_301
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ambush_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbf167ad8901f820800000000000000
+      internalID: 2950149734907640760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 357
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbab4e71fdc33b80800000000000000
+      internalID: -8416156841535624260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 453
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f003be164dfb4ce10800000000000000
+      internalID: 2217107835469901839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 432
+        width: 63
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a6aabe6f2a80220800000000000000
+      internalID: 2452389178502703637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 538
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed13a65a5beab060800000000000000
+      internalID: 6970142146542378474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 542
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9f27ec4918cee30800000000000000
+      internalID: 4534141400974031337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 552
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6445d2bd91a8ff4f0800000000000000
+      internalID: -792763165737921466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 552
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78171269389968b70800000000000000
+      internalID: 8900970503982903687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 542
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea66d41925411980800000000000000
+      internalID: -8569992573163771166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 519
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6daea0c58628dd850800000000000000
+      internalID: 6403417629923142358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_10
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 508
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610d1066d9d50f810800000000000000
+      internalID: 1797039181923471382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 508
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea92d0fa2113a1910800000000000000
+      internalID: 1808812156658723246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_12
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 519
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7293cb04609fe00800000000000000
+      internalID: 1078900460837480410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 520
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c93afe9e6c0fe4d0800000000000000
+      internalID: -3103247948981847607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 535
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aef781c921d35240800000000000000
+      internalID: 4779393606841007782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 538
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa4ed3da6497b490800000000000000
+      internalID: -7730547048816162141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 527
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4008b5e7deae180800000000000000
+      internalID: -9085188171309775675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 521
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60fcc7c50e6f1130800000000000000
+      internalID: 3539668803242487915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 535
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887cd338a176007d0800000000000000
+      internalID: -2954247991986370680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 520
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12b1b41799afcce0800000000000000
+      internalID: -1382700094227107301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 534
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88c8cecd3f4559e0800000000000000
+      internalID: -1633312162971072369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_21
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 520
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cff9fb024daf26d0800000000000000
+      internalID: -3012999126507192378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 520
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699739a423c5a6750800000000000000
+      internalID: 6298948399900359062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 534
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94359cdedda045ea0800000000000000
+      internalID: -5885066864772951223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 520
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd712ee2169af7570800000000000000
+      internalID: 8466672059343312863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_25
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 520
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed54b7b266672ef0800000000000000
+      internalID: -133025089809261079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_26
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 535
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e44fb3cabcb43a0800000000000000
+      internalID: -6680021681673318807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 527
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a0bc23b3b550330800000000000000
+      internalID: 3676444980631243362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_28
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 538
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce608d3517ecbf60800000000000000
+      internalID: 8051564312243760835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 520
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7df97d3d20173740800000000000000
+      internalID: 5131588086902947197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 535
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bfc4412ec0c5090800000000000000
+      internalID: -8044540669247816901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_31
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 509
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144e9c74b731301b0800000000000000
+      internalID: -5691684083859856319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_32
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 501
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca63d91a602181ee0800000000000000
+      internalID: -1290261473551108436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_33
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 518
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d823448e2860a0a0800000000000000
+      internalID: -6872378482370598697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_34
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 501
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff9e92a9114ddde0800000000000000
+      internalID: -1306816738509283331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_35
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 503
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321a727766bc40ff0800000000000000
+      internalID: -70708053184896733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_36
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 506
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41445f0bf35d1b30800000000000000
+      internalID: 4259653160321433931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 504
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eeda0196c3156a0800000000000000
+      internalID: -6462317568350884217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 504
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bce27e53c1cc5d0800000000000000
+      internalID: -3041024630544479461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_39
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 506
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0191a132a9325760800000000000000
+      internalID: 7445076502777008394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_40
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 503
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28dc9276bc374290800000000000000
+      internalID: -7906283866521020374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_41
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 502
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b138e92b4e2dbf0800000000000000
+      internalID: -300926769265697907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_42
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 506
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42eed9a7102142b0800000000000000
+      internalID: -5602161175465893298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_43
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 502
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d6cf559d55b2110800000000000000
+      internalID: 1237176914582203707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_44
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 503
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b974ea57ce0cb05e0800000000000000
+      internalID: -1942246692461066341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 504
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba0ec9dc3a147de0800000000000000
+      internalID: -1336414340767675714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_46
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 504
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f8d2cbe35efec50800000000000000
+      internalID: 6696823228531052382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_47
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 506
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2886a6e5512523730800000000000000
+      internalID: 3977331672653392002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_48
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 503
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18fa313fcefb9f80800000000000000
+      internalID: -8098599339058071521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_49
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 487
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c080974e0d686d660800000000000000
+      internalID: 7410258468629186572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_50
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 490
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac59976f4cca58e30800000000000000
+      internalID: 4505196964202780106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_51
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 487
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3696cefdd1b6997b0800000000000000
+      internalID: -5217020917276972701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_52
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 471
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38074d6874d1e160800000000000000
+      internalID: 7053152105133443130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 492
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4c6ebf8f9bcd840800000000000000
+      internalID: 5250275744636388581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_54
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 495
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab64981ae4930e250800000000000000
+      internalID: 5971836115773638330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_55
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 495
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46e8b0c2a534e740800000000000000
+      internalID: 5180324444517230159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 492
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd7f9e3013175e80800000000000000
+      internalID: -8190056436858913329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 471
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c4137b03ad26030800000000000000
+      internalID: 3486588964304931985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_58
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 487
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261b4e8d9c7c2b0b0800000000000000
+      internalID: -5714285307438517918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_59
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 490
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76622343375aa3c00800000000000000
+      internalID: 881198591319877223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_60
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 471
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e021f55655207c0800000000000000
+      internalID: -4106626016333394324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_61
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 445
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25503a9599c8f17d0800000000000000
+      internalID: -2945481041015274158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_62
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 469
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1802d384a31e9ec80800000000000000
+      internalID: -8292849598389739391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_63
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 477
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d8927ba426eb960800000000000000
+      internalID: 7619635692597513617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_64
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 445
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88cff596091462b0800000000000000
+      internalID: -5592317321210247029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_65
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 458
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa5bbeffa779c930800000000000000
+      internalID: 4163990928257407654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_66
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 487
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910142e6a2843dc40800000000000000
+      internalID: 5535847714042155033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_67
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 487
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712b12c7e8862b7b0800000000000000
+      internalID: -5209986857737014761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_68
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 474
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67234a55b06caf760800000000000000
+      internalID: 7492518682068005494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_69
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 471
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e4b11813d57be30800000000000000
+      internalID: 4519183218290413192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_70
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 470
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df0336ba61310680800000000000000
+      internalID: -8790690663257403439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_71
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 471
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d459557d2b1e22d0800000000000000
+      internalID: -3301671594759727919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_72
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 471
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4271048eb703f18b0800000000000000
+      internalID: -5179367737717156060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_73
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 470
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56afc5a904e1000c0800000000000000
+      internalID: -4611652755610863003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 471
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5116cad79009a7c0800000000000000
+      internalID: -4059712936887316133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_75
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 474
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c9431d0a4b66ec0800000000000000
+      internalID: -3573970651474256786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 455
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9585fdb2e70efac60800000000000000
+      internalID: 7831725109527140441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_77
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 456
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc79f3f84a1f16a0800000000000000
+      internalID: -6476428838502302499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_78
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 463
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153129281edb59170800000000000000
+      internalID: 8184656674071647057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 462
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a69829454e9dd60800000000000000
+      internalID: 7915608871967222286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_80
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 455
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c26c3a02949f6580800000000000000
+      internalID: -8831676989292387647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_81
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 454
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52892dd7cd66b350800000000000000
+      internalID: 6032129456085762655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_82
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 454
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee094936e633e98c0800000000000000
+      internalID: -3990695670593580818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_83
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 455
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567fb507128745aa0800000000000000
+      internalID: -6173177104203778203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_84
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 462
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acb6caaf1b6e5a30800000000000000
+      internalID: 4205916885763931301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_85
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 456
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8d070cf43784940800000000000000
+      internalID: 5280597349460138167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_86
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 374
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9a2c957329ef360800000000000000
+      internalID: 7205357220266158506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_87
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 463
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3194bc5c6d58c7640800000000000000
+      internalID: 5079081637255006483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_88
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 456
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe05bd35682e7f610800000000000000
+      internalID: 1655040454642323695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_89
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 456
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f15ce45f2f094e0800000000000000
+      internalID: -1976813101013197039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_90
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 441
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2876204eb30ce1160800000000000000
+      internalID: 6998242234441295746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_91
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 449
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95db474b92d6ff820800000000000000
+      internalID: 2954199906466970969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_92
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 341
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e53d26a633fb6da0800000000000000
+      internalID: -5950395066598214175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_93
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 341
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16198a90631216570800000000000000
+      internalID: 8458078091152494945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_94
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 423
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35605faf55c52780800000000000000
+      internalID: -8708337289697139394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_95
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 427
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8cac765dc1d1f60800000000000000
+      internalID: 8006587415429564647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_96
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 439
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487d1f6bd907fb9b0800000000000000
+      internalID: -5062203633459669116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_97
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 439
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935e7117950ffbfa0800000000000000
+      internalID: -5782639129580280519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 427
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7119658b0636fc830800000000000000
+      internalID: 4093599853363761431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_99
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 423
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b2d0078e7c33360800000000000000
+      internalID: 7148276834693360530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_100
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 439
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd16750a2a9960e0800000000000000
+      internalID: -2276118631388144205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_101
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 422
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b832231c7dea6c00800000000000000
+      internalID: 894788593139202226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_102
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 423
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a6456632d71d840800000000000000
+      internalID: 5247112631857474134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_103
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 425
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ae89263eb266b90800000000000000
+      internalID: -7249058294594475440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_104
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 423
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007ce4297237fe400800000000000000
+      internalID: 355629509381113600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_105
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 422
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ac0a3f05c3eaa00800000000000000
+      internalID: 769618904709384745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_106
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 354
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3b17aaf42361780800000000000000
+      internalID: -8712721111358262325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_107
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 372
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbeb9cfc314d6a30800000000000000
+      internalID: 4210092956853201876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_108
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 372
+        width: 7
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c71a4ca7a6fd620800000000000000
+      internalID: 2801074568765209636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_109
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 413
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf5a25f313e57c50800000000000000
+      internalID: 6662480898621595613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_110
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 392
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe108d2d50ef4c70800000000000000
+      internalID: 8957624874663157502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_111
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 402
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97597074389471b0800000000000000
+      internalID: -5659731480705149030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_112
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 407
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85be432a0d98bc30800000000000000
+      internalID: 4375419704858031501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_113
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 390
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd1609f00a900210800000000000000
+      internalID: 1297206021651307960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_114
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 408
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5cfa64e184749d0800000000000000
+      internalID: -2790182149260589661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_115
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 410
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381f41b2c2bbbf050800000000000000
+      internalID: 5835463540564357507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_116
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 408
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebfa5c033fe62760800000000000000
+      internalID: 7432891237551242217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_117
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 407
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e439b4a0de2b9fdc0800000000000000
+      internalID: -3604653295583653042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_118
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 390
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ec478b73332e790800000000000000
+      internalID: -7502377714834944374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_119
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 392
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee2768f8d73ab620800000000000000
+      internalID: 2790604324129418984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_120
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 402
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48638a7ae6c41380800000000000000
+      internalID: -9001351044826699702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_121
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 388
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21f3c9147615d6c0800000000000000
+      internalID: -4119361596256161489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_122
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 396
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9926a964e0aca50a0800000000000000
+      internalID: -6891974117074247015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_123
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 392
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1a7589f72ea4180800000000000000
+      internalID: -9130236256895655479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_124
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 396
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616ac44d8b53a37f0800000000000000
+      internalID: -632133729740085738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_125
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 373
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49dc87797fa116e0800000000000000
+      internalID: -1868519434150422194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_126
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78307c49ea303e240800000000000000
+      internalID: 4819700074571826055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_127
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 373
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93a909bf6fbbd0c0800000000000000
+      internalID: -4549832511961062498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_128
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068b4db5e8bc7d950800000000000000
+      internalID: 6473866801654839392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 373
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3241e82dd9220a90800000000000000
+      internalID: -7349265612064865734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_130
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea22df4f0e61b930800000000000000
+      internalID: 4157224943082416873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_131
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11515f158f9e57ed0800000000000000
+      internalID: -2416768372278225647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_132
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 373
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a65d781d2299f0f0800000000000000
+      internalID: -1082673513023842648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_133
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2125d77e1ed32c80800000000000000
+      internalID: -8348585061773926098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_134
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 362
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2412df5aa41a4d0800000000000000
+      internalID: -3125134589641538826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_135
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 359
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a4f9d851ecfbbe0800000000000000
+      internalID: -1459221162279089544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_136
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 357
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f426e6bff8583a0800000000000000
+      internalID: -6663761763573280992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_137
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 362
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df09b47fcea1add40800000000000000
+      internalID: 5609825890906902781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_138
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 362
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7257c7d74bd0500800000000000000
+      internalID: 364145595938842556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_139
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 357
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9241e2ad9260043c0800000000000000
+      internalID: -4377492060980243415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_140
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 359
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd8d0ab640dc2820800000000000000
+      internalID: 2894917662680124872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_141
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 362
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36771a5028f51ee10800000000000000
+      internalID: 2225164702942590819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_142
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 348
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f39d97815ff16f0800000000000000
+      internalID: -711580730628948086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_143
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 347
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f33d6e0dc4fa8330800000000000000
+      internalID: 3714050004267906034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_144
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 348
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473862db8e19b4310800000000000000
+      internalID: 1390365338765788020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_145
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 344
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a89a5d66e031f3a0800000000000000
+      internalID: -6633467009904764765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_146
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 344
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be4dcda80f6dd9d0800000000000000
+      internalID: -2747918114559799629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_147
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 345
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ccf4f7143717ce0800000000000000
+      internalID: -1409218483244249977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_148
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 345
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9df641ed41c6c600800000000000000
+      internalID: 488290149852446106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_149
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 344
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bbd677907bde300800000000000000
+      internalID: 283083602880478035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_150
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 344
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eeb835c6a5f3c410800000000000000
+      internalID: 1496309597839343333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 348
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7b4097ef001c100800000000000000
+      internalID: 126383357495130018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 206
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135f75ffc508286f0800000000000000
+      internalID: -683843056497593039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_153
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 276
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b8e9feb1c2700c0800000000000000
+      internalID: -4609667195094529166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_154
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 276
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e385a362958586810800000000000000
+      internalID: 1758752794404870206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_155
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 296
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efbd5fcf8b04acd0800000000000000
+      internalID: -2547898776897601560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_156
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 341
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f218e2bc1ef52080800000000000000
+      internalID: -9212678063502388491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_157
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 298
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd5710969815d7e0800000000000000
+      internalID: -1741458645967217224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_158
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 278
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d6ce1d489f312a0800000000000000
+      internalID: -6767791466154791674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_159
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 280
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f55eca5da9ee010800000000000000
+      internalID: 1220082791583407974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_160
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 282
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3d68bd5ab3655c0800000000000000
+      internalID: -4227125616701942797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_161
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 280
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0172a0bfb37cb150800000000000000
+      internalID: 5889709679833149707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_162
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 244
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831e19aa73d28c780800000000000000
+      internalID: -8662624166139010760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_163
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 221
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7e00e2a4f4035d0800000000000000
+      internalID: -3084878564730804227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_164
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 247
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0f874924f634fd0800000000000000
+      internalID: -2358919448062529360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_165
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 250
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a38cd38207db980800000000000000
+      internalID: -8521531601777575294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_166
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 248
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e0464b1b33ae580800000000000000
+      internalID: -8797162083786158551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_167
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 245
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535c850a106185d50800000000000000
+      internalID: 6726150239718786357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_168
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 245
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b36820708abcf630800000000000000
+      internalID: 3962246832979469241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_169
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 243
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786114a95080c7c90800000000000000
+      internalID: -7170847686524856697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_170
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 224
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b5b8cc7ecc10870800000000000000
+      internalID: 8647418055469259611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_171
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 224
+        width: 65
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733675860576f35b0800000000000000
+      internalID: -5386473034266221769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_172
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 220
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1156d10625f59f960800000000000000
+      internalID: 7636239450587882769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_173
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 235
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec2db65d60270e20800000000000000
+      internalID: 3316655304560422116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_174
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 239
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b40d0d9f3346bf60800000000000000
+      internalID: 8049695324468217016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_175
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 235
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802b747a1be33d1a0800000000000000
+      internalID: -6786011280780578296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_176
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 237
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f9e06117b23ac80800000000000000
+      internalID: -8312752722494447816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_177
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 203
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1e1ef0f3ebbaa00800000000000000
+      internalID: 768917339455480273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_178
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 204
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39728fc0b5d263a0800000000000000
+      internalID: -6673536742437258949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_179
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 215
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b1eca900dc22de0800000000000000
+      internalID: -1359298735031575755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_180
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 217
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2da5e3de1b4e63c0800000000000000
+      internalID: -4364468393099285204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_181
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 217
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d7b2ac171ffd3e0800000000000000
+      internalID: -2026635836267987590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_182
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 217
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f11be80a35a408f0800000000000000
+      internalID: -575153183720271369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_183
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 216
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f57e9d1ea3a21410800000000000000
+      internalID: 1446398398555911667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 182
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1018f8fc3d853d940800000000000000
+      internalID: 5319693251598319873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_185
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 196
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc2717b100838170800000000000000
+      internalID: 8179522093090024697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_186
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 196
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063a2d4a185798080800000000000000
+      internalID: -9184680765368917152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_187
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 196
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45efe739769727800800000000000000
+      internalID: 608682385411604052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_188
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 205
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb91b08eed5fa7d10800000000000000
+      internalID: 2124280511983196603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_189
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 196
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb427e015a40d910800000000000000
+      internalID: 1860068358099192752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_190
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 200
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe223267b6595de0800000000000000
+      internalID: -1343947668166922500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_191
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 198
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da68c418da625a930800000000000000
+      internalID: 4153768757959624365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_192
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 181
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94baf742c43acab70800000000000000
+      internalID: 8911677310084557641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_193
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 175
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fee4655796e3fa00800000000000000
+      internalID: 789227897367097077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_194
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 159
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c7b405af755dc80800000000000000
+      internalID: -8298630005759706003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_195
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 159
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6552e9d0b1d0bd770800000000000000
+      internalID: 8636511120256804182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_196
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 159
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929cafac4d53e07e0800000000000000
+      internalID: -1797440013219477207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_197
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 190
+        width: 66
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3738aacd1b65abba0800000000000000
+      internalID: -6072445825644330125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_198
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 191
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4819b0b92fb02b8e0800000000000000
+      internalID: -1679266574444555900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_199
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 191
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d536ae87220f710800000000000000
+      internalID: 1724916560006700325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_200
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 191
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f4c58976c5ef9c0800000000000000
+      internalID: -3891571427993956496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_201
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 122
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dceddc2f42b8190800000000000000
+      internalID: -7959227291192603261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_202
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 164
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b88fbed571a7580800000000000000
+      internalID: -8828718427348104338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_203
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 164
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf84261f68b1a780800000000000000
+      internalID: -8673448620086489148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_204
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 164
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ee6d09e44f4b070800000000000000
+      internalID: 8121384646330478191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_205
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 164
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04568b4340be90a30800000000000000
+      internalID: 4182132132287112512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_206
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 164
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15c539e2b797b7a0800000000000000
+      internalID: -6361449153964948195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_207
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 164
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3067914dc5218be50800000000000000
+      internalID: 6825225425184716291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_208
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 180
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6a1b1ef261330e0800000000000000
+      internalID: -2291463390495660348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_209
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 156
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655647bb3519831c0800000000000000
+      internalID: -4523706036880382634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_210
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 141
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45719435675d83f0800000000000000
+      internalID: -896964658591599285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_211
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 147
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bb7e31a1b8b7280800000000000000
+      internalID: -9044482482524144860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_212
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 165
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d287c49cc20f16e40800000000000000
+      internalID: 5648059482845771821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_213
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 140
+        width: 77
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50af12e848c7b52f0800000000000000
+      internalID: -983055184888202747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_214
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 126
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977ec0117229c2510800000000000000
+      internalID: 1525755070259193721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_215
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 126
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baae31ffe4d47da70800000000000000
+      internalID: 8851628594302282411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_216
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 126
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a788f6e30d99df30800000000000000
+      internalID: 4600881134421182372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_217
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 137
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a81a2341d944b360800000000000000
+      internalID: 7184448468686608546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_218
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 100
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba01f3583dd589ce0800000000000000
+      internalID: -1398264521243553621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_219
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 121
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bc7a81f7efd7640800000000000000
+      internalID: 5079495776571738903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_220
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 131
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d2238b8f783de60800000000000000
+      internalID: 7985876066569956743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_221
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 131
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a07955907488f170800000000000000
+      internalID: 8212459539586969769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_222
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 131
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001b457f4574c24b0800000000000000
+      internalID: -5463913817654906624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_223
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 131
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2552583ff01a58d0800000000000000
+      internalID: -2856952325265533654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_224
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 131
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e473821b37baf3870800000000000000
+      internalID: 8664832721465915214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_225
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 110
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c70843b16833680800000000000000
+      internalID: -8776523797411890061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_226
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 130
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a361133aa75eb10800000000000000
+      internalID: 2010147650012592661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_227
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 112
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26de0e1d6b0b4c270800000000000000
+      internalID: 8269929115010788706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_228
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 93
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acd7b5bb5f8f2c10800000000000000
+      internalID: 2030999581020904611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_229
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a011e32cd2c38d5c0800000000000000
+      internalID: -4190533286038204150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_230
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2a0a73ff2300790800000000000000
+      internalID: -7565991302251109674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_231
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 95
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba48be7467636ec0800000000000000
+      internalID: -3574899997881644365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_232
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 98
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38f4fcd86629dda0800000000000000
+      internalID: -5919658003376310212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_233
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 98
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fa67fbe36dc4dd0800000000000000
+      internalID: -2500388128108925074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_234
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 91
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6637c335605af73b0800000000000000
+      internalID: -5512505972293340314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_235
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 106
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26a57e31fac387d0800000000000000
+      internalID: -2917264996122122707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_236
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 104
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41d94247da1d20e0800000000000000
+      internalID: -2293147123429289651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_237
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 106
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d915224bfbf9dc70800000000000000
+      internalID: 8996498787214367188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_238
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 55
+        width: 114
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e462d03dec410080800000000000000
+      internalID: -9223005980268010270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_239
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 78
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa64866f93274480800000000000000
+      internalID: -8915117769829881102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_240
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 95
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c4b9d2de19247c0800000000000000
+      internalID: -4088545063840559990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_241
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 95
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5c48eacd52a8d70800000000000000
+      internalID: 9046084431278032315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_242
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 97
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb3b39f954aba450800000000000000
+      internalID: 6101150826543922118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_243
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 87
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43c55af7c5291d10800000000000000
+      internalID: 2096748642346320718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_244
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 59
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764d48e72b5aefc60800000000000000
+      internalID: 7853896986226119783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_245
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 59
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffc5f05aeb3a0fa0800000000000000
+      internalID: -5833784489738383372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_246
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 35
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff00d01cbda26840800000000000000
+      internalID: 5215922341695983607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_247
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 61
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49699bbd2fc2499a0800000000000000
+      internalID: -6227302963166472556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_248
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 65
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df29023381dbe41f0800000000000000
+      internalID: -1058700950750850307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_249
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 65
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33e81c4cc3422b30800000000000000
+      internalID: 4261042742174999357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_250
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 86
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce08fdef17524b2f0800000000000000
+      internalID: -958099649185480468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_251
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 53
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fe1d9bcd8747080800000000000000
+      internalID: -9190588050150658216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_252
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 70
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fcaa609b373b460800000000000000
+      internalID: 7256270663142002557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_253
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 70
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b006a42e34173780800000000000000
+      internalID: -8703465497734807373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_254
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 86
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e1479b90a9a9f20800000000000000
+      internalID: 3430223432752832008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_255
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 86
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9952a4bc732e7dab0800000000000000
+      internalID: -4983265733400451687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_256
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 61
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3835e06cf01e19d0800000000000000
+      internalID: -2801783242034431942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_257
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 77
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e93fe5cdb486ca0800000000000000
+      internalID: -6023481091750126015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_258
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 58
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d28ab503dacb45d0800000000000000
+      internalID: -3077142912694582574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_259
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 63
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5281589498a932a0800000000000000
+      internalID: -6757184409728613794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_260
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 54
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a90e5b23402b990800000000000000
+      internalID: -7371825024205809039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_261
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 41
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950aaf03659db4a70800000000000000
+      internalID: 8812376060092653657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_262
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 33
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a977e9cf1e9fd0a50800000000000000
+      internalID: 6489117387111954330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_263
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 31
+        width: 110
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e32698f9298a960800000000000000
+      internalID: 7613496383972195969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_264
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 18
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f78eef1cfdf047f0800000000000000
+      internalID: -630224688522557456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_265
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 18
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3019d3404cdc670800000000000000
+      internalID: 8560713989193008063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_266
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 28
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee343a18baa6d5e0800000000000000
+      internalID: -1885131686317637910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_267
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 28
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e521759e7164660800000000000000
+      internalID: 7369604131194035840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_268
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 32
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c91cb7e24ec77d50800000000000000
+      internalID: 6735078554506893765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_269
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 32
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c73e197ed41a220800000000000000
+      internalID: 2495361325520354312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_270
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 39
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120f5991725209910800000000000000
+      internalID: 1842013097457741857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_271
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 20
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae67831389ac59a50800000000000000
+      internalID: 6527345989953025770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_272
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 38
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9ba09698089cd10800000000000000
+      internalID: 2146388025079937440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_273
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 38
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6d832a5de7900e0800000000000000
+      internalID: -2303170278408530219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_274
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 22
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ede24a9c999eb3e0800000000000000
+      internalID: -2036021083642860063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_275
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 6
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d303753976e648060800000000000000
+      internalID: 6954805115699540029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_276
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 33
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c6ffbfcaa056e40800000000000000
+      internalID: 5648933045684628513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_277
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aae3ae1f10006cb0800000000000000
+      internalID: -4872894663156831583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_278
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 8
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec3a9185add1c320800000000000000
+      internalID: 2576584164746345696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_279
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 11
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2620e531c0b17b1e0800000000000000
+      internalID: -2182245755759230366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_280
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 10
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c98776ace8c47d0800000000000000
+      internalID: -2932812257354539924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_281
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd213befb8b2dd430800000000000000
+      internalID: 3809248740098904796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_282
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 4
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e22724a9e5f7f770800000000000000
+      internalID: 8644648393591169764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_283
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 20
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f401787959a3ab0800000000000000
+      internalID: -5027541555967144039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_284
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 8
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89caa1bf6a28567a0800000000000000
+      internalID: -6384553243038798696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_285
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 5
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e3387585c182480800000000000000
+      internalID: -8923851495883719021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_286
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992cbff790ea920b0800000000000000
+      internalID: -5752875693163953511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_287
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6fc605973a2e7f0800000000000000
+      internalID: -584725260169054500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_288
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd01324e7349ba30800000000000000
+      internalID: 4231487534446743034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_289
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 8
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8677c96a888d4ed60800000000000000
+      internalID: 7918692126246598504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_290
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da16641318a0ccf0800000000000000
+      internalID: -234002380723184936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_291
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ef67f2c799fdcb0800000000000000
+      internalID: -4836978716121301501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_292
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56902b48945c1620800000000000000
+      internalID: 2746162885861348959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_293
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da075b2282dbbfd00800000000000000
+      internalID: 1007606921726095533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_294
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549ddc1b01ff91560800000000000000
+      internalID: 7285134319416105285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_295
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 6
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727d5600f2dea2430800000000000000
+      internalID: 3759077625120020263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_296
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cbc1ceb8625b920800000000000000
+      internalID: 3005350708743289873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_297
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179282702850b6d10800000000000000
+      internalID: 2119794105631910257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_298
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9a1bff13ac91fc0800000000000000
+      internalID: -3523562917348660803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_299
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518da5c32826c3e20800000000000000
+      internalID: 3331646135845181461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_300
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528ab917d6dbbc670800000000000000
+      internalID: 8560143794502871077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ambush_301
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab6443fdef85d5e0800000000000000
+      internalID: -1885442616833315935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

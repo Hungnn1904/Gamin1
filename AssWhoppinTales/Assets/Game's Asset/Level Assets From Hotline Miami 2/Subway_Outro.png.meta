@@ -1,0 +1,8130 @@
+fileFormatVersion: 2
+guid: f5db58cf325d0fe41891803245b4100a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6421000780313745565
+    second: Subway_Outro_0
+  - first:
+      213: -2229416851308956606
+    second: Subway_Outro_1
+  - first:
+      213: 6188150944565969354
+    second: Subway_Outro_2
+  - first:
+      213: -5522303184083813348
+    second: Subway_Outro_3
+  - first:
+      213: -7554464124382212598
+    second: Subway_Outro_4
+  - first:
+      213: 2380740136067789394
+    second: Subway_Outro_5
+  - first:
+      213: -5523904157460417879
+    second: Subway_Outro_6
+  - first:
+      213: -8449830562195041662
+    second: Subway_Outro_7
+  - first:
+      213: -2175773690088337137
+    second: Subway_Outro_8
+  - first:
+      213: -2638376259878431119
+    second: Subway_Outro_9
+  - first:
+      213: 540190867537048576
+    second: Subway_Outro_10
+  - first:
+      213: 5013293837444497444
+    second: Subway_Outro_11
+  - first:
+      213: -390765532503304267
+    second: Subway_Outro_12
+  - first:
+      213: -5637934938700406044
+    second: Subway_Outro_13
+  - first:
+      213: -410447137533257652
+    second: Subway_Outro_14
+  - first:
+      213: -1038557477543216973
+    second: Subway_Outro_15
+  - first:
+      213: -9101683804525925982
+    second: Subway_Outro_16
+  - first:
+      213: 1152191180985160650
+    second: Subway_Outro_17
+  - first:
+      213: 1661784040984090653
+    second: Subway_Outro_18
+  - first:
+      213: -4118911525697149948
+    second: Subway_Outro_19
+  - first:
+      213: 6775291628015005090
+    second: Subway_Outro_20
+  - first:
+      213: -3573406224315337214
+    second: Subway_Outro_21
+  - first:
+      213: 9195180632815798019
+    second: Subway_Outro_22
+  - first:
+      213: -1504722943053348710
+    second: Subway_Outro_23
+  - first:
+      213: -4793564848127826576
+    second: Subway_Outro_24
+  - first:
+      213: 8152607396189577179
+    second: Subway_Outro_25
+  - first:
+      213: -3164889047232740446
+    second: Subway_Outro_26
+  - first:
+      213: -1073068453753721440
+    second: Subway_Outro_27
+  - first:
+      213: -7393465810031956560
+    second: Subway_Outro_28
+  - first:
+      213: 5355675512383821771
+    second: Subway_Outro_29
+  - first:
+      213: -1288001990171283820
+    second: Subway_Outro_30
+  - first:
+      213: 5155119514220928815
+    second: Subway_Outro_31
+  - first:
+      213: 7902495127303236106
+    second: Subway_Outro_32
+  - first:
+      213: -7339359247257094840
+    second: Subway_Outro_33
+  - first:
+      213: 7144170333256317318
+    second: Subway_Outro_34
+  - first:
+      213: -3332234272473038987
+    second: Subway_Outro_35
+  - first:
+      213: 3061640800658351944
+    second: Subway_Outro_36
+  - first:
+      213: -7577699881541352873
+    second: Subway_Outro_37
+  - first:
+      213: 7716740502434452877
+    second: Subway_Outro_38
+  - first:
+      213: -8619481492465809804
+    second: Subway_Outro_39
+  - first:
+      213: -6401234132504017207
+    second: Subway_Outro_40
+  - first:
+      213: -3138137755537404154
+    second: Subway_Outro_41
+  - first:
+      213: 6724107425436005426
+    second: Subway_Outro_42
+  - first:
+      213: 356481396620267085
+    second: Subway_Outro_43
+  - first:
+      213: 8461183044299100851
+    second: Subway_Outro_44
+  - first:
+      213: 2785799995386609018
+    second: Subway_Outro_45
+  - first:
+      213: 3693049330512442144
+    second: Subway_Outro_46
+  - first:
+      213: -1457755149351707363
+    second: Subway_Outro_47
+  - first:
+      213: -6293257617458998560
+    second: Subway_Outro_48
+  - first:
+      213: 4594492710350233397
+    second: Subway_Outro_49
+  - first:
+      213: -6109890828774247955
+    second: Subway_Outro_50
+  - first:
+      213: -22084900091014214
+    second: Subway_Outro_51
+  - first:
+      213: 3458506539391620814
+    second: Subway_Outro_52
+  - first:
+      213: 354825520232586595
+    second: Subway_Outro_53
+  - first:
+      213: -6776760198925660362
+    second: Subway_Outro_54
+  - first:
+      213: -157455642333694711
+    second: Subway_Outro_55
+  - first:
+      213: 2160001163192960016
+    second: Subway_Outro_56
+  - first:
+      213: 4543104526233817488
+    second: Subway_Outro_57
+  - first:
+      213: -2985967299169183461
+    second: Subway_Outro_58
+  - first:
+      213: -6740267402999779013
+    second: Subway_Outro_59
+  - first:
+      213: -4312700973577959991
+    second: Subway_Outro_60
+  - first:
+      213: -7365979448366763195
+    second: Subway_Outro_61
+  - first:
+      213: 5695950802415257440
+    second: Subway_Outro_62
+  - first:
+      213: 2918272107607941216
+    second: Subway_Outro_63
+  - first:
+      213: -6476486018997649351
+    second: Subway_Outro_64
+  - first:
+      213: 8222468592098710891
+    second: Subway_Outro_65
+  - first:
+      213: 3761026760885355377
+    second: Subway_Outro_66
+  - first:
+      213: 7168361513760558665
+    second: Subway_Outro_67
+  - first:
+      213: -9051897451245587534
+    second: Subway_Outro_68
+  - first:
+      213: -43629213559332147
+    second: Subway_Outro_69
+  - first:
+      213: -3101780485990306086
+    second: Subway_Outro_70
+  - first:
+      213: 3110319081590953334
+    second: Subway_Outro_71
+  - first:
+      213: 4709242634249911777
+    second: Subway_Outro_72
+  - first:
+      213: -1177303389908468606
+    second: Subway_Outro_73
+  - first:
+      213: 5267275147124170169
+    second: Subway_Outro_74
+  - first:
+      213: -1566516808485121056
+    second: Subway_Outro_75
+  - first:
+      213: 6697797158355527144
+    second: Subway_Outro_76
+  - first:
+      213: -4862327356486577034
+    second: Subway_Outro_77
+  - first:
+      213: 3407118000777760882
+    second: Subway_Outro_78
+  - first:
+      213: -389577125340953482
+    second: Subway_Outro_79
+  - first:
+      213: 7763701046247009531
+    second: Subway_Outro_80
+  - first:
+      213: -4048616291291390142
+    second: Subway_Outro_81
+  - first:
+      213: 597083981596636123
+    second: Subway_Outro_82
+  - first:
+      213: -3192902642809223090
+    second: Subway_Outro_83
+  - first:
+      213: -6334442770095035341
+    second: Subway_Outro_84
+  - first:
+      213: -9167334493234507140
+    second: Subway_Outro_85
+  - first:
+      213: -1258573911746853459
+    second: Subway_Outro_86
+  - first:
+      213: 2618074856960677653
+    second: Subway_Outro_87
+  - first:
+      213: 45264441754573172
+    second: Subway_Outro_88
+  - first:
+      213: -7382100306768668800
+    second: Subway_Outro_89
+  - first:
+      213: -2107932348709147221
+    second: Subway_Outro_90
+  - first:
+      213: -332855177917829220
+    second: Subway_Outro_91
+  - first:
+      213: 278995620896890018
+    second: Subway_Outro_92
+  - first:
+      213: -310195445528032270
+    second: Subway_Outro_93
+  - first:
+      213: -5883159277112299303
+    second: Subway_Outro_94
+  - first:
+      213: 1164673617292080162
+    second: Subway_Outro_95
+  - first:
+      213: -8805841168385192515
+    second: Subway_Outro_96
+  - first:
+      213: -3984919472241982968
+    second: Subway_Outro_97
+  - first:
+      213: -1318569741544425459
+    second: Subway_Outro_98
+  - first:
+      213: -7468961938004000941
+    second: Subway_Outro_99
+  - first:
+      213: 7724676146519814387
+    second: Subway_Outro_100
+  - first:
+      213: -3071659978714470744
+    second: Subway_Outro_101
+  - first:
+      213: -4905793695803938387
+    second: Subway_Outro_102
+  - first:
+      213: 6974773860016716515
+    second: Subway_Outro_103
+  - first:
+      213: -5542137283373533088
+    second: Subway_Outro_104
+  - first:
+      213: 3686889363997213838
+    second: Subway_Outro_105
+  - first:
+      213: 2453216944619000927
+    second: Subway_Outro_106
+  - first:
+      213: 6262912388183345373
+    second: Subway_Outro_107
+  - first:
+      213: -2070687811936932180
+    second: Subway_Outro_108
+  - first:
+      213: 1637104803394919287
+    second: Subway_Outro_109
+  - first:
+      213: 2289094160422337735
+    second: Subway_Outro_110
+  - first:
+      213: 3562632460287711131
+    second: Subway_Outro_111
+  - first:
+      213: -1604791898562151398
+    second: Subway_Outro_112
+  - first:
+      213: 58763861361065242
+    second: Subway_Outro_113
+  - first:
+      213: -1542267727802706157
+    second: Subway_Outro_114
+  - first:
+      213: 2451445427745540020
+    second: Subway_Outro_115
+  - first:
+      213: 5163832448415473284
+    second: Subway_Outro_116
+  - first:
+      213: -2829373851757701277
+    second: Subway_Outro_117
+  - first:
+      213: 2289019591322221666
+    second: Subway_Outro_118
+  - first:
+      213: 8125321786611136392
+    second: Subway_Outro_119
+  - first:
+      213: 403055671243485886
+    second: Subway_Outro_120
+  - first:
+      213: 2181520483494536843
+    second: Subway_Outro_121
+  - first:
+      213: 1985484099356668264
+    second: Subway_Outro_122
+  - first:
+      213: 5764608310743709379
+    second: Subway_Outro_123
+  - first:
+      213: -5173263729468146283
+    second: Subway_Outro_124
+  - first:
+      213: -2863050871415925455
+    second: Subway_Outro_125
+  - first:
+      213: -637867441863572230
+    second: Subway_Outro_126
+  - first:
+      213: 3722960744769711899
+    second: Subway_Outro_127
+  - first:
+      213: 5170681274001869300
+    second: Subway_Outro_128
+  - first:
+      213: 8783000155102567016
+    second: Subway_Outro_129
+  - first:
+      213: 1339764952992856488
+    second: Subway_Outro_130
+  - first:
+      213: -2131497219897957827
+    second: Subway_Outro_131
+  - first:
+      213: 6386062514301020768
+    second: Subway_Outro_132
+  - first:
+      213: 4055105198239954331
+    second: Subway_Outro_133
+  - first:
+      213: -571743556030953552
+    second: Subway_Outro_134
+  - first:
+      213: -4260473201859840526
+    second: Subway_Outro_135
+  - first:
+      213: 3283388121991835473
+    second: Subway_Outro_136
+  - first:
+      213: -5800826027725966662
+    second: Subway_Outro_137
+  - first:
+      213: 4533956090170545546
+    second: Subway_Outro_138
+  - first:
+      213: 1957837056389494775
+    second: Subway_Outro_139
+  - first:
+      213: 6124708459606954597
+    second: Subway_Outro_140
+  - first:
+      213: 3819128656227509746
+    second: Subway_Outro_141
+  - first:
+      213: -3346254156301930444
+    second: Subway_Outro_142
+  - first:
+      213: -6765508202128985206
+    second: Subway_Outro_143
+  - first:
+      213: -5573566314740114318
+    second: Subway_Outro_144
+  - first:
+      213: 3665142137093175523
+    second: Subway_Outro_145
+  - first:
+      213: 724454821333208826
+    second: Subway_Outro_146
+  - first:
+      213: -3454613171195300497
+    second: Subway_Outro_147
+  - first:
+      213: 2916925911536669312
+    second: Subway_Outro_148
+  - first:
+      213: 5018973975839921563
+    second: Subway_Outro_149
+  - first:
+      213: 2869197270111376494
+    second: Subway_Outro_150
+  - first:
+      213: 5562670525557483019
+    second: Subway_Outro_151
+  - first:
+      213: 2424929122719053834
+    second: Subway_Outro_152
+  - first:
+      213: 681363698600970649
+    second: Subway_Outro_153
+  - first:
+      213: 5122180823112471680
+    second: Subway_Outro_154
+  - first:
+      213: 184319509239411516
+    second: Subway_Outro_155
+  - first:
+      213: 9150541971489373955
+    second: Subway_Outro_156
+  - first:
+      213: -5395742365438128113
+    second: Subway_Outro_157
+  - first:
+      213: 7082885340586918276
+    second: Subway_Outro_158
+  - first:
+      213: -4815168781057153148
+    second: Subway_Outro_159
+  - first:
+      213: -2120432117736190120
+    second: Subway_Outro_160
+  - first:
+      213: 5178877541494147622
+    second: Subway_Outro_161
+  - first:
+      213: -3870891408291273983
+    second: Subway_Outro_162
+  - first:
+      213: 9034716142194441523
+    second: Subway_Outro_163
+  - first:
+      213: -714818102233867455
+    second: Subway_Outro_164
+  - first:
+      213: 5919746559350527928
+    second: Subway_Outro_165
+  - first:
+      213: 8443234309160212684
+    second: Subway_Outro_166
+  - first:
+      213: -1668717431186256194
+    second: Subway_Outro_167
+  - first:
+      213: -1494462861622888717
+    second: Subway_Outro_168
+  - first:
+      213: -971331673454283357
+    second: Subway_Outro_169
+  - first:
+      213: 3739648114138523618
+    second: Subway_Outro_170
+  - first:
+      213: 6885146951279881539
+    second: Subway_Outro_171
+  - first:
+      213: 1389329343737802897
+    second: Subway_Outro_172
+  - first:
+      213: -3905876935594533298
+    second: Subway_Outro_173
+  - first:
+      213: 8712807427726766380
+    second: Subway_Outro_174
+  - first:
+      213: -1510842567459206612
+    second: Subway_Outro_175
+  - first:
+      213: -4580597685368830997
+    second: Subway_Outro_176
+  - first:
+      213: -5148851917535211233
+    second: Subway_Outro_177
+  - first:
+      213: -8141822958216546233
+    second: Subway_Outro_178
+  - first:
+      213: 8280496829112685867
+    second: Subway_Outro_179
+  - first:
+      213: -3217488119505596064
+    second: Subway_Outro_180
+  - first:
+      213: 5604261296884736158
+    second: Subway_Outro_181
+  - first:
+      213: -8673225142778518181
+    second: Subway_Outro_182
+  - first:
+      213: 1819852098400214300
+    second: Subway_Outro_183
+  - first:
+      213: -6039889764640453366
+    second: Subway_Outro_184
+  - first:
+      213: 8367801397880498696
+    second: Subway_Outro_185
+  - first:
+      213: -2035244717995734579
+    second: Subway_Outro_186
+  - first:
+      213: -8403847440812586743
+    second: Subway_Outro_187
+  - first:
+      213: 8563832719590618791
+    second: Subway_Outro_188
+  - first:
+      213: -1427913551484249329
+    second: Subway_Outro_189
+  - first:
+      213: -211172386329882895
+    second: Subway_Outro_190
+  - first:
+      213: -3239360539987502156
+    second: Subway_Outro_191
+  - first:
+      213: 244068820989051443
+    second: Subway_Outro_192
+  - first:
+      213: 1403283824477684080
+    second: Subway_Outro_193
+  - first:
+      213: 4677573381223217248
+    second: Subway_Outro_194
+  - first:
+      213: -7601984538224895930
+    second: Subway_Outro_195
+  - first:
+      213: -1090719077770045417
+    second: Subway_Outro_196
+  - first:
+      213: 88894932811189962
+    second: Subway_Outro_197
+  - first:
+      213: -555273876968148461
+    second: Subway_Outro_198
+  - first:
+      213: -216372550298882887
+    second: Subway_Outro_199
+  - first:
+      213: 4395702107488359027
+    second: Subway_Outro_200
+  - first:
+      213: -4667378720130124620
+    second: Subway_Outro_201
+  - first:
+      213: 4012895025117989740
+    second: Subway_Outro_202
+  - first:
+      213: -943782751958222001
+    second: Subway_Outro_203
+  - first:
+      213: -699288401633121132
+    second: Subway_Outro_204
+  - first:
+      213: -8219972151108761044
+    second: Subway_Outro_205
+  - first:
+      213: 4438509513620981174
+    second: Subway_Outro_206
+  - first:
+      213: 1874209172457799073
+    second: Subway_Outro_207
+  - first:
+      213: -7613472292147120785
+    second: Subway_Outro_208
+  - first:
+      213: -4642818139523804652
+    second: Subway_Outro_209
+  - first:
+      213: 2951876691822784778
+    second: Subway_Outro_210
+  - first:
+      213: -1748878082977273857
+    second: Subway_Outro_211
+  - first:
+      213: 6479220305480700576
+    second: Subway_Outro_212
+  - first:
+      213: -7867270603442400345
+    second: Subway_Outro_213
+  - first:
+      213: 5954288888922005076
+    second: Subway_Outro_214
+  - first:
+      213: -9071602678198378689
+    second: Subway_Outro_215
+  - first:
+      213: 5930491351216600816
+    second: Subway_Outro_216
+  - first:
+      213: 2728583247260423439
+    second: Subway_Outro_217
+  - first:
+      213: -3929087080308367331
+    second: Subway_Outro_218
+  - first:
+      213: 1617499570777392499
+    second: Subway_Outro_219
+  - first:
+      213: 1026411819655707597
+    second: Subway_Outro_220
+  - first:
+      213: 6458608641480841357
+    second: Subway_Outro_221
+  - first:
+      213: 3583022237252906755
+    second: Subway_Outro_222
+  - first:
+      213: -4802084434265826512
+    second: Subway_Outro_223
+  - first:
+      213: -779495910942577955
+    second: Subway_Outro_224
+  - first:
+      213: 965495342994600925
+    second: Subway_Outro_225
+  - first:
+      213: -4413072325123634916
+    second: Subway_Outro_226
+  - first:
+      213: -1493742495057135113
+    second: Subway_Outro_227
+  - first:
+      213: 5095235439337354005
+    second: Subway_Outro_228
+  - first:
+      213: -3694090194060085255
+    second: Subway_Outro_229
+  - first:
+      213: 6283346122034033861
+    second: Subway_Outro_230
+  - first:
+      213: 8810866174713375595
+    second: Subway_Outro_231
+  - first:
+      213: -7701303447238096574
+    second: Subway_Outro_232
+  - first:
+      213: -5335286139033134491
+    second: Subway_Outro_233
+  - first:
+      213: -5126931297435857108
+    second: Subway_Outro_234
+  - first:
+      213: 7880863614995545743
+    second: Subway_Outro_235
+  - first:
+      213: 3750688366737492971
+    second: Subway_Outro_236
+  - first:
+      213: 6835613642162619723
+    second: Subway_Outro_237
+  - first:
+      213: -1606279871616046321
+    second: Subway_Outro_238
+  - first:
+      213: -2073577449550421728
+    second: Subway_Outro_239
+  - first:
+      213: 6708148402551638704
+    second: Subway_Outro_240
+  - first:
+      213: 5678074465079934929
+    second: Subway_Outro_241
+  - first:
+      213: -897987233109149167
+    second: Subway_Outro_242
+  - first:
+      213: -7843894752273834738
+    second: Subway_Outro_243
+  - first:
+      213: 6803954438793879466
+    second: Subway_Outro_244
+  - first:
+      213: 2525788937487916038
+    second: Subway_Outro_245
+  - first:
+      213: -2019255828160056952
+    second: Subway_Outro_246
+  - first:
+      213: -822685089177554577
+    second: Subway_Outro_247
+  - first:
+      213: -1822671744641196701
+    second: Subway_Outro_248
+  - first:
+      213: 2532043887282910117
+    second: Subway_Outro_249
+  - first:
+      213: -7440645782947084725
+    second: Subway_Outro_250
+  - first:
+      213: 127315442174525480
+    second: Subway_Outro_251
+  - first:
+      213: 6917158744624341775
+    second: Subway_Outro_252
+  - first:
+      213: -3039555712535541749
+    second: Subway_Outro_253
+  - first:
+      213: 1614528744367419945
+    second: Subway_Outro_254
+  - first:
+      213: -5232833892262925008
+    second: Subway_Outro_255
+  - first:
+      213: -1990132298959098844
+    second: Subway_Outro_256
+  - first:
+      213: 6847152991328404983
+    second: Subway_Outro_257
+  - first:
+      213: -1179871302502315164
+    second: Subway_Outro_258
+  - first:
+      213: -3261007961446608801
+    second: Subway_Outro_259
+  - first:
+      213: 1171502529438633801
+    second: Subway_Outro_260
+  - first:
+      213: 4382743636297555564
+    second: Subway_Outro_261
+  - first:
+      213: -1869530923106908442
+    second: Subway_Outro_262
+  - first:
+      213: 9077400641585153720
+    second: Subway_Outro_263
+  - first:
+      213: 4039651308985769797
+    second: Subway_Outro_264
+  - first:
+      213: -4600360651090071858
+    second: Subway_Outro_265
+  - first:
+      213: -8877132801578300316
+    second: Subway_Outro_266
+  - first:
+      213: 5615025950732246805
+    second: Subway_Outro_267
+  - first:
+      213: -908953546934491806
+    second: Subway_Outro_268
+  - first:
+      213: -2612290449842861605
+    second: Subway_Outro_269
+  - first:
+      213: 4688284592168441910
+    second: Subway_Outro_270
+  - first:
+      213: 4014833338277348928
+    second: Subway_Outro_271
+  - first:
+      213: 439258967862527605
+    second: Subway_Outro_272
+  - first:
+      213: 1515039217845567347
+    second: Subway_Outro_273
+  - first:
+      213: -7999132971222763051
+    second: Subway_Outro_274
+  - first:
+      213: 8919257215736050961
+    second: Subway_Outro_275
+  - first:
+      213: 7289316346419785228
+    second: Subway_Outro_276
+  - first:
+      213: 968231562040249298
+    second: Subway_Outro_277
+  - first:
+      213: -458625027267699981
+    second: Subway_Outro_278
+  - first:
+      213: 8689149627246790293
+    second: Subway_Outro_279
+  - first:
+      213: 2783976262777437550
+    second: Subway_Outro_280
+  - first:
+      213: 6166240980489229887
+    second: Subway_Outro_281
+  - first:
+      213: 229105588060879507
+    second: Subway_Outro_282
+  - first:
+      213: -5064234754254714372
+    second: Subway_Outro_283
+  - first:
+      213: -6664020875285426638
+    second: Subway_Outro_284
+  - first:
+      213: 938492979546443066
+    second: Subway_Outro_285
+  - first:
+      213: -6617385942735635558
+    second: Subway_Outro_286
+  - first:
+      213: -6775049329950930083
+    second: Subway_Outro_287
+  - first:
+      213: 3738782565352002212
+    second: Subway_Outro_288
+  - first:
+      213: -5003147827756140446
+    second: Subway_Outro_289
+  - first:
+      213: -6889372938739005662
+    second: Subway_Outro_290
+  - first:
+      213: 6511828984376516003
+    second: Subway_Outro_291
+  - first:
+      213: 8688371610467484552
+    second: Subway_Outro_292
+  - first:
+      213: -4724722861344698438
+    second: Subway_Outro_293
+  - first:
+      213: -714339543582262989
+    second: Subway_Outro_294
+  - first:
+      213: -5681795890502292805
+    second: Subway_Outro_295
+  - first:
+      213: 3754688866074389667
+    second: Subway_Outro_296
+  - first:
+      213: 1359573069968597180
+    second: Subway_Outro_297
+  - first:
+      213: 5094291356091197213
+    second: Subway_Outro_298
+  - first:
+      213: -3520288682553176548
+    second: Subway_Outro_299
+  - first:
+      213: 6273943640697346732
+    second: Subway_Outro_300
+  - first:
+      213: -1062983041807793729
+    second: Subway_Outro_301
+  - first:
+      213: 8394352764966104053
+    second: Subway_Outro_302
+  - first:
+      213: -3487652860064827716
+    second: Subway_Outro_303
+  - first:
+      213: 3647956769626747503
+    second: Subway_Outro_304
+  - first:
+      213: -6786497567958534119
+    second: Subway_Outro_305
+  - first:
+      213: -7163070133516265617
+    second: Subway_Outro_306
+  - first:
+      213: -5010990612373825113
+    second: Subway_Outro_307
+  - first:
+      213: 2268825084916869328
+    second: Subway_Outro_308
+  - first:
+      213: -7391268727789688095
+    second: Subway_Outro_309
+  - first:
+      213: -4031718206027804260
+    second: Subway_Outro_310
+  - first:
+      213: 2250116773266710870
+    second: Subway_Outro_311
+  - first:
+      213: -8508338880534813368
+    second: Subway_Outro_312
+  - first:
+      213: -6435045287025159519
+    second: Subway_Outro_313
+  - first:
+      213: 207243314728335037
+    second: Subway_Outro_314
+  - first:
+      213: 3072784726602069610
+    second: Subway_Outro_315
+  - first:
+      213: 6083328963306527272
+    second: Subway_Outro_316
+  - first:
+      213: -5412246344769816012
+    second: Subway_Outro_317
+  - first:
+      213: 6758863216841607731
+    second: Subway_Outro_318
+  - first:
+      213: 7841059246938549567
+    second: Subway_Outro_319
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Subway_Outro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367a4ea6fc504e6a0800000000000000
+      internalID: -6421000780313745565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 369
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244b5798f258f01e0800000000000000
+      internalID: -2229416851308956606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 465
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac14a537f7ab0e550800000000000000
+      internalID: 6188150944565969354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 444
+        width: 63
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cfca23386dc53b0800000000000000
+      internalID: -5522303184083813348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 550
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e04c577e6292790800000000000000
+      internalID: -7554464124382212598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 554
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252f5d04a861a0120800000000000000
+      internalID: 2380740136067789394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 564
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2b4498f662753b0800000000000000
+      internalID: -5523904157460417879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 564
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28210207fdb2cba80800000000000000
+      internalID: -8449830562195041662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 554
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01d4aa4b591ec1e0800000000000000
+      internalID: -2175773690088337137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 386
+        width: 225
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1765f1635ca926bd0800000000000000
+      internalID: -2638376259878431119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 550
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004b4726bb42f7700800000000000000
+      internalID: 540190867537048576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_11
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 508
+        width: 283
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420c88ffe2cc29540800000000000000
+      internalID: 5013293837444497444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_12
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 508
+        width: 283
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b79cac81d8b39af0800000000000000
+      internalID: -390765532503304267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_13
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 545
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2aff75b0802c1b0800000000000000
+      internalID: -5637934938700406044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 532
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c481148c08ccd4af0800000000000000
+      internalID: -410447137533257652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 547
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8f5380a7d4691f0800000000000000
+      internalID: -1038557477543216973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 550
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a96e457dc250b180800000000000000
+      internalID: -9101683804525925982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac355f746c76dff00800000000000000
+      internalID: 1152191180985160650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 533
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d181540e7c7df0710800000000000000
+      internalID: 1661784040984090653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 547
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4042f815acfa6d6c0800000000000000
+      internalID: -4118911525697149948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 532
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad2381b6dba60e50800000000000000
+      internalID: 6775291628015005090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 546
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206b381c8f5b86ec0800000000000000
+      internalID: -3573406224315337214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_22
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 532
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30789804118db9f70800000000000000
+      internalID: 9195180632815798019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 532
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90cce5a4762e1be0800000000000000
+      internalID: -1504722943053348710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_24
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 546
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075aa830b26d97db0800000000000000
+      internalID: -4793564848127826576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_25
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 532
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf1a138b31e32170800000000000000
+      internalID: 8152607396189577179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 532
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a30b2a0e2e0414d0800000000000000
+      internalID: -3164889047232740446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_27
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 547
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ade45a3de1bb11f0800000000000000
+      internalID: -1073068453753721440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdac0e9402256990800000000000000
+      internalID: -7393465810031956560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_29
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 550
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc755efb08e235a40800000000000000
+      internalID: 5355675512383821771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_30
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 532
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e28d99309102ee0800000000000000
+      internalID: -1288001990171283820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_31
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 547
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f92db92e9aa8740800000000000000
+      internalID: 5155119514220928815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_32
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 509
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a2a26f27d4bad60800000000000000
+      internalID: 7902495127303236106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_33
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 515
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845334476ab552a90800000000000000
+      internalID: -7339359247257094840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_34
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 518
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68970a01111352360800000000000000
+      internalID: 7144170333256317318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_35
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 516
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fbcd8859681c1d0800000000000000
+      internalID: -3332234272473038987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 516
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847651146122d7a20800000000000000
+      internalID: 3061640800658351944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_37
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 518
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752453a2b1a96d690800000000000000
+      internalID: -7577699881541352873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 515
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8599771a9e571b60800000000000000
+      internalID: 7716740502434452877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 514
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47685852043716880800000000000000
+      internalID: -8619481492465809804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_40
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 518
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c60effb87f3a27a0800000000000000
+      internalID: -6401234132504017207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_41
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 514
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f83f086581374d0800000000000000
+      internalID: -3138137755537404154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_42
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 515
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234fdacd314d05d50800000000000000
+      internalID: 6724107425436005426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 516
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e069601f972f400800000000000000
+      internalID: 356481396620267085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_44
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 516
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2910746292c6570800000000000000
+      internalID: 8461183044299100851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_45
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 518
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dbd44065629a620800000000000000
+      internalID: 2785799995386609018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_46
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 515
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023303bacc8504330800000000000000
+      internalID: 3693049330512442144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_47
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 499
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d15694a6305cbe0800000000000000
+      internalID: -1457755149351707363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 502
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2d55f3a8bd9a8a0800000000000000
+      internalID: -6293257617458998560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_49
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 499
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f1c8307cae2cf30800000000000000
+      internalID: 4594492710350233397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_50
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 483
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de17e7ea9ae453ba0800000000000000
+      internalID: -6109890828774247955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_51
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 504
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3dc2f76e981bff0800000000000000
+      internalID: -22084900091014214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_52
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 507
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec69dc5af551fff20800000000000000
+      internalID: 3458506539391620814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_53
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 507
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dd4b24ee79ce400800000000000000
+      internalID: 354825520232586595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_54
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 504
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fc70ff08c14f1a0800000000000000
+      internalID: -6776760198925660362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 483
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905b1d27dea90ddf0800000000000000
+      internalID: -157455642333694711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_56
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 499
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0140c8e1d9dd9fd10800000000000000
+      internalID: 2160001163192960016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_57
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 502
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091d2a70f795c0f30800000000000000
+      internalID: 4543104526233817488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_58
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 499
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19961ecf86bf86d0800000000000000
+      internalID: -2985967299169183461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_59
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 499
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31bd092282c572a0800000000000000
+      internalID: -6740267402999779013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_60
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 499
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5876f60553624c0800000000000000
+      internalID: -4312700973577959991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_61
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 431
+        width: 283
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5437545e7b8c6c990800000000000000
+      internalID: -7365979448366763195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_62
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 431
+        width: 283
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067001c83151c0f40800000000000000
+      internalID: 5695950802415257440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_63
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 469
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060e6eb2509cf7820800000000000000
+      internalID: 2918272107607941216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_64
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 486
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9308cd49746ee16a0800000000000000
+      internalID: -6476486018997649351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_65
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 483
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6599d8be931c1270800000000000000
+      internalID: 8222468592098710891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_66
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 482
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1734f4989e9d13430800000000000000
+      internalID: 3761026760885355377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_67
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 483
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e874131d22b7360800000000000000
+      internalID: 7168361513760558665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_68
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 483
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b33e332a33316280800000000000000
+      internalID: -9051897451245587534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_69
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 482
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc267ff167ff46ff0800000000000000
+      internalID: -43629213559332147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 483
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade2f49f41344f4d0800000000000000
+      internalID: -3101780485990306086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_71
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 486
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675195cb9b21a2b20800000000000000
+      internalID: 3110319081590953334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_72
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 467
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed3797a9379a5140800000000000000
+      internalID: 4709242634249911777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_73
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 468
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c74a3fdc069afe0800000000000000
+      internalID: -1177303389908468606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_74
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 475
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd549ec6de191940800000000000000
+      internalID: 5267275147124170169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 474
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3d09f234d924ae0800000000000000
+      internalID: -1566516808485121056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_76
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 467
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5e661770b53fc50800000000000000
+      internalID: 6697797158355527144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_77
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 466
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67414fee70b858cb0800000000000000
+      internalID: -4862327356486577034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_78
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 466
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270923025c3884f20800000000000000
+      internalID: 3407118000777760882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_79
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 467
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6744f672ba1f79af0800000000000000
+      internalID: -389577125340953482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_80
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 474
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfca1ebb7f43ebb60800000000000000
+      internalID: 7763701046247009531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_81
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 468
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f97bdfeec60d7c0800000000000000
+      internalID: -4048616291291390142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_82
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 475
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3b420c7b4494800800000000000000
+      internalID: 597083981596636123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_83
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 467
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4843fc86f780b3d0800000000000000
+      internalID: -3192902642809223090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_84
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 468
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ca176acd98718a0800000000000000
+      internalID: -6334442770095035341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_85
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 468
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72529959d517c080800000000000000
+      internalID: -9167334493234507140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_86
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 436
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da541ca02b5a88ee0800000000000000
+      internalID: -1258573911746853459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_87
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 353
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517d5841635455420800000000000000
+      internalID: 2618074856960677653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_88
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 353
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479dcbb15cfc0a000800000000000000
+      internalID: 45264441754573172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_89
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 435
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08750ce02e28d8990800000000000000
+      internalID: -7382100306768668800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_90
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 439
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bade2a872be1fb2e0800000000000000
+      internalID: -2107932348709147221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_91
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 451
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fee8eaaf5716bf0800000000000000
+      internalID: -332855177917829220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_92
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 451
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acd27df9013fd300800000000000000
+      internalID: 278995620896890018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 439
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb8b52c2e6f1bbf0800000000000000
+      internalID: -310195445528032270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_94
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 435
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d07daacec1da5ea0800000000000000
+      internalID: -5883159277112299303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_95
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224b6f5fb70c92010800000000000000
+      internalID: 1164673617292080162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_96
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 435
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdc3e9dc1e5bc580800000000000000
+      internalID: -8805841168385192515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_97
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 437
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802ca7e5ad8b2b8c0800000000000000
+      internalID: -3984919472241982968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_98
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 435
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d087aaf5ecf73bde0800000000000000
+      internalID: -1318569741544425459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_99
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fbb5c80bae85890800000000000000
+      internalID: -7468961938004000941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_100
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 404
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f03f363700933b60800000000000000
+      internalID: 7724676146519814387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_101
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 414
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6a0f116854f55d0800000000000000
+      internalID: -3071659978714470744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_102
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 419
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9614c20ae1bebb0800000000000000
+      internalID: -4905793695803938387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_103
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 402
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaf9fa2fdf5bc060800000000000000
+      internalID: 6974773860016716515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_104
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0687218118f5613b0800000000000000
+      internalID: -5542137283373533088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_105
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 422
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e844833b7567a2330800000000000000
+      internalID: 3686889363997213838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_106
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f541cfc30d39b0220800000000000000
+      internalID: 2453216944619000927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_107
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 419
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8cf0d72a55ae650800000000000000
+      internalID: 6262912388183345373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_108
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 402
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caea4c0f7607343e0800000000000000
+      internalID: -2070687811936932180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_109
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 404
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b907a152a28b610800000000000000
+      internalID: 1637104803394919287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_110
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 414
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccf461c20f74cf10800000000000000
+      internalID: 2289094160422337735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_111
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 355
+        width: 283
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9799b4d853017130800000000000000
+      internalID: 3562632460287711131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_112
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 355
+        width: 283
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c37c35542aab9e0800000000000000
+      internalID: -1604791898562151398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_113
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 393
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d7e0aab65c0d000800000000000000
+      internalID: 58763861361065242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_114
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 408
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31755cf3ca3c89ae0800000000000000
+      internalID: -1542267727802706157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_115
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 404
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b74703d0a8450220800000000000000
+      internalID: 2451445427745540020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_116
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 408
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e907fa04e99a740800000000000000
+      internalID: 5163832448415473284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_117
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 385
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3671435f87b0cb8d0800000000000000
+      internalID: -2829373851757701277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_118
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cbba8c03b34cf10800000000000000
+      internalID: 2289019591322221666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_119
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 385
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887f2b87d11f2c070800000000000000
+      internalID: 8125321786611136392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_120
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 393
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2bc2d5ff0f79500800000000000000
+      internalID: 403055671243485886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 385
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b862ee05251564e10800000000000000
+      internalID: 2181520483494536843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_122
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 393
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8613751d44bdd8b10800000000000000
+      internalID: 1985484099356668264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_123
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6b42767b0000050800000000000000
+      internalID: 5764608310743709379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_124
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d73a31c00e438b0800000000000000
+      internalID: -5173263729468146283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_125
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 368
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135916bc6666448d0800000000000000
+      internalID: -2863050871415925455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_126
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 374
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af44fe1f0f6d527f0800000000000000
+      internalID: -637867441863572230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_127
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 371
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fe8b0821d9aa330800000000000000
+      internalID: 3722960744769711899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_128
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 369
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f945a72933f1c740800000000000000
+      internalID: 5170681274001869300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_129
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 374
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ad6135b1c73e970800000000000000
+      internalID: 8783000155102567016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_130
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 374
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a938a9502dc79210800000000000000
+      internalID: 1339764952992856488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_131
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 369
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32ef3852966b62e0800000000000000
+      internalID: -2131497219897957827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_132
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 371
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aa95e950adf9850800000000000000
+      internalID: 6386062514301020768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_133
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 374
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95bee361b0a64830800000000000000
+      internalID: 4055105198239954331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_134
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 369
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b70828d342c018f0800000000000000
+      internalID: -571743556030953552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_135
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 369
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5b2142232cfd4c0800000000000000
+      internalID: -4260473201859840526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_136
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 369
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f6f0fc910f09d20800000000000000
+      internalID: 3283388121991835473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_137
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 379
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2bd8d36735f7fa0800000000000000
+      internalID: -5800826027725966662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_138
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 281
+        width: 16
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8595d5ca09dbee30800000000000000
+      internalID: 4533956090170545546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_139
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 360
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f731320e62ab2b10800000000000000
+      internalID: 1957837056389494775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_140
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 356
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562d3b7d4e55ff450800000000000000
+      internalID: 6124708459606954597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_141
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 356
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5a4f93745400530800000000000000
+      internalID: 3819128656227509746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_142
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 357
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430f275f297bf81d0800000000000000
+      internalID: -3346254156301930444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_143
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 357
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a833c17a2261c12a0800000000000000
+      internalID: -6765508202128985206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_144
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 356
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c15dd77f6b6a2b0800000000000000
+      internalID: -5573566314740114318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_145
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 356
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e831ccda533dd230800000000000000
+      internalID: 3665142137093175523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_146
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 360
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe826952d7cd0a00800000000000000
+      internalID: 724454821333208826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_147
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 360
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65b486cf9fbe00d0800000000000000
+      internalID: -3454613171195300497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 193
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082964979a00b7820800000000000000
+      internalID: 2916925911536669312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 172
+        width: 114
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b955ed64d3af6a540800000000000000
+      internalID: 5018973975839921563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_150
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 272
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64528b27bf61d720800000000000000
+      internalID: 2869197270111376494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_151
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 304
+        width: 13
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06a366ee53923d40800000000000000
+      internalID: 5562670525557483019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_152
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 349
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a083b25703417a120800000000000000
+      internalID: 2424929122719053834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_153
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 279
+        width: 283
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99905f18ca0b47900800000000000000
+      internalID: 681363698600970649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_154
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 279
+        width: 283
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084dfe4f154a51740800000000000000
+      internalID: 5122180823112471680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_155
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 308
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33b369fd95de8200800000000000000
+      internalID: 184319509239411516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_156
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 282
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f3de001714dfe70800000000000000
+      internalID: 9150541971489373955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_157
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 282
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00d88018e87e15b0800000000000000
+      internalID: -5395742365438128113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_158
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 307
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4814186c0b67b4260800000000000000
+      internalID: 7082885340586918276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_159
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 307
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487a98761851d2db0800000000000000
+      internalID: -4815168781057153148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_160
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 286
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f41043936b292e0800000000000000
+      internalID: -2120432117736190120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_161
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 284
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ac1046fa11fd740800000000000000
+      internalID: 5178877541494147622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_162
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 215
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103efa4e5c4d74ac0800000000000000
+      internalID: -3870891408291273983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_163
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 239
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dbcfd9672c16d70800000000000000
+      internalID: 9034716142194441523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_164
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 246
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bd45929b47416f0800000000000000
+      internalID: -714818102233867455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_165
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 246
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7dd6ea12a272250800000000000000
+      internalID: 5919746559350527928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_166
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 251
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc892e8bed46c2570800000000000000
+      internalID: 8443234309160212684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_167
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 203
+        width: 283
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe04ab665687d8e0800000000000000
+      internalID: -1668717431186256194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_168
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 203
+        width: 292
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f634f202f9924be0800000000000000
+      internalID: -1494462861622888717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_169
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 262
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5fba44df22582f0800000000000000
+      internalID: -971331673454283357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_170
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 249
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7af247526e5e330800000000000000
+      internalID: 3739648114138523618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_171
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 199
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34da6615ca4fc8f50800000000000000
+      internalID: 6885146951279881539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_172
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 222
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190b4895da3e74310800000000000000
+      internalID: 1389329343737802897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_173
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 203
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e1f7d0f998bc9c0800000000000000
+      internalID: -3905876935594533298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_174
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 203
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21f90e613c1ae870800000000000000
+      internalID: 8712807427726766380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_175
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 178
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a0e0f80b8680be0800000000000000
+      internalID: -1510842567459206612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_176
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 178
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be34d989ca27e60c0800000000000000
+      internalID: -4580597685368830997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_177
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 198
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f119936f57a9b88b0800000000000000
+      internalID: -5148851917535211233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_178
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 181
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748f16f182f620f80800000000000000
+      internalID: -8141822958216546233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_179
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 184
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25920f7efb3ae270800000000000000
+      internalID: 8280496829112685867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_180
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 183
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06154df2a9f2953d0800000000000000
+      internalID: -3217488119505596064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_181
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 192
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90e845f4f556cd40800000000000000
+      internalID: 5604261296884736158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_182
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 183
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5523b37fa382a780800000000000000
+      internalID: -8673225142778518181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_183
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 127
+        width: 283
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dd4ec67d9614910800000000000000
+      internalID: 1819852098400214300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_184
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 127
+        width: 291
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d861082400e2ca0800000000000000
+      internalID: -6039889764640453366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_185
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a2faf6907602470800000000000000
+      internalID: 8367801397880498696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_186
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 170
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9cfd056bb51c3e0800000000000000
+      internalID: -2035244717995734579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_187
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 129
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9094acf27498f5b80800000000000000
+      internalID: -8403847440812586743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_188
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 170
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6f01f3c78d8d670800000000000000
+      internalID: 8563832719590618791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_189
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 171
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b90d9b0380f2ce0800000000000000
+      internalID: -1427913551484249329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_190
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 124
+        width: 17
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe8f6e55d3c11df0800000000000000
+      internalID: -211172386329882895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_191
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 152
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb90a270ca7b03d0800000000000000
+      internalID: -3239360539987502156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_192
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 143
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3320dcfac4b136300800000000000000
+      internalID: 244068820989051443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_193
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 138
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0714b051437797310800000000000000
+      internalID: 1403283824477684080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_194
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 156
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068f1a615341ae040800000000000000
+      internalID: 4677573381223217248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_195
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 156
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648d71be653508690800000000000000
+      internalID: -7601984538224895930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_196
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 176
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71856c317ccfcd0f0800000000000000
+      internalID: -1090719077770045417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_197
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 163
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace0b8c6871db3100800000000000000
+      internalID: 88894932811189962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_198
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 149
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3127242d9554b48f0800000000000000
+      internalID: -555273876968148461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_199
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 139
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc2a48df4a4ffcf0800000000000000
+      internalID: -216372550298882887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_200
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 138
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372974ff6cba00d30800000000000000
+      internalID: 4395702107488359027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_201
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 138
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b43d6a68c32a3fb0800000000000000
+      internalID: -4667378720130124620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 129
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b071d93caa0b730800000000000000
+      internalID: 4012895025117989740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_203
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 85
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bb364669207e2f0800000000000000
+      internalID: -943782751958222001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_204
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c6b1957e0ab46f0800000000000000
+      internalID: -699288401633121132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_205
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 111
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a0f8d31eacced80800000000000000
+      internalID: -8219972151108761044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_206
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5029be2e0c89d30800000000000000
+      internalID: 4438509513620981174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_207
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 111
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad3027ff47820a10800000000000000
+      internalID: 1874209172457799073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_208
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 107
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65ba47c943875690800000000000000
+      internalID: -7613472292147120785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_209
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 110
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41291f43085619fb0800000000000000
+      internalID: -4642818139523804652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_210
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 113
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a013ad4263c27f820800000000000000
+      internalID: 2951876691822784778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_211
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 113
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff76ca446acbab7e0800000000000000
+      internalID: -1748878082977273857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_212
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 111
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2dca91a80dae950800000000000000
+      internalID: 6479220305480700576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_213
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 115
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a351f99117d1d290800000000000000
+      internalID: -7867270603442400345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_214
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 115
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e50428232e1a250800000000000000
+      internalID: 5954288888922005076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_215
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 51
+        width: 283
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fd0867d613b1280800000000000000
+      internalID: -9071602678198378689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_216
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 51
+        width: 283
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6bacc76765d4250800000000000000
+      internalID: 5930491351216600816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_217
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f051a09b100edd520800000000000000
+      internalID: 2728583247260423439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_218
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 105
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10a4ae1e141979c0800000000000000
+      internalID: -3929087080308367331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_219
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 106
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375888c2a43827610800000000000000
+      internalID: 1617499570777392499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_220
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 99
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb37df9c1c8e3e00800000000000000
+      internalID: 1026411819655707597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_221
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 46
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88dbba175691a950800000000000000
+      internalID: 6458608641480841357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_222
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 62
+        width: 13
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fe8c9bdb379b130800000000000000
+      internalID: 3583022237252906755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_223
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 75
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b172a46a19b5db0800000000000000
+      internalID: -4802084434265826512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_224
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 85
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddae564599cae25f0800000000000000
+      internalID: -779495910942577955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_225
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 91
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3bc7726e0266d00800000000000000
+      internalID: 965495342994600925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_226
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 91
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1906ec0a1e91c2c0800000000000000
+      internalID: -4413072325123634916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_227
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 91
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9b63c6d19254be0800000000000000
+      internalID: -1493742495057135113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_228
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5133fa8e2a9e5b640800000000000000
+      internalID: 5095235439337354005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_229
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 79
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f77bc66a84fbbcc0800000000000000
+      internalID: -3694090194060085255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_230
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 70
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4baa4e10ee23750800000000000000
+      internalID: 6283346122034033861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_231
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 71
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bab4b9a1c764a70800000000000000
+      internalID: 8810866174713375595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_232
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 68
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249c1e761597f1590800000000000000
+      internalID: -7701303447238096574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_233
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 31
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a5ddb268145f5b0800000000000000
+      internalID: -5335286139033134491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_234
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 46
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fc08c062b79d8b0800000000000000
+      internalID: -5126931297435857108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_235
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e3c1704b37e5d60800000000000000
+      internalID: 7880863614995545743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_236
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 36
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb0492923f1d0430800000000000000
+      internalID: 3750688366737492971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_237
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 34
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45cae2146afcde50800000000000000
+      internalID: 6835613642162619723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_238
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 61
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b277a97f855b9e0800000000000000
+      internalID: -1606279871616046321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_239
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 49
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0216941cb4c2933e0800000000000000
+      internalID: -2073577449550421728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_240
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 35
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bac1ba4e61281d50800000000000000
+      internalID: 6708148402551638704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_241
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 43
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df3e4b64a29cce40800000000000000
+      internalID: 5678074465079934929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_242
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 38
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a71b58e55b983f0800000000000000
+      internalID: -897987233109149167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_243
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 38
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dda231843e42390800000000000000
+      internalID: -7843894752273834738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_244
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 51
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf504063808c6e50800000000000000
+      internalID: 6803954438793879466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_245
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 13
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c149c08a76d0320800000000000000
+      internalID: 2525788937487916038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_246
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 13
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881f1e3d5892af3e0800000000000000
+      internalID: -2019255828160056952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_247
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 13
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61bf89254c3594f0800000000000000
+      internalID: -822685089177554577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_248
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 5
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d158684b194b6e0800000000000000
+      internalID: -1822671744641196701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_249
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a372390080a32320800000000000000
+      internalID: 2532043887282910117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_250
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 25
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b464ee725148db890800000000000000
+      internalID: -7440645782947084725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_251
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8200c3958b054c100800000000000000
+      internalID: 127315442174525480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_252
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 17
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f032254ca3faeff50800000000000000
+      internalID: 6917158744624341775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_253
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 6
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b084f470f2451d5d0800000000000000
+      internalID: -3039555712535541749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_254
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 6
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9227dafb655f76610800000000000000
+      internalID: 1614528744367419945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_255
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 22
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d2b0bbc4d3167b0800000000000000
+      internalID: -5232833892262925008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_256
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 22
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ce280e731a164e0800000000000000
+      internalID: -1990132298959098844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_257
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 22
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f502ea2e59f50f50800000000000000
+      internalID: 6847152991328404983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_258
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 28
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b0ca53d4140afe0800000000000000
+      internalID: -1179871302502315164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_259
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 28
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50114069829eb2d0800000000000000
+      internalID: -3261007961446608801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_260
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 28
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f49a8f753024010800000000000000
+      internalID: 1171502529438633801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_261
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 21
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e9e1fcd12a2dc30800000000000000
+      internalID: 4382743636297555564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_262
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 26
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6ca97d7871e06e0800000000000000
+      internalID: -1869530923106908442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_263
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 26
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b606951ac769fd70800000000000000
+      internalID: 9077400641585153720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_264
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 17
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fd9886679bf0830800000000000000
+      internalID: 4039651308985769797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_265
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 15
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece67119c5c3820c0800000000000000
+      internalID: -4600360651090071858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_266
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 15
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c05f100c61ec480800000000000000
+      internalID: -8877132801578300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_267
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 15
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fdefd3a549ced40800000000000000
+      internalID: 5615025950732246805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_268
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 21
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26563ad909fb263f0800000000000000
+      internalID: -908953546934491806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_269
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 24
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd988f62da74fbbd0800000000000000
+      internalID: -2612290449842861605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_270
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 17
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638132a3ff1201140800000000000000
+      internalID: 4688284592168441910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_271
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 22
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046ca6056ad87b730800000000000000
+      internalID: 4014833338277348928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_272
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 22
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576c9d734bf881600800000000000000
+      internalID: 439258967862527605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_273
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 34
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f78704420860510800000000000000
+      internalID: 1515039217845567347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_274
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 22
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9f623a1fe5df090800000000000000
+      internalID: -7999132971222763051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_275
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 34
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11579447e2197cb70800000000000000
+      internalID: 8919257215736050961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_276
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 22
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eaccbb89ad82560800000000000000
+      internalID: 7289316346419785228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_277
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 34
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db0bbbc979df6d00800000000000000
+      internalID: 968231562040249298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_278
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 22
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fada94b7f2a2a9f0800000000000000
+      internalID: -458625027267699981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_279
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 34
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59643448c8f069870800000000000000
+      internalID: 8689149627246790293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_280
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 22
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6df7fd29aba2a620800000000000000
+      internalID: 2783976262777437550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_281
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 34
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3654896083e29550800000000000000
+      internalID: 6166240980489229887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_282
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 22
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39afc688152fd2300800000000000000
+      internalID: 229105588060879507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_283
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 34
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9c57d825938b9b0800000000000000
+      internalID: -5064234754254714372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_284
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e03d84254a483a0800000000000000
+      internalID: -6664020875285426638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_285
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 6
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d401e7462360d00800000000000000
+      internalID: 938492979546443066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_286
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 6
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b3495ab825a24a0800000000000000
+      internalID: -6617385942735635558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_287
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bc688b7803af1a0800000000000000
+      internalID: -6775049329950930083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_288
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2da3c2fe2d2e330800000000000000
+      internalID: 3738782565352002212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_289
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268f3d7fe8f319ab0800000000000000
+      internalID: -5003147827756140446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_290
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227c54d40d70460a0800000000000000
+      internalID: -6889372938739005662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_291
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3addadbc5f9ae5a50800000000000000
+      internalID: 6511828984376516003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_292
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883c08e52fb439870800000000000000
+      internalID: 8688371610467484552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_293
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 4
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfc16b17996e6eb0800000000000000
+      internalID: -4724722861344698438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_294
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 8
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339b3c748f72616f0800000000000000
+      internalID: -714339543582262989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_295
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba2654bdb43621b0800000000000000
+      internalID: -5681795890502292805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_296
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac6a7861a55b1430800000000000000
+      internalID: 3754688866074389667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_297
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb06aa9f08c2ed210800000000000000
+      internalID: 1359573069968597180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_298
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17a8266ffe82b640800000000000000
+      internalID: 5094291356091197213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_299
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e0791381c652fc0800000000000000
+      internalID: -3520288682553176548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_300
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 4
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa169c1086811750800000000000000
+      internalID: 6273943640697346732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_301
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 10
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb148ce2e868f31f0800000000000000
+      internalID: -1062983041807793729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_302
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 10
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb6f135d5bbe7470800000000000000
+      internalID: 8394352764966104053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_303
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 10
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6f5ffb33e599fc0800000000000000
+      internalID: -3487652860064827716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_304
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 2
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f627591ba5520a230800000000000000
+      internalID: 3647956769626747503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_305
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91877c81b6481d1a0800000000000000
+      internalID: -6786497567958534119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_306
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 12
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f679d864aa9a79c90800000000000000
+      internalID: -7163070133516265617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_307
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 3
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a914a06692657ab0800000000000000
+      internalID: -5010990612373825113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_308
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d827fbd46c7c7f10800000000000000
+      internalID: 2268825084916869328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_309
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea64a0b040fc6990800000000000000
+      internalID: -7391268727789688095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_310
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 10
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91dc3f07a57c08c0800000000000000
+      internalID: -4031718206027804260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_311
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 10
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651e5bd98450a3f10800000000000000
+      internalID: 2250116773266710870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_312
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 10
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845e3150ede4ce980800000000000000
+      internalID: -8508338880534813368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_313
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 10
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a25051e76022b6a0800000000000000
+      internalID: -6435045287025159519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_314
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 10
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6f47c52b640e200800000000000000
+      internalID: 207243314728335037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_315
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66bc54bd69b4aa20800000000000000
+      internalID: 3072784726602069610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_316
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a1bb516735c6450800000000000000
+      internalID: 6083328963306527272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_317
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ab61fef96d3e4b0800000000000000
+      internalID: -5412246344769816012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_318
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a4c45294e4ccd50800000000000000
+      internalID: 6758863216841607731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Outro_319
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d609467d901dc60800000000000000
+      internalID: 7841059246938549567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

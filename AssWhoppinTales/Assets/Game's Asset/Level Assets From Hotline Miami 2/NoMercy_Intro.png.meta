@@ -1,0 +1,3255 @@
+fileFormatVersion: 2
+guid: ef07dd7c7b69041479efa1ac64fa4a07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6474091496926421851
+    second: NoMercy_Intro_0
+  - first:
+      213: 4887242318560953797
+    second: NoMercy_Intro_1
+  - first:
+      213: 844045090696375679
+    second: NoMercy_Intro_2
+  - first:
+      213: -8717994662234829213
+    second: NoMercy_Intro_3
+  - first:
+      213: -4436607005134728238
+    second: NoMercy_Intro_4
+  - first:
+      213: -3759978402133405885
+    second: NoMercy_Intro_5
+  - first:
+      213: -1219407044801958143
+    second: NoMercy_Intro_6
+  - first:
+      213: 8357351185275309838
+    second: NoMercy_Intro_7
+  - first:
+      213: -5949832334072764992
+    second: NoMercy_Intro_8
+  - first:
+      213: 7696146381939243800
+    second: NoMercy_Intro_9
+  - first:
+      213: 792404730179881216
+    second: NoMercy_Intro_10
+  - first:
+      213: -2018410894012676652
+    second: NoMercy_Intro_11
+  - first:
+      213: -8274148583742150289
+    second: NoMercy_Intro_12
+  - first:
+      213: 1462605662082343149
+    second: NoMercy_Intro_13
+  - first:
+      213: -6824656430822322764
+    second: NoMercy_Intro_14
+  - first:
+      213: 7837309768492761493
+    second: NoMercy_Intro_15
+  - first:
+      213: 1507255146454961129
+    second: NoMercy_Intro_16
+  - first:
+      213: 5252525442786010462
+    second: NoMercy_Intro_17
+  - first:
+      213: -6477995760540302291
+    second: NoMercy_Intro_18
+  - first:
+      213: 1974177035270009154
+    second: NoMercy_Intro_19
+  - first:
+      213: 6378977068836112234
+    second: NoMercy_Intro_20
+  - first:
+      213: -8699428847248462982
+    second: NoMercy_Intro_21
+  - first:
+      213: -4911048660351632133
+    second: NoMercy_Intro_22
+  - first:
+      213: 1848037952436137257
+    second: NoMercy_Intro_23
+  - first:
+      213: 4600505029657890391
+    second: NoMercy_Intro_24
+  - first:
+      213: -7167825583470908082
+    second: NoMercy_Intro_25
+  - first:
+      213: 6894753447943786557
+    second: NoMercy_Intro_26
+  - first:
+      213: 5396205192237232419
+    second: NoMercy_Intro_27
+  - first:
+      213: -8190526000227851717
+    second: NoMercy_Intro_28
+  - first:
+      213: 1889101096234056309
+    second: NoMercy_Intro_29
+  - first:
+      213: -2506431929030908728
+    second: NoMercy_Intro_30
+  - first:
+      213: 5731643960439182609
+    second: NoMercy_Intro_31
+  - first:
+      213: 384997064006446362
+    second: NoMercy_Intro_32
+  - first:
+      213: -2894938495844021221
+    second: NoMercy_Intro_33
+  - first:
+      213: -547727222327959813
+    second: NoMercy_Intro_34
+  - first:
+      213: 3301099506023761527
+    second: NoMercy_Intro_35
+  - first:
+      213: 1678618184559313766
+    second: NoMercy_Intro_36
+  - first:
+      213: -2814350686669880136
+    second: NoMercy_Intro_37
+  - first:
+      213: -8887763823762223112
+    second: NoMercy_Intro_38
+  - first:
+      213: -694289963476837077
+    second: NoMercy_Intro_39
+  - first:
+      213: 4477641977803219912
+    second: NoMercy_Intro_40
+  - first:
+      213: 3920105325770144107
+    second: NoMercy_Intro_41
+  - first:
+      213: -249611745144370059
+    second: NoMercy_Intro_42
+  - first:
+      213: 2432212186418084936
+    second: NoMercy_Intro_43
+  - first:
+      213: 8853900999332298497
+    second: NoMercy_Intro_44
+  - first:
+      213: 6795698780390402306
+    second: NoMercy_Intro_45
+  - first:
+      213: 1862632685499434432
+    second: NoMercy_Intro_46
+  - first:
+      213: 6789051789288066624
+    second: NoMercy_Intro_47
+  - first:
+      213: -458323644673076749
+    second: NoMercy_Intro_48
+  - first:
+      213: -8738537305589969432
+    second: NoMercy_Intro_49
+  - first:
+      213: -3131528259660350153
+    second: NoMercy_Intro_50
+  - first:
+      213: 8693026004701107276
+    second: NoMercy_Intro_51
+  - first:
+      213: 997830917385086994
+    second: NoMercy_Intro_52
+  - first:
+      213: -2902611526525740681
+    second: NoMercy_Intro_53
+  - first:
+      213: -4779762842335633639
+    second: NoMercy_Intro_54
+  - first:
+      213: -6937012982826011002
+    second: NoMercy_Intro_55
+  - first:
+      213: -1345506884510651336
+    second: NoMercy_Intro_56
+  - first:
+      213: -4613476105161772561
+    second: NoMercy_Intro_57
+  - first:
+      213: 1064751620965398737
+    second: NoMercy_Intro_58
+  - first:
+      213: -5491731877762808470
+    second: NoMercy_Intro_59
+  - first:
+      213: -3825416350142950181
+    second: NoMercy_Intro_60
+  - first:
+      213: -7051427448108841625
+    second: NoMercy_Intro_61
+  - first:
+      213: -7532207023594360855
+    second: NoMercy_Intro_62
+  - first:
+      213: 7247420544662543837
+    second: NoMercy_Intro_63
+  - first:
+      213: -7287148088154326418
+    second: NoMercy_Intro_64
+  - first:
+      213: -809750784824097338
+    second: NoMercy_Intro_65
+  - first:
+      213: 8151249651472559620
+    second: NoMercy_Intro_66
+  - first:
+      213: -2915558273407982043
+    second: NoMercy_Intro_67
+  - first:
+      213: -6686418886194369956
+    second: NoMercy_Intro_68
+  - first:
+      213: 7794651747685216871
+    second: NoMercy_Intro_69
+  - first:
+      213: 4252531513358171256
+    second: NoMercy_Intro_70
+  - first:
+      213: 2304967946248933726
+    second: NoMercy_Intro_71
+  - first:
+      213: 7243296030419074391
+    second: NoMercy_Intro_72
+  - first:
+      213: 6649235067155743237
+    second: NoMercy_Intro_73
+  - first:
+      213: -4462622499873776747
+    second: NoMercy_Intro_74
+  - first:
+      213: -5748540994581538192
+    second: NoMercy_Intro_75
+  - first:
+      213: -1009704468853274708
+    second: NoMercy_Intro_76
+  - first:
+      213: -4772230238202949711
+    second: NoMercy_Intro_77
+  - first:
+      213: 1618631382889805062
+    second: NoMercy_Intro_78
+  - first:
+      213: 2781389084472529189
+    second: NoMercy_Intro_79
+  - first:
+      213: 2474093730495579071
+    second: NoMercy_Intro_80
+  - first:
+      213: -9034736806523980305
+    second: NoMercy_Intro_81
+  - first:
+      213: -3112216973235708835
+    second: NoMercy_Intro_82
+  - first:
+      213: -847800932759420203
+    second: NoMercy_Intro_83
+  - first:
+      213: -4732531848346646218
+    second: NoMercy_Intro_84
+  - first:
+      213: 8297095749553797040
+    second: NoMercy_Intro_85
+  - first:
+      213: 1874824486954857972
+    second: NoMercy_Intro_86
+  - first:
+      213: -235866960649147301
+    second: NoMercy_Intro_87
+  - first:
+      213: -7356398353342714842
+    second: NoMercy_Intro_88
+  - first:
+      213: 7455741913720041520
+    second: NoMercy_Intro_89
+  - first:
+      213: 2888983678856073043
+    second: NoMercy_Intro_90
+  - first:
+      213: 1054687329512163129
+    second: NoMercy_Intro_91
+  - first:
+      213: 2078626116328168711
+    second: NoMercy_Intro_92
+  - first:
+      213: -7753857655112752243
+    second: NoMercy_Intro_93
+  - first:
+      213: -6062159489935031133
+    second: NoMercy_Intro_94
+  - first:
+      213: 7822842595960820957
+    second: NoMercy_Intro_95
+  - first:
+      213: 601910452776275111
+    second: NoMercy_Intro_96
+  - first:
+      213: 3371691007119813664
+    second: NoMercy_Intro_97
+  - first:
+      213: 1945821675587676432
+    second: NoMercy_Intro_98
+  - first:
+      213: -63077128844239014
+    second: NoMercy_Intro_99
+  - first:
+      213: 6924311924930124122
+    second: NoMercy_Intro_100
+  - first:
+      213: 4317839643486245660
+    second: NoMercy_Intro_101
+  - first:
+      213: -783382487286826171
+    second: NoMercy_Intro_102
+  - first:
+      213: -1221168591065937525
+    second: NoMercy_Intro_103
+  - first:
+      213: -1232040728843855360
+    second: NoMercy_Intro_104
+  - first:
+      213: -5392794991614627351
+    second: NoMercy_Intro_105
+  - first:
+      213: -4594132670588677535
+    second: NoMercy_Intro_106
+  - first:
+      213: 2258954192633836178
+    second: NoMercy_Intro_107
+  - first:
+      213: 4796877838521935263
+    second: NoMercy_Intro_108
+  - first:
+      213: 3086214949899682351
+    second: NoMercy_Intro_109
+  - first:
+      213: 2191449314890773582
+    second: NoMercy_Intro_110
+  - first:
+      213: 1526243196150793726
+    second: NoMercy_Intro_111
+  - first:
+      213: 7070110851165506377
+    second: NoMercy_Intro_112
+  - first:
+      213: -5462095196711694250
+    second: NoMercy_Intro_113
+  - first:
+      213: 1081295691581164814
+    second: NoMercy_Intro_114
+  - first:
+      213: -8752499631434431732
+    second: NoMercy_Intro_115
+  - first:
+      213: 6580864110674983563
+    second: NoMercy_Intro_116
+  - first:
+      213: -7167698666902093217
+    second: NoMercy_Intro_117
+  - first:
+      213: 4254633718587600661
+    second: NoMercy_Intro_118
+  - first:
+      213: -5568890880552916190
+    second: NoMercy_Intro_119
+  - first:
+      213: 3146421243588087913
+    second: NoMercy_Intro_120
+  - first:
+      213: -4128293819210520527
+    second: NoMercy_Intro_121
+  - first:
+      213: -6733059421661948929
+    second: NoMercy_Intro_122
+  - first:
+      213: -302813669760199430
+    second: NoMercy_Intro_123
+  - first:
+      213: -1500745416773586026
+    second: NoMercy_Intro_124
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NoMercy_Intro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acd252b5186726a0800000000000000
+      internalID: -6474091496926421851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 447
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c50519bef8f2d340800000000000000
+      internalID: 4887242318560953797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 543
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dae5db986a6bb00800000000000000
+      internalID: 844045090696375679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 543
+        width: 38
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ecdbb6b06730780800000000000000
+      internalID: -8717994662234829213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 591
+        width: 100
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d35fea5f610e62c0800000000000000
+      internalID: -4436607005134728238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 609
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f82b1809fd1dbc0800000000000000
+      internalID: -3759978402133405885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 650
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f68f1e0cbc31fe0800000000000000
+      internalID: -1219407044801958143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 609
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f4685bf964bf370800000000000000
+      internalID: 8357351185275309838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 650
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5a5760403fd6da0800000000000000
+      internalID: -5949832334072764992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_9
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 651
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b75e2cb543eca60800000000000000
+      internalID: 7696146381939243800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 612
+        width: 120
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00906bc57ef2ffa00800000000000000
+      internalID: 792404730179881216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 612
+        width: 120
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d588936cf92df3e0800000000000000
+      internalID: -2018410894012676652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_12
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 632
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f696f3f83b15c2d80800000000000000
+      internalID: -8274148583742150289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_13
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 629
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0a4e6b9183c4410800000000000000
+      internalID: 1462605662082343149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 624
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd00ce7223f941a0800000000000000
+      internalID: -6824656430822322764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_15
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 608
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591c5b9e5b7b3cc60800000000000000
+      internalID: 7837309768492761493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 591
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebc356e198dae410800000000000000
+      internalID: 1507255146454961129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 608
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5526f6af08b4e840800000000000000
+      internalID: 5252525442786010462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_18
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 598
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24428c7d298916a0800000000000000
+      internalID: -6477995760540302291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_19
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 597
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241b00fcd8fa56b10800000000000000
+      internalID: 1974177035270009154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_20
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 546
+        width: 120
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67c65ac8dda68850800000000000000
+      internalID: 6378977068836112234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_21
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 592
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b28f21e8b654780800000000000000
+      internalID: -8699428847248462982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_22
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 594
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc3515634378dbb0800000000000000
+      internalID: -4911048660351632133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 546
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d6566f9bc85a910800000000000000
+      internalID: 1848037952436137257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_24
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 546
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e082033f648df30800000000000000
+      internalID: 4600505029657890391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_25
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 546
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d624dcb94c68c90800000000000000
+      internalID: -7167825583470908082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 554
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30d69e1bb51faf50800000000000000
+      internalID: 6894753447943786557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_27
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 570
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3213b62380c23ea40800000000000000
+      internalID: 5396205192237232419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 431
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3261d08ff7655e80800000000000000
+      internalID: -8190526000227851717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 431
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57af4d9207f673a10800000000000000
+      internalID: 1889101096234056309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 495
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c46a60b07d573dd0800000000000000
+      internalID: -2506431929030908728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_31
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 495
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1159df080d3ea8f40800000000000000
+      internalID: 5731643960439182609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_32
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 495
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d2ca73ac8c75500800000000000000
+      internalID: 384997064006446362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_33
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 495
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c0d9ca6cc13d7d0800000000000000
+      internalID: -2894938495844021221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_34
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 503
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe94574ef41668f0800000000000000
+      internalID: -547727222327959813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_35
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 444
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77683c0c28cdfcd20800000000000000
+      internalID: 3301099506023761527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_36
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 444
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6634b2c5856ab4710800000000000000
+      internalID: 1678618184559313766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_37
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 444
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b44aa726fa61f8d0800000000000000
+      internalID: -2814350686669880136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_38
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 444
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffc51544e158a480800000000000000
+      internalID: -8887763823762223112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_39
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 452
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d18dbe4f26d56f0800000000000000
+      internalID: -694289963476837077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3a65eb7a7c32e30800000000000000
+      internalID: 4477641977803219912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_41
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 393
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6975a03603076630800000000000000
+      internalID: 3920105325770144107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_42
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 393
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c87e6b073398cf0800000000000000
+      internalID: -249611745144370059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_43
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 393
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c73ddd814f0c120800000000000000
+      internalID: 2432212186418084936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_44
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 393
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f7da58c006fda70800000000000000
+      internalID: 8853900999332298497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_45
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 404
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209a9bd190c2f4e50800000000000000
+      internalID: 6795698780390402306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 386
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5c93e0f8669d910800000000000000
+      internalID: 1862632685499434432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_47
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 342
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ece36e1ae873e50800000000000000
+      internalID: 6789051789288066624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_48
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 342
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1591fc215b3a9f0800000000000000
+      internalID: -458323644673076749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_49
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 342
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed8fcb8e9a7ab680800000000000000
+      internalID: -8738537305589969432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_50
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 342
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73df8dea3a39a84d0800000000000000
+      internalID: -3131528259660350153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_51
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 355
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c445179f715d3a870800000000000000
+      internalID: 8693026004701107276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_52
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 362
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218e3a0cee109dd00800000000000000
+      internalID: 997830917385086994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_53
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 291
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7799a70023ad7b7d0800000000000000
+      internalID: -2902611526525740681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_54
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 291
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f19f7e40fdaadb0800000000000000
+      internalID: -4779762842335633639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_55
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 236
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686f16c2277cabf90800000000000000
+      internalID: -6937012982826011002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_56
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 287
+        width: 104
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c66e90e9cc35de0800000000000000
+      internalID: -1345506884510651336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 290
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe17414fce3a9ffb0800000000000000
+      internalID: -4613476105161772561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_58
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 311
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8f9ad35f1c6ce00800000000000000
+      internalID: 1064751620965398737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_59
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 240
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65424024f279c3b0800000000000000
+      internalID: -5491731877762808470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_60
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 240
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd412c3f81469eac0800000000000000
+      internalID: -3825416350142950181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_61
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 275
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7658804981c442e90800000000000000
+      internalID: -7051427448108841625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_62
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 242
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efa4ff8e99387790800000000000000
+      internalID: -7532207023594360855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_63
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 263
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd9a7e3692049460800000000000000
+      internalID: 7247420544662543837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 113
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6af4eb3c69deda90800000000000000
+      internalID: -7287148088154326418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_65
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 155
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c547f193ff23c4f0800000000000000
+      internalID: -809750784824097338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_66
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 221
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e6c8fee5e0f1170800000000000000
+      internalID: 8151249651472559620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_67
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 188
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526e097923bd987d0800000000000000
+      internalID: -2915558273407982043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 189
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5aebecf2711533a0800000000000000
+      internalID: -6686418886194369956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_69
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 189
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762b7a8777a2c2c60800000000000000
+      internalID: 7794651747685216871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_70
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 137
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c3ed961e6040b30800000000000000
+      internalID: 4252531513358171256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_71
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 197
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5154d68224ecff10800000000000000
+      internalID: 2304967946248933726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_72
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 197
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d3020fc5b558460800000000000000
+      internalID: 7243296030419074391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_73
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 218
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50283ed7014d64c50800000000000000
+      internalID: 6649235067155743237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_74
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b9b58fa749112c0800000000000000
+      internalID: -4462622499873776747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_75
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 138
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a52392c641930b0800000000000000
+      internalID: -5748540994581538192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_76
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 138
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca740ed922fccf1f0800000000000000
+      internalID: -1009704468853274708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_77
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 152
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf0989f1e1a5cdb0800000000000000
+      internalID: -4772230238202949711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_78
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 116
+        width: 19
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6053277baa8867610800000000000000
+      internalID: 1618631382889805062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_79
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 126
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521522ac2aa799620800000000000000
+      internalID: 2781389084472529189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_80
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 126
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3c53bb32fb55220800000000000000
+      internalID: 2474093730495579071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_81
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 173
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5bdf71eba2e9280800000000000000
+      internalID: -9034736806523980305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_82
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 173
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c185ee62f2fc4d0800000000000000
+      internalID: -3112216973235708835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d241a22b810c34f0800000000000000
+      internalID: -847800932759420203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_84
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6394313ab5ba25eb0800000000000000
+      internalID: -4732531848346646218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_85
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 140
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7be83df94352370800000000000000
+      internalID: 8297095749553797040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_86
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 140
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5f52900f6b40a10800000000000000
+      internalID: 1874824486954857972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_87
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 140
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ca14cbf380abcf0800000000000000
+      internalID: -235866960649147301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_88
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 130
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c2dba6ca2d8e990800000000000000
+      internalID: -7356398353342714842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_89
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 87
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0303640b4cd187760800000000000000
+      internalID: 7455741913720041520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_90
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 87
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f0e14795bb71820800000000000000
+      internalID: 2888983678856073043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_91
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 105
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9378da8c98003ae00800000000000000
+      internalID: 1054687329512163129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_92
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 81
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d17949073c8dc10800000000000000
+      internalID: 2078626116328168711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_93
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 36
+        width: 130
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83af0c5b83c46490800000000000000
+      internalID: -7753857655112752243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_94
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 36
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4c8a60012eedba0800000000000000
+      internalID: -6062159489935031133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_95
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 75
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd41a02d4e1509c60800000000000000
+      internalID: 7822842595960820957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_96
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 35
+        width: 19
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac03542e5a6a5800800000000000000
+      internalID: 601910452776275111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_97
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 102
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c61c36b17aace20800000000000000
+      internalID: 3371691007119813664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_98
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 69
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019a8a92182f00b10800000000000000
+      internalID: 1945821675587676432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_99
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f99cd7fa7ef1ff0800000000000000
+      internalID: -63077128844239014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_100
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 102
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5916775209181060800000000000000
+      internalID: 6924311924930124122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_101
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 102
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13d813674c0ceb30800000000000000
+      internalID: 4317839643486245660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_102
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 74
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bb10247cdd025f0800000000000000
+      internalID: -783382487286826171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_103
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 102
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8986aee2a98d0fe0800000000000000
+      internalID: -1221168591065937525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_104
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 72
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ad2781c79e6eee0800000000000000
+      internalID: -1232040728843855360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 12
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1fd420781f825b0800000000000000
+      internalID: -5392794991614627351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_106
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1629b864dac5e30c0800000000000000
+      internalID: -4594132670588677535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 28
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292b1d7aeda695f10800000000000000
+      internalID: 2258954192633836178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_108
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 44
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f952b0caafee19240800000000000000
+      internalID: 4796877838521935263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_109
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 30
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22454d352074da20800000000000000
+      internalID: 3086214949899682351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_110
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 36
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4476558a87996e10800000000000000
+      internalID: 2191449314890773582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_111
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 36
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5cc6bb91e4e2510800000000000000
+      internalID: 1526243196150793726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_112
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 44
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bca5e2c541e1260800000000000000
+      internalID: 7070110851165506377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_113
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 44
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650d1a6ab5db234b0800000000000000
+      internalID: -5462095196711694250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_114
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d0bd9d3b8810f00800000000000000
+      internalID: 1081295691581164814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 72
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c030d9b35ffd88680800000000000000
+      internalID: -8752499631434431732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_116
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 8
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a36efaa0de35b50800000000000000
+      internalID: 6580864110674983563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_117
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 13
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52824ed908378c90800000000000000
+      internalID: -7167698666902093217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_118
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 6
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f20d533de7b0b30800000000000000
+      internalID: 4254633718587600661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_119
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 13
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b2bb7df3357b2b0800000000000000
+      internalID: -5568890880552916190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_120
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 14
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9609fc953755aab20800000000000000
+      internalID: 3146421243588087913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1382481e4aa55b6c0800000000000000
+      internalID: -4128293819210520527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff31e38112e5f82a0800000000000000
+      internalID: -6733059421661948929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_123
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af49fcc52903ccbf0800000000000000
+      internalID: -302813669760199430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Intro_124
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6933ae6aef74c2be0800000000000000
+      internalID: -1500745416773586026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5255 @@
+fileFormatVersion: 2
+guid: 9c31a1b64190d334cb34fcbb5dc2d08a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8093582121310738237
+    second: rmHipsterBar_0
+  - first:
+      213: 6328166307631275535
+    second: rmHipsterBar_1
+  - first:
+      213: -6934814676607437014
+    second: rmHipsterBar_2
+  - first:
+      213: -1950697071247497561
+    second: rmHipsterBar_3
+  - first:
+      213: -7500080308158278412
+    second: rmHipsterBar_4
+  - first:
+      213: -5332853252349141347
+    second: rmHipsterBar_5
+  - first:
+      213: -6710166685999068182
+    second: rmHipsterBar_6
+  - first:
+      213: 5759627920001468889
+    second: rmHipsterBar_7
+  - first:
+      213: 4597240804248209575
+    second: rmHipsterBar_8
+  - first:
+      213: 4035997802121722440
+    second: rmHipsterBar_9
+  - first:
+      213: -467043476793094551
+    second: rmHipsterBar_10
+  - first:
+      213: 7878184013066729130
+    second: rmHipsterBar_11
+  - first:
+      213: -2338895584441377832
+    second: rmHipsterBar_12
+  - first:
+      213: -8103842955476566
+    second: rmHipsterBar_13
+  - first:
+      213: 8026912468574249590
+    second: rmHipsterBar_14
+  - first:
+      213: 5384822454266986498
+    second: rmHipsterBar_15
+  - first:
+      213: -7095978649874006652
+    second: rmHipsterBar_16
+  - first:
+      213: -373859593888781215
+    second: rmHipsterBar_17
+  - first:
+      213: 1239113408117923890
+    second: rmHipsterBar_18
+  - first:
+      213: 7139403090396066050
+    second: rmHipsterBar_19
+  - first:
+      213: 7080301899390782864
+    second: rmHipsterBar_20
+  - first:
+      213: -6261892992291448114
+    second: rmHipsterBar_21
+  - first:
+      213: 3444032337355259354
+    second: rmHipsterBar_22
+  - first:
+      213: 5359322866309343979
+    second: rmHipsterBar_23
+  - first:
+      213: 6825517704390443712
+    second: rmHipsterBar_24
+  - first:
+      213: -3287232089096095742
+    second: rmHipsterBar_25
+  - first:
+      213: -8397354329805208421
+    second: rmHipsterBar_26
+  - first:
+      213: 8360679994415425135
+    second: rmHipsterBar_27
+  - first:
+      213: -1369018045962303053
+    second: rmHipsterBar_28
+  - first:
+      213: 207856425776118456
+    second: rmHipsterBar_29
+  - first:
+      213: -6654427565803152651
+    second: rmHipsterBar_30
+  - first:
+      213: -7480859824917752682
+    second: rmHipsterBar_31
+  - first:
+      213: 5943818902584301606
+    second: rmHipsterBar_32
+  - first:
+      213: 9102720358032699570
+    second: rmHipsterBar_33
+  - first:
+      213: 1194073228330643336
+    second: rmHipsterBar_34
+  - first:
+      213: -3898649916303469861
+    second: rmHipsterBar_35
+  - first:
+      213: 8701718659052609787
+    second: rmHipsterBar_36
+  - first:
+      213: 8030783922932848595
+    second: rmHipsterBar_37
+  - first:
+      213: -7434590575859471801
+    second: rmHipsterBar_38
+  - first:
+      213: -202723767207426373
+    second: rmHipsterBar_39
+  - first:
+      213: 1218641546519049740
+    second: rmHipsterBar_40
+  - first:
+      213: 291533138491990027
+    second: rmHipsterBar_41
+  - first:
+      213: -5411094736270764131
+    second: rmHipsterBar_42
+  - first:
+      213: -3418197950104672389
+    second: rmHipsterBar_43
+  - first:
+      213: 5784301352702694848
+    second: rmHipsterBar_44
+  - first:
+      213: -3267701917489784425
+    second: rmHipsterBar_45
+  - first:
+      213: -8153227153323067272
+    second: rmHipsterBar_46
+  - first:
+      213: 2863431931625593613
+    second: rmHipsterBar_47
+  - first:
+      213: -4840411312449019178
+    second: rmHipsterBar_48
+  - first:
+      213: -6097104800641640296
+    second: rmHipsterBar_49
+  - first:
+      213: 8138911452236009284
+    second: rmHipsterBar_50
+  - first:
+      213: 3679202127156544067
+    second: rmHipsterBar_51
+  - first:
+      213: 6387493760830898860
+    second: rmHipsterBar_52
+  - first:
+      213: 1170245492286736079
+    second: rmHipsterBar_53
+  - first:
+      213: -9122101851600984477
+    second: rmHipsterBar_54
+  - first:
+      213: 958516856309721163
+    second: rmHipsterBar_55
+  - first:
+      213: -7581855276155343316
+    second: rmHipsterBar_56
+  - first:
+      213: 1418108633799597957
+    second: rmHipsterBar_57
+  - first:
+      213: -4544149164786670566
+    second: rmHipsterBar_58
+  - first:
+      213: -6389527007664661228
+    second: rmHipsterBar_59
+  - first:
+      213: -2374719942256826390
+    second: rmHipsterBar_60
+  - first:
+      213: 6508751432782776321
+    second: rmHipsterBar_61
+  - first:
+      213: 508132801929285385
+    second: rmHipsterBar_62
+  - first:
+      213: -7103794090348564401
+    second: rmHipsterBar_63
+  - first:
+      213: -1528697829324348968
+    second: rmHipsterBar_64
+  - first:
+      213: 4077994495617499784
+    second: rmHipsterBar_65
+  - first:
+      213: -3438993505513756734
+    second: rmHipsterBar_66
+  - first:
+      213: 8514389766195432142
+    second: rmHipsterBar_67
+  - first:
+      213: 2070316884858821127
+    second: rmHipsterBar_68
+  - first:
+      213: -7979023195883836233
+    second: rmHipsterBar_69
+  - first:
+      213: -5289209763535019799
+    second: rmHipsterBar_70
+  - first:
+      213: 7586252607991321875
+    second: rmHipsterBar_71
+  - first:
+      213: 858009833274248243
+    second: rmHipsterBar_72
+  - first:
+      213: 3943893339023648628
+    second: rmHipsterBar_73
+  - first:
+      213: 5733376391522405611
+    second: rmHipsterBar_74
+  - first:
+      213: -5433781480323016766
+    second: rmHipsterBar_75
+  - first:
+      213: 3677867815510376244
+    second: rmHipsterBar_76
+  - first:
+      213: 7294300915755802952
+    second: rmHipsterBar_77
+  - first:
+      213: 6648197305780440808
+    second: rmHipsterBar_78
+  - first:
+      213: 831693184147577558
+    second: rmHipsterBar_79
+  - first:
+      213: -2350721735564947974
+    second: rmHipsterBar_80
+  - first:
+      213: 6004999291071105326
+    second: rmHipsterBar_81
+  - first:
+      213: 2070822592825181177
+    second: rmHipsterBar_82
+  - first:
+      213: -3534976465239719335
+    second: rmHipsterBar_83
+  - first:
+      213: -6356506484823727177
+    second: rmHipsterBar_84
+  - first:
+      213: 7847492384832195522
+    second: rmHipsterBar_85
+  - first:
+      213: -8304509462329101469
+    second: rmHipsterBar_86
+  - first:
+      213: -7932555381687605905
+    second: rmHipsterBar_87
+  - first:
+      213: 6459879274560445671
+    second: rmHipsterBar_88
+  - first:
+      213: 5684426416137248612
+    second: rmHipsterBar_89
+  - first:
+      213: -2324536860631180059
+    second: rmHipsterBar_90
+  - first:
+      213: 2052050260184087170
+    second: rmHipsterBar_91
+  - first:
+      213: 6506849804729275486
+    second: rmHipsterBar_92
+  - first:
+      213: -5767375184300555276
+    second: rmHipsterBar_93
+  - first:
+      213: 7808802445565978575
+    second: rmHipsterBar_94
+  - first:
+      213: 2936696419542646793
+    second: rmHipsterBar_95
+  - first:
+      213: -6552590918895908699
+    second: rmHipsterBar_96
+  - first:
+      213: 8935397168249404156
+    second: rmHipsterBar_97
+  - first:
+      213: 3675328626040918942
+    second: rmHipsterBar_98
+  - first:
+      213: 4229395574053662908
+    second: rmHipsterBar_99
+  - first:
+      213: 6233911144670220170
+    second: rmHipsterBar_100
+  - first:
+      213: 8937280299228849757
+    second: rmHipsterBar_101
+  - first:
+      213: -9207707575830298436
+    second: rmHipsterBar_102
+  - first:
+      213: 1449387674018571941
+    second: rmHipsterBar_103
+  - first:
+      213: 3963711187164452610
+    second: rmHipsterBar_104
+  - first:
+      213: 2122282183378271144
+    second: rmHipsterBar_105
+  - first:
+      213: 3061444882463397396
+    second: rmHipsterBar_106
+  - first:
+      213: 8831213103322734736
+    second: rmHipsterBar_107
+  - first:
+      213: 2346281474478777506
+    second: rmHipsterBar_108
+  - first:
+      213: -8423524737809498306
+    second: rmHipsterBar_109
+  - first:
+      213: -2884196363138283663
+    second: rmHipsterBar_110
+  - first:
+      213: -8191896039903113629
+    second: rmHipsterBar_111
+  - first:
+      213: 4899267357393320685
+    second: rmHipsterBar_112
+  - first:
+      213: 6955299281957476975
+    second: rmHipsterBar_113
+  - first:
+      213: -2450992852878364661
+    second: rmHipsterBar_114
+  - first:
+      213: 3848576263622248589
+    second: rmHipsterBar_115
+  - first:
+      213: -7180914648729446969
+    second: rmHipsterBar_116
+  - first:
+      213: 5157576852090694070
+    second: rmHipsterBar_117
+  - first:
+      213: -9129520601464413458
+    second: rmHipsterBar_118
+  - first:
+      213: -2967269963993918083
+    second: rmHipsterBar_119
+  - first:
+      213: -8052345540752844238
+    second: rmHipsterBar_120
+  - first:
+      213: 1724427411402993193
+    second: rmHipsterBar_121
+  - first:
+      213: -5181650301930836132
+    second: rmHipsterBar_122
+  - first:
+      213: -1427728510530716153
+    second: rmHipsterBar_123
+  - first:
+      213: 1311619178681743903
+    second: rmHipsterBar_124
+  - first:
+      213: -3486195024565861765
+    second: rmHipsterBar_125
+  - first:
+      213: 5744761098949037474
+    second: rmHipsterBar_126
+  - first:
+      213: -3328526658995522589
+    second: rmHipsterBar_127
+  - first:
+      213: 1143968541953280896
+    second: rmHipsterBar_128
+  - first:
+      213: -3684732891747308449
+    second: rmHipsterBar_129
+  - first:
+      213: 425802662900138507
+    second: rmHipsterBar_130
+  - first:
+      213: -1377327220945469322
+    second: rmHipsterBar_131
+  - first:
+      213: 8235514259209881422
+    second: rmHipsterBar_132
+  - first:
+      213: 3733595544191129983
+    second: rmHipsterBar_133
+  - first:
+      213: 3523959875730799990
+    second: rmHipsterBar_134
+  - first:
+      213: 6071993117249949571
+    second: rmHipsterBar_135
+  - first:
+      213: -5920639132202493211
+    second: rmHipsterBar_136
+  - first:
+      213: -1727354166094311354
+    second: rmHipsterBar_137
+  - first:
+      213: -841087900282180856
+    second: rmHipsterBar_138
+  - first:
+      213: 7371054865148113462
+    second: rmHipsterBar_139
+  - first:
+      213: 5973871587281197975
+    second: rmHipsterBar_140
+  - first:
+      213: 5499293091675922197
+    second: rmHipsterBar_141
+  - first:
+      213: 167700209268095365
+    second: rmHipsterBar_142
+  - first:
+      213: 2832653462636458991
+    second: rmHipsterBar_143
+  - first:
+      213: 950875507927240947
+    second: rmHipsterBar_144
+  - first:
+      213: 6065411286990383228
+    second: rmHipsterBar_145
+  - first:
+      213: 7973816109035408448
+    second: rmHipsterBar_146
+  - first:
+      213: 7270678677570327702
+    second: rmHipsterBar_147
+  - first:
+      213: 8715328715496467826
+    second: rmHipsterBar_148
+  - first:
+      213: -1273201155355251263
+    second: rmHipsterBar_149
+  - first:
+      213: -7341172469269043671
+    second: rmHipsterBar_150
+  - first:
+      213: -1255595119755478196
+    second: rmHipsterBar_151
+  - first:
+      213: 7595504333454300262
+    second: rmHipsterBar_152
+  - first:
+      213: -8150601092776911612
+    second: rmHipsterBar_153
+  - first:
+      213: 2360950534995142958
+    second: rmHipsterBar_154
+  - first:
+      213: 8888520987622027106
+    second: rmHipsterBar_155
+  - first:
+      213: -8454171874985735792
+    second: rmHipsterBar_156
+  - first:
+      213: -1368709079120900312
+    second: rmHipsterBar_157
+  - first:
+      213: -4440821151192703569
+    second: rmHipsterBar_158
+  - first:
+      213: -6987825963216557168
+    second: rmHipsterBar_159
+  - first:
+      213: -7341358486196966362
+    second: rmHipsterBar_160
+  - first:
+      213: 8167397933958161604
+    second: rmHipsterBar_161
+  - first:
+      213: -3026126178343542407
+    second: rmHipsterBar_162
+  - first:
+      213: -6828330136907868867
+    second: rmHipsterBar_163
+  - first:
+      213: 6544982274761495465
+    second: rmHipsterBar_164
+  - first:
+      213: 5474191112306308036
+    second: rmHipsterBar_165
+  - first:
+      213: -91002238775621391
+    second: rmHipsterBar_166
+  - first:
+      213: 3073504999295930383
+    second: rmHipsterBar_167
+  - first:
+      213: 4091890363023579209
+    second: rmHipsterBar_168
+  - first:
+      213: 2523725178013872113
+    second: rmHipsterBar_169
+  - first:
+      213: -6890384969518422410
+    second: rmHipsterBar_170
+  - first:
+      213: 835585222601106479
+    second: rmHipsterBar_171
+  - first:
+      213: 7658787714730491541
+    second: rmHipsterBar_172
+  - first:
+      213: 802830921405460292
+    second: rmHipsterBar_173
+  - first:
+      213: 6913616946595567665
+    second: rmHipsterBar_174
+  - first:
+      213: 2494028653320357699
+    second: rmHipsterBar_175
+  - first:
+      213: -164749095707183153
+    second: rmHipsterBar_176
+  - first:
+      213: -5403713337336726831
+    second: rmHipsterBar_177
+  - first:
+      213: 7135179227829272509
+    second: rmHipsterBar_178
+  - first:
+      213: 7164684475143749005
+    second: rmHipsterBar_179
+  - first:
+      213: 6948005926491249476
+    second: rmHipsterBar_180
+  - first:
+      213: -1951850899900588412
+    second: rmHipsterBar_181
+  - first:
+      213: 439569965370937110
+    second: rmHipsterBar_182
+  - first:
+      213: 3349913761802022974
+    second: rmHipsterBar_183
+  - first:
+      213: -2506820116746434227
+    second: rmHipsterBar_184
+  - first:
+      213: -1220956858413284652
+    second: rmHipsterBar_185
+  - first:
+      213: 2574965400326865815
+    second: rmHipsterBar_186
+  - first:
+      213: -5669129435756303839
+    second: rmHipsterBar_187
+  - first:
+      213: 7225046945637557322
+    second: rmHipsterBar_188
+  - first:
+      213: 2947243760387753705
+    second: rmHipsterBar_189
+  - first:
+      213: 983469566404476628
+    second: rmHipsterBar_190
+  - first:
+      213: 4144310499019507456
+    second: rmHipsterBar_191
+  - first:
+      213: 987825272214840907
+    second: rmHipsterBar_192
+  - first:
+      213: 31805462167074796
+    second: rmHipsterBar_193
+  - first:
+      213: -5986484115920072046
+    second: rmHipsterBar_194
+  - first:
+      213: -1991673225921685415
+    second: rmHipsterBar_195
+  - first:
+      213: -5887068486685756331
+    second: rmHipsterBar_196
+  - first:
+      213: -2098409981667826375
+    second: rmHipsterBar_197
+  - first:
+      213: -4629194663484558427
+    second: rmHipsterBar_198
+  - first:
+      213: -2442917502621510784
+    second: rmHipsterBar_199
+  - first:
+      213: 6397589658021573539
+    second: rmHipsterBar_200
+  - first:
+      213: -7281272941211970976
+    second: rmHipsterBar_201
+  - first:
+      213: -3753184641835951040
+    second: rmHipsterBar_202
+  - first:
+      213: 3005124852299986947
+    second: rmHipsterBar_203
+  - first:
+      213: 3710415710967040118
+    second: rmHipsterBar_204
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmHipsterBar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c822da31f1ddaf80800000000000000
+      internalID: -8093582121310738237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 327
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e15fd8ab922d750800000000000000
+      internalID: 6328166307631275535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 423
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27f5a93bc692cf90800000000000000
+      internalID: -6934814676607437014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 402
+        width: 63
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6e5e3595bbde4e0800000000000000
+      internalID: -1950697071247497561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 508
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4d25562bc5ae790800000000000000
+      internalID: -7500080308158278412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 512
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e517eb836edf5b0800000000000000
+      internalID: -5332853252349141347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 522
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb8d5973f2b0e2a0800000000000000
+      internalID: -6710166685999068182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 522
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d90c12d31f4eef40800000000000000
+      internalID: 5759627920001468889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 512
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8452c772eaccf30800000000000000
+      internalID: 4597240804248209575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 508
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84af8bd0e9eb20830800000000000000
+      internalID: 4035997802121722440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 471
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e851fae6ab489f0800000000000000
+      internalID: -467043476793094551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 490
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6f0069e9ee45d60800000000000000
+      internalID: 7878184013066729130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 505
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db54a2abd29a8fd0800000000000000
+      internalID: -2338895584441377832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 508
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1c257099533eff0800000000000000
+      internalID: -8103842955476566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 497
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672a58c9c52556f60800000000000000
+      internalID: 8026912468574249590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 491
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200812dfd7bbaba40800000000000000
+      internalID: 5384822454266986498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 505
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48df0889305068d90800000000000000
+      internalID: -7095978649874006652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 490
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c236e1ea8cfcaf0800000000000000
+      internalID: -373859593888781215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 504
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230ea4f5417323110800000000000000
+      internalID: 1239113408117923890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 490
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2013267d841441360800000000000000
+      internalID: 7139403090396066050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 490
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d06bf7019424260800000000000000
+      internalID: 7080301899390782864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_21
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 504
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecad5fc10894919a0800000000000000
+      internalID: -6261892992291448114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 490
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addb40fd929abcf20800000000000000
+      internalID: 3444032337355259354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 490
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea2ff280c3206a40800000000000000
+      internalID: 5359322866309343979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 505
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c20552603c19be50800000000000000
+      internalID: 6825517704390443712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 497
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208792bd4d76162d0800000000000000
+      internalID: -3287232089096095742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_26
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 508
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b944fd66aba967b80800000000000000
+      internalID: -8397354329805208421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_27
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 490
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66a8db782a170470800000000000000
+      internalID: 8360679994415425135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 505
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9415f2755400de0800000000000000
+      internalID: -1369018045962303053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 473
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bafaa6615472e200800000000000000
+      internalID: 207856425776118456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 476
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa5cb4b269b6a3a0800000000000000
+      internalID: -6654427565803152651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_31
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 474
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6945941ef95ae2890800000000000000
+      internalID: -7480859824917752682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 474
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6281ac9dccfac7250800000000000000
+      internalID: 5943818902584301606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_33
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 476
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b07146ffeb535e70800000000000000
+      internalID: 9102720358032699570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_34
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 473
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fa3725643329010800000000000000
+      internalID: 1194073228330643336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_35
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 472
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2102b9e8635e9c0800000000000000
+      internalID: -3898649916303469861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 476
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf028384407b2c870800000000000000
+      internalID: 8701718659052609787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_37
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 472
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d79452dd63137f60800000000000000
+      internalID: 8030783922932848595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_38
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 473
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74aed6be24703d890800000000000000
+      internalID: -7434590575859471801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 474
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6821ccec7cf2df0800000000000000
+      internalID: -202723767207426373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_40
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 474
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06fcc8a70c79e010800000000000000
+      internalID: 1218641546519049740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_41
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 476
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00e11848dbbb0400800000000000000
+      internalID: 291533138491990027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_42
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 473
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97589ea10ee7e4b0800000000000000
+      internalID: -5411094736270764131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 457
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77ea04231f1090d0800000000000000
+      internalID: -3418197950104672389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_44
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 460
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5d7a90f67f54050800000000000000
+      internalID: 5784301352702694848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_45
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 457
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79998284b6ac6a2d0800000000000000
+      internalID: -3267701917489784425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_46
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 441
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878fb190a1be9de80800000000000000
+      internalID: -8153227153323067272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_47
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 462
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bdd03bb24fcb720800000000000000
+      internalID: 2863431931625593613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_48
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 465
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2a1b29e8763dcb0800000000000000
+      internalID: -4840411312449019178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 465
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8981d67dc7bb26ba0800000000000000
+      internalID: -6097104800641640296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_50
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 462
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fc2e018d833f070800000000000000
+      internalID: 8138911452236009284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 441
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342070667d62f0330800000000000000
+      internalID: 3679202127156544067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_52
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 457
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2895babbfe4a850800000000000000
+      internalID: 6387493760830898860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_53
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 460
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6c0c3331c8d3010800000000000000
+      internalID: 1170245492286736079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_54
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 441
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366e36a62b8c76180800000000000000
+      internalID: -9122101851600984477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 438
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48a09b90065d4d00800000000000000
+      internalID: 958516856309721163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_56
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 447
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ee656fbc6d7c690800000000000000
+      internalID: -7581855276155343316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_57
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 438
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f1a8af9422ea310800000000000000
+      internalID: 1418108633799597957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_58
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 457
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14a08a1960ffe0c0800000000000000
+      internalID: -4544149164786670566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_59
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 457
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d12692a07d357a0800000000000000
+      internalID: -6389527007664661228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_60
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 444
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7eeb85bcc4b0fd0800000000000000
+      internalID: -2374719942256826390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_61
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 441
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108055a71fab35a50800000000000000
+      internalID: 6508751432782776321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_62
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 440
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f08b557104d0700800000000000000
+      internalID: 508132801929285385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_63
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 441
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40314f89e04a6d90800000000000000
+      internalID: -7103794090348564401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 441
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d126327c69f8cae0800000000000000
+      internalID: -1528697829324348968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_65
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 440
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882874b3362f79830800000000000000
+      internalID: 4077994495617499784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 441
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c72af690ad3640d0800000000000000
+      internalID: -3438993505513756734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_67
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 444
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecacc459160392670800000000000000
+      internalID: 8514389766195432142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_68
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 425
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ad08edc3e3bbc10800000000000000
+      internalID: 2070316884858821127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 426
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcedb29da0d44190800000000000000
+      internalID: -7979023195883836233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_70
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 433
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0a7f55eb3f896b0800000000000000
+      internalID: -5289209763535019799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 432
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31514b3ad88c74960800000000000000
+      internalID: 7586252607991321875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_72
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 425
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c8a1eb56348eb00800000000000000
+      internalID: 858009833274248243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_73
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 424
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477a880a8168bb630800000000000000
+      internalID: 3943893339023648628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_74
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 424
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beccd4c837b019f40800000000000000
+      internalID: 5733376391522405611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_75
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 425
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7104678845794b0800000000000000
+      internalID: -5433781480323016766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_76
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 432
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f7652ca496a0330800000000000000
+      internalID: 3677867815510376244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_77
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 426
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8416e6839009a3560800000000000000
+      internalID: 7294300915755802952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_78
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 402
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee80c7d934234c50800000000000000
+      internalID: 6648197305780440808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_79
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 433
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dada336b84ca8b00800000000000000
+      internalID: 831693184147577558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_80
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 415
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd8cd1490f806fd0800000000000000
+      internalID: -2350721735564947974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_81
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 422
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2904c41a0b065350800000000000000
+      internalID: 6004999291071105326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_82
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 426
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3c23e2d2a0dbc10800000000000000
+      internalID: 2070822592825181177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_83
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 426
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952450c42ad31fec0800000000000000
+      internalID: -3534976465239719335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_84
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 311
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b36d9fb70729c7a0800000000000000
+      internalID: -6356506484823727177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_85
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 311
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb81870fb4e7ec60800000000000000
+      internalID: 7847492384832195522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_86
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 393
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363f008a4a470cc80800000000000000
+      internalID: -8304509462329101469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_87
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 397
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65a569a8e6e9e190800000000000000
+      internalID: -7932555381687605905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_88
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 409
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec551c69f916a950800000000000000
+      internalID: 6459879274560445671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_89
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 409
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f15b545b323ee40800000000000000
+      internalID: 5684426416137248612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 397
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecd6ca8a069dbfd0800000000000000
+      internalID: -2324536860631180059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_91
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 364
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a3583e6d85a7c10800000000000000
+      internalID: 2052050260184087170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 392
+        width: 67
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5455b13c69fc4a50800000000000000
+      internalID: 6506849804729275486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_93
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 405
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3cc55a3da26ffa0800000000000000
+      internalID: -5767375184300555276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_94
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 392
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7692193707e5c60800000000000000
+      internalID: 7808802445565978575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_95
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 393
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900400495dd31c820800000000000000
+      internalID: 2936696419542646793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_96
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 395
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a842c0c6458015a0800000000000000
+      internalID: -6552590918895908699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_97
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 393
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa798cf168e00c70800000000000000
+      internalID: 8935397168249404156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_98
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 392
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e935ef3a9e3610330800000000000000
+      internalID: 3675328626040918942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_99
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 362
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0f316cdd4d1ba30800000000000000
+      internalID: 4229395574053662908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_100
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 372
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fca6b482d438650800000000000000
+      internalID: 6233911144670220170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_101
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 377
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56e1a59419970c70800000000000000
+      internalID: 8937280299228849757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_102
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 360
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb046fa8eb6a73080800000000000000
+      internalID: -9207707575830298436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_103
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 378
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6e4bb09624d1410800000000000000
+      internalID: 1449387674018571941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_104
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 380
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207dd27f25ee10730800000000000000
+      internalID: 3963711187164452610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 378
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abf665c66cd37d10800000000000000
+      internalID: 2122282183378271144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_106
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 377
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4161bae76ef6c7a20800000000000000
+      internalID: 3061444882463397396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_107
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 360
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090a3571785ce8a70800000000000000
+      internalID: 8831213103322734736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_108
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 362
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a42365e19aaf8020800000000000000
+      internalID: 2346281474478777506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_109
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 372
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f362671e0a91b80800000000000000
+      internalID: -8423524737809498306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_110
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 368
+        width: 71
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1774ba850b649f7d0800000000000000
+      internalID: -2884196363138283663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_111
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 366
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e45a844f9805e80800000000000000
+      internalID: -8191896039903113629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_112
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 362
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea781144b1bdf340800000000000000
+      internalID: 4899267357393320685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 366
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ada9f98df268060800000000000000
+      internalID: 6955299281957476975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_114
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 344
+        width: 67
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00f9297cf25cfdd0800000000000000
+      internalID: -2450992852878364661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_115
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 359
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88443c98b3e86530800000000000000
+      internalID: 3848576263622248589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_116
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 343
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c515105c24485c90800000000000000
+      internalID: -7180914648729446969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_117
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 354
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9a4aa22d4639740800000000000000
+      internalID: 5157576852090694070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_118
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 343
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee26a1c126d6d4180800000000000000
+      internalID: -9129520601464413458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_119
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75d47360b322d6d0800000000000000
+      internalID: -2967269963993918083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_120
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 343
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ad9b2d462504090800000000000000
+      internalID: -8052345540752844238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_121
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e2f9128956ee710800000000000000
+      internalID: 1724427411402993193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_122
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 354
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fed1301841718b0800000000000000
+      internalID: -5181650301930836132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_123
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 343
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e7e1eeb70bf2ce0800000000000000
+      internalID: -1427728510530716153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_124
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 332
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a3ae991bec33210800000000000000
+      internalID: 1311619178681743903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_125
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 329
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b728407881c8e9fc0800000000000000
+      internalID: -3486195024565861765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_126
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 327
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad075e48cd79bf40800000000000000
+      internalID: 5744761098949037474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_127
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 332
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3772193a2bec1d0800000000000000
+      internalID: -3328526658995522589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_128
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 332
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bc851f35130ef00800000000000000
+      internalID: 1143968541953280896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_129
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 327
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c243f15f23ddcc0800000000000000
+      internalID: -3684732891747308449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_130
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 329
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0204921441c8e500800000000000000
+      internalID: 425802662900138507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_131
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 332
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670c110a030c2ece0800000000000000
+      internalID: -1377327220945469322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_132
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 320
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e478edac59c6a4270800000000000000
+      internalID: 8235514259209881422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_133
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 320
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f795e72bd5560d330800000000000000
+      internalID: 3733595544191129983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_134
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 318
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67df9a316de97e030800000000000000
+      internalID: 3523959875730799990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_135
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 314
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fcc40c19d044450800000000000000
+      internalID: 6071993117249949571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_136
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 314
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea1bc1041aa5dda0800000000000000
+      internalID: -5920639132202493211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_137
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 315
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64058a0b9843708e0800000000000000
+      internalID: -1727354166094311354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_138
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 315
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b2dcec20bd354f0800000000000000
+      internalID: -841087900282180856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_139
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 314
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6327119a85f3b4660800000000000000
+      internalID: 7371054865148113462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_140
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 314
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bd1b5ce8477e250800000000000000
+      internalID: 5973871587281197975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_141
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 318
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f5a1d2ee9615c40800000000000000
+      internalID: 5499293091675922197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 182
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589fe2aa37ac35200800000000000000
+      internalID: 167700209268095365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_143
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 295
+        width: 186
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3f934f05b9f4720800000000000000
+      internalID: 2832653462636458991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_144
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 287
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f05f9b8c30323d00800000000000000
+      internalID: 950875507927240947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_145
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 287
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78e4b9fd6bac2450800000000000000
+      internalID: 6065411286990383228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_146
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 300
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cc75b018fa8ae60800000000000000
+      internalID: 7973816109035408448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_147
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 285
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694169c4cb3a6e460800000000000000
+      internalID: 7270678677570327702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_148
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 285
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dadeb7a4113f870800000000000000
+      internalID: 8715328715496467826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_149
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 289
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdee6f7b4ea45ee0800000000000000
+      internalID: -1273201155355251263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_150
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 285
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926675ec88aee1a90800000000000000
+      internalID: -7341172469269043671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bb24914ea339ee0800000000000000
+      internalID: -1255595119755478196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_152
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 276
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664db75d2f6a86960800000000000000
+      internalID: 7595504333454300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_153
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 235
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d1f176d7f33ee80800000000000000
+      internalID: -8150601092776911612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_154
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 276
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2967a2b008c3c020800000000000000
+      internalID: 2360950534995142958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_155
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 277
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fa0ddaebe5a5b70800000000000000
+      internalID: 8888520987622027106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_156
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 237
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0998069c87fbcaa80800000000000000
+      internalID: -8454171874985735792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_157
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 237
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f8522285e510de0800000000000000
+      internalID: -1368709079120900312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_158
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 258
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad1e1401b80f52c0800000000000000
+      internalID: -4440821151192703569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_159
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 255
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ba93e3f41460f90800000000000000
+      internalID: -6987825963216557168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_160
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 256
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c2e6d5a514e1a90800000000000000
+      internalID: -7341358486196966362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_161
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 256
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4e5d0f52d685170800000000000000
+      internalID: 8167397933958161604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_162
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971a25e164a0106d0800000000000000
+      internalID: -3026126178343542407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_163
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 217
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3513842be5ec31a0800000000000000
+      internalID: -6828330136907868867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_164
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3136cb3b274da50800000000000000
+      internalID: 6544982274761495465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_165
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 237
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c33e9920db38fb40800000000000000
+      internalID: 5474191112306308036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_166
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 238
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8830c22f1bcbef0800000000000000
+      internalID: -91002238775621391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_167
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 108
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00db62438847aa20800000000000000
+      internalID: 3073504999295930383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_168
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 190
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9485ddbfa9059c830800000000000000
+      internalID: 4091890363023579209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_169
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 188
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffe93a9da2160320800000000000000
+      internalID: 2523725178013872113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_170
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 209
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676e926806f6060a0800000000000000
+      internalID: -6890384969518422410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_171
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 209
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2464b43558989b00800000000000000
+      internalID: 835585222601106479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_172
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 211
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ef2aa39da794a60800000000000000
+      internalID: 7658787714730491541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_173
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 158
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f621d287a342b00800000000000000
+      internalID: 802830921405460292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_174
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 143
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13813f6abf912ff50800000000000000
+      internalID: 6913616946595567665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_175
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 141
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3474ec4a8d19c9220800000000000000
+      internalID: 2494028653320357699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_176
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 162
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc77e410291b6bdf0800000000000000
+      internalID: -164749095707183153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_177
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 162
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daf00c89572205b0800000000000000
+      internalID: -5403713337336726831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_178
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 168
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf728334bf350360800000000000000
+      internalID: 7135179227829272509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_179
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 96
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8df2bce1921e6360800000000000000
+      internalID: 7164684475143749005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_180
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 94
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bd1d9f3964c6060800000000000000
+      internalID: 6948005926491249476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_181
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 94
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e16e8a2f1a9e4e0800000000000000
+      internalID: -1951850899900588412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_182
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 135
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f8dd7fd8aa91600800000000000000
+      internalID: 439569965370937110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_183
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 136
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30f66851d84d7e20800000000000000
+      internalID: 3349913761802022974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_184
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 124
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d498681b26cf53dd0800000000000000
+      internalID: -2506820116746434227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_185
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d20338c43a4e0fe0800000000000000
+      internalID: -1220956858413284652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_186
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793876b836d1cb320800000000000000
+      internalID: 2574965400326865815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_187
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 109
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ae80480d43351b0800000000000000
+      internalID: -5669129435756303839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_188
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 47
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a446f38cae5844460800000000000000
+      internalID: 7225046945637557322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_189
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 47
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6066cb596b6e820800000000000000
+      internalID: 2947243760387753705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_190
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 76
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de32f82c5cf5ad00800000000000000
+      internalID: 983469566404476628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_191
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007cafcf07c838930800000000000000
+      internalID: 4144310499019507456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_192
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46e482f9d575bd00800000000000000
+      internalID: 987825272214840907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_193
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 56
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7b26a36eef07000800000000000000
+      internalID: 31805462167074796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_194
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 50
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292d0111a6cbbeca0800000000000000
+      internalID: -5986484115920072046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_195
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 50
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958184cd0c72c54e0800000000000000
+      internalID: -1991673225921685415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_196
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 51
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554f2b2076eec4ea0800000000000000
+      internalID: -5887068486685756331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_197
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 122
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9352e815d33f0e2e0800000000000000
+      internalID: -2098409981667826375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_198
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 21
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a37ed6eafbc1cfb0800000000000000
+      internalID: -4629194663484558427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_199
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 21
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08319a87973091ed0800000000000000
+      internalID: -2442917502621510784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_200
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 27
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3b619e5edc8c850800000000000000
+      internalID: 6397589658021573539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_201
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 31
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062956a76d8b3fa90800000000000000
+      internalID: -7281272941211970976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 99
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c9ae614720aebc0800000000000000
+      internalID: -3753184641835951040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308f90f912954b920800000000000000
+      internalID: 3005124852299986947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHipsterBar_204
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67808353e6b0e7330800000000000000
+      internalID: 3710415710967040118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3580 @@
+fileFormatVersion: 2
+guid: 877828209376b144f904a032e10552f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3456327192776501852
+    second: BloodMoney_Intro_0
+  - first:
+      213: 6541056669402518264
+    second: BloodMoney_Intro_1
+  - first:
+      213: -5321284841034339869
+    second: BloodMoney_Intro_2
+  - first:
+      213: 5379634247263406370
+    second: BloodMoney_Intro_3
+  - first:
+      213: -6374241887042820498
+    second: BloodMoney_Intro_4
+  - first:
+      213: 6247034864984772363
+    second: BloodMoney_Intro_5
+  - first:
+      213: 8598502397494477284
+    second: BloodMoney_Intro_6
+  - first:
+      213: -3281282147191869883
+    second: BloodMoney_Intro_7
+  - first:
+      213: -6268531063587856141
+    second: BloodMoney_Intro_8
+  - first:
+      213: -8770110963512567449
+    second: BloodMoney_Intro_9
+  - first:
+      213: 8297537041644288935
+    second: BloodMoney_Intro_10
+  - first:
+      213: -528559742146387336
+    second: BloodMoney_Intro_11
+  - first:
+      213: -3832688721084382912
+    second: BloodMoney_Intro_12
+  - first:
+      213: -3494024321953906574
+    second: BloodMoney_Intro_13
+  - first:
+      213: 1029522748374784420
+    second: BloodMoney_Intro_14
+  - first:
+      213: -1436044341843948521
+    second: BloodMoney_Intro_15
+  - first:
+      213: -2155046538760275902
+    second: BloodMoney_Intro_16
+  - first:
+      213: 4817695907008068686
+    second: BloodMoney_Intro_17
+  - first:
+      213: 3082767630963552383
+    second: BloodMoney_Intro_18
+  - first:
+      213: 6477584817847004376
+    second: BloodMoney_Intro_19
+  - first:
+      213: -6799761270570781975
+    second: BloodMoney_Intro_20
+  - first:
+      213: 708021900168946132
+    second: BloodMoney_Intro_21
+  - first:
+      213: 1972067446456241392
+    second: BloodMoney_Intro_22
+  - first:
+      213: 3570168721142452085
+    second: BloodMoney_Intro_23
+  - first:
+      213: -2791483595759499424
+    second: BloodMoney_Intro_24
+  - first:
+      213: -2570975820455312969
+    second: BloodMoney_Intro_25
+  - first:
+      213: 6335920099824308032
+    second: BloodMoney_Intro_26
+  - first:
+      213: 6086411364483661569
+    second: BloodMoney_Intro_27
+  - first:
+      213: -526374739574165795
+    second: BloodMoney_Intro_28
+  - first:
+      213: 3239400692348442449
+    second: BloodMoney_Intro_29
+  - first:
+      213: -3148197924502815837
+    second: BloodMoney_Intro_30
+  - first:
+      213: -8851360709702630113
+    second: BloodMoney_Intro_31
+  - first:
+      213: -4331740169973735455
+    second: BloodMoney_Intro_32
+  - first:
+      213: 6991635279390804071
+    second: BloodMoney_Intro_33
+  - first:
+      213: -441076086292681384
+    second: BloodMoney_Intro_34
+  - first:
+      213: -1298595300905207909
+    second: BloodMoney_Intro_35
+  - first:
+      213: 379790552210576181
+    second: BloodMoney_Intro_36
+  - first:
+      213: 5564360372387622090
+    second: BloodMoney_Intro_37
+  - first:
+      213: -6599939497228934750
+    second: BloodMoney_Intro_38
+  - first:
+      213: -1482839949752050188
+    second: BloodMoney_Intro_39
+  - first:
+      213: -4223769093279071907
+    second: BloodMoney_Intro_40
+  - first:
+      213: -8074984431911095778
+    second: BloodMoney_Intro_41
+  - first:
+      213: 1915301248819649459
+    second: BloodMoney_Intro_42
+  - first:
+      213: -5358015364004564145
+    second: BloodMoney_Intro_43
+  - first:
+      213: -8112688929880380751
+    second: BloodMoney_Intro_44
+  - first:
+      213: -94489493001657388
+    second: BloodMoney_Intro_45
+  - first:
+      213: 7705339114806017095
+    second: BloodMoney_Intro_46
+  - first:
+      213: 1740334319221611183
+    second: BloodMoney_Intro_47
+  - first:
+      213: 1890827457938301492
+    second: BloodMoney_Intro_48
+  - first:
+      213: 1166722993554846889
+    second: BloodMoney_Intro_49
+  - first:
+      213: 7721696558337939157
+    second: BloodMoney_Intro_50
+  - first:
+      213: 5831087620538036183
+    second: BloodMoney_Intro_51
+  - first:
+      213: -8495998913753870952
+    second: BloodMoney_Intro_52
+  - first:
+      213: -4635235675023024544
+    second: BloodMoney_Intro_53
+  - first:
+      213: 7283009565018508651
+    second: BloodMoney_Intro_54
+  - first:
+      213: 2924796438773677131
+    second: BloodMoney_Intro_55
+  - first:
+      213: -7692110268683732529
+    second: BloodMoney_Intro_56
+  - first:
+      213: 8265127726968554598
+    second: BloodMoney_Intro_57
+  - first:
+      213: 1121745288414306782
+    second: BloodMoney_Intro_58
+  - first:
+      213: 7912090201925775145
+    second: BloodMoney_Intro_59
+  - first:
+      213: 7617538048698649963
+    second: BloodMoney_Intro_60
+  - first:
+      213: -8850019763563212016
+    second: BloodMoney_Intro_61
+  - first:
+      213: -5269575737949913710
+    second: BloodMoney_Intro_62
+  - first:
+      213: -4155650572665749603
+    second: BloodMoney_Intro_63
+  - first:
+      213: 755362845716246918
+    second: BloodMoney_Intro_64
+  - first:
+      213: 5694150916192222169
+    second: BloodMoney_Intro_65
+  - first:
+      213: -4925872233338596759
+    second: BloodMoney_Intro_66
+  - first:
+      213: 6359988616927007597
+    second: BloodMoney_Intro_67
+  - first:
+      213: 1653547689874048667
+    second: BloodMoney_Intro_68
+  - first:
+      213: 987612580711625249
+    second: BloodMoney_Intro_69
+  - first:
+      213: 7173538719372186273
+    second: BloodMoney_Intro_70
+  - first:
+      213: -7967365370765344862
+    second: BloodMoney_Intro_71
+  - first:
+      213: -5309319221347826348
+    second: BloodMoney_Intro_72
+  - first:
+      213: -37109003014975552
+    second: BloodMoney_Intro_73
+  - first:
+      213: 3464569994484819012
+    second: BloodMoney_Intro_74
+  - first:
+      213: -7767104285513546314
+    second: BloodMoney_Intro_75
+  - first:
+      213: -4738014019930164250
+    second: BloodMoney_Intro_76
+  - first:
+      213: -4330482455474746581
+    second: BloodMoney_Intro_77
+  - first:
+      213: -2429047767733539908
+    second: BloodMoney_Intro_78
+  - first:
+      213: 9222012423400246177
+    second: BloodMoney_Intro_79
+  - first:
+      213: -7198262983129601859
+    second: BloodMoney_Intro_80
+  - first:
+      213: 6266440445125551314
+    second: BloodMoney_Intro_81
+  - first:
+      213: 1663548838542781326
+    second: BloodMoney_Intro_82
+  - first:
+      213: 6501226009664051541
+    second: BloodMoney_Intro_83
+  - first:
+      213: 530786965247539342
+    second: BloodMoney_Intro_84
+  - first:
+      213: 2864087273772324606
+    second: BloodMoney_Intro_85
+  - first:
+      213: -2960655116827897113
+    second: BloodMoney_Intro_86
+  - first:
+      213: 6053379734033218882
+    second: BloodMoney_Intro_87
+  - first:
+      213: 186877928643017008
+    second: BloodMoney_Intro_88
+  - first:
+      213: -5320993596035168677
+    second: BloodMoney_Intro_89
+  - first:
+      213: -683931972169097231
+    second: BloodMoney_Intro_90
+  - first:
+      213: 2002675375273839405
+    second: BloodMoney_Intro_91
+  - first:
+      213: 9168350375691700535
+    second: BloodMoney_Intro_92
+  - first:
+      213: -3171013246883015118
+    second: BloodMoney_Intro_93
+  - first:
+      213: 9204590105305475132
+    second: BloodMoney_Intro_94
+  - first:
+      213: -1340432446533985318
+    second: BloodMoney_Intro_95
+  - first:
+      213: 5473232398399955681
+    second: BloodMoney_Intro_96
+  - first:
+      213: 3187017555298919197
+    second: BloodMoney_Intro_97
+  - first:
+      213: 1839758250844308842
+    second: BloodMoney_Intro_98
+  - first:
+      213: 6227638590164090930
+    second: BloodMoney_Intro_99
+  - first:
+      213: 3058851252681223847
+    second: BloodMoney_Intro_100
+  - first:
+      213: -9074080478111367402
+    second: BloodMoney_Intro_101
+  - first:
+      213: -499905159560610193
+    second: BloodMoney_Intro_102
+  - first:
+      213: -1450770950234420206
+    second: BloodMoney_Intro_103
+  - first:
+      213: -3127040592464634970
+    second: BloodMoney_Intro_104
+  - first:
+      213: 3591186131935954060
+    second: BloodMoney_Intro_105
+  - first:
+      213: -1754769794681039640
+    second: BloodMoney_Intro_106
+  - first:
+      213: -489305039828598417
+    second: BloodMoney_Intro_107
+  - first:
+      213: 4256842309535526662
+    second: BloodMoney_Intro_108
+  - first:
+      213: -3503194065844421749
+    second: BloodMoney_Intro_109
+  - first:
+      213: 1101498634750402293
+    second: BloodMoney_Intro_110
+  - first:
+      213: -7356966634124014975
+    second: BloodMoney_Intro_111
+  - first:
+      213: -887384363781650022
+    second: BloodMoney_Intro_112
+  - first:
+      213: 7924128953892587125
+    second: BloodMoney_Intro_113
+  - first:
+      213: 6492667166135465644
+    second: BloodMoney_Intro_114
+  - first:
+      213: -3119958263557568924
+    second: BloodMoney_Intro_115
+  - first:
+      213: -6451960104373249588
+    second: BloodMoney_Intro_116
+  - first:
+      213: 6887950458655614944
+    second: BloodMoney_Intro_117
+  - first:
+      213: -8648041634768020024
+    second: BloodMoney_Intro_118
+  - first:
+      213: 6739610212396961872
+    second: BloodMoney_Intro_119
+  - first:
+      213: -8630462978053586193
+    second: BloodMoney_Intro_120
+  - first:
+      213: -6396224497187202990
+    second: BloodMoney_Intro_121
+  - first:
+      213: -951964797514954523
+    second: BloodMoney_Intro_122
+  - first:
+      213: -7982416970514140398
+    second: BloodMoney_Intro_123
+  - first:
+      213: 9213615472507265727
+    second: BloodMoney_Intro_124
+  - first:
+      213: -1075439862531017179
+    second: BloodMoney_Intro_125
+  - first:
+      213: -5242490652202338218
+    second: BloodMoney_Intro_126
+  - first:
+      213: -4981312135042061913
+    second: BloodMoney_Intro_127
+  - first:
+      213: -88824015832570536
+    second: BloodMoney_Intro_128
+  - first:
+      213: 4302959122982068926
+    second: BloodMoney_Intro_129
+  - first:
+      213: -7829804308605056433
+    second: BloodMoney_Intro_130
+  - first:
+      213: 6694178147770478995
+    second: BloodMoney_Intro_131
+  - first:
+      213: -3499927166485908957
+    second: BloodMoney_Intro_132
+  - first:
+      213: -8847670190469093589
+    second: BloodMoney_Intro_133
+  - first:
+      213: -4545842092995783177
+    second: BloodMoney_Intro_134
+  - first:
+      213: 8246716889396262983
+    second: BloodMoney_Intro_135
+  - first:
+      213: 700898775544842786
+    second: BloodMoney_Intro_136
+  - first:
+      213: 67161680898208802
+    second: BloodMoney_Intro_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BloodMoney_Intro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a598070bb8a800d0800000000000000
+      internalID: -3456327192776501852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 471
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2df63826086ca50800000000000000
+      internalID: 6541056669402518264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 567
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e92a7561aff626b0800000000000000
+      internalID: -5321284841034339869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 567
+        width: 38
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22949a968dc48aa40800000000000000
+      internalID: 5379634247263406370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 615
+        width: 100
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66a562a6c42a87a0800000000000000
+      internalID: -6374241887042820498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 633
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fc5ea8c1de1b650800000000000000
+      internalID: 6247034864984772363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 674
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1c00baf54045770800000000000000
+      internalID: 8598502397494477284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 633
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e2cc8a54b8672d0800000000000000
+      internalID: -3281282147191869883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 674
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f02853b534b109a0800000000000000
+      internalID: -6268531063587856141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_9
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 675
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76913137b8e4a4680800000000000000
+      internalID: -8770110963512567449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_10
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 626
+        width: 126
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab7ad52af5c62370800000000000000
+      internalID: 8297537041644288935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 626
+        width: 121
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872eac607bd2aa8f0800000000000000
+      internalID: -528559742146387336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_12
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 626
+        width: 121
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0418e152aed8fcac0800000000000000
+      internalID: -3832688721084382912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_13
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 653
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270cc5d246bb28fc0800000000000000
+      internalID: -3494024321953906574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 632
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a910192c79994e00800000000000000
+      internalID: 1029522748374784420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 615
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c8ea29745221ce0800000000000000
+      internalID: -1436044341843948521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_16
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 632
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24832c6479cb712e0800000000000000
+      internalID: -2155046538760275902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_17
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 617
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cb115f6e4ebd240800000000000000
+      internalID: 4817695907008068686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 560
+        width: 121
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70b7a0c3d038ca20800000000000000
+      internalID: 3082767630963552383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 506
+        width: 121
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dceb36721105e950800000000000000
+      internalID: 6477584817847004376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 560
+        width: 121
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e27b2ea62562a1a0800000000000000
+      internalID: -6799761270570781975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 506
+        width: 121
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d164ccba2663d900800000000000000
+      internalID: 708021900168946132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 560
+        width: 121
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcc223e4e03e5b10800000000000000
+      internalID: 1972067446456241392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 506
+        width: 121
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f08eb4989cb8130800000000000000
+      internalID: 3570168721142452085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_24
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 560
+        width: 121
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067cc66a578a249d0800000000000000
+      internalID: -2791483595759499424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_25
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 506
+        width: 121
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b184a7ec1f025cd0800000000000000
+      internalID: -2570975820455312969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 560
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f094bf2c5bde750800000000000000
+      internalID: 6335920099824308032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 506
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ff2f883e6477450800000000000000
+      internalID: 6086411364483661569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 455
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde61f496f0f1b8f0800000000000000
+      internalID: -526374739574165795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 455
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157559044c9a4fc20800000000000000
+      internalID: 3239400692348442449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 462
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab3363eaaa5f44d0800000000000000
+      internalID: -3148197924502815837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_31
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 462
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15435fb456a92580800000000000000
+      internalID: -8851360709702630113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_32
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 462
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efdc65144192e3c0800000000000000
+      internalID: -4331740169973735455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_33
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 462
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7688d2b4e37470160800000000000000
+      internalID: 6991635279390804071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_34
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 462
+        width: 119
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dea9de2abf0e9f0800000000000000
+      internalID: -441076086292681384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97bd8e34767afde0800000000000000
+      internalID: -1298595300905207909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_36
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 411
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5339f89be79454500800000000000000
+      internalID: 379790552210576181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_37
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 411
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accac660744983d40800000000000000
+      internalID: 5564360372387622090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_38
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 411
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a16998cefd4864a0800000000000000
+      internalID: -6599939497228934750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_39
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 411
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd55401ce4eb6be0800000000000000
+      internalID: -1482839949752050188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_40
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 411
+        width: 119
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51c3dd53682265c0800000000000000
+      internalID: -4223769093279071907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_41
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 360
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1231293174efef80800000000000000
+      internalID: -8074984431911095778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_42
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 360
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbd1cd8654849a10800000000000000
+      internalID: 1915301248819649459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_43
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 360
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f433c671a6184a5b0800000000000000
+      internalID: -5358015364004564145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_44
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 360
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba6c31b660f96f80800000000000000
+      internalID: -8112688929880380751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_45
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 360
+        width: 119
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d321a68e4e40bef0800000000000000
+      internalID: -94489493001657388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 309
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c7feba91ddeea60800000000000000
+      internalID: 7705339114806017095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_47
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 309
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa10a7b7d8e62810800000000000000
+      internalID: 1740334319221611183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_48
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 309
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432a7f11e819d3a10800000000000000
+      internalID: 1890827457938301492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_49
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 309
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4fd1e8168013010800000000000000
+      internalID: 1166722993554846889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_50
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 309
+        width: 119
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6d617cb1af82b60800000000000000
+      internalID: 7721696558337939157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 113
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfe854eb4f2ce050800000000000000
+      internalID: 5831087620538036183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 179
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d889d6006281a80800000000000000
+      internalID: -8495998913753870952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_53
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 245
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ed80c46b55cafb0800000000000000
+      internalID: -4635235675023024544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_54
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 258
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d43b2cc92721560800000000000000
+      internalID: 7283009565018508651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_55
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 258
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cbe656dd6f69820800000000000000
+      internalID: 2924796438773677131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_56
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 258
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9b8f51772204590800000000000000
+      internalID: -7692110268683732529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_57
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 258
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664413d80e1a3b270800000000000000
+      internalID: 8265127726968554598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_58
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 258
+        width: 119
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed12764856d319f00800000000000000
+      internalID: 1121745288414306782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_59
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 212
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f62ac5e146dcd60800000000000000
+      internalID: 7912090201925775145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 207
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d84bfee7ee6b960800000000000000
+      internalID: 7617538048698649963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_61
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 207
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013d0a91ae96e2580800000000000000
+      internalID: -8850019763563212016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_62
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 207
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d7a7629c4bed6b0800000000000000
+      internalID: -5269575737949913710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_63
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 219
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ffb9d52d92456c0800000000000000
+      internalID: -4155650572665749603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_64
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 219
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681f17f81869b7a00800000000000000
+      internalID: 755362845716246918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_65
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 219
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db3a11e610b50f40800000000000000
+      internalID: 5694150916192222169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_66
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 215
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96294ea5d49c3abb0800000000000000
+      internalID: -4925872233338596759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_67
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63567f43f7334850800000000000000
+      internalID: 6359988616927007597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 156
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b964c12fcd492f610800000000000000
+      internalID: 1653547689874048667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_69
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 156
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122f509d864b4bd00800000000000000
+      internalID: 987612580711625249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_70
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 101
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a290be45778d8360800000000000000
+      internalID: 7173538719372186273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_71
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 119
+        width: 19
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af78cf786b3e6190800000000000000
+      internalID: -7967365370765344862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_72
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 119
+        width: 19
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455c8645c428156b0800000000000000
+      internalID: -5309319221347826348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_73
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 201
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfc251fe892c7ff0800000000000000
+      internalID: -37109003014975552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_74
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 201
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444aebccd00a41030800000000000000
+      internalID: 3464569994484819012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_75
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b50d80edc3b53490800000000000000
+      internalID: -7767104285513546314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_76
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 163
+        width: 72
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3fd391a513f3eb0800000000000000
+      internalID: -4738014019930164250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_77
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 174
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bcd5f862907e3c0800000000000000
+      internalID: -4330482455474746581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_78
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 157
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb69c5cce94a4ed0800000000000000
+      internalID: -2429047767733539908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_79
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 174
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abc203507b2bff70800000000000000
+      internalID: 9222012423400246177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_80
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 159
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db867b274f1aa1c90800000000000000
+      internalID: -7198262983129601859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_81
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 159
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d469d1426ed6f650800000000000000
+      internalID: 6266440445125551314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_82
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 159
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b2bd3dadc161710800000000000000
+      internalID: 1663548838542781326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_83
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 147
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5595e8e5c9ef83a50800000000000000
+      internalID: 6501226009664051541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_84
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 154
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88bcf2ceebbd5700800000000000000
+      internalID: 530786965247539342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_85
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 127
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef69aee63384fb720800000000000000
+      internalID: 2864087273772324606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_86
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 134
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2d7038bd3a9e6d0800000000000000
+      internalID: -2960655116827897113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 109
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d3991cbcce10450800000000000000
+      internalID: 6053379734033218882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_88
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 102
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039b0296c7ce79200800000000000000
+      internalID: 186877928643017008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 104
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56023824880826b0800000000000000
+      internalID: -5320993596035168677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_90
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 109
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff1454be7f2286f0800000000000000
+      internalID: -683931972169097231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_91
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 105
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b8e97a4aeeacb10800000000000000
+      internalID: 2002675375273839405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_92
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 105
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7394c6737168c3f70800000000000000
+      internalID: 9168350375691700535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_93
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 105
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236da71b04c4ef3d0800000000000000
+      internalID: -3171013246883015118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_94
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 96
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38eec9cee54dbf70800000000000000
+      internalID: 9204590105305475132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_95
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 104
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb1fe2bac3d56de0800000000000000
+      internalID: -1340432446533985318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_96
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 99
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2e9cf2ed3d4fb40800000000000000
+      internalID: 5473232398399955681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_97
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 132
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13a68cb49f8a3c20800000000000000
+      internalID: 3187017555298919197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_98
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 132
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a654b26b162288910800000000000000
+      internalID: 1839758250844308842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_99
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 99
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230ce346d440d6650800000000000000
+      internalID: 6227638590164090930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_100
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 132
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aea2d00209337a20800000000000000
+      internalID: 3058851252681223847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_101
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 99
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f7dd6b1e3621280800000000000000
+      internalID: -9074080478111367402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_102
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 132
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e310fe7eaff09f0800000000000000
+      internalID: -499905159560610193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_103
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 103
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c42dcd183dddbe0800000000000000
+      internalID: -1450770950234420206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_104
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 102
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab1bef16258a94d0800000000000000
+      internalID: -3127040592464634970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_105
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 132
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c840a5492c476d130800000000000000
+      internalID: 3591186131935954060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 12
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4937d3b2ec5a7e0800000000000000
+      internalID: -1754769794681039640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_107
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 36
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f614532a8a3a539f0800000000000000
+      internalID: -489305039828598417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_108
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fe7bcd687531b30800000000000000
+      internalID: 4256842309535526662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_109
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 54
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b361ece87226fc0800000000000000
+      internalID: -3503194065844421749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_110
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 54
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe10ec1c2f494f00800000000000000
+      internalID: 1101498634750402293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_111
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a03ac33ddc6e990800000000000000
+      internalID: -7356966634124014975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_112
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 30
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a990f896f906fa3f0800000000000000
+      internalID: -887384363781650022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_113
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 30
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576c72bbc4928fd60800000000000000
+      internalID: 7924128953892587125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_114
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6b85253669a1a50800000000000000
+      internalID: 6492667166135465644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_115
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 71
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4664b925d7ea3b4d0800000000000000
+      internalID: -3119958263557568924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_116
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 66
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc917d118780676a0800000000000000
+      internalID: -6451960104373249588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_117
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 66
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e728aeb27ae69f50800000000000000
+      internalID: 6887950458655614944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_118
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 70
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd1dd4d3fbfbf780800000000000000
+      internalID: -8648041634768020024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_119
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050148ab7c7e78d50800000000000000
+      internalID: 6739610212396961872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 104
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2c4f9c5af6a3880800000000000000
+      internalID: -8630462978053586193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_121
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 19
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258518d55bb0c37a0800000000000000
+      internalID: -6396224497187202990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_122
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 11
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8c1757f01f9c2f0800000000000000
+      internalID: -951964797514954523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_123
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 38
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2137477de02c83190800000000000000
+      internalID: -7982416970514140398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_124
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 38
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2a6d7d4765ddf70800000000000000
+      internalID: 9213615472507265727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_125
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 33
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5263b8894254311f0800000000000000
+      internalID: -1075439862531017179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_126
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 33
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6587c29178eee37b0800000000000000
+      internalID: -5242490652202338218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9a97b5103dedab0800000000000000
+      internalID: -4981312135042061913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_128
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855a6c8370f64cef0800000000000000
+      internalID: -88824015832570536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_129
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb26f58368e27bb30800000000000000
+      internalID: 4302959122982068926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_130
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ac5c42772f65390800000000000000
+      internalID: -7829804308605056433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_131
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391ba01ee8f76ec50800000000000000
+      internalID: 6694178147770478995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_132
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 9
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3223ed519c2cd6fc0800000000000000
+      internalID: -3499927166485908957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_133
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 6
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27e647b6d2c63580800000000000000
+      internalID: -8847670190469093589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_134
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 10
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5d7f983bce9e0c0800000000000000
+      internalID: -4545842092995783177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_135
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 8
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748bda36159327270800000000000000
+      internalID: 8246716889396262983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a4bdb09b71ab900800000000000000
+      internalID: 700898775544842786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodMoney_Intro_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224b474613b9ee000800000000000000
+      internalID: 67161680898208802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

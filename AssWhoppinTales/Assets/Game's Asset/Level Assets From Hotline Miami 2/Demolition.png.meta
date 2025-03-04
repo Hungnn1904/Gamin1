@@ -1,0 +1,5955 @@
+fileFormatVersion: 2
+guid: 8fe50c00da8d5bc489f07cf888b23c9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7536218763106293453
+    second: Demolition_0
+  - first:
+      213: 5582968009318318650
+    second: Demolition_1
+  - first:
+      213: -3741999633922817484
+    second: Demolition_2
+  - first:
+      213: -1556358722046057697
+    second: Demolition_3
+  - first:
+      213: -750454515753176339
+    second: Demolition_4
+  - first:
+      213: -3239545890702331871
+    second: Demolition_5
+  - first:
+      213: 2056661503338039679
+    second: Demolition_6
+  - first:
+      213: -6000710762055813636
+    second: Demolition_7
+  - first:
+      213: 8174502694350740893
+    second: Demolition_8
+  - first:
+      213: -4739084391199960820
+    second: Demolition_9
+  - first:
+      213: 4392426985067353865
+    second: Demolition_10
+  - first:
+      213: 4681181466621789590
+    second: Demolition_11
+  - first:
+      213: -1414947863912110579
+    second: Demolition_12
+  - first:
+      213: -6658643315163719036
+    second: Demolition_13
+  - first:
+      213: -5828719676157527390
+    second: Demolition_14
+  - first:
+      213: -2850913171737833779
+    second: Demolition_15
+  - first:
+      213: 6660167696963359083
+    second: Demolition_16
+  - first:
+      213: 7301539096797550099
+    second: Demolition_17
+  - first:
+      213: 1253614216343901699
+    second: Demolition_18
+  - first:
+      213: -858924404864114941
+    second: Demolition_19
+  - first:
+      213: -5260691082370029266
+    second: Demolition_20
+  - first:
+      213: 7481287555821909398
+    second: Demolition_21
+  - first:
+      213: -2867763312528183207
+    second: Demolition_22
+  - first:
+      213: 7920009790677275153
+    second: Demolition_23
+  - first:
+      213: 7140484078942958903
+    second: Demolition_24
+  - first:
+      213: 6013200321809247171
+    second: Demolition_25
+  - first:
+      213: -6337741126774773180
+    second: Demolition_26
+  - first:
+      213: -2391949481843555922
+    second: Demolition_27
+  - first:
+      213: -2460236383953027195
+    second: Demolition_28
+  - first:
+      213: -7336829383028028924
+    second: Demolition_29
+  - first:
+      213: -1064881557841455376
+    second: Demolition_30
+  - first:
+      213: -5339103622709922705
+    second: Demolition_31
+  - first:
+      213: -6574752300445847896
+    second: Demolition_32
+  - first:
+      213: 2012731853603725618
+    second: Demolition_33
+  - first:
+      213: -4114223228205565206
+    second: Demolition_34
+  - first:
+      213: 5986475346426457652
+    second: Demolition_35
+  - first:
+      213: 6630308395535924062
+    second: Demolition_36
+  - first:
+      213: 9040662720754057760
+    second: Demolition_37
+  - first:
+      213: -2693256187360142001
+    second: Demolition_38
+  - first:
+      213: 4360899109868858618
+    second: Demolition_39
+  - first:
+      213: -904296183023157751
+    second: Demolition_40
+  - first:
+      213: 6981264840233788999
+    second: Demolition_41
+  - first:
+      213: -7738477729781697984
+    second: Demolition_42
+  - first:
+      213: -9193693024318796944
+    second: Demolition_43
+  - first:
+      213: 8601489350714126534
+    second: Demolition_44
+  - first:
+      213: 1386534070233374524
+    second: Demolition_45
+  - first:
+      213: -9198269643728910706
+    second: Demolition_46
+  - first:
+      213: 2467112437599342086
+    second: Demolition_47
+  - first:
+      213: 4662482753745962675
+    second: Demolition_48
+  - first:
+      213: 5792048260943112125
+    second: Demolition_49
+  - first:
+      213: -7165208485234571088
+    second: Demolition_50
+  - first:
+      213: -94861609211317376
+    second: Demolition_51
+  - first:
+      213: 5159601216985948435
+    second: Demolition_52
+  - first:
+      213: -2672161108624892426
+    second: Demolition_53
+  - first:
+      213: -3524294578933750989
+    second: Demolition_54
+  - first:
+      213: -7909302323676484523
+    second: Demolition_55
+  - first:
+      213: 1572327910596073213
+    second: Demolition_56
+  - first:
+      213: 8166082869381032596
+    second: Demolition_57
+  - first:
+      213: 6261490701337037098
+    second: Demolition_58
+  - first:
+      213: 7895209925020476779
+    second: Demolition_59
+  - first:
+      213: -7876444292174625880
+    second: Demolition_60
+  - first:
+      213: 7274543710727520528
+    second: Demolition_61
+  - first:
+      213: 3093049181362671025
+    second: Demolition_62
+  - first:
+      213: 6411020789928788271
+    second: Demolition_63
+  - first:
+      213: 35107578912415182
+    second: Demolition_64
+  - first:
+      213: -3734981261651076177
+    second: Demolition_65
+  - first:
+      213: 2054635187281937741
+    second: Demolition_66
+  - first:
+      213: 2743973829633779611
+    second: Demolition_67
+  - first:
+      213: 1094059192043677139
+    second: Demolition_68
+  - first:
+      213: 1494876770709841297
+    second: Demolition_69
+  - first:
+      213: 2028850217203205997
+    second: Demolition_70
+  - first:
+      213: -2499193259969916098
+    second: Demolition_71
+  - first:
+      213: -744293567427449516
+    second: Demolition_72
+  - first:
+      213: -4466812116951330477
+    second: Demolition_73
+  - first:
+      213: 7054390596833569642
+    second: Demolition_74
+  - first:
+      213: 2576758837451651561
+    second: Demolition_75
+  - first:
+      213: -6818141751202317222
+    second: Demolition_76
+  - first:
+      213: 8017247228816197372
+    second: Demolition_77
+  - first:
+      213: 1203618528602674869
+    second: Demolition_78
+  - first:
+      213: -8954568882311415126
+    second: Demolition_79
+  - first:
+      213: 4024765950625812784
+    second: Demolition_80
+  - first:
+      213: 7439089277680389421
+    second: Demolition_81
+  - first:
+      213: -5071236819683773778
+    second: Demolition_82
+  - first:
+      213: -8712474092340925589
+    second: Demolition_83
+  - first:
+      213: 7789828070175688438
+    second: Demolition_84
+  - first:
+      213: -155982881442287913
+    second: Demolition_85
+  - first:
+      213: 5956301508129654207
+    second: Demolition_86
+  - first:
+      213: 7869524782625590894
+    second: Demolition_87
+  - first:
+      213: 395185352481474150
+    second: Demolition_88
+  - first:
+      213: 7760527002715595754
+    second: Demolition_89
+  - first:
+      213: 2776348546661030566
+    second: Demolition_90
+  - first:
+      213: -1360545704062008811
+    second: Demolition_91
+  - first:
+      213: -3476243324895386476
+    second: Demolition_92
+  - first:
+      213: -2339685935997400523
+    second: Demolition_93
+  - first:
+      213: 6549061059478931720
+    second: Demolition_94
+  - first:
+      213: -3484436542078860579
+    second: Demolition_95
+  - first:
+      213: 6306801303776964861
+    second: Demolition_96
+  - first:
+      213: -2577779313219488399
+    second: Demolition_97
+  - first:
+      213: -745932746491675856
+    second: Demolition_98
+  - first:
+      213: 6268123200413614322
+    second: Demolition_99
+  - first:
+      213: 7721202481864660755
+    second: Demolition_100
+  - first:
+      213: 5321495763836798955
+    second: Demolition_101
+  - first:
+      213: 8671808756044773540
+    second: Demolition_102
+  - first:
+      213: 4311172244925684475
+    second: Demolition_103
+  - first:
+      213: 6465609774265995746
+    second: Demolition_104
+  - first:
+      213: 2499894743540680019
+    second: Demolition_105
+  - first:
+      213: 7269789953151542629
+    second: Demolition_106
+  - first:
+      213: 8605000373182031497
+    second: Demolition_107
+  - first:
+      213: 1845742335812113450
+    second: Demolition_108
+  - first:
+      213: -1439307189784458771
+    second: Demolition_109
+  - first:
+      213: -4060829876148033306
+    second: Demolition_110
+  - first:
+      213: -4070015786330631916
+    second: Demolition_111
+  - first:
+      213: -8348474739191766083
+    second: Demolition_112
+  - first:
+      213: -5797470690316119871
+    second: Demolition_113
+  - first:
+      213: -2423878468284446546
+    second: Demolition_114
+  - first:
+      213: 4852313625619313043
+    second: Demolition_115
+  - first:
+      213: -6040692723920276468
+    second: Demolition_116
+  - first:
+      213: -8521604090027857258
+    second: Demolition_117
+  - first:
+      213: 7504995148566241540
+    second: Demolition_118
+  - first:
+      213: -4294090173820414883
+    second: Demolition_119
+  - first:
+      213: 6120841232464511967
+    second: Demolition_120
+  - first:
+      213: 363950941673571595
+    second: Demolition_121
+  - first:
+      213: -2536671901822404474
+    second: Demolition_122
+  - first:
+      213: -7459559611552394448
+    second: Demolition_123
+  - first:
+      213: -4677687684503514598
+    second: Demolition_124
+  - first:
+      213: -7088354389322897235
+    second: Demolition_125
+  - first:
+      213: 7828230361304485404
+    second: Demolition_126
+  - first:
+      213: -5584552283654485409
+    second: Demolition_127
+  - first:
+      213: 1416338174406314533
+    second: Demolition_128
+  - first:
+      213: 3602871190625457202
+    second: Demolition_129
+  - first:
+      213: 251241412860010759
+    second: Demolition_130
+  - first:
+      213: 8432519605662426855
+    second: Demolition_131
+  - first:
+      213: 8551277995303466770
+    second: Demolition_132
+  - first:
+      213: -5562688934167320537
+    second: Demolition_133
+  - first:
+      213: 7985213639836471383
+    second: Demolition_134
+  - first:
+      213: -1291046937379237968
+    second: Demolition_135
+  - first:
+      213: 1680450351386319832
+    second: Demolition_136
+  - first:
+      213: -2721052942752405871
+    second: Demolition_137
+  - first:
+      213: -8059000975912547123
+    second: Demolition_138
+  - first:
+      213: -5114346145295078721
+    second: Demolition_139
+  - first:
+      213: 9093969672036009759
+    second: Demolition_140
+  - first:
+      213: 403413930314402801
+    second: Demolition_141
+  - first:
+      213: -7317976149443743279
+    second: Demolition_142
+  - first:
+      213: -7559440304318023080
+    second: Demolition_143
+  - first:
+      213: 6546737070525101586
+    second: Demolition_144
+  - first:
+      213: -3525556976659380332
+    second: Demolition_145
+  - first:
+      213: 8033291604214436516
+    second: Demolition_146
+  - first:
+      213: -9060113270266080987
+    second: Demolition_147
+  - first:
+      213: -7850416181604364863
+    second: Demolition_148
+  - first:
+      213: 8486438783562056724
+    second: Demolition_149
+  - first:
+      213: 6968156673101217248
+    second: Demolition_150
+  - first:
+      213: -796149603256802613
+    second: Demolition_151
+  - first:
+      213: -3731491268856079514
+    second: Demolition_152
+  - first:
+      213: -6360299541293996389
+    second: Demolition_153
+  - first:
+      213: -8847025318997245980
+    second: Demolition_154
+  - first:
+      213: -2209687108812569800
+    second: Demolition_155
+  - first:
+      213: 17048446534447348
+    second: Demolition_156
+  - first:
+      213: -7840952253288490433
+    second: Demolition_157
+  - first:
+      213: -641691358978024768
+    second: Demolition_158
+  - first:
+      213: 5180585667879748151
+    second: Demolition_159
+  - first:
+      213: -467468626338959572
+    second: Demolition_160
+  - first:
+      213: 4302952265193180314
+    second: Demolition_161
+  - first:
+      213: -4916460354674175412
+    second: Demolition_162
+  - first:
+      213: -7551970680455085907
+    second: Demolition_163
+  - first:
+      213: 653868490499935843
+    second: Demolition_164
+  - first:
+      213: 4613883325050031954
+    second: Demolition_165
+  - first:
+      213: 4805231956444817856
+    second: Demolition_166
+  - first:
+      213: -7314150866917227450
+    second: Demolition_167
+  - first:
+      213: -3576474448886753117
+    second: Demolition_168
+  - first:
+      213: 6599352226205686947
+    second: Demolition_169
+  - first:
+      213: 6470712274633389205
+    second: Demolition_170
+  - first:
+      213: -4281502884084329631
+    second: Demolition_171
+  - first:
+      213: 1723646528759174808
+    second: Demolition_172
+  - first:
+      213: -8750187012983254032
+    second: Demolition_173
+  - first:
+      213: -2509362577234838963
+    second: Demolition_174
+  - first:
+      213: -1802433703361691173
+    second: Demolition_175
+  - first:
+      213: -871150843272905329
+    second: Demolition_176
+  - first:
+      213: 899170313965033195
+    second: Demolition_177
+  - first:
+      213: 3927450335753405518
+    second: Demolition_178
+  - first:
+      213: 3196788249692390262
+    second: Demolition_179
+  - first:
+      213: 4196535141932532930
+    second: Demolition_180
+  - first:
+      213: -3239717515611738784
+    second: Demolition_181
+  - first:
+      213: -2248125986903775367
+    second: Demolition_182
+  - first:
+      213: 6531362117015627740
+    second: Demolition_183
+  - first:
+      213: -1796035548631480234
+    second: Demolition_184
+  - first:
+      213: 1339358215673563618
+    second: Demolition_185
+  - first:
+      213: -1945912007737502548
+    second: Demolition_186
+  - first:
+      213: 2482288933591262130
+    second: Demolition_187
+  - first:
+      213: -2318743812243120104
+    second: Demolition_188
+  - first:
+      213: 7741722746151820758
+    second: Demolition_189
+  - first:
+      213: -1434662630666013901
+    second: Demolition_190
+  - first:
+      213: -5680537685971919543
+    second: Demolition_191
+  - first:
+      213: 9158380005307493141
+    second: Demolition_192
+  - first:
+      213: 1901289873456419876
+    second: Demolition_193
+  - first:
+      213: 5135869169269902339
+    second: Demolition_194
+  - first:
+      213: 4244328505874353453
+    second: Demolition_195
+  - first:
+      213: -8346534723931422545
+    second: Demolition_196
+  - first:
+      213: -1680783192689127576
+    second: Demolition_197
+  - first:
+      213: -6772038016088614149
+    second: Demolition_198
+  - first:
+      213: -5612875944369427922
+    second: Demolition_199
+  - first:
+      213: 8197479068854661337
+    second: Demolition_200
+  - first:
+      213: -5107902922690814754
+    second: Demolition_201
+  - first:
+      213: -216172482010189610
+    second: Demolition_202
+  - first:
+      213: 829913674445357587
+    second: Demolition_203
+  - first:
+      213: 1759060818708706809
+    second: Demolition_204
+  - first:
+      213: -2357753108779241934
+    second: Demolition_205
+  - first:
+      213: -5361710479135906219
+    second: Demolition_206
+  - first:
+      213: -5957292309781245425
+    second: Demolition_207
+  - first:
+      213: -2720964262216344746
+    second: Demolition_208
+  - first:
+      213: 6135935181542990921
+    second: Demolition_209
+  - first:
+      213: -830779251225499424
+    second: Demolition_210
+  - first:
+      213: 312496631631230022
+    second: Demolition_211
+  - first:
+      213: -2300466888383990491
+    second: Demolition_212
+  - first:
+      213: -9088307879112196102
+    second: Demolition_213
+  - first:
+      213: -6871509418484655737
+    second: Demolition_214
+  - first:
+      213: -4492684604282221273
+    second: Demolition_215
+  - first:
+      213: 4613174718448006309
+    second: Demolition_216
+  - first:
+      213: 4277911558645194812
+    second: Demolition_217
+  - first:
+      213: 6446510965656227674
+    second: Demolition_218
+  - first:
+      213: -8718629488762822939
+    second: Demolition_219
+  - first:
+      213: 1435978016291230452
+    second: Demolition_220
+  - first:
+      213: 2829894332873486948
+    second: Demolition_221
+  - first:
+      213: 2179487427706493746
+    second: Demolition_222
+  - first:
+      213: 7239872163726281729
+    second: Demolition_223
+  - first:
+      213: 2981522497220583188
+    second: Demolition_224
+  - first:
+      213: 1920251627671961453
+    second: Demolition_225
+  - first:
+      213: -8794101061320108306
+    second: Demolition_226
+  - first:
+      213: 1299804056803838751
+    second: Demolition_227
+  - first:
+      213: 6278340655305040565
+    second: Demolition_228
+  - first:
+      213: 8452655450660916958
+    second: Demolition_229
+  - first:
+      213: 7130082495954248310
+    second: Demolition_230
+  - first:
+      213: 8405796382705846904
+    second: Demolition_231
+  - first:
+      213: -6139572033172338514
+    second: Demolition_232
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Demolition_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc695945907069860800000000000000
+      internalID: 7536218763106293453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 595
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32c9cb13dfaa7d40800000000000000
+      internalID: 5582968009318318650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 691
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432836ea82fb11cc0800000000000000
+      internalID: -3741999633922817484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 670
+        width: 63
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f132d5dfcf3b66ae0800000000000000
+      internalID: -1556358722046057697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 776
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2b1701899d595f0800000000000000
+      internalID: -750454515753176339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 780
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1207c1f1d22da03d0800000000000000
+      internalID: -3239545890702331871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 790
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f794fa99dbaba8c10800000000000000
+      internalID: 2056661503338039679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 790
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5bcc3ea5139bca0800000000000000
+      internalID: -6000710762055813636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 780
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ddf30e3eaa17170800000000000000
+      internalID: 8174502694350740893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 612
+        width: 145
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c019deddad36b3eb0800000000000000
+      internalID: -4739084391199960820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 776
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90797c2221905fc30800000000000000
+      internalID: 4392426985067353865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_11
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 691
+        width: 130
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695422fedb5e6f040800000000000000
+      internalID: 4681181466621789590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_12
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 702
+        width: 111
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0622db1a681d5ce0800000000000000
+      internalID: -1414947863912110579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_13
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 757
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a13a11f2fb793a0800000000000000
+      internalID: -6658643315163719036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_14
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 771
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aafc4f165a3c1fa0800000000000000
+      internalID: -5828719676157527390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 758
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce851933958f68d0800000000000000
+      internalID: -2850913171737833779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 773
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61580abb3bad6c50800000000000000
+      internalID: 6660167696963359083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 776
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3169e329f17445560800000000000000
+      internalID: 7301539096797550099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 765
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306de82ec7bb56110800000000000000
+      internalID: 1253614216343901699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 759
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f1927fdcc7414f0800000000000000
+      internalID: -858924404864114941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 773
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29e44a35554ef6b0800000000000000
+      internalID: -5260691082370029266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_21
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 758
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695b05bf46fd2d760800000000000000
+      internalID: 7481287555821909398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 772
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9503cd81678a338d0800000000000000
+      internalID: -2867763312528183207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_23
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 758
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1125fee41f689ed60800000000000000
+      internalID: 7920009790677275153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 758
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7353ab91078181360800000000000000
+      internalID: 7140484078942958903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_25
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 772
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb64b855dd237350800000000000000
+      internalID: 6013200321809247171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_26
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 758
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aa4342602db08a0800000000000000
+      internalID: -6337741126774773180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 758
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1090e8e961eced0800000000000000
+      internalID: -2391949481843555922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_28
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 773
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ffcfe2b0c7bddd0800000000000000
+      internalID: -2460236383953027195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 765
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a47fe5c885e2a90800000000000000
+      internalID: -7336829383028028924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 776
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6def87dd7c831f0800000000000000
+      internalID: -1064881557841455376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_31
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 758
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64bf5dfa81b7e5b0800000000000000
+      internalID: -5339103622709922705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 773
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae2eb50e99c1c4a0800000000000000
+      internalID: -6574752300445847896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_33
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 756
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231e92af4f8aeeb10800000000000000
+      internalID: 2012731853603725618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_34
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 739
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea7524a5c757e6c0800000000000000
+      internalID: -4114223228205565206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_35
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 741
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ee1602c9b341350800000000000000
+      internalID: 5986475346426457652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_36
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 763
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b753b5b56930c50800000000000000
+      internalID: 6630308395535924062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_37
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 741
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02289a458d2e67d70800000000000000
+      internalID: 9040662720754057760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_38
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 744
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d964f54c1af9ad0800000000000000
+      internalID: -2693256187360142001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_39
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 742
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcec09a2a6058c30800000000000000
+      internalID: 4360899109868858618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_40
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 742
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90eb927a96b4373f0800000000000000
+      internalID: -904296183023157751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 744
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7462f05426f62e060800000000000000
+      internalID: 6981264840233788999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_42
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 741
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042371641876b9490800000000000000
+      internalID: -7738477729781697984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_43
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 740
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bcd7797e0796080800000000000000
+      internalID: -9193693024318796944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 744
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0fe98edf0ae5770800000000000000
+      internalID: 8601489350714126534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_45
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 740
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f9c350465fd3310800000000000000
+      internalID: 1386534070233374524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_46
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 741
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8687495e7e295080800000000000000
+      internalID: -9198269643728910706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 742
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e8e00d0b1fc3220800000000000000
+      internalID: 2467112437599342086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_48
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 742
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6c9649c5774b040800000000000000
+      internalID: 4662482753745962675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_49
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 744
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7ee6ba43d716050800000000000000
+      internalID: 5792048260943112125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 741
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b88af778d0109c90800000000000000
+      internalID: -7165208485234571088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 579
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08333287edbfeaef0800000000000000
+      internalID: -94861609211317376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 579
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311ee1958f59a9740800000000000000
+      internalID: 5159601216985948435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_53
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 725
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd9cc121a39aead0800000000000000
+      internalID: -2672161108624892426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 693
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333a1d2c0c0371fc0800000000000000
+      internalID: -3524294578933750989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 712
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c671021738c3290800000000000000
+      internalID: -7909302323676484523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_56
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 694
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6d28577e702d510800000000000000
+      internalID: 1572327910596073213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_57
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 701
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49aebdb9a11c35170800000000000000
+      internalID: 8166082869381032596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_58
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 728
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a290b993e9845e650800000000000000
+      internalID: 6261490701337037098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_59
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 661
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65ebff989b619d60800000000000000
+      internalID: 7895209925020476779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_60
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 709
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a347cfb5af31b290800000000000000
+      internalID: -7876444292174625880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 700
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01147f476fe54f460800000000000000
+      internalID: 7274543710727520528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_62
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 708
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd4fefb7d7bcea20800000000000000
+      internalID: 3093049181362671025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_63
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 694
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21895ff07588f850800000000000000
+      internalID: 6411020789928788271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_64
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 725
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd9ff1382abc7000800000000000000
+      internalID: 35107578912415182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_65
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 709
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab1c80d45eaa2cc0800000000000000
+      internalID: -3734981261651076177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_66
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 693
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4545f021d7838c10800000000000000
+      internalID: 2054635187281937741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_67
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 660
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b972a4ce8ad841620800000000000000
+      internalID: 2743973829633779611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_68
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 665
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5a301e901ee2f00800000000000000
+      internalID: 1094059192043677139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_69
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 645
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195a425b08edeb410800000000000000
+      internalID: 1494876770709841297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_70
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 661
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d670fd2f58ce72c10800000000000000
+      internalID: 2028850217203205997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_71
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 648
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33517aa8f4115dd0800000000000000
+      internalID: -2499193259969916098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_72
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 730
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45de0e0a1fcbba5f0800000000000000
+      internalID: -744293567427449516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_73
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 663
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35194babb02b202c0800000000000000
+      internalID: -4466812116951330477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_74
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 725
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bee1f3fda36e160800000000000000
+      internalID: 7054390596833569642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_75
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 692
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9772aa28c72c320800000000000000
+      internalID: 2576758837451651561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_76
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 709
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c735b83381161a0800000000000000
+      internalID: -6818141751202317222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_77
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 677
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6031e90ebf24f60800000000000000
+      internalID: 8017247228816197372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_78
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 733
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6d07abcac14b010800000000000000
+      internalID: 1203618528602674869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_79
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 709
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaabf0d7b0bfab380800000000000000
+      internalID: -8954568882311415126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_80
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 733
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0319327de47dad730800000000000000
+      internalID: 4024765950625812784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_81
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 725
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d8e88b844fc3760800000000000000
+      internalID: 7439089277680389421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 677
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2fdd62bf85f99b0800000000000000
+      internalID: -5071236819683773778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_83
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 692
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ba93349f2171780800000000000000
+      internalID: -8712474092340925589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_84
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 730
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f640388b570b1c60800000000000000
+      internalID: 7789828070175688438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_85
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 709
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de27905566d5ddf0800000000000000
+      internalID: -155982881442287913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 665
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5013fe9a809a250800000000000000
+      internalID: 5956301508129654207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_87
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 645
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e0883681b263d60800000000000000
+      internalID: 7869524782625590894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_88
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 661
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666881bfbfafb7500800000000000000
+      internalID: 395185352481474150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_89
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 693
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3a0b2213ee2bb60800000000000000
+      internalID: 7760527002715595754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_90
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 661
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa17602b42978620800000000000000
+      internalID: 2776348546661030566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_91
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 660
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51243b004ee5e1de0800000000000000
+      internalID: -1360545704062008811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_92
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 708
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494a9ca2d17e1cfc0800000000000000
+      internalID: -3476243324895386476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_93
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 725
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ac5e29904c78fd0800000000000000
+      internalID: -2339685935997400523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_94
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 700
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809c59ec550f2ea50800000000000000
+      internalID: 6549061059478931720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_95
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 694
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2cff22d6bc4afc0800000000000000
+      internalID: -3484436542078860579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_96
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 709
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0b894fe52468750800000000000000
+      internalID: 6306801303776964861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_97
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 694
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175b33e4f53e93cd0800000000000000
+      internalID: -2577779313219488399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_98
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 712
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b38038e1ae5a5f0800000000000000
+      internalID: -745932746491675856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_99
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 728
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0c90147d8dcf650800000000000000
+      internalID: 6268123200413614322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_100
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 701
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3175862afb8372b60800000000000000
+      internalID: 7721202481864660755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 725
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be70d35e330c9d940800000000000000
+      internalID: 5321495763836798955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_102
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 693
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8bb205e14785870800000000000000
+      internalID: 8671808756044773540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_103
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 605
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa9150b05c54db30800000000000000
+      internalID: 4311172244925684475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_104
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 642
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e11b6b55d57ab950800000000000000
+      internalID: 6465609774265995746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_105
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 642
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355cb94360961b220800000000000000
+      internalID: 2499894743540680019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_106
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 601
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5652d45027b73e460800000000000000
+      internalID: 7269789953151542629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_107
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 730
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9866e978f3a1b6770800000000000000
+      internalID: 8605000373182031497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_108
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 721
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a241bf010e46d9910800000000000000
+      internalID: 1845742335812113450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_109
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 712
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de94b369cbd860ce0800000000000000
+      internalID: -1439307189784458771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_110
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 703
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e827ea2eb805a7c0800000000000000
+      internalID: -4060829876148033306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_111
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 627
+        width: 9
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411d789c4366487c0800000000000000
+      internalID: -4070015786330631916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_112
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 669
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db32722f472442c80800000000000000
+      internalID: -8348474739191766083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_113
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 642
+        width: 15
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c018fb9f1f3b8fa0800000000000000
+      internalID: -5797470690316119871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_114
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 669
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea800371067ac5ed0800000000000000
+      internalID: -2423878468284446546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_115
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 669
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391b3d9a881e65340800000000000000
+      internalID: 4852313625619313043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_116
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 657
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04f179f8f52b2ca0800000000000000
+      internalID: -6040692723920276468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_117
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 669
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69aaf51ca3e2db980800000000000000
+      internalID: -8521604090027857258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_118
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 660
+        width: 29
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401225f0359172860800000000000000
+      internalID: 7504995148566241540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_119
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 720
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5450fbecb35864c0800000000000000
+      internalID: -4294090173820414883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_120
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 630
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd38c9bdba891f450800000000000000
+      internalID: 6120841232464511967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_121
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 640
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b054f1204730d0500800000000000000
+      internalID: 363950941673571595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_122
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 628
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688392c585eebccd0800000000000000
+      internalID: -2536671901822404474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_123
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 646
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03391944e025a7890800000000000000
+      internalID: -7459559611552394448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_124
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 646
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12d2fa95d3851fb0800000000000000
+      internalID: -4677687684503514598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_125
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 628
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8e3561d3b11ad90800000000000000
+      internalID: -7088354389322897235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_126
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 630
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e4b71b90673ac60800000000000000
+      internalID: 7828230361304485404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_127
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 640
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a8d27494faf72b0800000000000000
+      internalID: -5584552283654485409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_128
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 644
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a4057c018d7a310800000000000000
+      internalID: 1416338174406314533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_129
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 634
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23418b05248fff130800000000000000
+      internalID: 3602871190625457202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_130
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 630
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701636edbb69c7300800000000000000
+      internalID: 251241412860010759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_131
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 634
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6a60967e3560570800000000000000
+      internalID: 8432519605662426855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_132
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 609
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2177da5b70e3ca670800000000000000
+      internalID: 8551277995303466770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_133
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 609
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728e5f203eb5dc2b0800000000000000
+      internalID: -5562688934167320537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_134
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 611
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7509e0a7f7d21de60800000000000000
+      internalID: 7985213639836471383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_135
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 622
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf872596a7451ee0800000000000000
+      internalID: -1291046937379237968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_136
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 619
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbdf01f0b8225710800000000000000
+      internalID: 1680450351386319832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_137
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 619
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196263ce3c0ec3ad0800000000000000
+      internalID: -2721052942752405871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_138
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 622
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccc4329f4da82090800000000000000
+      internalID: -8059000975912547123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_139
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 611
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba6c4f17413609b0800000000000000
+      internalID: -5114346145295078721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_140
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 600
+        width: 70
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17c1eb1c35443e70800000000000000
+      internalID: 9093969672036009759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_141
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 594
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb85dd05d6399500800000000000000
+      internalID: 403413930314402801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_142
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 616
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1ff91e673517a90800000000000000
+      internalID: -7317976149443743279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_143
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 626
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a7a584819771790800000000000000
+      internalID: -7559440304318023080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_144
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 626
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216b786fdaeaada50800000000000000
+      internalID: 6546737070525101586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_145
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 611
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49741d2eb94b21fc0800000000000000
+      internalID: -3525556976659380332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_146
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 611
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2545ed62cfb7f60800000000000000
+      internalID: 8033291604214436516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_147
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 616
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521dcf4bbf2044280800000000000000
+      internalID: -9060113270266080987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_148
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 600
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd4e7c7318bd0390800000000000000
+      internalID: -7850416181604364863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_149
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 597
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414805e4c13e5c570800000000000000
+      internalID: 8486438783562056724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_150
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 595
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed3777439dd3b060800000000000000
+      internalID: 6968156673101217248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_151
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 600
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc26fcd672283f4f0800000000000000
+      internalID: -796149603256802613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_152
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 600
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b9c551674173cc0800000000000000
+      internalID: -3731491268856079514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_153
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 595
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b966718f34dabb7a0800000000000000
+      internalID: -6360299541293996389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_154
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 597
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef384e885d093580800000000000000
+      internalID: -8847025318997245980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_155
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 600
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833877e284d9551e0800000000000000
+      internalID: -2209687108812569800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_156
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 585
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f078a7c8719c3000800000000000000
+      internalID: 17048446534447348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_157
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 585
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ad0f108775f2390800000000000000
+      internalID: -7840952253288490433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_158
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 585
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca5dacdb114817f0800000000000000
+      internalID: -641691358978024768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_159
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 585
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732c37e873325e740800000000000000
+      internalID: 5180585667879748151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_160
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 588
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f2d67d2c73389f0800000000000000
+      internalID: -467468626338959572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_161
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 591
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c4d44894827bb30800000000000000
+      internalID: 4302952265193180314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_162
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 591
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42da5f1b5935cbb0800000000000000
+      internalID: -4916460354674175412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_163
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 586
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da04f4d9da2023790800000000000000
+      internalID: -7551970680455085907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_164
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 582
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ec1128de1031900800000000000000
+      internalID: 653868490499935843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_165
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 582
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f84b0507ec70040800000000000000
+      internalID: 4613883325050031954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_166
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 583
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9af33510d9fa240800000000000000
+      internalID: 4805231956444817856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_167
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 583
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64488cfd98aee7a90800000000000000
+      internalID: -7314150866917227450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_168
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 582
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a818dd007fcd5ec0800000000000000
+      internalID: -3576474448886753117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_169
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 582
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac5ca682eb959b50800000000000000
+      internalID: 6599352226205686947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_170
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 586
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594784dc7869cc950800000000000000
+      internalID: 6470712274633389205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_171
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 579
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163d751bfcb0594c0800000000000000
+      internalID: -4281502884084329631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_172
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 588
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8969609b26f9be710800000000000000
+      internalID: 1723646528759174808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_173
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 585
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f395eca547119680800000000000000
+      internalID: -8750187012983254032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_174
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 587
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a324bf704fc2dd0800000000000000
+      internalID: -2509362577234838963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_175
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 582
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd14fe3b8187cf6e0800000000000000
+      internalID: -1802433703361691173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_176
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 584
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dbfe07cec09e3f0800000000000000
+      internalID: -871150843272905329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_177
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 590
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be65674f2ae7a7c00800000000000000
+      internalID: 899170313965033195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_178
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 589
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e440297954b118630800000000000000
+      internalID: 3927450335753405518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_179
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 588
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673ce0dc9f54d5c20800000000000000
+      internalID: 3196788249692390262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_180
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 581
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c405563a761d3a30800000000000000
+      internalID: 4196535141932532930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 110
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06de95595163a03d0800000000000000
+      internalID: -3239717515611738784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_182
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 506
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977a644735d0dc0e0800000000000000
+      internalID: -2248125986903775367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_183
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 506
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7e824ad3f04aa50800000000000000
+      internalID: 6531362117015627740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_184
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 506
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658c8df2f233317e0800000000000000
+      internalID: -1796035548631480234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_185
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 506
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e94930733b569210800000000000000
+      internalID: 1339358215673563618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_186
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 506
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca493aeb65bbef4e0800000000000000
+      internalID: -1945912007737502548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_187
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 509
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3279422acd27220800000000000000
+      internalID: 2482288933591262130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_188
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 410
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8102d1ab9ca22dfd0800000000000000
+      internalID: -2318743812243120104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_189
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 433
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddd0f9f1df107b60800000000000000
+      internalID: 7741722746151820758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_190
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 436
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333ff9640fd071ce0800000000000000
+      internalID: -1434662630666013901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_191
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 438
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d9c66421daa21b0800000000000000
+      internalID: -5680537685971919543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_192
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 438
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ba466771a191f70800000000000000
+      internalID: 9158380005307493141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_193
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 433
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424da62011db26a10800000000000000
+      internalID: 1901289873456419876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_194
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 433
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c86376cc5464740800000000000000
+      internalID: 5135869169269902339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_195
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 433
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d84b6e942e6ea30800000000000000
+      internalID: 4244328505874353453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 110
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0ca92f3e62b2c80800000000000000
+      internalID: -8346534723931422545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_197
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 360
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f41576798aca8e0800000000000000
+      internalID: -1680783192689127576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_198
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 363
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfad89ddd43e402a0800000000000000
+      internalID: -6772038016088614149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_199
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 360
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a668f111f0b12b0800000000000000
+      internalID: -5612875944369427922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_200
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 360
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d038c0f7cb43c170800000000000000
+      internalID: 8197479068854661337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_201
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 360
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc95d9ca551d19b0800000000000000
+      internalID: -5107902922690814754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_202
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 360
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0719fd540000df0800000000000000
+      internalID: -216172482010189610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_203
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 264
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3120e8ff612748b00800000000000000
+      internalID: 829913674445357587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_204
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 287
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5b075ae70796810800000000000000
+      internalID: 1759060818708706809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_205
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 290
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ee32b1a04974fd0800000000000000
+      internalID: -2357753108779241934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_206
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 287
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5566d9e0ab06795b0800000000000000
+      internalID: -5361710479135906219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_207
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 287
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0292541532735da0800000000000000
+      internalID: -5957292309781245425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_208
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 287
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bdf087b613d3ad0800000000000000
+      internalID: -2720964262216344746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_209
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 287
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94421bcb988372550800000000000000
+      internalID: 6135935181542990921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_210
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 191
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e860f33caa7874f0800000000000000
+      internalID: -830779251225499424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_211
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 214
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644b2e1e706365400800000000000000
+      internalID: 312496631631230022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_212
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 217
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525f25cad891310e0800000000000000
+      internalID: -2300466888383990491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_213
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 214
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff3228c228dfd180800000000000000
+      internalID: -9088307879112196102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_214
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 214
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7899878379e73a0a0800000000000000
+      internalID: -6871509418484655737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_215
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 205
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d44e9d727c6a1c0800000000000000
+      internalID: -4492684604282221273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_216
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 222
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4f7ebf6f9450040800000000000000
+      internalID: 4613174718448006309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_217
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 263
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30a591b5e13e5b30800000000000000
+      internalID: 4277911558645194812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_218
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 118
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f8994719b967950800000000000000
+      internalID: 6446510965656227674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_219
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 141
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eedb0a5ca4310780800000000000000
+      internalID: -8718629488762822939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_220
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 144
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f21f4ec56e9de310800000000000000
+      internalID: 1435978016291230452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_221
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 141
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462b0def6edc54720800000000000000
+      internalID: 2829894332873486948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_222
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 132
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b10e0a4481f3e10800000000000000
+      internalID: 2179487427706493746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_223
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 45
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cc42adf51397460800000000000000
+      internalID: 7239872163726281729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_224
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 68
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f1ba81aee706920800000000000000
+      internalID: 2981522497220583188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_225
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 71
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fb0c27eaa16aa10800000000000000
+      internalID: 1920251627671961453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_226
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 68
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee611298da315f580800000000000000
+      internalID: -8794101061320108306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_227
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 53
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b876b27e4d90210800000000000000
+      internalID: 1299804056803838751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 69
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2a95adf85212750800000000000000
+      internalID: 6278340655305040565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_229
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 14
+        width: 88
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edec969295ddd4570800000000000000
+      internalID: 8452655450660916958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_230
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 17
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6726596d04423f260800000000000000
+      internalID: 7130082495954248310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_231
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 14
+        width: 88
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a0275364367a470800000000000000
+      internalID: 8405796382705846904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demolition_232
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 26
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea807d1c3cbdbcaa0800000000000000
+      internalID: -6139572033172338514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

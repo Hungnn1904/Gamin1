@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: 9976d227ef37bfb48a97971b146dc96f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7480807380144424980
+    second: rmHighwayNight_0
+  - first:
+      213: 8389226926863269178
+    second: rmHighwayNight_1
+  - first:
+      213: 2372056481163742051
+    second: rmHighwayNight_2
+  - first:
+      213: 890936959289535711
+    second: rmHighwayNight_3
+  - first:
+      213: 4124387635805526989
+    second: rmHighwayNight_4
+  - first:
+      213: 4576061160127375078
+    second: rmHighwayNight_5
+  - first:
+      213: -7151912333005527242
+    second: rmHighwayNight_6
+  - first:
+      213: 640451743325675146
+    second: rmHighwayNight_7
+  - first:
+      213: 4382875973694747167
+    second: rmHighwayNight_8
+  - first:
+      213: -8168707059857975209
+    second: rmHighwayNight_9
+  - first:
+      213: -3885593530144644799
+    second: rmHighwayNight_10
+  - first:
+      213: 7531122471364436965
+    second: rmHighwayNight_11
+  - first:
+      213: -3612450366415998555
+    second: rmHighwayNight_12
+  - first:
+      213: 3542859564890884991
+    second: rmHighwayNight_13
+  - first:
+      213: 6411977255805267908
+    second: rmHighwayNight_14
+  - first:
+      213: 1637196405841200094
+    second: rmHighwayNight_15
+  - first:
+      213: 2530017615333308995
+    second: rmHighwayNight_16
+  - first:
+      213: 1756987396172580633
+    second: rmHighwayNight_17
+  - first:
+      213: -6813761511784483270
+    second: rmHighwayNight_18
+  - first:
+      213: 6787500359375982112
+    second: rmHighwayNight_19
+  - first:
+      213: 8018848521023328872
+    second: rmHighwayNight_20
+  - first:
+      213: -3686298782092072683
+    second: rmHighwayNight_21
+  - first:
+      213: 3763855368793225887
+    second: rmHighwayNight_22
+  - first:
+      213: 9134969989037780362
+    second: rmHighwayNight_23
+  - first:
+      213: 9154660728452322051
+    second: rmHighwayNight_24
+  - first:
+      213: 8362330053597109109
+    second: rmHighwayNight_25
+  - first:
+      213: -8547253429121216584
+    second: rmHighwayNight_26
+  - first:
+      213: 6853838278254325208
+    second: rmHighwayNight_27
+  - first:
+      213: 1897720614321930431
+    second: rmHighwayNight_28
+  - first:
+      213: 1109678623002272755
+    second: rmHighwayNight_29
+  - first:
+      213: -4087613292607132397
+    second: rmHighwayNight_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmHighwayNight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 481
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7fe51a255de2890800000000000000
+      internalID: -7480807380144424980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_1
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 307
+        width: 137
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3db3d321758c6470800000000000000
+      internalID: 8389226926863269178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_2
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 249
+        width: 137
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b8dea4dcc3be020800000000000000
+      internalID: 2372056481163742051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 307
+        width: 137
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc28bfa17e3d5c00800000000000000
+      internalID: 890936959289535711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 249
+        width: 137
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb933ce3b4cc3930800000000000000
+      internalID: 4124387635805526989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_5
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 191
+        width: 137
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6aadf416f618f30800000000000000
+      internalID: 4576061160127375078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_6
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 133
+        width: 137
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637687620ad4fbc90800000000000000
+      internalID: -7151912333005527242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 191
+        width: 137
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ed4b0a77753e800800000000000000
+      internalID: 640451743325675146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 133
+        width: 137
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f127ba20a7a13dc30800000000000000
+      internalID: 4382875973694747167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 50
+        width: 137
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75890fe653ce2ae80800000000000000
+      internalID: -8168707059857975209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 7
+        width: 145
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1412c266549931ac0800000000000000
+      internalID: -3885593530144644799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 50
+        width: 137
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3a3a17cfbe38860800000000000000
+      internalID: 7531122471364436965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_12
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 75
+        width: 137
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a17b05088ffdddc0800000000000000
+      internalID: -3612450366415998555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_13
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 17
+        width: 137
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b8a6ed004ca2130800000000000000
+      internalID: 3542859564890884991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 75
+        width: 137
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf2820975bebf850800000000000000
+      internalID: 6411977255805267908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed306b5f47d78b610800000000000000
+      internalID: 1637196405841200094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a3c65dd9d6c1320800000000000000
+      internalID: 2530017615333308995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 29
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91784b75ab2126810800000000000000
+      internalID: 1756987396172580633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 30
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a367bd18108a071a0800000000000000
+      internalID: -6813761511784483270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e01797d9b023e50800000000000000
+      internalID: 6787500359375982112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 39
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86213438e3ca84f60800000000000000
+      internalID: 8018848521023328872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519627dd9c2a7dcc0800000000000000
+      internalID: -3686298782092072683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9afdd22486eb3430800000000000000
+      internalID: 3763855368793225887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_23
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 15
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d637e4ecee5ce70800000000000000
+      internalID: 9134969989037780362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_24
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 19
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3039e96dd63eb0f70800000000000000
+      internalID: 9154660728452322051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 9
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b9a33d0e6fc0470800000000000000
+      internalID: 8362330053597109109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf8dff9a4e026980800000000000000
+      internalID: -8547253429121216584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 9
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dde253d999bd1f50800000000000000
+      internalID: 6853838278254325208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 5
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0489b18de065a10800000000000000
+      internalID: 1897720614321930431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 23
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f325ea04de566f00800000000000000
+      internalID: 1109678623002272755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmHighwayNight_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 9
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dacf21e51e547c0800000000000000
+      internalID: -4087613292607132397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

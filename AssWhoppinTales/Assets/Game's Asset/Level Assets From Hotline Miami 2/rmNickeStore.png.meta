@@ -1,0 +1,2130 @@
+fileFormatVersion: 2
+guid: 32eb8e58b8e7b474e9fbe9fc77398c59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1713657016123232639
+    second: rmNickeStore_0
+  - first:
+      213: 2962408768736993693
+    second: rmNickeStore_1
+  - first:
+      213: 720764159998612744
+    second: rmNickeStore_2
+  - first:
+      213: -1857205813223788827
+    second: rmNickeStore_3
+  - first:
+      213: 3788917432059710315
+    second: rmNickeStore_4
+  - first:
+      213: 2328082043323323632
+    second: rmNickeStore_5
+  - first:
+      213: -6903314721634366552
+    second: rmNickeStore_6
+  - first:
+      213: -5943817927172651269
+    second: rmNickeStore_7
+  - first:
+      213: 289550723229528462
+    second: rmNickeStore_8
+  - first:
+      213: 5902053041556811366
+    second: rmNickeStore_9
+  - first:
+      213: 3345585206008573839
+    second: rmNickeStore_10
+  - first:
+      213: -4504949222327497821
+    second: rmNickeStore_11
+  - first:
+      213: 6481984787754164696
+    second: rmNickeStore_12
+  - first:
+      213: -1560881693259680671
+    second: rmNickeStore_13
+  - first:
+      213: 76107993852470840
+    second: rmNickeStore_14
+  - first:
+      213: 6359605415082923004
+    second: rmNickeStore_15
+  - first:
+      213: 3610134023686144143
+    second: rmNickeStore_16
+  - first:
+      213: 4094506908073987278
+    second: rmNickeStore_17
+  - first:
+      213: -1249782725509106729
+    second: rmNickeStore_18
+  - first:
+      213: -4878667821897845792
+    second: rmNickeStore_19
+  - first:
+      213: -5765705630232949278
+    second: rmNickeStore_20
+  - first:
+      213: 3346546464231848917
+    second: rmNickeStore_21
+  - first:
+      213: 8128477030873862833
+    second: rmNickeStore_22
+  - first:
+      213: -950590994296902935
+    second: rmNickeStore_23
+  - first:
+      213: -6821709204342211627
+    second: rmNickeStore_24
+  - first:
+      213: 5172395623825624715
+    second: rmNickeStore_25
+  - first:
+      213: -9204691971911715505
+    second: rmNickeStore_26
+  - first:
+      213: -9018785296278296431
+    second: rmNickeStore_27
+  - first:
+      213: -4201118459311587820
+    second: rmNickeStore_28
+  - first:
+      213: 883260917101832637
+    second: rmNickeStore_29
+  - first:
+      213: 7563298993706632909
+    second: rmNickeStore_30
+  - first:
+      213: -4594738306300937542
+    second: rmNickeStore_31
+  - first:
+      213: -906277506600636289
+    second: rmNickeStore_32
+  - first:
+      213: 5810025277699844930
+    second: rmNickeStore_33
+  - first:
+      213: 5768359031820214976
+    second: rmNickeStore_34
+  - first:
+      213: 72011770917946182
+    second: rmNickeStore_35
+  - first:
+      213: 3169065369438278592
+    second: rmNickeStore_36
+  - first:
+      213: -5112530369431680788
+    second: rmNickeStore_37
+  - first:
+      213: -7084076195896184211
+    second: rmNickeStore_38
+  - first:
+      213: -763955978776656453
+    second: rmNickeStore_39
+  - first:
+      213: 8485205092438119702
+    second: rmNickeStore_40
+  - first:
+      213: 201242482227534992
+    second: rmNickeStore_41
+  - first:
+      213: 6170156540432152783
+    second: rmNickeStore_42
+  - first:
+      213: 7680751356883573504
+    second: rmNickeStore_43
+  - first:
+      213: -1014810028425618218
+    second: rmNickeStore_44
+  - first:
+      213: 5888897215453325424
+    second: rmNickeStore_45
+  - first:
+      213: 2637325935036632043
+    second: rmNickeStore_46
+  - first:
+      213: 3475959352986640930
+    second: rmNickeStore_47
+  - first:
+      213: 8273570964719042008
+    second: rmNickeStore_48
+  - first:
+      213: -3876374819839485492
+    second: rmNickeStore_49
+  - first:
+      213: -548569327996254037
+    second: rmNickeStore_50
+  - first:
+      213: 7273033486027001353
+    second: rmNickeStore_51
+  - first:
+      213: 3722308578052310281
+    second: rmNickeStore_52
+  - first:
+      213: -8911855649645042017
+    second: rmNickeStore_53
+  - first:
+      213: -6029320364762491243
+    second: rmNickeStore_54
+  - first:
+      213: 1244131004750912860
+    second: rmNickeStore_55
+  - first:
+      213: 5882884321591158311
+    second: rmNickeStore_56
+  - first:
+      213: 8009249610341483289
+    second: rmNickeStore_57
+  - first:
+      213: -4239886535162509859
+    second: rmNickeStore_58
+  - first:
+      213: 6490179011974935464
+    second: rmNickeStore_59
+  - first:
+      213: 144741456079041989
+    second: rmNickeStore_60
+  - first:
+      213: -1407572560399460614
+    second: rmNickeStore_61
+  - first:
+      213: -1536056567619322659
+    second: rmNickeStore_62
+  - first:
+      213: 2244848497908227061
+    second: rmNickeStore_63
+  - first:
+      213: 9176528584583417898
+    second: rmNickeStore_64
+  - first:
+      213: -4192104553831355975
+    second: rmNickeStore_65
+  - first:
+      213: 3280276649693888108
+    second: rmNickeStore_66
+  - first:
+      213: -9206122672305947820
+    second: rmNickeStore_67
+  - first:
+      213: -7477553577326305064
+    second: rmNickeStore_68
+  - first:
+      213: -5318505104358452011
+    second: rmNickeStore_69
+  - first:
+      213: -7195427367779882418
+    second: rmNickeStore_70
+  - first:
+      213: -9062719421929286118
+    second: rmNickeStore_71
+  - first:
+      213: 6210648581748318029
+    second: rmNickeStore_72
+  - first:
+      213: -288166229577959704
+    second: rmNickeStore_73
+  - first:
+      213: 910756728672398659
+    second: rmNickeStore_74
+  - first:
+      213: -8705758046112062709
+    second: rmNickeStore_75
+  - first:
+      213: 5028136074095353136
+    second: rmNickeStore_76
+  - first:
+      213: -8404990506329710115
+    second: rmNickeStore_77
+  - first:
+      213: -3721207936242005582
+    second: rmNickeStore_78
+  - first:
+      213: 1600823843478606631
+    second: rmNickeStore_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmNickeStore_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e6e1fe50ed738e0800000000000000
+      internalID: -1713657016123232639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 243
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91221464179c1920800000000000000
+      internalID: 2962408768736993693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 339
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805dc8b4f2ba00a00800000000000000
+      internalID: 720764159998612744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 339
+        width: 38
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee610c1721e936e0800000000000000
+      internalID: -1857205813223788827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 271
+        width: 123
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b44357450f49430800000000000000
+      internalID: 3788917432059710315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 309
+        width: 165
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f49040a8420f4020800000000000000
+      internalID: 2328082043323323632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 227
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab424406df7230a0800000000000000
+      internalID: -6903314721634366552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 227
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf686414611538da0800000000000000
+      internalID: -5943817927172651269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 297
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81bd8249d0b40400800000000000000
+      internalID: 289550723229528462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 280
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ee18b88fd48e150800000000000000
+      internalID: 5902053041556811366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 279
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f61f9e408ed6e20800000000000000
+      internalID: 3345585206008573839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 278
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab4fffec843b71c0800000000000000
+      internalID: -4504949222327497821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 276
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1a29942d2a4f950800000000000000
+      internalID: 6481984787754164696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_13
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 284
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164b8d0be52a65ae0800000000000000
+      internalID: -1560881693259680671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 286
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836e42231d36e0100800000000000000
+      internalID: 76107993852470840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 228
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf31bad2e6bd14850800000000000000
+      internalID: 6359605415082923004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 269
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f804d5964c5c91230800000000000000
+      internalID: 3610134023686144143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 228
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc022ad65c92d830800000000000000
+      internalID: 4094506908073987278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_18
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 269
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d33c979b31e7aee0800000000000000
+      internalID: -1249782725509106729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 270
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e376aad67d7b4cb0800000000000000
+      internalID: -4878667821897845792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_20
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 242
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edce7ef6491cffa0800000000000000
+      internalID: -5765705630232949278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 230
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbf0e84742517e20800000000000000
+      internalID: 3346546464231848917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_22
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 247
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b298260bc62ec070800000000000000
+      internalID: 8128477030873862833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_23
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 247
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea6f32f682dec2f0800000000000000
+      internalID: -950590994296902935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_24
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 247
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db7b222f9b6451a0800000000000000
+      internalID: -6821709204342211627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_25
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e49e35a6a08c740800000000000000
+      internalID: 5172395623825624715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 227
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45ff4b8b6d524080800000000000000
+      internalID: -9204691971911715505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 210
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198e0dd7e86d6d280800000000000000
+      internalID: -9018785296278296431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_28
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 227
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e756d0501a2b5c0800000000000000
+      internalID: -4201118459311587820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_29
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 217
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db927d7df19f14c00800000000000000
+      internalID: 883260917101832637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_30
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 231
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc604f9dc5c36f860800000000000000
+      internalID: 7563298993706632909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_31
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 218
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba7d09bad53c30c0800000000000000
+      internalID: -4594738306300937542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_32
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 213
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70742fc8614c63f0800000000000000
+      internalID: -906277506600636289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_33
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 222
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24be65d053b51a050800000000000000
+      internalID: 5810025277699844930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c26f843af35d0050800000000000000
+      internalID: 5768359031820214976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 92
+        width: 26
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6430639f256dff000800000000000000
+      internalID: 72011770917946182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_36
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 92
+        width: 26
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c35c5fb928cafb20800000000000000
+      internalID: 3169065369438278592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_37
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 92
+        width: 25
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8c0a267b4ac09b0800000000000000
+      internalID: -5112530369431680788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_38
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 121
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62becd9b3e40bd90800000000000000
+      internalID: -7084076195896184211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_39
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 113
+        width: 12
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb54bfcb512e565f0800000000000000
+      internalID: -763955978776656453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_40
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 182
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6151c15331181c570800000000000000
+      internalID: 8485205092438119702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_41
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 182
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cd3eaa8f4fac200800000000000000
+      internalID: 201242482227534992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_42
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 182
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8f201ceacc0a550800000000000000
+      internalID: 6170156540432152783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_43
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 182
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b152b2aa2879a60800000000000000
+      internalID: 7680751356883573504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_44
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 149
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcdf25e7abaae1f0800000000000000
+      internalID: -1014810028425618218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_45
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 149
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078e1e511d099b150800000000000000
+      internalID: 5888897215453325424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_46
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 149
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb88caf6f9a99420800000000000000
+      internalID: 2637325935036632043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_47
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 149
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22227787d961d3030800000000000000
+      internalID: 3475959352986640930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_48
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 32
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd701805f0a1d270800000000000000
+      internalID: 8273570964719042008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_49
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 116
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9d237a3a9543ac0800000000000000
+      internalID: -3876374819839485492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_50
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 116
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8cb164a171368f0800000000000000
+      internalID: -548569327996254037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 116
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e092edb610fe460800000000000000
+      internalID: 7273033486027001353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_52
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 116
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905823b1eeb48a330800000000000000
+      internalID: 3722308578052310281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f966951f08ab25480800000000000000
+      internalID: -8911855649645042017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_54
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 83
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5969d4da21d835ca0800000000000000
+      internalID: -6029320364762491243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_55
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 83
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d5a30ae8a044110800000000000000
+      internalID: 1244131004750912860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_56
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 83
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726e7232f1434a150800000000000000
+      internalID: 5882884321591158311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_57
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 83
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91307d5f512962f60800000000000000
+      internalID: 8009249610341483289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 81
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd54daff8a5e825c0800000000000000
+      internalID: -4239886535162509859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_59
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 17
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a33679cc6fb11a50800000000000000
+      internalID: 6490179011974935464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 34
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c53dd16699320200800000000000000
+      internalID: 144741456079041989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_61
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 50
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af69dc5c63c477ce0800000000000000
+      internalID: -1407572560399460614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_62
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 50
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcf42ca0b4deaae0800000000000000
+      internalID: -1536056567619322659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_63
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 50
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb936ca0dd472f10800000000000000
+      internalID: 2244848497908227061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_64
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 50
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20105bd024995f70800000000000000
+      internalID: 9176528584583417898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9a5977e17a2d5c0800000000000000
+      internalID: -4192104553831355975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_66
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 22
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e3306bb32e58d20800000000000000
+      internalID: 3280276649693888108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_67
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 24
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bb886a4384d3080800000000000000
+      internalID: -9206122672305947820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0a382a3a46a3890800000000000000
+      internalID: -7477553577326305064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_69
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 4
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4dc9649cfd036b0800000000000000
+      internalID: -5318505104358452011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_70
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 17
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a2b589ee4b42c90800000000000000
+      internalID: -7195427367779882418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_71
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 17
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a161fdcb3b0ca3280800000000000000
+      internalID: -9062719421929286118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_72
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 17
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f54ebcaf7a03650800000000000000
+      internalID: 6210648581748318029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_73
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 17
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6fdb9475a300cf0800000000000000
+      internalID: -288166229577959704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34da0595b68a3ac00800000000000000
+      internalID: 910756728672398659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_75
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03edf0ae2fee2780800000000000000
+      internalID: -8705758046112062709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_76
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dd7c28e1787c540800000000000000
+      internalID: 5028136074095353136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_77
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1efa18aa97b5b80800000000000000
+      internalID: -8404990506329710115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_78
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b94ee8091d9b5cc0800000000000000
+      internalID: -3721207936242005582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmNickeStore_79
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723948addc4473610800000000000000
+      internalID: 1600823843478606631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

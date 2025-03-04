@@ -1,0 +1,4805 @@
+fileFormatVersion: 2
+guid: 692adb3dc35c4bc4f9b6e63fc2421257
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7165141158696724248
+    second: rmCopyFlash_0
+  - first:
+      213: 7711451546594868689
+    second: rmCopyFlash_1
+  - first:
+      213: 6282292941960450844
+    second: rmCopyFlash_2
+  - first:
+      213: -8269951309787951589
+    second: rmCopyFlash_3
+  - first:
+      213: 3354669175395859814
+    second: rmCopyFlash_4
+  - first:
+      213: 3425204391711403280
+    second: rmCopyFlash_5
+  - first:
+      213: -751297481437922409
+    second: rmCopyFlash_6
+  - first:
+      213: -7863072811231883644
+    second: rmCopyFlash_7
+  - first:
+      213: 1969760388137818526
+    second: rmCopyFlash_8
+  - first:
+      213: -8532418153919591352
+    second: rmCopyFlash_9
+  - first:
+      213: -5886970533703350472
+    second: rmCopyFlash_10
+  - first:
+      213: -1018085448181859065
+    second: rmCopyFlash_11
+  - first:
+      213: 6147039658875562666
+    second: rmCopyFlash_12
+  - first:
+      213: -592275958688139991
+    second: rmCopyFlash_13
+  - first:
+      213: 3397828148040105994
+    second: rmCopyFlash_14
+  - first:
+      213: 1936417887284854902
+    second: rmCopyFlash_15
+  - first:
+      213: 463082845718178262
+    second: rmCopyFlash_16
+  - first:
+      213: 34635224209656896
+    second: rmCopyFlash_17
+  - first:
+      213: -6184817580966865476
+    second: rmCopyFlash_18
+  - first:
+      213: 7823855415603072312
+    second: rmCopyFlash_19
+  - first:
+      213: -2834884509331372135
+    second: rmCopyFlash_20
+  - first:
+      213: 852674648393695295
+    second: rmCopyFlash_21
+  - first:
+      213: 8756795325680277523
+    second: rmCopyFlash_22
+  - first:
+      213: 2895950937895812147
+    second: rmCopyFlash_23
+  - first:
+      213: -4353358109632924911
+    second: rmCopyFlash_24
+  - first:
+      213: 5927009896430534498
+    second: rmCopyFlash_25
+  - first:
+      213: -209709711347770446
+    second: rmCopyFlash_26
+  - first:
+      213: -7464660075194255127
+    second: rmCopyFlash_27
+  - first:
+      213: -5951985522738318232
+    second: rmCopyFlash_28
+  - first:
+      213: -3524281199939892160
+    second: rmCopyFlash_29
+  - first:
+      213: -4587802347198469639
+    second: rmCopyFlash_30
+  - first:
+      213: 3946601749652166490
+    second: rmCopyFlash_31
+  - first:
+      213: 6395124517454147709
+    second: rmCopyFlash_32
+  - first:
+      213: 2123669484693930085
+    second: rmCopyFlash_33
+  - first:
+      213: 7547628525607176264
+    second: rmCopyFlash_34
+  - first:
+      213: -4624016520512441340
+    second: rmCopyFlash_35
+  - first:
+      213: 1188678703721007426
+    second: rmCopyFlash_36
+  - first:
+      213: -6296123001291966375
+    second: rmCopyFlash_37
+  - first:
+      213: 8497869011740128926
+    second: rmCopyFlash_38
+  - first:
+      213: 5790886376442304570
+    second: rmCopyFlash_39
+  - first:
+      213: 723420840409823401
+    second: rmCopyFlash_40
+  - first:
+      213: -7572306831352975158
+    second: rmCopyFlash_41
+  - first:
+      213: 9021876008897739254
+    second: rmCopyFlash_42
+  - first:
+      213: -585167504098283670
+    second: rmCopyFlash_43
+  - first:
+      213: 1902540417424188599
+    second: rmCopyFlash_44
+  - first:
+      213: -5899407294390409268
+    second: rmCopyFlash_45
+  - first:
+      213: 256979187971012096
+    second: rmCopyFlash_46
+  - first:
+      213: -353540501204387154
+    second: rmCopyFlash_47
+  - first:
+      213: 8881201348003021167
+    second: rmCopyFlash_48
+  - first:
+      213: -1596511047910324629
+    second: rmCopyFlash_49
+  - first:
+      213: 6484264753825920003
+    second: rmCopyFlash_50
+  - first:
+      213: 8801643919337176894
+    second: rmCopyFlash_51
+  - first:
+      213: -6241903029146258396
+    second: rmCopyFlash_52
+  - first:
+      213: -3637840653669961039
+    second: rmCopyFlash_53
+  - first:
+      213: -7366343776428947681
+    second: rmCopyFlash_54
+  - first:
+      213: 2560904130356396876
+    second: rmCopyFlash_55
+  - first:
+      213: -7571824345243414843
+    second: rmCopyFlash_56
+  - first:
+      213: 6430745201274284652
+    second: rmCopyFlash_57
+  - first:
+      213: 8531509977070261417
+    second: rmCopyFlash_58
+  - first:
+      213: -7031521743631544511
+    second: rmCopyFlash_59
+  - first:
+      213: 526206259005097509
+    second: rmCopyFlash_60
+  - first:
+      213: 2819549857012356818
+    second: rmCopyFlash_61
+  - first:
+      213: 1648845858448448238
+    second: rmCopyFlash_62
+  - first:
+      213: 4177449253749052245
+    second: rmCopyFlash_63
+  - first:
+      213: -364245513959932590
+    second: rmCopyFlash_64
+  - first:
+      213: -692218459543638946
+    second: rmCopyFlash_65
+  - first:
+      213: 254799575457047114
+    second: rmCopyFlash_66
+  - first:
+      213: 5698118640652385118
+    second: rmCopyFlash_67
+  - first:
+      213: 6713105421311841822
+    second: rmCopyFlash_68
+  - first:
+      213: 3842473064240107063
+    second: rmCopyFlash_69
+  - first:
+      213: -7900832267456541289
+    second: rmCopyFlash_70
+  - first:
+      213: -2629869223076702967
+    second: rmCopyFlash_71
+  - first:
+      213: 4213871362899145478
+    second: rmCopyFlash_72
+  - first:
+      213: -5384216617338190556
+    second: rmCopyFlash_73
+  - first:
+      213: 4839668242529001836
+    second: rmCopyFlash_74
+  - first:
+      213: -20645043801026812
+    second: rmCopyFlash_75
+  - first:
+      213: -7579791001684653239
+    second: rmCopyFlash_76
+  - first:
+      213: 68838762077434772
+    second: rmCopyFlash_77
+  - first:
+      213: -6669233633505215823
+    second: rmCopyFlash_78
+  - first:
+      213: 7271685809221408389
+    second: rmCopyFlash_79
+  - first:
+      213: -2579733409151138026
+    second: rmCopyFlash_80
+  - first:
+      213: -7267356233853353341
+    second: rmCopyFlash_81
+  - first:
+      213: 1235367947735341013
+    second: rmCopyFlash_82
+  - first:
+      213: -559261323999488358
+    second: rmCopyFlash_83
+  - first:
+      213: -2126412476920670962
+    second: rmCopyFlash_84
+  - first:
+      213: -3110106428026492085
+    second: rmCopyFlash_85
+  - first:
+      213: 6800087776416259065
+    second: rmCopyFlash_86
+  - first:
+      213: 2006490342138465674
+    second: rmCopyFlash_87
+  - first:
+      213: -8774738668055390967
+    second: rmCopyFlash_88
+  - first:
+      213: 5638952572856901958
+    second: rmCopyFlash_89
+  - first:
+      213: -6599642539289923098
+    second: rmCopyFlash_90
+  - first:
+      213: -2391401129100452048
+    second: rmCopyFlash_91
+  - first:
+      213: -5176189821032963871
+    second: rmCopyFlash_92
+  - first:
+      213: 4952859613794236930
+    second: rmCopyFlash_93
+  - first:
+      213: -738012823691380706
+    second: rmCopyFlash_94
+  - first:
+      213: 5977980498625607709
+    second: rmCopyFlash_95
+  - first:
+      213: -5165464459940237464
+    second: rmCopyFlash_96
+  - first:
+      213: -3166158459679825690
+    second: rmCopyFlash_97
+  - first:
+      213: 545405042986555570
+    second: rmCopyFlash_98
+  - first:
+      213: 2949491439308491569
+    second: rmCopyFlash_99
+  - first:
+      213: 5476864907399885898
+    second: rmCopyFlash_100
+  - first:
+      213: -165364960657070662
+    second: rmCopyFlash_101
+  - first:
+      213: -8240206387639686259
+    second: rmCopyFlash_102
+  - first:
+      213: -4723438923980495383
+    second: rmCopyFlash_103
+  - first:
+      213: -7988126975326586471
+    second: rmCopyFlash_104
+  - first:
+      213: 6416137060216695330
+    second: rmCopyFlash_105
+  - first:
+      213: -8339741424838452678
+    second: rmCopyFlash_106
+  - first:
+      213: -793393766010488186
+    second: rmCopyFlash_107
+  - first:
+      213: 4729952630486537583
+    second: rmCopyFlash_108
+  - first:
+      213: -2013804969131598794
+    second: rmCopyFlash_109
+  - first:
+      213: -7016069510065790942
+    second: rmCopyFlash_110
+  - first:
+      213: -1739709097096207049
+    second: rmCopyFlash_111
+  - first:
+      213: 537972751829072712
+    second: rmCopyFlash_112
+  - first:
+      213: -1252364801360816281
+    second: rmCopyFlash_113
+  - first:
+      213: 6695262682819584427
+    second: rmCopyFlash_114
+  - first:
+      213: -9133459101297329199
+    second: rmCopyFlash_115
+  - first:
+      213: -1616882375604147561
+    second: rmCopyFlash_116
+  - first:
+      213: -4012058169934538128
+    second: rmCopyFlash_117
+  - first:
+      213: 5520246218425038842
+    second: rmCopyFlash_118
+  - first:
+      213: 1739444795751072405
+    second: rmCopyFlash_119
+  - first:
+      213: -3841202836466309815
+    second: rmCopyFlash_120
+  - first:
+      213: 7087562616188925127
+    second: rmCopyFlash_121
+  - first:
+      213: -1778312379767708404
+    second: rmCopyFlash_122
+  - first:
+      213: -829070154483116148
+    second: rmCopyFlash_123
+  - first:
+      213: 1437272391473531290
+    second: rmCopyFlash_124
+  - first:
+      213: -3716332787964765955
+    second: rmCopyFlash_125
+  - first:
+      213: -6205574622624116203
+    second: rmCopyFlash_126
+  - first:
+      213: -2837469364755090509
+    second: rmCopyFlash_127
+  - first:
+      213: -4359540040432720962
+    second: rmCopyFlash_128
+  - first:
+      213: 4811470703116992515
+    second: rmCopyFlash_129
+  - first:
+      213: -5138853835885888355
+    second: rmCopyFlash_130
+  - first:
+      213: -633671273981699855
+    second: rmCopyFlash_131
+  - first:
+      213: 577389559267357185
+    second: rmCopyFlash_132
+  - first:
+      213: 3020807907367293950
+    second: rmCopyFlash_133
+  - first:
+      213: -1578665499861765401
+    second: rmCopyFlash_134
+  - first:
+      213: -3230790959729647377
+    second: rmCopyFlash_135
+  - first:
+      213: 8381565821497257430
+    second: rmCopyFlash_136
+  - first:
+      213: 9182996111520885289
+    second: rmCopyFlash_137
+  - first:
+      213: -7050575513172223334
+    second: rmCopyFlash_138
+  - first:
+      213: -1933126671702139979
+    second: rmCopyFlash_139
+  - first:
+      213: 2476039561894407862
+    second: rmCopyFlash_140
+  - first:
+      213: 6035565059715012624
+    second: rmCopyFlash_141
+  - first:
+      213: 3262944606061166116
+    second: rmCopyFlash_142
+  - first:
+      213: -7542039673763611051
+    second: rmCopyFlash_143
+  - first:
+      213: -5568539293835917773
+    second: rmCopyFlash_144
+  - first:
+      213: 8555331282253641886
+    second: rmCopyFlash_145
+  - first:
+      213: 7181319320606992809
+    second: rmCopyFlash_146
+  - first:
+      213: -2254118927270284625
+    second: rmCopyFlash_147
+  - first:
+      213: 1478229938289721201
+    second: rmCopyFlash_148
+  - first:
+      213: -8848681837290235914
+    second: rmCopyFlash_149
+  - first:
+      213: -1765031337834034425
+    second: rmCopyFlash_150
+  - first:
+      213: 8130400707510851477
+    second: rmCopyFlash_151
+  - first:
+      213: 283299333316968607
+    second: rmCopyFlash_152
+  - first:
+      213: 7012086238920866620
+    second: rmCopyFlash_153
+  - first:
+      213: 4217831174647267732
+    second: rmCopyFlash_154
+  - first:
+      213: -3385347210779884450
+    second: rmCopyFlash_155
+  - first:
+      213: -5706751725308579238
+    second: rmCopyFlash_156
+  - first:
+      213: 1276351125840085659
+    second: rmCopyFlash_157
+  - first:
+      213: -8130438692185426119
+    second: rmCopyFlash_158
+  - first:
+      213: -5312949994868516157
+    second: rmCopyFlash_159
+  - first:
+      213: -3184244583921997440
+    second: rmCopyFlash_160
+  - first:
+      213: 7018282843955289978
+    second: rmCopyFlash_161
+  - first:
+      213: 2938811270262296592
+    second: rmCopyFlash_162
+  - first:
+      213: -481413446342559179
+    second: rmCopyFlash_163
+  - first:
+      213: -579090681180587790
+    second: rmCopyFlash_164
+  - first:
+      213: 5628255252756134906
+    second: rmCopyFlash_165
+  - first:
+      213: 2460692535476706094
+    second: rmCopyFlash_166
+  - first:
+      213: 3868268082993228798
+    second: rmCopyFlash_167
+  - first:
+      213: 5449442362796436630
+    second: rmCopyFlash_168
+  - first:
+      213: 6058064663632737138
+    second: rmCopyFlash_169
+  - first:
+      213: -6368589663821270876
+    second: rmCopyFlash_170
+  - first:
+      213: -5490771026498442605
+    second: rmCopyFlash_171
+  - first:
+      213: 1061300726940753840
+    second: rmCopyFlash_172
+  - first:
+      213: 5911566614558769532
+    second: rmCopyFlash_173
+  - first:
+      213: 8840643316884812564
+    second: rmCopyFlash_174
+  - first:
+      213: 1623375331270636877
+    second: rmCopyFlash_175
+  - first:
+      213: -9015718488060495983
+    second: rmCopyFlash_176
+  - first:
+      213: 7272352352458681163
+    second: rmCopyFlash_177
+  - first:
+      213: -4309413653597030746
+    second: rmCopyFlash_178
+  - first:
+      213: 8503649177217986499
+    second: rmCopyFlash_179
+  - first:
+      213: -8214767415804098739
+    second: rmCopyFlash_180
+  - first:
+      213: 8219333311436273779
+    second: rmCopyFlash_181
+  - first:
+      213: 7627532235957320404
+    second: rmCopyFlash_182
+  - first:
+      213: -1870831567377004860
+    second: rmCopyFlash_183
+  - first:
+      213: 8819087404268461051
+    second: rmCopyFlash_184
+  - first:
+      213: 8341652884348622684
+    second: rmCopyFlash_185
+  - first:
+      213: -752417567404815552
+    second: rmCopyFlash_186
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmCopyFlash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81726a9dbe1bf6360800000000000000
+      internalID: 7165141158696724248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 271
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd7c691354940b60800000000000000
+      internalID: 7711451546594868689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 367
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c131f7c45203f2750800000000000000
+      internalID: 6282292941960450844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 346
+        width: 63
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e005e891b3b3d80800000000000000
+      internalID: -8269951309787951589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 452
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d3c6a57dd2e8e20800000000000000
+      internalID: 3354669175395859814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 456
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01de01b2f35c88f20800000000000000
+      internalID: 3425204391711403280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 466
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b3f32dbead295f0800000000000000
+      internalID: -751297481437922409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 466
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ecd7340f0c0e290800000000000000
+      internalID: -7863072811231883644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 456
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99179303aef55b10800000000000000
+      internalID: 1969760388137818526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 452
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c478c45e2c69980800000000000000
+      internalID: -8532418153919591352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 421
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8378b677d774d4ea0800000000000000
+      internalID: -5886970533703350472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 447
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d302ecda80fd1f0800000000000000
+      internalID: -1018085448181859065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 434
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa2487500cae4550800000000000000
+      internalID: 6147039658875562666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 449
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925b3615720d7c7f0800000000000000
+      internalID: -592275958688139991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 452
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0001cbb2b2872f20800000000000000
+      internalID: 3397828148040105994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 441
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67083541fc98fda10800000000000000
+      internalID: 1936417887284854902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 435
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9eb9805633d6600800000000000000
+      internalID: 463082845718178262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 449
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c8bbb8d8c0b7000800000000000000
+      internalID: 34635224209656896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 434
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb511edbd2d1b2aa0800000000000000
+      internalID: -6184817580966865476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 448
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d89054c0be39c60800000000000000
+      internalID: 7823855415603072312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 434
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997cb020f8778a8d0800000000000000
+      internalID: -2834884509331372135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 434
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30cc76331f45db00800000000000000
+      internalID: 852674648393695295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 448
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31859f504f2668970800000000000000
+      internalID: 8756795325680277523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 434
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c3d3cd80c703820800000000000000
+      internalID: 2895950937895812147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 434
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11373474dd3c593c0800000000000000
+      internalID: -4353358109632924911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_25
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 449
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f77f02918f04250800000000000000
+      internalID: 5927009896430534498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 441
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb9a2de026f61df0800000000000000
+      internalID: -209709711347770446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 452
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e871090633386890800000000000000
+      internalID: -7464660075194255127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_28
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 434
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8643ae8b3bc466da0800000000000000
+      internalID: -5951985522738318232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 449
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ccefccbec371fc0800000000000000
+      internalID: -3524281199939892160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_30
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 433
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9288b821ad450c0800000000000000
+      internalID: -4587802347198469639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_31
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 417
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57d3fd916525c630800000000000000
+      internalID: 3946601749652166490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 420
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70fe35addb00c850800000000000000
+      internalID: 6395124517454147709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 418
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560c487052ac87d10800000000000000
+      internalID: 2123669484693930085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_34
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 418
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848cb6da7209eb860800000000000000
+      internalID: 7547628525607176264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_35
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 420
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4047153497134dfb0800000000000000
+      internalID: -4624016520512441340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_36
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 417
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249cc5fabf80f7010800000000000000
+      internalID: 1188678703721007426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_37
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 416
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95873d51d7daf98a0800000000000000
+      internalID: -6296123001291966375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 420
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96f190b7de7ee570800000000000000
+      internalID: 8497869011740128926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 416
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a381e7a5a7c5d5050800000000000000
+      internalID: 5790886376442304570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_40
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 417
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8fdb7eb6b1a0a00800000000000000
+      internalID: 723420840409823401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 418
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac031f28e03c9e690800000000000000
+      internalID: -7572306831352975158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_42
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 418
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9f7fd1e64243d70800000000000000
+      internalID: 9021876008897739254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_43
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 420
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fae10614111e7f0800000000000000
+      internalID: -585167504098283670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_44
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 417
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b46467fd6e276a10800000000000000
+      internalID: 1902540417424188599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_45
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 401
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7e2887258112ea0800000000000000
+      internalID: -5899407294390409268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_46
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 404
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0063eadb539f09300800000000000000
+      internalID: 256979187971012096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_47
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 401
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaabffb89c8f71bf0800000000000000
+      internalID: -353540501204387154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_48
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 385
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61c076429d504b70800000000000000
+      internalID: 8881201348003021167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_49
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 406
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66815d19ad08d9e0800000000000000
+      internalID: -1596511047910324629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_50
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 409
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3043161407cbcf950800000000000000
+      internalID: 6484264753825920003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_51
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 409
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fb193f288b52a70800000000000000
+      internalID: 8801643919337176894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_52
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 406
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4247d49144e4069a0800000000000000
+      internalID: -6241903029146258396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 385
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2f688133bc38dc0800000000000000
+      internalID: -3637840653669961039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_54
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 401
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f170b882d5d75c990800000000000000
+      internalID: -7366343776428947681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_55
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 404
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4349b10db82a8320800000000000000
+      internalID: 2560904130356396876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_56
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 385
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce8c1010e97be690800000000000000
+      internalID: -7571824345243414843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_57
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 367
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a600360b89e3950800000000000000
+      internalID: 6430745201274284652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_58
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 405
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a459fc4f13066670800000000000000
+      internalID: 8531509977070261417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_59
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 401
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f08609a340b6e90800000000000000
+      internalID: -7031521743631544511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_60
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 401
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526069afdc57d4700800000000000000
+      internalID: 526206259005097509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_61
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 388
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d699b508ad012720800000000000000
+      internalID: 2819549857012356818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_62
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 385
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea91328290e1e610800000000000000
+      internalID: 1648845858448448238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_63
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 384
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553dee496f749f930800000000000000
+      internalID: 4177449253749052245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_64
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 385
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d736982a0f1faf0800000000000000
+      internalID: -364245513959932590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_65
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 385
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ceee38afeb466f0800000000000000
+      internalID: -692218459543638946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_66
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 384
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42a9082dda398300800000000000000
+      internalID: 254799575457047114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 385
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bfd18b6b8c31f40800000000000000
+      internalID: 5698118640652385118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_68
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 388
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e169a0920ddb92d50800000000000000
+      internalID: 6713105421311841822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_69
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 389
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ec905c4e4335530800000000000000
+      internalID: 3842473064240107063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_70
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 369
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d0f44c9ea9a5290800000000000000
+      internalID: -7900832267456541289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_71
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 370
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905d7c010e3d08bd0800000000000000
+      internalID: -2629869223076702967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 377
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6037bc2bdadaa7a30800000000000000
+      internalID: 4213871362899145478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 376
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4254dc9638b6745b0800000000000000
+      internalID: -5384216617338190556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_74
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 369
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c612eaaff94f92340800000000000000
+      internalID: 4839668242529001836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_75
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 368
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f0ed92177a6bff0800000000000000
+      internalID: -20645043801026812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_76
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 368
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b42e05e3c2fc690800000000000000
+      internalID: -7579791001684653239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_77
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 369
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49337684d7094f000800000000000000
+      internalID: 68838762077434772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_78
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 376
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba75de685f1273a0800000000000000
+      internalID: -6669233633505215823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_79
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 370
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58614e867b73ae460800000000000000
+      internalID: 7271685809221408389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_80
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 346
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617c654e122f23cd0800000000000000
+      internalID: -2579733409151138026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_81
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 377
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38243f8620a252b90800000000000000
+      internalID: -7267356233853353341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_82
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d71bab6a98e42110800000000000000
+      internalID: 1235367947735341013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_83
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 370
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a965566f9ca1d38f0800000000000000
+      internalID: -559261323999488358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_84
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 370
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e055f235e177d72e0800000000000000
+      internalID: -2126412476920670962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_85
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 255
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b62d78eaea6d4d0800000000000000
+      internalID: -3110106428026492085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_86
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 255
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb54c2edc3ce5e50800000000000000
+      internalID: 6800087776416259065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_87
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 337
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d4a68d55c78db10800000000000000
+      internalID: 2006490342138465674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_88
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 341
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9059ca50cadd93680800000000000000
+      internalID: -8774738668055390967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_89
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 353
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64129621d75914e40800000000000000
+      internalID: 5638952572856901958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_90
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 353
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e13111b31c5964a0800000000000000
+      internalID: -6599642539289923098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 341
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fdf70e75900ded0800000000000000
+      internalID: -2391401129100452048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_92
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 337
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0665b48ca7a28b0800000000000000
+      internalID: -5176189821032963871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_93
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 261
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a759ec3971cb440800000000000000
+      internalID: 4952859613794236930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_94
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 326
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18313c3f3d02c5f0800000000000000
+      internalID: -738012823691380706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_95
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 336
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18bace379d06f250800000000000000
+      internalID: 5977980498625607709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_96
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 337
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f6b5501759058b0800000000000000
+      internalID: -5165464459940237464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_97
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 339
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0af2ce7ab8f04d0800000000000000
+      internalID: -3166158459679825690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_98
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 337
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b89be53ffaa19700800000000000000
+      internalID: 545405042986555570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_99
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 336
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bc90446d2bee820800000000000000
+      internalID: 2949491439308491569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_100
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 306
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a447f589d9bb10c40800000000000000
+      internalID: 5476864907399885898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_101
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 316
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab52db5c17184bdf0800000000000000
+      internalID: -165364960657070662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_102
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 321
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8be4dce2f7e4ad80800000000000000
+      internalID: -8240206387639686259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_103
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 304
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5a3e11359f27eb0800000000000000
+      internalID: -4723438923980495383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_104
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 322
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99971feb6d8742190800000000000000
+      internalID: -7988126975326586471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_105
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 324
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a6f6089a2ba0950800000000000000
+      internalID: 6416137060216695330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_106
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 322
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ad4e52c59434c80800000000000000
+      internalID: -8339741424838452678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_107
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 321
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a7fe9c29c4df4f0800000000000000
+      internalID: -793393766010488186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_108
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 304
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6513986bda24a140800000000000000
+      internalID: 4729952630486537583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_109
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 306
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c9ef7dc078d04e0800000000000000
+      internalID: -2013804969131598794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_110
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 316
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220641d04f9e1ae90800000000000000
+      internalID: -7016069510065790942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_111
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 294
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735a0172bcf4bd7e0800000000000000
+      internalID: -1739709097096207049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_112
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 310
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b7c931e53477700800000000000000
+      internalID: 537972751829072712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_113
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 306
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7679fa539d4be9ee0800000000000000
+      internalID: -1252364801360816281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 310
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1e36fdfe95aec50800000000000000
+      internalID: 6695262682819584427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_115
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 287
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db3d98a65f6f3180800000000000000
+      internalID: -9133459101297329199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_116
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a6686cb0eaf89e0800000000000000
+      internalID: -1616882375604147561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_117
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 287
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a19dae95e4258c0800000000000000
+      internalID: -4012058169934538128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_118
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 295
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7fae920badb9c40800000000000000
+      internalID: 5520246218425038842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 287
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592052563dfb32810800000000000000
+      internalID: 1739444795751072405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_120
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 295
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945e33e2f5e41bac0800000000000000
+      internalID: -3841202836466309815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_121
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4774dd5a41c5260800000000000000
+      internalID: 7087562616188925127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_122
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 287
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c052440005a2257e0800000000000000
+      internalID: -1778312379767708404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_123
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 276
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87d72c461d8e74f0800000000000000
+      internalID: -829070154483116148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_124
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 273
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99814300a732f310800000000000000
+      internalID: 1437272391473531290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_125
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 271
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df81932f40fec6cc0800000000000000
+      internalID: -3716332787964765955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_126
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 276
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5129f4f52ce51e9a0800000000000000
+      internalID: -6205574622624116203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_127
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 276
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b338b475a84f98d0800000000000000
+      internalID: -2837469364755090509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_128
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 271
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb36ae95e6dcf73c0800000000000000
+      internalID: -4359540040432720962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_129
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 273
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300cc7abc17c5c240800000000000000
+      internalID: 4811470703116992515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_130
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 276
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c3e5fb9af1fa8b0800000000000000
+      internalID: -5138853835885888355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_131
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 263
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f893f9655fb437f0800000000000000
+      internalID: -633671273981699855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_132
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 262
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1027629bebc430800800000000000000
+      internalID: 577389559267357185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_133
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 258
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3915d69c01ce920800000000000000
+      internalID: 3020807907367293950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_134
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 258
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2339d8714771ae0800000000000000
+      internalID: -1578665499861765401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_135
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 259
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe065c55dbce923d0800000000000000
+      internalID: -3230790959729647377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_136
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 259
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd26eb05bd415470800000000000000
+      internalID: 8381565821497257430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_137
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 258
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92aeef05f4e807f70800000000000000
+      internalID: 9182996111520885289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_138
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 258
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a5d432de2572e90800000000000000
+      internalID: -7050575513172223334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_139
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 262
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb5c53c8872c25e0800000000000000
+      internalID: -1933126671702139979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_140
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 257
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bea788ecd8ac5220800000000000000
+      internalID: 2476039561894407862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 193
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018921ba172a2c350800000000000000
+      internalID: 6035565059715012624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 78
+        width: 114
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e7d06d4de484d20800000000000000
+      internalID: 3262944606061166116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_143
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 204
+        width: 127
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55eba6b40ea455790800000000000000
+      internalID: -7542039673763611051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_144
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 200
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3360b11040398b2b0800000000000000
+      internalID: -5568539293835917773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_145
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 199
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98f38e1974aab670800000000000000
+      internalID: 8555331282253641886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_146
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 168
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9ed63bfdb29a360800000000000000
+      internalID: 7181319320606992809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_147
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 193
+        width: 66
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2f19a47c2c7b0e0800000000000000
+      internalID: -2254118927270284625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_148
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 173
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f3b100c4ab38410800000000000000
+      internalID: 1478229938289721201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_149
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 173
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f75dd550ca233580800000000000000
+      internalID: -8848681837290235914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_150
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 173
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b48fa89595187e0800000000000000
+      internalID: -1765031337834034425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_151
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 122
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597d4c4ed5cf4d070800000000000000
+      internalID: 8130400707510851477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_152
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 122
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90867f1e3b7ee300800000000000000
+      internalID: 283299333316968607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_153
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 134
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b784d584fef4160800000000000000
+      internalID: 7012086238920866620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_154
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 138
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4914b673b1fb88a30800000000000000
+      internalID: 4217831174647267732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_155
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 125
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e540b1ce5a4d401d0800000000000000
+      internalID: -3385347210779884450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_156
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 122
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5272af9a8b8dc0b0800000000000000
+      internalID: -5706751725308579238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_157
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 123
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b924e58269286b110800000000000000
+      internalID: 1276351125840085659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_158
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 97
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937323c1611ea2f80800000000000000
+      internalID: -8130438692185426119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_159
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 97
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cad27ef02c9446b0800000000000000
+      internalID: -5312949994868516157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_160
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 97
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0892e59fb6a4fc3d0800000000000000
+      internalID: -3184244583921997440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f5c27ef03f56160800000000000000
+      internalID: 7018282843955289978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_162
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 72
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01016e1a741c8c820800000000000000
+      internalID: 2938811270262296592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_163
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 31
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ab7ac650da159f0800000000000000
+      internalID: -481413446342559179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_164
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 72
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8fd77f718a6f7f0800000000000000
+      internalID: -579090681180587790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_165
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 73
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb71c525549b1e40800000000000000
+      internalID: 5628255252756134906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_166
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 46
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b5b8ed2d2262220800000000000000
+      internalID: 2460692535476706094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_167
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 67
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbeac69359dea530800000000000000
+      internalID: 3868268082993228798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_168
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 31
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c6272e4fe40ab40800000000000000
+      internalID: 5449442362796436630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_169
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 64
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273fc2ee6b1921450800000000000000
+      internalID: 6058064663632737138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_170
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 62
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a075b761793e97a0800000000000000
+      internalID: -6368589663821270876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_171
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 62
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39aad8eb7dcdcc3b0800000000000000
+      internalID: -5490771026498442605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_172
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfda2d536f7abe00800000000000000
+      internalID: 1061300726940753840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_173
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 52
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7185ded38a1a0250800000000000000
+      internalID: 5911566614558769532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_174
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 37
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413b9d8c14640ba70800000000000000
+      internalID: 8840643316884812564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_175
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 29
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45b4854343678610800000000000000
+      internalID: 1623375331270636877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_176
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 29
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1977b3c6dcbb1e280800000000000000
+      internalID: -9015718488060495983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_177
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 30
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ba6c91fe59ce460800000000000000
+      internalID: 7272352352458681163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_178
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 13
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a671234d13e134c0800000000000000
+      internalID: -4309413653597030746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_179
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 30
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfee965fd7030670800000000000000
+      internalID: 8503649177217986499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_180
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d470b8c1f884ffd80800000000000000
+      internalID: -8214767415804098739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_181
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2
+        width: 81
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378b1be4910f01270800000000000000
+      internalID: 8219333311436273779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_182
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 8
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dab31df7207ad960800000000000000
+      internalID: 7627532235957320404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_183
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 97
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c608eff9987906e0800000000000000
+      internalID: -1870831567377004860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_184
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 5
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb1b86c441b36a70800000000000000
+      internalID: 8819087404268461051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_185
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 11
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5756333a1183c370800000000000000
+      internalID: 8341652884348622684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCopyFlash_186
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b821c7530ee85f0800000000000000
+      internalID: -752417567404815552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

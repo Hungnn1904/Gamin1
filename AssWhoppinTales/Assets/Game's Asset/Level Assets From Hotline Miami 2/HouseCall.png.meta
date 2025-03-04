@@ -1,0 +1,7380 @@
+fileFormatVersion: 2
+guid: c4f185b12b1495d44a3eac0a2a88d221
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2034396363270730623
+    second: HouseCall_0
+  - first:
+      213: -4360044658121204180
+    second: HouseCall_1
+  - first:
+      213: -5064704610630737594
+    second: HouseCall_2
+  - first:
+      213: -7656145472924638472
+    second: HouseCall_3
+  - first:
+      213: -2774238045978342030
+    second: HouseCall_4
+  - first:
+      213: 1623078191430589038
+    second: HouseCall_5
+  - first:
+      213: 17749719375775260
+    second: HouseCall_6
+  - first:
+      213: 1556040752242385913
+    second: HouseCall_7
+  - first:
+      213: 8814143815009326614
+    second: HouseCall_8
+  - first:
+      213: 6991533078253484428
+    second: HouseCall_9
+  - first:
+      213: -3005211075747254714
+    second: HouseCall_10
+  - first:
+      213: 8018965313874010040
+    second: HouseCall_11
+  - first:
+      213: 998622996489862355
+    second: HouseCall_12
+  - first:
+      213: 28449891675926948
+    second: HouseCall_13
+  - first:
+      213: -1868893329109000516
+    second: HouseCall_14
+  - first:
+      213: 2179420570881245070
+    second: HouseCall_15
+  - first:
+      213: -7370289261137409147
+    second: HouseCall_16
+  - first:
+      213: 378185185231443728
+    second: HouseCall_17
+  - first:
+      213: -2961306006228148297
+    second: HouseCall_18
+  - first:
+      213: -1689629057995040145
+    second: HouseCall_19
+  - first:
+      213: -881997848667039905
+    second: HouseCall_20
+  - first:
+      213: -2732909070749057830
+    second: HouseCall_21
+  - first:
+      213: -6397164366192835850
+    second: HouseCall_22
+  - first:
+      213: 4173008557955602812
+    second: HouseCall_23
+  - first:
+      213: 1238437254730500245
+    second: HouseCall_24
+  - first:
+      213: 1926936909393413869
+    second: HouseCall_25
+  - first:
+      213: 2807910646660729485
+    second: HouseCall_26
+  - first:
+      213: -4589689139799411664
+    second: HouseCall_27
+  - first:
+      213: 3059507276806192746
+    second: HouseCall_28
+  - first:
+      213: 7647011258285435344
+    second: HouseCall_29
+  - first:
+      213: -2053144381431657284
+    second: HouseCall_30
+  - first:
+      213: 8126118057161400847
+    second: HouseCall_31
+  - first:
+      213: 5663997467618543552
+    second: HouseCall_32
+  - first:
+      213: 4724667422541989706
+    second: HouseCall_33
+  - first:
+      213: -4898159079195990099
+    second: HouseCall_34
+  - first:
+      213: -8438951477729360812
+    second: HouseCall_35
+  - first:
+      213: 5645428592498477838
+    second: HouseCall_36
+  - first:
+      213: -6042387444673192429
+    second: HouseCall_37
+  - first:
+      213: -6477170342405894423
+    second: HouseCall_38
+  - first:
+      213: -1762346248168716489
+    second: HouseCall_39
+  - first:
+      213: 2869194923492955089
+    second: HouseCall_40
+  - first:
+      213: -3437443657480320551
+    second: HouseCall_41
+  - first:
+      213: 7119579837555617022
+    second: HouseCall_42
+  - first:
+      213: 4393622019227504907
+    second: HouseCall_43
+  - first:
+      213: -4149501143032756056
+    second: HouseCall_44
+  - first:
+      213: -5162545823003948376
+    second: HouseCall_45
+  - first:
+      213: 2922893022227170066
+    second: HouseCall_46
+  - first:
+      213: -1160592509138156983
+    second: HouseCall_47
+  - first:
+      213: -3291493109904165390
+    second: HouseCall_48
+  - first:
+      213: -3426953460041415422
+    second: HouseCall_49
+  - first:
+      213: 6038706870759836785
+    second: HouseCall_50
+  - first:
+      213: 8602093225650444118
+    second: HouseCall_51
+  - first:
+      213: -4038201408556263745
+    second: HouseCall_52
+  - first:
+      213: -3978983894805394155
+    second: HouseCall_53
+  - first:
+      213: -2605092777837020768
+    second: HouseCall_54
+  - first:
+      213: 322083325072538887
+    second: HouseCall_55
+  - first:
+      213: -1834691335760917973
+    second: HouseCall_56
+  - first:
+      213: -3748861005327128574
+    second: HouseCall_57
+  - first:
+      213: 6223814695780022390
+    second: HouseCall_58
+  - first:
+      213: -1934540345466538728
+    second: HouseCall_59
+  - first:
+      213: 4935373234795006666
+    second: HouseCall_60
+  - first:
+      213: 1106082100985384767
+    second: HouseCall_61
+  - first:
+      213: 1734620493442963344
+    second: HouseCall_62
+  - first:
+      213: -6895551788031113558
+    second: HouseCall_63
+  - first:
+      213: -4190975809966974901
+    second: HouseCall_64
+  - first:
+      213: 4056983321070330571
+    second: HouseCall_65
+  - first:
+      213: -8661790387915795783
+    second: HouseCall_66
+  - first:
+      213: 3546689514816535062
+    second: HouseCall_67
+  - first:
+      213: -6826891256037517787
+    second: HouseCall_68
+  - first:
+      213: 2216693101926349532
+    second: HouseCall_69
+  - first:
+      213: 6255356937290481437
+    second: HouseCall_70
+  - first:
+      213: 5319260521775585854
+    second: HouseCall_71
+  - first:
+      213: 692620729509172472
+    second: HouseCall_72
+  - first:
+      213: 6727449888813800116
+    second: HouseCall_73
+  - first:
+      213: 4130545161101024380
+    second: HouseCall_74
+  - first:
+      213: 3281006821575188996
+    second: HouseCall_75
+  - first:
+      213: -3632940153719048789
+    second: HouseCall_76
+  - first:
+      213: 9145900294777629557
+    second: HouseCall_77
+  - first:
+      213: 8360812080891969794
+    second: HouseCall_78
+  - first:
+      213: 7866276745279532459
+    second: HouseCall_79
+  - first:
+      213: 3255436770944500167
+    second: HouseCall_80
+  - first:
+      213: 3535193925393836575
+    second: HouseCall_81
+  - first:
+      213: 8254725260276465872
+    second: HouseCall_82
+  - first:
+      213: 6681615566199846225
+    second: HouseCall_83
+  - first:
+      213: 7974699432339057407
+    second: HouseCall_84
+  - first:
+      213: -5387897669391802373
+    second: HouseCall_85
+  - first:
+      213: 2855569747550865704
+    second: HouseCall_86
+  - first:
+      213: 5432842863843554164
+    second: HouseCall_87
+  - first:
+      213: -9110722100147657736
+    second: HouseCall_88
+  - first:
+      213: 5113211042307225618
+    second: HouseCall_89
+  - first:
+      213: 4607384286022606789
+    second: HouseCall_90
+  - first:
+      213: -1123706780586607754
+    second: HouseCall_91
+  - first:
+      213: 2326184261797825190
+    second: HouseCall_92
+  - first:
+      213: 5704419442494307123
+    second: HouseCall_93
+  - first:
+      213: -1945489575145832543
+    second: HouseCall_94
+  - first:
+      213: 3713075821891295703
+    second: HouseCall_95
+  - first:
+      213: -8691382893887478112
+    second: HouseCall_96
+  - first:
+      213: 1332606233775794358
+    second: HouseCall_97
+  - first:
+      213: -4936579891148258840
+    second: HouseCall_98
+  - first:
+      213: 7028398676591807422
+    second: HouseCall_99
+  - first:
+      213: -4556966982955928882
+    second: HouseCall_100
+  - first:
+      213: -7906581205449888518
+    second: HouseCall_101
+  - first:
+      213: 3556119778358744625
+    second: HouseCall_102
+  - first:
+      213: 5749638772640600658
+    second: HouseCall_103
+  - first:
+      213: 8819749151637668795
+    second: HouseCall_104
+  - first:
+      213: -4465762560515424872
+    second: HouseCall_105
+  - first:
+      213: 2302684898806553731
+    second: HouseCall_106
+  - first:
+      213: 9015694239818564194
+    second: HouseCall_107
+  - first:
+      213: 3167232464701581652
+    second: HouseCall_108
+  - first:
+      213: -470506302524721743
+    second: HouseCall_109
+  - first:
+      213: -7547608397928986567
+    second: HouseCall_110
+  - first:
+      213: 5600516291076385085
+    second: HouseCall_111
+  - first:
+      213: 4502876948017728254
+    second: HouseCall_112
+  - first:
+      213: 6207650809447053117
+    second: HouseCall_113
+  - first:
+      213: -2844135887751001762
+    second: HouseCall_114
+  - first:
+      213: -610746771765979361
+    second: HouseCall_115
+  - first:
+      213: 428898397368986865
+    second: HouseCall_116
+  - first:
+      213: 107079143445626129
+    second: HouseCall_117
+  - first:
+      213: 2985356080111886771
+    second: HouseCall_118
+  - first:
+      213: -1070016141116173951
+    second: HouseCall_119
+  - first:
+      213: 8339309959240569547
+    second: HouseCall_120
+  - first:
+      213: 2878369618756905256
+    second: HouseCall_121
+  - first:
+      213: -4898238992310182072
+    second: HouseCall_122
+  - first:
+      213: 7618315438546773127
+    second: HouseCall_123
+  - first:
+      213: 9212471220965137384
+    second: HouseCall_124
+  - first:
+      213: -7547462258447703682
+    second: HouseCall_125
+  - first:
+      213: -4942582847667076444
+    second: HouseCall_126
+  - first:
+      213: -8865665288632354589
+    second: HouseCall_127
+  - first:
+      213: 4812802222952527969
+    second: HouseCall_128
+  - first:
+      213: -4889994327126554145
+    second: HouseCall_129
+  - first:
+      213: 4090832702914429642
+    second: HouseCall_130
+  - first:
+      213: 66097091130244041
+    second: HouseCall_131
+  - first:
+      213: 5114399109493502036
+    second: HouseCall_132
+  - first:
+      213: -3985193831239513595
+    second: HouseCall_133
+  - first:
+      213: 8206219253886755832
+    second: HouseCall_134
+  - first:
+      213: 7965801562831580158
+    second: HouseCall_135
+  - first:
+      213: -4869647971329065048
+    second: HouseCall_136
+  - first:
+      213: -6135748688144757411
+    second: HouseCall_137
+  - first:
+      213: 8149980613524612579
+    second: HouseCall_138
+  - first:
+      213: 8967274328289113749
+    second: HouseCall_139
+  - first:
+      213: -7617889325421219115
+    second: HouseCall_140
+  - first:
+      213: 487825853355179120
+    second: HouseCall_141
+  - first:
+      213: 1010809075587366501
+    second: HouseCall_142
+  - first:
+      213: 257656403040861530
+    second: HouseCall_143
+  - first:
+      213: 5898149238977340415
+    second: HouseCall_144
+  - first:
+      213: -6991379049571437885
+    second: HouseCall_145
+  - first:
+      213: -6296805589642828250
+    second: HouseCall_146
+  - first:
+      213: -6564055578435703020
+    second: HouseCall_147
+  - first:
+      213: 7905966676004315123
+    second: HouseCall_148
+  - first:
+      213: 3991361485619688525
+    second: HouseCall_149
+  - first:
+      213: 945212454511939358
+    second: HouseCall_150
+  - first:
+      213: 9082775120338622662
+    second: HouseCall_151
+  - first:
+      213: 3629159595922787534
+    second: HouseCall_152
+  - first:
+      213: -6945739275657835104
+    second: HouseCall_153
+  - first:
+      213: -6584142378282586460
+    second: HouseCall_154
+  - first:
+      213: -2314142691490021752
+    second: HouseCall_155
+  - first:
+      213: 7811576227527332076
+    second: HouseCall_156
+  - first:
+      213: 7925992340094893631
+    second: HouseCall_157
+  - first:
+      213: 281471405441715155
+    second: HouseCall_158
+  - first:
+      213: 1659654074800481375
+    second: HouseCall_159
+  - first:
+      213: 7591078770440501288
+    second: HouseCall_160
+  - first:
+      213: 4750842274472796922
+    second: HouseCall_161
+  - first:
+      213: 4888200267827175740
+    second: HouseCall_162
+  - first:
+      213: -8074043358829316560
+    second: HouseCall_163
+  - first:
+      213: 714348653253366802
+    second: HouseCall_164
+  - first:
+      213: 4096510826485518940
+    second: HouseCall_165
+  - first:
+      213: -6454733092095421819
+    second: HouseCall_166
+  - first:
+      213: -329161985350036588
+    second: HouseCall_167
+  - first:
+      213: 8277307636637833379
+    second: HouseCall_168
+  - first:
+      213: 2951707690277041364
+    second: HouseCall_169
+  - first:
+      213: -2894318852128422376
+    second: HouseCall_170
+  - first:
+      213: -6883300466790111615
+    second: HouseCall_171
+  - first:
+      213: -2538716994825082150
+    second: HouseCall_172
+  - first:
+      213: -6442264937307386089
+    second: HouseCall_173
+  - first:
+      213: 3762773141801167511
+    second: HouseCall_174
+  - first:
+      213: 4171630389636708997
+    second: HouseCall_175
+  - first:
+      213: -8627679669011499777
+    second: HouseCall_176
+  - first:
+      213: 2411468592132479677
+    second: HouseCall_177
+  - first:
+      213: 5070449138155029078
+    second: HouseCall_178
+  - first:
+      213: -4770451602840247611
+    second: HouseCall_179
+  - first:
+      213: -7554455720056623732
+    second: HouseCall_180
+  - first:
+      213: 6250344123620601685
+    second: HouseCall_181
+  - first:
+      213: 1461991201752360303
+    second: HouseCall_182
+  - first:
+      213: -2717034235758963122
+    second: HouseCall_183
+  - first:
+      213: 2241308555580769690
+    second: HouseCall_184
+  - first:
+      213: -7950768969223617053
+    second: HouseCall_185
+  - first:
+      213: 7909586296807823465
+    second: HouseCall_186
+  - first:
+      213: 8164495527065560143
+    second: HouseCall_187
+  - first:
+      213: 7965238012212979223
+    second: HouseCall_188
+  - first:
+      213: 1948182710009647808
+    second: HouseCall_189
+  - first:
+      213: -4768935379299685733
+    second: HouseCall_190
+  - first:
+      213: -9214586248513248889
+    second: HouseCall_191
+  - first:
+      213: -7487345171341078147
+    second: HouseCall_192
+  - first:
+      213: 258546168228391346
+    second: HouseCall_193
+  - first:
+      213: 8185665522123989132
+    second: HouseCall_194
+  - first:
+      213: 5378957029232520556
+    second: HouseCall_195
+  - first:
+      213: 9164837217411098116
+    second: HouseCall_196
+  - first:
+      213: 1354935526363932030
+    second: HouseCall_197
+  - first:
+      213: 8827952898030209179
+    second: HouseCall_198
+  - first:
+      213: -551313280960657077
+    second: HouseCall_199
+  - first:
+      213: -1132965526844814630
+    second: HouseCall_200
+  - first:
+      213: -689836427703053754
+    second: HouseCall_201
+  - first:
+      213: -2801857474061951945
+    second: HouseCall_202
+  - first:
+      213: -1105335883595152879
+    second: HouseCall_203
+  - first:
+      213: 3268124917627564834
+    second: HouseCall_204
+  - first:
+      213: 5041841586934233564
+    second: HouseCall_205
+  - first:
+      213: 5571952812163060828
+    second: HouseCall_206
+  - first:
+      213: -8979960658920004820
+    second: HouseCall_207
+  - first:
+      213: 7668496394291183106
+    second: HouseCall_208
+  - first:
+      213: 7375715190076277922
+    second: HouseCall_209
+  - first:
+      213: 1858779009766798564
+    second: HouseCall_210
+  - first:
+      213: -2494874050073246978
+    second: HouseCall_211
+  - first:
+      213: -2897781966824187285
+    second: HouseCall_212
+  - first:
+      213: 7502820520114846342
+    second: HouseCall_213
+  - first:
+      213: 2480044317503538450
+    second: HouseCall_214
+  - first:
+      213: -8178030414227166235
+    second: HouseCall_215
+  - first:
+      213: -392035265495076755
+    second: HouseCall_216
+  - first:
+      213: -8559074519319121684
+    second: HouseCall_217
+  - first:
+      213: -2629424405273531918
+    second: HouseCall_218
+  - first:
+      213: -8195928668408144147
+    second: HouseCall_219
+  - first:
+      213: 1514956881049889937
+    second: HouseCall_220
+  - first:
+      213: 1442414950513870689
+    second: HouseCall_221
+  - first:
+      213: -6285183609507483424
+    second: HouseCall_222
+  - first:
+      213: -5054401030372948940
+    second: HouseCall_223
+  - first:
+      213: -5414537395998729080
+    second: HouseCall_224
+  - first:
+      213: 3245911553977386802
+    second: HouseCall_225
+  - first:
+      213: -7575045679915213067
+    second: HouseCall_226
+  - first:
+      213: -425301526880363080
+    second: HouseCall_227
+  - first:
+      213: 5066665559726539812
+    second: HouseCall_228
+  - first:
+      213: 7316195136946723840
+    second: HouseCall_229
+  - first:
+      213: 6034509733576118835
+    second: HouseCall_230
+  - first:
+      213: 8311502478556274377
+    second: HouseCall_231
+  - first:
+      213: 1019905894751010840
+    second: HouseCall_232
+  - first:
+      213: 5748840770538490799
+    second: HouseCall_233
+  - first:
+      213: -5755497043114958191
+    second: HouseCall_234
+  - first:
+      213: -1005584225067355373
+    second: HouseCall_235
+  - first:
+      213: -2873303961116329685
+    second: HouseCall_236
+  - first:
+      213: -3717229661264968933
+    second: HouseCall_237
+  - first:
+      213: -3311839762518897191
+    second: HouseCall_238
+  - first:
+      213: 6358904262218822482
+    second: HouseCall_239
+  - first:
+      213: -6627792398987891573
+    second: HouseCall_240
+  - first:
+      213: 3418580723398776200
+    second: HouseCall_241
+  - first:
+      213: 6567685733920110812
+    second: HouseCall_242
+  - first:
+      213: -1691670683382969136
+    second: HouseCall_243
+  - first:
+      213: -1065533008588137898
+    second: HouseCall_244
+  - first:
+      213: 3627414303588521208
+    second: HouseCall_245
+  - first:
+      213: -6827407762906475225
+    second: HouseCall_246
+  - first:
+      213: 1983549933971629247
+    second: HouseCall_247
+  - first:
+      213: 3005668520205087688
+    second: HouseCall_248
+  - first:
+      213: 7226130658412091238
+    second: HouseCall_249
+  - first:
+      213: -7454675638536001746
+    second: HouseCall_250
+  - first:
+      213: -1231273847371234850
+    second: HouseCall_251
+  - first:
+      213: -8711047559893698619
+    second: HouseCall_252
+  - first:
+      213: 7418526996721718692
+    second: HouseCall_253
+  - first:
+      213: -4941031638824394105
+    second: HouseCall_254
+  - first:
+      213: -6620505652713314298
+    second: HouseCall_255
+  - first:
+      213: -9207411370826087780
+    second: HouseCall_256
+  - first:
+      213: -2249782429542654491
+    second: HouseCall_257
+  - first:
+      213: 3034526191101525355
+    second: HouseCall_258
+  - first:
+      213: -2325444099560940284
+    second: HouseCall_259
+  - first:
+      213: -49576976355760432
+    second: HouseCall_260
+  - first:
+      213: 2907238385797849622
+    second: HouseCall_261
+  - first:
+      213: 5505604534421400631
+    second: HouseCall_262
+  - first:
+      213: 2767613638741580862
+    second: HouseCall_263
+  - first:
+      213: -1234258644040569826
+    second: HouseCall_264
+  - first:
+      213: 3613446318945327654
+    second: HouseCall_265
+  - first:
+      213: 838969408716705759
+    second: HouseCall_266
+  - first:
+      213: -8556040298467476026
+    second: HouseCall_267
+  - first:
+      213: -2108114499835973355
+    second: HouseCall_268
+  - first:
+      213: -1105618733451989685
+    second: HouseCall_269
+  - first:
+      213: 3170936399836182242
+    second: HouseCall_270
+  - first:
+      213: 945257197237492401
+    second: HouseCall_271
+  - first:
+      213: -5780473194414784677
+    second: HouseCall_272
+  - first:
+      213: -1983722731759458247
+    second: HouseCall_273
+  - first:
+      213: 4304252509240976611
+    second: HouseCall_274
+  - first:
+      213: 379458399970167001
+    second: HouseCall_275
+  - first:
+      213: -5861634288616935427
+    second: HouseCall_276
+  - first:
+      213: 7081523047484690437
+    second: HouseCall_277
+  - first:
+      213: 3319618595231277625
+    second: HouseCall_278
+  - first:
+      213: -7560185658067790225
+    second: HouseCall_279
+  - first:
+      213: -8303229245198865125
+    second: HouseCall_280
+  - first:
+      213: -8468793062198197281
+    second: HouseCall_281
+  - first:
+      213: 5207874700713387854
+    second: HouseCall_282
+  - first:
+      213: -496918213546764717
+    second: HouseCall_283
+  - first:
+      213: -2934376552093047889
+    second: HouseCall_284
+  - first:
+      213: -5726540773441818402
+    second: HouseCall_285
+  - first:
+      213: 1193009618423341630
+    second: HouseCall_286
+  - first:
+      213: -5019382561550486846
+    second: HouseCall_287
+  - first:
+      213: -7478019394093870075
+    second: HouseCall_288
+  - first:
+      213: -3702907855017041053
+    second: HouseCall_289
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HouseCall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cc6ea494f54c3e0800000000000000
+      internalID: -2034396363270730623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 443
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e98d3eb720e73c0800000000000000
+      internalID: -4360044658121204180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 539
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64162179dfd86b9b0800000000000000
+      internalID: -5064704610630737594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 539
+        width: 38
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2ac91a148efb590800000000000000
+      internalID: -7656145472924638472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 443
+        width: 225
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d461b123def79d0800000000000000
+      internalID: -2774238045978342030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_5
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 624
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a57e20405568610800000000000000
+      internalID: 1623078191430589038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 628
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c168146964f0f3000800000000000000
+      internalID: 17749719375775260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 638
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f36075e1da289510800000000000000
+      internalID: 1556040752242385913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_8
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 638
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61656d4b911225a70800000000000000
+      internalID: 8814143815009326614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_9
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 628
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8931bcba4ae60160800000000000000
+      internalID: 6991533078253484428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_10
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 624
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ee30be2785b46d0800000000000000
+      internalID: -3005211075747254714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 600
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf93a77776194f60800000000000000
+      internalID: 8018965313874010040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_12
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 619
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc705a0352dbdd00800000000000000
+      internalID: 998622996489862355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 606
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1fd379603156000800000000000000
+      internalID: 28449891675926948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 621
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe5c534b6b5016e0800000000000000
+      internalID: -1868893329109000516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_15
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 624
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f3e8f467bde3e10800000000000000
+      internalID: 2179420570881245070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_16
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 613
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b470a67f877b990800000000000000
+      internalID: -7370289261137409147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 607
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01719091c659f3500800000000000000
+      internalID: 378185185231443728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_18
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 621
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf5a8380e357e6d0800000000000000
+      internalID: -2961306006228148297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_19
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 606
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a1704e25b3d88e0800000000000000
+      internalID: -1689629057995040145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_20
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 620
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57da8131a382c3f0800000000000000
+      internalID: -881997848667039905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_21
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 606
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc3f820ea1c21ad0800000000000000
+      internalID: -2732909070749057830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_22
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 606
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f20a4f07e4b837a0800000000000000
+      internalID: -6397164366192835850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 620
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79db958c2189e930800000000000000
+      internalID: 4173008557955602812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_24
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 606
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59842d42f10df2110800000000000000
+      internalID: 1238437254730500245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_25
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 606
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6cbf4e8eaddba10800000000000000
+      internalID: 1926936909393413869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_26
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 621
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a004f2bd3b7f620800000000000000
+      internalID: 2807910646660729485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_27
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 613
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034b9c86b062e40c0800000000000000
+      internalID: -4589689139799411664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_28
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 624
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e71c588ad857a20800000000000000
+      internalID: 3059507276806192746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_29
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 606
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9248b4934af1a60800000000000000
+      internalID: 7647011258285435344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_30
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 621
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc4d282014c183e0800000000000000
+      internalID: -2053144381431657284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_31
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 589
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f022ef7a155c5c070800000000000000
+      internalID: 8126118057161400847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_32
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c78d1a00bf8a9e40800000000000000
+      internalID: 5663997467618543552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_33
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 590
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47c97a0df3619140800000000000000
+      internalID: 4724667422541989706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_34
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 590
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da72b2fd44e360cb0800000000000000
+      internalID: -4898159079195990099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_35
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 592
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4540f2da752d2ea80800000000000000
+      internalID: -8438951477729360812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_36
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 589
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b84b4e467985e40800000000000000
+      internalID: 5645428592498477838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_37
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 588
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e59fc02a0252ca0800000000000000
+      internalID: -6042387444673192429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_38
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 592
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee833f14e77c16a0800000000000000
+      internalID: -6477170342405894423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_39
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 588
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73749a2bc63ea87e0800000000000000
+      internalID: -1762346248168716489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 589
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3d62ec49d61d720800000000000000
+      internalID: 2869194923492955089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_41
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 590
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d94774b43fbb40d0800000000000000
+      internalID: -3437443657480320551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_42
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 590
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc298f1424ddc260800000000000000
+      internalID: 7119579837555617022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_43
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 592
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01d365b2f749fc30800000000000000
+      internalID: 4393622019227504907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_44
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 589
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8847602b20a66c0800000000000000
+      internalID: -4149501143032756056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_45
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 547
+        width: 11
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa4c232de3fa58b0800000000000000
+      internalID: -5162545823003948376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_46
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 566
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2138152b7b3309820800000000000000
+      internalID: 2922893022227170066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_47
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 573
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94247d3134fb4efe0800000000000000
+      internalID: -1160592509138156983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_48
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 576
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f53483a4744252d0800000000000000
+      internalID: -3291493109904165390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_49
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 573
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2058f602cf30170d0800000000000000
+      internalID: -3426953460041415422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_50
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 557
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cc95e87ebcdc350800000000000000
+      internalID: 6038706870759836785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_51
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 578
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65750bf7636c06770800000000000000
+      internalID: 8602093225650444118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 581
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb69587d63d65f7c0800000000000000
+      internalID: -4038201408556263745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_53
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 581
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dcf1faa3fc7c8c0800000000000000
+      internalID: -3978983894805394155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_54
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 578
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9b612cbe9d8dbd0800000000000000
+      internalID: -2605092777837020768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_55
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 557
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d7603e315487400800000000000000
+      internalID: 322083325072538887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_56
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 573
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2acb7363fdd986e0800000000000000
+      internalID: -1834691335760917973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_57
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 576
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208a92927ce59fbc0800000000000000
+      internalID: -3748861005327128574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_58
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 557
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678f2d99d7e6f5650800000000000000
+      internalID: 6223814695780022390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_59
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 573
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8153ec03ec12725e0800000000000000
+      internalID: -1934540345466538728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_60
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 573
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca4dedeec7fd7440800000000000000
+      internalID: 4935373234795006666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_61
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 560
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fc6a18fc7995f00800000000000000
+      internalID: 1106082100985384767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_62
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 557
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097d7cbf52c921810800000000000000
+      internalID: 1734620493442963344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_63
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 556
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa68818de241e40a0800000000000000
+      internalID: -6895551788031113558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_64
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 557
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48d9a0a4b9a6d5c0800000000000000
+      internalID: -4190975809966974901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_65
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 557
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2e410f5dc4d4830800000000000000
+      internalID: 4056983321070330571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_66
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 556
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2d269c8832bc780800000000000000
+      internalID: -8661790387915795783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_67
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 557
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61afd33925f583130800000000000000
+      internalID: 3546689514816535062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_68
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 560
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526d9a3b2920241a0800000000000000
+      internalID: -6826891256037517787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_69
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 541
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdaf064b1a643ce10800000000000000
+      internalID: 2216693101926349532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_70
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 542
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f797efdfd7fc650800000000000000
+      internalID: 6255356937290481437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_71
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 549
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a513c034fc1d940800000000000000
+      internalID: 5319260521775585854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_72
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 548
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4577242eeac9900800000000000000
+      internalID: 692620729509172472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_73
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 541
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4badcf2c704bc5d50800000000000000
+      internalID: 6727449888813800116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_74
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 540
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c922080f4a25930800000000000000
+      internalID: 4130545161101024380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_75
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 540
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4026f99125a788d20800000000000000
+      internalID: 3281006821575188996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_76
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 541
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5b257ad24359dc0800000000000000
+      internalID: -3632940153719048789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_77
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 548
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b6c5d6cd3ccee70800000000000000
+      internalID: 9145900294777629557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_78
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 542
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2014c534a42970470800000000000000
+      internalID: 8360812080891969794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_79
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 518
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad6d43c501aa2d60800000000000000
+      internalID: 7866276745279532459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_80
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 549
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c144e0ce72ad2d20800000000000000
+      internalID: 3255436770944500167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_81
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 542
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ae73715288f0130800000000000000
+      internalID: 3535193925393836575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_82
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 542
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0093983ecae8270800000000000000
+      internalID: 8254725260276465872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_83
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 480
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155ff0de4fdd9bc50800000000000000
+      internalID: 6681615566199846225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_84
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 427
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa2417c1e2dbae60800000000000000
+      internalID: 7974699432339057407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_85
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 427
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff1fb1bd975a35b0800000000000000
+      internalID: -5387897669391802373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_86
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 509
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8290f125e8501a720800000000000000
+      internalID: 2855569747550865704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_87
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 513
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47339ebdcc5556b40800000000000000
+      internalID: 5432842863843554164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_88
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 525
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3e5654586309180800000000000000
+      internalID: -9110722100147657736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_89
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 525
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218b35e1a56c5f640800000000000000
+      internalID: 5113211042307225618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_90
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 513
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf1810e897b0ff30800000000000000
+      internalID: 4607384286022606789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_91
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 509
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bff6ff2aac760f0800000000000000
+      internalID: -1123706780586607754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_92
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 508
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa409ee244484020800000000000000
+      internalID: 2326184261797825190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_93
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 509
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b74b7724b2a2f40800000000000000
+      internalID: 5704419442494307123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_94
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 511
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aff43ff98b3005e0800000000000000
+      internalID: -1945489575145832543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_95
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 509
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d91ceb89ce778330800000000000000
+      internalID: 3713075821891295703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_96
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 508
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a62ee29e41026780800000000000000
+      internalID: -8691382893887478112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_97
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 488
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b86da52f4e5e7210800000000000000
+      internalID: 1332606233775794358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_98
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 478
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e185ce7ebebd7bb0800000000000000
+      internalID: -4936579891148258840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_99
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 493
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb841abb53e98160800000000000000
+      internalID: 7028398676591807422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_100
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 476
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec27abf3ca662c0c0800000000000000
+      internalID: -4556966982955928882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_101
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 494
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc2165d84e264290800000000000000
+      internalID: -7906581205449888518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_102
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 496
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13650d7e810e95130800000000000000
+      internalID: 3556119778358744625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_103
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 494
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2525e063002dacf40800000000000000
+      internalID: 5749638772640600658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_104
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 493
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb38a67df1b066a70800000000000000
+      internalID: 8819749151637668795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_105
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 476
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d3d31ac9c6602c0800000000000000
+      internalID: -4465762560515424872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_106
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 478
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c550f17b7c4ff10800000000000000
+      internalID: 2302684898806553731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_107
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 488
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262cbe7d42e2e1d70800000000000000
+      internalID: 9015694239818564194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_108
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 447
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4596f9b552544fb20800000000000000
+      internalID: 3167232464701581652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_109
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 482
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b57e6db20d6879f0800000000000000
+      internalID: -470506302524721743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_110
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 478
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93800b9a622814790800000000000000
+      internalID: -7547608397928986567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_111
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 482
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d396568d4e709bd40800000000000000
+      internalID: 5600516291076385085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_112
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa44e91abe6d7e30800000000000000
+      internalID: 4502876948017728254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_113
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 470
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37f1ca8581062650800000000000000
+      internalID: 6207650809447053117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_114
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 459
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5949ad9a799788d0800000000000000
+      internalID: -2844135887751001762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_115
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 467
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f171c250c013687f0800000000000000
+      internalID: -610746771765979361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_116
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 459
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fca9ebe1d0c3f500800000000000000
+      internalID: 428898397368986865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_117
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 467
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dfde3e9eb6c7100800000000000000
+      internalID: 107079143445626129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_118
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 470
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b12f1ba98d1e6920800000000000000
+      internalID: 2985356080111886771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_119
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 459
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18116d42df98621f0800000000000000
+      internalID: -1070016141116173951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_120
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 448
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc25960793e2bb370800000000000000
+      internalID: 8339309959240569547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_121
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 445
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82928420be502f720800000000000000
+      internalID: 2878369618756905256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_122
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 443
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f5266a695f50cb0800000000000000
+      internalID: -4898238992310182072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_123
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 448
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784647d1781b9b960800000000000000
+      internalID: 7618315438546773127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_124
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 448
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebd22504c549df70800000000000000
+      internalID: 9212471220965137384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_125
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 443
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71ae896017024790800000000000000
+      internalID: -7547462258447703682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_126
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 445
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a28dd3461b686bb0800000000000000
+      internalID: -4942582847667076444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_127
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 448
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8be8d6464d6f480800000000000000
+      internalID: -8865665288632354589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 431
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168bb495f128ac240800000000000000
+      internalID: 4812802222952527969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_129
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 432
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd942f95110432cb0800000000000000
+      internalID: -4889994327126554145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 434
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac204cc4bae85c830800000000000000
+      internalID: 4090832702914429642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_131
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 429
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb318544f2dae000800000000000000
+      internalID: 66097091130244041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_132
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 434
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4503fe094eef9f640800000000000000
+      internalID: 5114399109493502036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_133
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 429
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a04ef235fb1b8c0800000000000000
+      internalID: -3985193831239513595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_134
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 434
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f324e8dee852e170800000000000000
+      internalID: 8206219253886755832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_135
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 429
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbe3d711563c8e60800000000000000
+      internalID: 7965801562831580158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_136
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 433
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afbab778f88b6cb0800000000000000
+      internalID: -4869647971329065048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_137
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 434
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d0014a31179daa0800000000000000
+      internalID: -6135748688144757411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_138
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 430
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e56473003c8a1170800000000000000
+      internalID: 8149980613524612579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_139
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 430
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596f62dad78227c70800000000000000
+      internalID: 8967274328289113749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_140
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 431
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d237041502d74690800000000000000
+      internalID: -7617889325421219115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_141
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 431
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cbc7d670b15c600800000000000000
+      internalID: 487825853355179120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_142
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 430
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e302eaf7d170e00800000000000000
+      internalID: 1010809075587366501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_143
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 430
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dfa592221639300800000000000000
+      internalID: 257656403040861530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_144
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 434
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff32c7dab7f6ad150800000000000000
+      internalID: 5898149238977340415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_145
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 432
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2bf2cdbc1a9fe90800000000000000
+      internalID: -6991379049571437885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62625a99da04d98a0800000000000000
+      internalID: -6296805589642828250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 298
+        width: 162
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f2b61ba3ac7e4a0800000000000000
+      internalID: -6564055578435703020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_148
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 314
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff1051edc2a7bd60800000000000000
+      internalID: 7905966676004315123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_149
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 395
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d447980cf1a246730800000000000000
+      internalID: 3991361485619688525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_150
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 396
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f857c28b11e1d00800000000000000
+      internalID: 945212454511939358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_151
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 378
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c81a8e69df7c0e70800000000000000
+      internalID: 9082775120338622662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_152
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 368
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc8d24ac6d5d5230800000000000000
+      internalID: 3629159595922787534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_153
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 334
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad8febcde6cb9f90800000000000000
+      internalID: -6945739275657835104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_154
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 335
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aeeed7246d60a4a0800000000000000
+      internalID: -6584142378282586460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_155
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 300
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ebb22ab7382efd0800000000000000
+      internalID: -2314142691490021752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_156
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 300
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce017a1013b486c60800000000000000
+      internalID: 7811576227527332076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_157
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 257
+        width: 130
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3eb2d32a08cefd60800000000000000
+      internalID: 7925992340094893631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_158
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 233
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db88cf70ccf7e300800000000000000
+      internalID: 281471405441715155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_159
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 269
+        width: 87
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54238a7696480710800000000000000
+      internalID: 1659654074800481375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_160
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 259
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8287d162cede85960800000000000000
+      internalID: 7591078770440501288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_161
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 232
+        width: 72
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af22cd9a0e16ee140800000000000000
+      internalID: 4750842274472796922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_162
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 259
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31eecaae3066d340800000000000000
+      internalID: 4888200267827175740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_163
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 258
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03670efd75c33ff80800000000000000
+      internalID: -8074043358829316560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_164
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 238
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21412fab050e9e900800000000000000
+      internalID: 714348653253366802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_165
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 271
+        width: 70
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52163774eab9d830800000000000000
+      internalID: 4096510826485518940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_166
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 259
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58291bd837e2c66a0800000000000000
+      internalID: -6454733092095421819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_167
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 232
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49316a51be49e6bf0800000000000000
+      internalID: -329161985350036588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_168
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 260
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a81d62c077eed270800000000000000
+      internalID: 8277307636637833379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_169
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 258
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d470c7618296f820800000000000000
+      internalID: 2951707690277041364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_170
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 260
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8164b28b65055d7d0800000000000000
+      internalID: -2894318852128422376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_171
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 259
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186e1bad1ba9970a0800000000000000
+      internalID: -6883300466790111615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_172
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 258
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada243a085aa4ccd0800000000000000
+      internalID: -2538716994825082150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_173
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 265
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fc6de0c2a7896a0800000000000000
+      internalID: -6442264937307386089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_174
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 265
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a60778c3e083430800000000000000
+      internalID: 3762773141801167511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 113
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a3584bcbb94e930800000000000000
+      internalID: 4171630389636708997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_176
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 179
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4b5bc6d03544880800000000000000
+      internalID: -8627679669011499777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_177
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 217
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba511578e1477120800000000000000
+      internalID: 2411468592132479677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_178
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 225
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6528a6370aadd5640800000000000000
+      internalID: 5070449138155029078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_179
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 232
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2a38aca83fbcdb0800000000000000
+      internalID: -4770451602840247611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_180
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 237
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d6b9e3c8e292790800000000000000
+      internalID: -7554455720056623732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_181
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 237
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f2b5c5ddeadb650800000000000000
+      internalID: 6250344123620601685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_182
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 184
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65223580490a4410800000000000000
+      internalID: 1461991201752360303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_183
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 203
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46130f02c72b4ad0800000000000000
+      internalID: -2717034235758963122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_184
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 195
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a958f6f914aba1f10800000000000000
+      internalID: 2241308555580769690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_185
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 200
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e54a3a5fb139a190800000000000000
+      internalID: -7950768969223617053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_186
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 202
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968178584de74cd60800000000000000
+      internalID: 7909586296807823465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_187
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 198
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44220dac6d1e4170800000000000000
+      internalID: 8164495527065560143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_188
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 198
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716a46d35c53a8e60800000000000000
+      internalID: 7965238012212979223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_189
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 117
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2dea35ad5590b10800000000000000
+      internalID: 1948182710009647808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_190
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 148
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aac081a8651ddb0800000000000000
+      internalID: -4768935379299685733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_191
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 137
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7812b21c0a63f1080800000000000000
+      internalID: -9214586248513248889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_192
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 172
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d719a7f7c3b971890800000000000000
+      internalID: -7487345171341078147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_193
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 159
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9aa43ce5a869300800000000000000
+      internalID: 258546168228391346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_194
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80ec504c63599170800000000000000
+      internalID: 8185665522123989132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_195
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 167
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dae7d4be4e5aa40800000000000000
+      internalID: 5378957029232520556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_196
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 167
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406611054ea003f70800000000000000
+      internalID: 9164837217411098116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_197
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 170
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75aa76bea2bdc210800000000000000
+      internalID: 1354935526363932030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_198
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 174
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9888f46360338a70800000000000000
+      internalID: 8827952898030209179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_199
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b498260fd775958f0800000000000000
+      internalID: -551313280960657077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_200
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 162
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adac6a52bd5e640f0800000000000000
+      internalID: -1132965526844814630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_201
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 143
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64292a58c653d66f0800000000000000
+      internalID: -689836427703053754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_202
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 116
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c9343e87dcd19d0800000000000000
+      internalID: -2801857474061951945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_203
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 121
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11281d4cede09a0f0800000000000000
+      internalID: -1105335883595152879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_204
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 143
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2233bcc1c46ba5d20800000000000000
+      internalID: 3268124917627564834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_205
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 141
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9b103e53838f540800000000000000
+      internalID: 5041841586934233564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_206
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 142
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54d73aaf8d835d40800000000000000
+      internalID: 5571952812163060828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_207
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 141
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23271ccb55c06380800000000000000
+      internalID: -8979960658920004820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_208
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ef61757d8fb6a60800000000000000
+      internalID: 7668496394291183106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_209
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 126
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a403fc13edcb5660800000000000000
+      internalID: 7375715190076277922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_210
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 111
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e43a1149a5bbc910800000000000000
+      internalID: 1858779009766798564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_211
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 118
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef24b06154d606dd0800000000000000
+      internalID: -2494874050073246978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_212
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 107
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a59ee77a209c7d0800000000000000
+      internalID: -2897781966824187285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_213
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 107
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68af4fae28f5f1860800000000000000
+      internalID: 7502820520114846342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_214
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 115
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215460cba23ea6220800000000000000
+      internalID: 2480044317503538450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_215
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 109
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb26a5daacc18e80800000000000000
+      internalID: -8178030414227166235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_216
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 123
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d607dbcc0063f8af0800000000000000
+      internalID: -392035265495076755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_217
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 133
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0f2e5921f083980800000000000000
+      internalID: -8559074519319121684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_218
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 117
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9ade74f68628bd0800000000000000
+      internalID: -2629424405273531918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_219
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 86
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee971bcc46324e80800000000000000
+      internalID: -8195928668408144147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_220
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 83
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c2309b145360510800000000000000
+      internalID: 1514956881049889937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_221
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 80
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167871851cc740410800000000000000
+      internalID: 1442414950513870689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_222
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 113
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0f237beca86c8a0800000000000000
+      internalID: -6285183609507483424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_223
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4348040da092bd9b0800000000000000
+      internalID: -5054401030372948940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_224
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 67
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c5d600de2bbd4b0800000000000000
+      internalID: -5414537395998729080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_225
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 26
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237882b5c5bcb0d20800000000000000
+      internalID: 3245911553977386802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_226
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 67
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fedb43a61800e690800000000000000
+      internalID: -7575045679915213067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_227
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 68
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd5ddfb386091af0800000000000000
+      internalID: -425301526880363080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_228
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 85
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424c4337b79605640800000000000000
+      internalID: 5066665559726539812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_229
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 59
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c5625d6b8588560800000000000000
+      internalID: 7316195136946723840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_230
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 70
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332117761a2eeb350800000000000000
+      internalID: 6034509733576118835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_231
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 38
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce1020d773685370800000000000000
+      internalID: 8311502478556274377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_232
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 41
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81006f0f10f672e00800000000000000
+      internalID: 1019905894751010840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_233
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 85
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabca3ed83cf7cf40800000000000000
+      internalID: 5748840770538490799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_234
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 56
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1926257eeed5020b0800000000000000
+      internalID: -5755497043114958191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_235
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 77
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313bf11a9727b02f0800000000000000
+      internalID: -1005584225067355373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_236
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 72
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2930f15549ff18d0800000000000000
+      internalID: -2873303961116329685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_237
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1381cb515fb96cc0800000000000000
+      internalID: -3717229661264968933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_238
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 56
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd0c0a684bf902d0800000000000000
+      internalID: -3311839762518897191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_239
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 84
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253354e4cbd5f3850800000000000000
+      internalID: 6358904262218822482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_240
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 59
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cea4dbde95504a0800000000000000
+      internalID: -6627792398987891573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_241
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 75
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8859e263e0d317f20800000000000000
+      internalID: 3418580723398776200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_242
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 69
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd875beb06b152b50800000000000000
+      internalID: 6567685733920110812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_243
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 48
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc0400f97af588e0800000000000000
+      internalID: -1691670683382969136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_244
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 33
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a96a6cf577631f0800000000000000
+      internalID: -1065533008588137898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_245
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 90
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4909a171a275230800000000000000
+      internalID: 3627414303588521208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_246
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 49
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725173310dc2041a0800000000000000
+      internalID: -6827407762906475225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_247
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 90
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4e0a8d72cf68b10800000000000000
+      internalID: 1983549933971629247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_248
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 68
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3f56b289746b920800000000000000
+      internalID: 3005668520205087688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_249
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 68
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66756335c8f584460800000000000000
+      internalID: 7226130658412091238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_250
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 78
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27ad49d00cab8890800000000000000
+      internalID: -7454675638536001746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_251
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 41
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1853a95f2a9eee0800000000000000
+      internalID: -1231273847371234850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_252
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7b00bb5642c1780800000000000000
+      internalID: -8711047559893698619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_253
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 17
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a55e3c9ff6e3f660800000000000000
+      internalID: 7418526996721718692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_254
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 23
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782e7e737eded6bb0800000000000000
+      internalID: -4941031638824394105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_255
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 31
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608ae809f2d3f14a0800000000000000
+      internalID: -6620505652713314298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_256
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 36
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92c4052424b83080800000000000000
+      internalID: -9207411370826087780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_257
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 22
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edd139dcca27c0e0800000000000000
+      internalID: -2249782429542654491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_258
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 29
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6db9324e7dcc1a20800000000000000
+      internalID: 3034526191101525355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_259
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 15
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d54a489ec5abfd0800000000000000
+      internalID: -2325444099560940284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_260
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 15
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6e64fa00edf4ff0800000000000000
+      internalID: -49576976355760432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_261
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 36
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6126cde98e5985820800000000000000
+      internalID: 2907238385797849622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_262
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 41
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ca7f37726d76c40800000000000000
+      internalID: 5505604534421400631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_263
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 41
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cd7b4e0f9886620800000000000000
+      internalID: 2767613638741580862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_264
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ca1097d480fdee0800000000000000
+      internalID: -1234258644040569826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_265
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 8
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62addaf384a852230800000000000000
+      internalID: 3613446318945327654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_266
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf8aff6b3e94ab00800000000000000
+      internalID: 838969408716705759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_267
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd3bed2ea6d24980800000000000000
+      internalID: -8556040298467476026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_268
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 5
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5113d6b18097eb2e0800000000000000
+      internalID: -2108114499835973355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_269
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4da397ae9d08a0f0800000000000000
+      internalID: -1105618733451989685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_270
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e67795fadd610c20800000000000000
+      internalID: 3170936399836182242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_271
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 6
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bad8b6a96a3e1d00800000000000000
+      internalID: 945257197237492401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_272
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 21
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f3d358142a7cfa0800000000000000
+      internalID: -5780473194414784677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_273
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9382c988fa66874e0800000000000000
+      internalID: -1983722731759458247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_274
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 3
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e464ec2ad6cbbb30800000000000000
+      internalID: 4304252509240976611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_275
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d88241876b144500800000000000000
+      internalID: 379458399970167001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_276
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffecb7bbaa47aea0800000000000000
+      internalID: -5861634288616935427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_277
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500111231bf964260800000000000000
+      internalID: 7081523047484690437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_278
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 6
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932aa863687a11e20800000000000000
+      internalID: 3319618595231277625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_279
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66ddd61333d41790800000000000000
+      internalID: -7560185658067790225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_280
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d694f6ef005cc80800000000000000
+      internalID: -8303229245198865125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_281
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3426b549dc87a80800000000000000
+      internalID: -8468793062198197281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_282
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47e3c2a276164840800000000000000
+      internalID: 5207874700713387854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_283
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 5
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3569f1f74879a19f0800000000000000
+      internalID: -496918213546764717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_284
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa32247a2100747d0800000000000000
+      internalID: -2934376552093047889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_285
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0b53fc18d3780b0800000000000000
+      internalID: -5726540773441818402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_286
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e326fb75deb6e8010800000000000000
+      internalID: 1193009618423341630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_287
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c23ef27722975ab0800000000000000
+      internalID: -5019382561550486846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_288
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5049d873bfcb83890800000000000000
+      internalID: -7478019394093870075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HouseCall_289
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 4
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363a4b9bce0ac9cc0800000000000000
+      internalID: -3702907855017041053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

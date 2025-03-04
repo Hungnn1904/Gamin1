@@ -1,0 +1,6755 @@
+fileFormatVersion: 2
+guid: 92bb8044d7ee09f438a4b7ae242dc00b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3143782567530702988
+    second: Casualties_Intro_0
+  - first:
+      213: 98873340708964073
+    second: Casualties_Intro_1
+  - first:
+      213: 238111694410072870
+    second: Casualties_Intro_2
+  - first:
+      213: 6955577603943228108
+    second: Casualties_Intro_3
+  - first:
+      213: 7677204595510773951
+    second: Casualties_Intro_4
+  - first:
+      213: -8845230763086988409
+    second: Casualties_Intro_5
+  - first:
+      213: 4671748026936860729
+    second: Casualties_Intro_6
+  - first:
+      213: 4218412155799853381
+    second: Casualties_Intro_7
+  - first:
+      213: -6157091228428230740
+    second: Casualties_Intro_8
+  - first:
+      213: -4117124155086745409
+    second: Casualties_Intro_9
+  - first:
+      213: -6334373511071660709
+    second: Casualties_Intro_10
+  - first:
+      213: 967512061979405479
+    second: Casualties_Intro_11
+  - first:
+      213: -6291889428209640819
+    second: Casualties_Intro_12
+  - first:
+      213: -3172939788788716973
+    second: Casualties_Intro_13
+  - first:
+      213: 838468294833353592
+    second: Casualties_Intro_14
+  - first:
+      213: -2004476197312181209
+    second: Casualties_Intro_15
+  - first:
+      213: -3573622168902613774
+    second: Casualties_Intro_16
+  - first:
+      213: -4911327367563119775
+    second: Casualties_Intro_17
+  - first:
+      213: 1558141841499126491
+    second: Casualties_Intro_18
+  - first:
+      213: -3272180899951562705
+    second: Casualties_Intro_19
+  - first:
+      213: 780694467356730736
+    second: Casualties_Intro_20
+  - first:
+      213: 7997047664826853675
+    second: Casualties_Intro_21
+  - first:
+      213: -9009618364528407186
+    second: Casualties_Intro_22
+  - first:
+      213: 1572557111330218893
+    second: Casualties_Intro_23
+  - first:
+      213: 6292522936517632071
+    second: Casualties_Intro_24
+  - first:
+      213: -2626894049463119227
+    second: Casualties_Intro_25
+  - first:
+      213: -8179266774845445248
+    second: Casualties_Intro_26
+  - first:
+      213: 6155035231807689984
+    second: Casualties_Intro_27
+  - first:
+      213: -5197129041444845973
+    second: Casualties_Intro_28
+  - first:
+      213: -3468649125818067583
+    second: Casualties_Intro_29
+  - first:
+      213: -6636771643079307369
+    second: Casualties_Intro_30
+  - first:
+      213: -244938406134243151
+    second: Casualties_Intro_31
+  - first:
+      213: -7569113882376680211
+    second: Casualties_Intro_32
+  - first:
+      213: 4991731903122077501
+    second: Casualties_Intro_33
+  - first:
+      213: 7835499237873763093
+    second: Casualties_Intro_34
+  - first:
+      213: -9124402798937204028
+    second: Casualties_Intro_35
+  - first:
+      213: -198666650917889957
+    second: Casualties_Intro_36
+  - first:
+      213: -9083282392463376782
+    second: Casualties_Intro_37
+  - first:
+      213: 7922362082633755175
+    second: Casualties_Intro_38
+  - first:
+      213: 5747961945805542502
+    second: Casualties_Intro_39
+  - first:
+      213: -5899249712862339244
+    second: Casualties_Intro_40
+  - first:
+      213: 5231383662122554254
+    second: Casualties_Intro_41
+  - first:
+      213: -8701226130217097129
+    second: Casualties_Intro_42
+  - first:
+      213: -7691056581959614164
+    second: Casualties_Intro_43
+  - first:
+      213: 1923594494553438191
+    second: Casualties_Intro_44
+  - first:
+      213: 7015186123173910387
+    second: Casualties_Intro_45
+  - first:
+      213: -5176236030720065239
+    second: Casualties_Intro_46
+  - first:
+      213: 4911835580356859041
+    second: Casualties_Intro_47
+  - first:
+      213: -3610717852394264020
+    second: Casualties_Intro_48
+  - first:
+      213: 6141398405135893102
+    second: Casualties_Intro_49
+  - first:
+      213: 4511376034639039070
+    second: Casualties_Intro_50
+  - first:
+      213: 6418562800398571048
+    second: Casualties_Intro_51
+  - first:
+      213: -5182582768690240065
+    second: Casualties_Intro_52
+  - first:
+      213: -2252473254424524837
+    second: Casualties_Intro_53
+  - first:
+      213: 1521732236972893277
+    second: Casualties_Intro_54
+  - first:
+      213: 6849654092158435411
+    second: Casualties_Intro_55
+  - first:
+      213: -8330518754913292734
+    second: Casualties_Intro_56
+  - first:
+      213: 4577158257329124661
+    second: Casualties_Intro_57
+  - first:
+      213: -6197444822869256553
+    second: Casualties_Intro_58
+  - first:
+      213: 5872854012182609127
+    second: Casualties_Intro_59
+  - first:
+      213: -8151930230233128434
+    second: Casualties_Intro_60
+  - first:
+      213: 7877813558886274182
+    second: Casualties_Intro_61
+  - first:
+      213: -1880367172215912717
+    second: Casualties_Intro_62
+  - first:
+      213: 7556434275074425446
+    second: Casualties_Intro_63
+  - first:
+      213: 4310936051232014340
+    second: Casualties_Intro_64
+  - first:
+      213: -2480359386961715048
+    second: Casualties_Intro_65
+  - first:
+      213: -6511338817104904789
+    second: Casualties_Intro_66
+  - first:
+      213: -7140043952928680350
+    second: Casualties_Intro_67
+  - first:
+      213: 3817864267616777269
+    second: Casualties_Intro_68
+  - first:
+      213: -3771840381537291557
+    second: Casualties_Intro_69
+  - first:
+      213: 8035885711497824053
+    second: Casualties_Intro_70
+  - first:
+      213: 7020267906717999433
+    second: Casualties_Intro_71
+  - first:
+      213: 2848399151567219743
+    second: Casualties_Intro_72
+  - first:
+      213: 9140842124724347501
+    second: Casualties_Intro_73
+  - first:
+      213: 98632170747489188
+    second: Casualties_Intro_74
+  - first:
+      213: -2264997631577889108
+    second: Casualties_Intro_75
+  - first:
+      213: -3843292573753214526
+    second: Casualties_Intro_76
+  - first:
+      213: 5150398349376914317
+    second: Casualties_Intro_77
+  - first:
+      213: -2103847695587659006
+    second: Casualties_Intro_78
+  - first:
+      213: -8104025505298227649
+    second: Casualties_Intro_79
+  - first:
+      213: -8100616715807052138
+    second: Casualties_Intro_80
+  - first:
+      213: -2461685730009696268
+    second: Casualties_Intro_81
+  - first:
+      213: -5137628430766711133
+    second: Casualties_Intro_82
+  - first:
+      213: -2820099227698332933
+    second: Casualties_Intro_83
+  - first:
+      213: 4982890912550156071
+    second: Casualties_Intro_84
+  - first:
+      213: -3017299001047147577
+    second: Casualties_Intro_85
+  - first:
+      213: 5652542386386543572
+    second: Casualties_Intro_86
+  - first:
+      213: 8285602354853173549
+    second: Casualties_Intro_87
+  - first:
+      213: 4198148319410674300
+    second: Casualties_Intro_88
+  - first:
+      213: 3708923570635588622
+    second: Casualties_Intro_89
+  - first:
+      213: 2366229279673692106
+    second: Casualties_Intro_90
+  - first:
+      213: 8317544832207503194
+    second: Casualties_Intro_91
+  - first:
+      213: 6277078261132218869
+    second: Casualties_Intro_92
+  - first:
+      213: -6183935415014573605
+    second: Casualties_Intro_93
+  - first:
+      213: 1335076422499741725
+    second: Casualties_Intro_94
+  - first:
+      213: 4156879321638780285
+    second: Casualties_Intro_95
+  - first:
+      213: -3775335895373416378
+    second: Casualties_Intro_96
+  - first:
+      213: 8451426331818607037
+    second: Casualties_Intro_97
+  - first:
+      213: 5953201628185501361
+    second: Casualties_Intro_98
+  - first:
+      213: 91227762840174649
+    second: Casualties_Intro_99
+  - first:
+      213: -7795493735900970649
+    second: Casualties_Intro_100
+  - first:
+      213: -6927393060971264908
+    second: Casualties_Intro_101
+  - first:
+      213: 4966560286955070498
+    second: Casualties_Intro_102
+  - first:
+      213: 3703289485588848070
+    second: Casualties_Intro_103
+  - first:
+      213: -4747545049237897914
+    second: Casualties_Intro_104
+  - first:
+      213: 5924954510561776975
+    second: Casualties_Intro_105
+  - first:
+      213: 6923985053555651717
+    second: Casualties_Intro_106
+  - first:
+      213: 664583161826728741
+    second: Casualties_Intro_107
+  - first:
+      213: 5550972830061306955
+    second: Casualties_Intro_108
+  - first:
+      213: -6690318682651170939
+    second: Casualties_Intro_109
+  - first:
+      213: -2180916442357546178
+    second: Casualties_Intro_110
+  - first:
+      213: -4599654350589370063
+    second: Casualties_Intro_111
+  - first:
+      213: -682821994127023012
+    second: Casualties_Intro_112
+  - first:
+      213: -348641345668315806
+    second: Casualties_Intro_113
+  - first:
+      213: -324169620229027954
+    second: Casualties_Intro_114
+  - first:
+      213: 4270837303776947768
+    second: Casualties_Intro_115
+  - first:
+      213: 3010751964627254923
+    second: Casualties_Intro_116
+  - first:
+      213: 74048718239978790
+    second: Casualties_Intro_117
+  - first:
+      213: -6722148515905033788
+    second: Casualties_Intro_118
+  - first:
+      213: 2046511074331243166
+    second: Casualties_Intro_119
+  - first:
+      213: -9206058229890192377
+    second: Casualties_Intro_120
+  - first:
+      213: 1604101217414640614
+    second: Casualties_Intro_121
+  - first:
+      213: -4859396771177050252
+    second: Casualties_Intro_122
+  - first:
+      213: 2006678596288402713
+    second: Casualties_Intro_123
+  - first:
+      213: -492178113223443633
+    second: Casualties_Intro_124
+  - first:
+      213: 5391155955654488404
+    second: Casualties_Intro_125
+  - first:
+      213: 450991290535324452
+    second: Casualties_Intro_126
+  - first:
+      213: -1307609465285688567
+    second: Casualties_Intro_127
+  - first:
+      213: -6936496354441881651
+    second: Casualties_Intro_128
+  - first:
+      213: -2887406041097015407
+    second: Casualties_Intro_129
+  - first:
+      213: 4459706778519799657
+    second: Casualties_Intro_130
+  - first:
+      213: -7323195572409618310
+    second: Casualties_Intro_131
+  - first:
+      213: -3521259479038827918
+    second: Casualties_Intro_132
+  - first:
+      213: 8575694403665962264
+    second: Casualties_Intro_133
+  - first:
+      213: 7214660718472851427
+    second: Casualties_Intro_134
+  - first:
+      213: -8277355612968073062
+    second: Casualties_Intro_135
+  - first:
+      213: -3170295009775843015
+    second: Casualties_Intro_136
+  - first:
+      213: -6042682462808420419
+    second: Casualties_Intro_137
+  - first:
+      213: 1780065309102689904
+    second: Casualties_Intro_138
+  - first:
+      213: -2870219038603016967
+    second: Casualties_Intro_139
+  - first:
+      213: -4080905235400852088
+    second: Casualties_Intro_140
+  - first:
+      213: -1695238989834578988
+    second: Casualties_Intro_141
+  - first:
+      213: 1374000043918056315
+    second: Casualties_Intro_142
+  - first:
+      213: 4979403430197808288
+    second: Casualties_Intro_143
+  - first:
+      213: -4099757087787984210
+    second: Casualties_Intro_144
+  - first:
+      213: -5698351880298298123
+    second: Casualties_Intro_145
+  - first:
+      213: -6357804075695634995
+    second: Casualties_Intro_146
+  - first:
+      213: 7384000463134440101
+    second: Casualties_Intro_147
+  - first:
+      213: 1301326985971706188
+    second: Casualties_Intro_148
+  - first:
+      213: 7631843708371343542
+    second: Casualties_Intro_149
+  - first:
+      213: 1628859047243142791
+    second: Casualties_Intro_150
+  - first:
+      213: 5384586421148860278
+    second: Casualties_Intro_151
+  - first:
+      213: -456783428263006992
+    second: Casualties_Intro_152
+  - first:
+      213: -3606416750138355755
+    second: Casualties_Intro_153
+  - first:
+      213: -4756140805212462693
+    second: Casualties_Intro_154
+  - first:
+      213: -8580415119108879650
+    second: Casualties_Intro_155
+  - first:
+      213: 8360237414451331235
+    second: Casualties_Intro_156
+  - first:
+      213: 5635951593398835943
+    second: Casualties_Intro_157
+  - first:
+      213: 3428596817503851027
+    second: Casualties_Intro_158
+  - first:
+      213: -1407026865291106834
+    second: Casualties_Intro_159
+  - first:
+      213: -8384733167257775831
+    second: Casualties_Intro_160
+  - first:
+      213: 4276530171770316931
+    second: Casualties_Intro_161
+  - first:
+      213: 5236629780982341869
+    second: Casualties_Intro_162
+  - first:
+      213: -7020191149372165712
+    second: Casualties_Intro_163
+  - first:
+      213: -7981414619978492180
+    second: Casualties_Intro_164
+  - first:
+      213: 8915387763793751562
+    second: Casualties_Intro_165
+  - first:
+      213: 8739263474336522145
+    second: Casualties_Intro_166
+  - first:
+      213: -3275131940635503472
+    second: Casualties_Intro_167
+  - first:
+      213: -4461308217578478054
+    second: Casualties_Intro_168
+  - first:
+      213: 779896856838844620
+    second: Casualties_Intro_169
+  - first:
+      213: 8491039118750491605
+    second: Casualties_Intro_170
+  - first:
+      213: 5397314982561084108
+    second: Casualties_Intro_171
+  - first:
+      213: -9094144082836511278
+    second: Casualties_Intro_172
+  - first:
+      213: -1161557251055651194
+    second: Casualties_Intro_173
+  - first:
+      213: 408113067080121110
+    second: Casualties_Intro_174
+  - first:
+      213: -1212454763868673114
+    second: Casualties_Intro_175
+  - first:
+      213: 8916656898702132005
+    second: Casualties_Intro_176
+  - first:
+      213: -4847861824717751568
+    second: Casualties_Intro_177
+  - first:
+      213: -3140441901125238111
+    second: Casualties_Intro_178
+  - first:
+      213: -5810517427348808156
+    second: Casualties_Intro_179
+  - first:
+      213: 1642144544849815981
+    second: Casualties_Intro_180
+  - first:
+      213: 4768201175927361621
+    second: Casualties_Intro_181
+  - first:
+      213: 4163186555077539847
+    second: Casualties_Intro_182
+  - first:
+      213: 5109982091601980040
+    second: Casualties_Intro_183
+  - first:
+      213: -2275822021814578085
+    second: Casualties_Intro_184
+  - first:
+      213: -5266958954011768202
+    second: Casualties_Intro_185
+  - first:
+      213: -7288155810015133728
+    second: Casualties_Intro_186
+  - first:
+      213: -3769996047235530765
+    second: Casualties_Intro_187
+  - first:
+      213: -6336174759478638453
+    second: Casualties_Intro_188
+  - first:
+      213: 2621914995147221674
+    second: Casualties_Intro_189
+  - first:
+      213: -2751060961960375970
+    second: Casualties_Intro_190
+  - first:
+      213: 8661982920947368246
+    second: Casualties_Intro_191
+  - first:
+      213: -6248825105777848119
+    second: Casualties_Intro_192
+  - first:
+      213: -4207660518894236403
+    second: Casualties_Intro_193
+  - first:
+      213: 3240039411008444265
+    second: Casualties_Intro_194
+  - first:
+      213: 5008394731126817428
+    second: Casualties_Intro_195
+  - first:
+      213: 2387368236997011583
+    second: Casualties_Intro_196
+  - first:
+      213: -5208064305276334365
+    second: Casualties_Intro_197
+  - first:
+      213: 4943221309598251585
+    second: Casualties_Intro_198
+  - first:
+      213: -5393442951248246425
+    second: Casualties_Intro_199
+  - first:
+      213: 3888483435164820056
+    second: Casualties_Intro_200
+  - first:
+      213: -1205291456722985400
+    second: Casualties_Intro_201
+  - first:
+      213: -2464804450709959235
+    second: Casualties_Intro_202
+  - first:
+      213: -5622967491522743788
+    second: Casualties_Intro_203
+  - first:
+      213: -4010313647231253657
+    second: Casualties_Intro_204
+  - first:
+      213: 8182410915515384207
+    second: Casualties_Intro_205
+  - first:
+      213: -8998273891639231784
+    second: Casualties_Intro_206
+  - first:
+      213: 7574115893008066331
+    second: Casualties_Intro_207
+  - first:
+      213: -1130805029123704597
+    second: Casualties_Intro_208
+  - first:
+      213: 1069710752391210341
+    second: Casualties_Intro_209
+  - first:
+      213: -5333634572902073677
+    second: Casualties_Intro_210
+  - first:
+      213: 5136143508614208086
+    second: Casualties_Intro_211
+  - first:
+      213: 7520341999983912258
+    second: Casualties_Intro_212
+  - first:
+      213: -8244461690539750585
+    second: Casualties_Intro_213
+  - first:
+      213: 5404040926461319533
+    second: Casualties_Intro_214
+  - first:
+      213: 8064573906715394996
+    second: Casualties_Intro_215
+  - first:
+      213: -2571528798693256316
+    second: Casualties_Intro_216
+  - first:
+      213: -1829521595617860455
+    second: Casualties_Intro_217
+  - first:
+      213: 2421525362367315463
+    second: Casualties_Intro_218
+  - first:
+      213: -4713748024397814360
+    second: Casualties_Intro_219
+  - first:
+      213: -2324423284121684019
+    second: Casualties_Intro_220
+  - first:
+      213: -4644854244968176283
+    second: Casualties_Intro_221
+  - first:
+      213: 6145445551970638788
+    second: Casualties_Intro_222
+  - first:
+      213: 2763235035881161339
+    second: Casualties_Intro_223
+  - first:
+      213: 855380747387057472
+    second: Casualties_Intro_224
+  - first:
+      213: -2086706667213209033
+    second: Casualties_Intro_225
+  - first:
+      213: -1454653061300508546
+    second: Casualties_Intro_226
+  - first:
+      213: -8033720141755504830
+    second: Casualties_Intro_227
+  - first:
+      213: -2965924535983597259
+    second: Casualties_Intro_228
+  - first:
+      213: 2067583448740583276
+    second: Casualties_Intro_229
+  - first:
+      213: -1376870541647730223
+    second: Casualties_Intro_230
+  - first:
+      213: 4182772629015679947
+    second: Casualties_Intro_231
+  - first:
+      213: 3001602068418302247
+    second: Casualties_Intro_232
+  - first:
+      213: 3329995845677527771
+    second: Casualties_Intro_233
+  - first:
+      213: 2053184053962476922
+    second: Casualties_Intro_234
+  - first:
+      213: 9151168086803832280
+    second: Casualties_Intro_235
+  - first:
+      213: 4312197124195343482
+    second: Casualties_Intro_236
+  - first:
+      213: 6304568570208544534
+    second: Casualties_Intro_237
+  - first:
+      213: -6317518004174692296
+    second: Casualties_Intro_238
+  - first:
+      213: 2536553998729271912
+    second: Casualties_Intro_239
+  - first:
+      213: 7963689404344100601
+    second: Casualties_Intro_240
+  - first:
+      213: 9132760019257266174
+    second: Casualties_Intro_241
+  - first:
+      213: 5176617285342870139
+    second: Casualties_Intro_242
+  - first:
+      213: -4273833442824880802
+    second: Casualties_Intro_243
+  - first:
+      213: 1774096828039595682
+    second: Casualties_Intro_244
+  - first:
+      213: -3764081123691640539
+    second: Casualties_Intro_245
+  - first:
+      213: 8255414030966391961
+    second: Casualties_Intro_246
+  - first:
+      213: -264945704228551792
+    second: Casualties_Intro_247
+  - first:
+      213: 5880286751039018516
+    second: Casualties_Intro_248
+  - first:
+      213: 8063399964049765159
+    second: Casualties_Intro_249
+  - first:
+      213: -3168775919717676166
+    second: Casualties_Intro_250
+  - first:
+      213: 7619454751907282672
+    second: Casualties_Intro_251
+  - first:
+      213: -6015280394623247826
+    second: Casualties_Intro_252
+  - first:
+      213: 269848691590656721
+    second: Casualties_Intro_253
+  - first:
+      213: -2879463330956998611
+    second: Casualties_Intro_254
+  - first:
+      213: 2069613629202622052
+    second: Casualties_Intro_255
+  - first:
+      213: -3146869568537214040
+    second: Casualties_Intro_256
+  - first:
+      213: 623229564566961695
+    second: Casualties_Intro_257
+  - first:
+      213: -900390123070318825
+    second: Casualties_Intro_258
+  - first:
+      213: -273462575385285148
+    second: Casualties_Intro_259
+  - first:
+      213: 3706151705105580887
+    second: Casualties_Intro_260
+  - first:
+      213: -1808805956790802559
+    second: Casualties_Intro_261
+  - first:
+      213: 1871032087070276402
+    second: Casualties_Intro_262
+  - first:
+      213: -2323895901618801849
+    second: Casualties_Intro_263
+  - first:
+      213: 468486141547021491
+    second: Casualties_Intro_264
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Casualties_Intro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 361
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477544b496a0f54d0800000000000000
+      internalID: -3143782567530702988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 401
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6c6be87c44f5100800000000000000
+      internalID: 98873340708964073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_2
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 419
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623cd221351fd4300800000000000000
+      internalID: 238111694410072870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 432
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2e2b28afc278060800000000000000
+      internalID: 6955577603943228108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_4
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 419
+        width: 14
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb88a6f67e8ea8a60800000000000000
+      internalID: 7677204595510773951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 451
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bb7d92c7d6f3580800000000000000
+      internalID: -8845230763086988409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 367
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93024b9141265d040800000000000000
+      internalID: 4671748026936860729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_7
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549d3ae618fca8a30800000000000000
+      internalID: 4218412155799853381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 360
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf9cdf362e9d8aa0800000000000000
+      internalID: -6157091228428230740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_9
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 395
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0dfd7f4690dd6c0800000000000000
+      internalID: -4117124155086745409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 350
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b550ee54ad8c718a0800000000000000
+      internalID: -6334373511071660709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 360
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac2032281b4d6d00800000000000000
+      internalID: 967512061979405479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_12
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 380
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a5781a6e7bea8a0800000000000000
+      internalID: -6291889428209640819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 335
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35aab83b21477f3d0800000000000000
+      internalID: -3172939788788716973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 351
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87338f4c876d2ab00800000000000000
+      internalID: 838468294833353592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_15
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 349
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c4b7ac48bae24e0800000000000000
+      internalID: -2004476197312181209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_16
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4491d3291f76ec0800000000000000
+      internalID: -3573622168902613774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_17
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 347
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163feb0d7c577dbb0800000000000000
+      internalID: -4911327367563119775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 5
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda7a3cdfb1af9510800000000000000
+      internalID: 1558141841499126491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 134
+        width: 43
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20b199eec0e692d0800000000000000
+      internalID: -3272180899951562705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 230
+        width: 42
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07529e45b7595da00800000000000000
+      internalID: 780694467356730736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 227
+        width: 42
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b292fd12b783bfe60800000000000000
+      internalID: 7997047664826853675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_22
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 331
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dc27c15d767f280800000000000000
+      internalID: -9009618364528407186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 331
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d832ad96c58d2d510800000000000000
+      internalID: 1572557111330218893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_24
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 312
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740a1248548835750800000000000000
+      internalID: 6292522936517632071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_25
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 309
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582d927a7c56b8bd0800000000000000
+      internalID: -2626894049463119227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_26
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 318
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bae2234386d7e80800000000000000
+      internalID: -8179266774845445248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_27
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 326
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00559ebbee31b6550800000000000000
+      internalID: 6155035231807689984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 296
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6640d02ca610e7b0800000000000000
+      internalID: -5197129041444845973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_29
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 312
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185152d6ff1ecdfc0800000000000000
+      internalID: -3468649125818067583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_30
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 315
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f4fde8a5375e3a0800000000000000
+      internalID: -6636771643079307369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 312
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0a48e31ddc99cf0800000000000000
+      internalID: -244938406134243151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 319
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decc570e60b15f690800000000000000
+      internalID: -7569113882376680211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_33
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 297
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d377393f7b1364540800000000000000
+      internalID: 4991731903122077501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 311
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5134f47ea094dbc60800000000000000
+      internalID: 7835499237873763093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_35
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 311
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca94cd5ffb9f5180800000000000000
+      internalID: -9124402798937204028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_36
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 297
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58925bcbb13e3df0800000000000000
+      internalID: -198666650917889957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_37
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 312
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ef8a21ac2b1f180800000000000000
+      internalID: -9083282392463376782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_38
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 319
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72aa865f652e1fd60800000000000000
+      internalID: 7922362082633755175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 315
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664d33a8fecd4cf40800000000000000
+      internalID: 5747961945805542502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 312
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fd38744a7a12ea0800000000000000
+      internalID: -5899249712862339244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_41
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 296
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83d89049bb999840800000000000000
+      internalID: 5231383662122554254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_42
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 310
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75820168fe80f3780800000000000000
+      internalID: -8701226130217097129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_43
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 302
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c210ed4a9c0e34590800000000000000
+      internalID: -7691056581959614164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_44
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 302
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe731cb400bf1ba10800000000000000
+      internalID: 1923594494553438191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 297
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377d7096c92fa5160800000000000000
+      internalID: 7015186123173910387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_46
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9214a5341c05a28b0800000000000000
+      internalID: -5176236030720065239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 298
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a49b42bf685a2440800000000000000
+      internalID: 4911835580356859041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_48
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 297
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ae0ef5e3724edc0800000000000000
+      internalID: -3610717852394264020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 297
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62864a9f41aa3550800000000000000
+      internalID: 6141398405135893102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_50
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 297
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5aced8e990ab9e30800000000000000
+      internalID: 4511376034639039070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8261b462cd0531950800000000000000
+      internalID: 6418562800398571048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_52
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 297
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5682d2e64c318b0800000000000000
+      internalID: -5182582768690240065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_53
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 302
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd745fb528b9db0e0800000000000000
+      internalID: -2252473254424524837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_54
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 277
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54a70438674e1510800000000000000
+      internalID: 1521732236972893277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 280
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35087651b1cde0f50800000000000000
+      internalID: 6849654092158435411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_56
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 283
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ee9a2545d046c80800000000000000
+      internalID: -8330518754913292734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_57
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 281
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53539d82f25558f30800000000000000
+      internalID: 4577158257329124661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_58
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 281
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7965bc1e4c04ef9a0800000000000000
+      internalID: -6197444822869256553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_59
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 283
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec3fddbb91908150800000000000000
+      internalID: 5872854012182609127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_60
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 280
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02af2975a68ede80800000000000000
+      internalID: -8151930230233128434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_61
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 279
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6841c2081bd935d60800000000000000
+      internalID: 7877813558886274182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_62
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 283
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6c3ccf40897e5e0800000000000000
+      internalID: -1880367172215912717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_63
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 279
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662c56effe8ddd860800000000000000
+      internalID: 7556434275074425446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_64
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 280
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4000c1f8f7583db30800000000000000
+      internalID: 4310936051232014340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 281
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89067d0774ef39dd0800000000000000
+      internalID: -2480359386961715048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_66
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 281
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badff3a28d313a5a0800000000000000
+      internalID: -6511338817104904789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_67
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 283
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2669209bad779ec90800000000000000
+      internalID: -7140043952928680350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_68
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 280
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53474ffc257cbf430800000000000000
+      internalID: 3817864267616777269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_69
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 277
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2fef4382bb7abc0800000000000000
+      internalID: -3771840381537291557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_70
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 277
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53707798a73358f60800000000000000
+      internalID: 8035885711497824053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_71
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 277
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941600857700d6160800000000000000
+      internalID: 7020267906717999433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_72
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 285
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c20b7dfeb878720800000000000000
+      internalID: 2848399151567219743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_73
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 248
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d622f107b7bcade70800000000000000
+      internalID: 9140842124724347501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_74
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 267
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab64dccf696e5100800000000000000
+      internalID: 98632170747489188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_75
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 264
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6e2b097ac1190e0800000000000000
+      internalID: -2264997631577889108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_76
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 248
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9fa8d44c1e9aac0800000000000000
+      internalID: -3843292573753214526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_77
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 269
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d838e52c204e97740800000000000000
+      internalID: 5150398349376914317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_78
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 272
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20339f2eaa1adc2e0800000000000000
+      internalID: -2103847695587659006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_79
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 272
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e5ef96db7b88f80800000000000000
+      internalID: -8104025505298227649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_80
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 269
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eaab01404d49f80800000000000000
+      internalID: -8100616715807052138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 248
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7bf120fd556ddd0800000000000000
+      internalID: -2461685730009696268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_82
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 264
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aed33c992a73b8b0800000000000000
+      internalID: -5137628430766711133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_83
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 267
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaffa5a1befcd8d0800000000000000
+      internalID: -2820099227698332933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_84
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 248
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727f21d62e8c62540800000000000000
+      internalID: 4982890912550156071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_85
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 258
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb917d7b866026d0800000000000000
+      internalID: -3017299001047147577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_86
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 270
+        width: 66
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3a86a1a5dd17e40800000000000000
+      internalID: 5652542386386543572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_87
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 260
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29d927517f5cf270800000000000000
+      internalID: 8285602354853173549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_88
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 260
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a50ec57a1d24a30800000000000000
+      internalID: 4198148319410674300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_89
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 260
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04cec6365eb87330800000000000000
+      internalID: 3708923570635588622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_90
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 264
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf24183ef886d020800000000000000
+      internalID: 2366229279673692106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 264
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f3d17e4fadd6370800000000000000
+      internalID: 8317544832207503194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_92
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 251
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1dc1ecb69ac1750800000000000000
+      internalID: 6277078261132218869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_93
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 248
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd93912018f3e2aa0800000000000000
+      internalID: -6183935415014573605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_94
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 247
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10b817cee4278210800000000000000
+      internalID: 1335076422499741725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_95
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 248
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d327c08b330b930800000000000000
+      internalID: 4156879321638780285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_96
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 248
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6487c7871005b9bc0800000000000000
+      internalID: -3775335895373416378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_97
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 247
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db14e61a87f794570800000000000000
+      internalID: 8451426331818607037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 248
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be1644e6550e9250800000000000000
+      internalID: 5953201628185501361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_99
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 251
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9300ebdba2b144100800000000000000
+      internalID: 91227762840174649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_100
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 233
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76107dedfb7d0d390800000000000000
+      internalID: -7795493735900970649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_101
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 241
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4744d45c6b4fcdf90800000000000000
+      internalID: -6927393060971264908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_102
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 233
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224e48b5444cce440800000000000000
+      internalID: 4966560286955070498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_103
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 241
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd56f09a2ab46330800000000000000
+      internalID: 3703289485588848070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_104
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 240
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64db2096ee45d1eb0800000000000000
+      internalID: -4747545049237897914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_105
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 238
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4512605cbaa93250800000000000000
+      internalID: 5924954510561776975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_106
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 234
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5847c4ba8bfe61060800000000000000
+      internalID: 6923985053555651717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_107
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 234
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b53645dd2193900800000000000000
+      internalID: 664583161826728741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_108
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 209
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4426ade064090d40800000000000000
+      internalID: 5550972830061306955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_109
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 233
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587ea6eda963723a0800000000000000
+      internalID: -6690318682651170939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_110
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 240
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e334878fc04dbb1e0800000000000000
+      internalID: -2180916442357546178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_111
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 239
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1316a87fcbeba20c0800000000000000
+      internalID: -4599654350589370063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_112
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 232
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c542c3b93012686f0800000000000000
+      internalID: -682821994127023012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_113
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 231
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2650d651b80692bf0800000000000000
+      internalID: -348641345668315806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_114
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 231
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87864ba271508bf0800000000000000
+      internalID: -324169620229027954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_115
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 232
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83eac1166ef054b30800000000000000
+      internalID: 4270837303776947768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_116
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 239
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8eba6ec5f658c920800000000000000
+      internalID: 3010751964627254923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_117
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 233
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62554cabae2170100800000000000000
+      internalID: 74048718239978790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_118
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 151
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9af0e4a8126b2a0800000000000000
+      internalID: -6722148515905033788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_119
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 240
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92ba6eaafaa66c10800000000000000
+      internalID: 2046511074331243166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_120
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 233
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c65d1d0d28d3080800000000000000
+      internalID: -9206058229890192377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_121
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 233
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e375cfee89e24610800000000000000
+      internalID: 1604101217414640614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_122
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 118
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fcf4ff164ff8cb0800000000000000
+      internalID: -4859396771177050252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_123
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 118
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915562e2d8729db10800000000000000
+      internalID: 2006678596288402713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_124
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 200
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b381b1d9e6b29f0800000000000000
+      internalID: -492178113223443633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_125
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 204
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451748137cb31da40800000000000000
+      internalID: 5391155955654488404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_126
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 216
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b2725703e324600800000000000000
+      internalID: 450991290535324452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_127
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 216
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90345bc8e107adde0800000000000000
+      internalID: -1307609465285688567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_128
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 204
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc713b7115d9cbf90800000000000000
+      internalID: -6936496354441881651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_129
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 200
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f6816f08fdde7d0800000000000000
+      internalID: -2887406041097015407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_130
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 204
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9670310cfaf04ed30800000000000000
+      internalID: 4459706778519799657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_131
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 205
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70bfc54d68ce5a90800000000000000
+      internalID: -7323195572409618310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_132
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 206
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272e9e50929f12fc0800000000000000
+      internalID: -3521259479038827918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_133
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 206
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815a0d8cf9cf20770800000000000000
+      internalID: 8575694403665962264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_134
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 206
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efe983d2bf9f1460800000000000000
+      internalID: 7214660718472851427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_135
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 206
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98c371ecece02d80800000000000000
+      internalID: -8277355612968073062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_136
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9390e1d4c79d004d0800000000000000
+      internalID: -3170295009775843015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_137
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 200
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf42d9c054142ca0800000000000000
+      internalID: -6042682462808420419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_138
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 202
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ecf0aa7ff04b810800000000000000
+      internalID: 1780065309102689904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_139
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 200
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f40180ddfeea28d0800000000000000
+      internalID: -2870219038603016967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_140
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d76e95f46bd57c0800000000000000
+      internalID: -4080905235400852088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_141
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 169
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d39489de1d4978e0800000000000000
+      internalID: -1695238989834578988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_142
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 179
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b5b1b92cd611310800000000000000
+      internalID: 1374000043918056315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_143
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 184
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac4d4aa9056a1540800000000000000
+      internalID: 4979403430197808288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_144
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 167
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaad10d66acba17c0800000000000000
+      internalID: -4099757087787984210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_145
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 185
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f404a1f7236be0b0800000000000000
+      internalID: -5698351880298298123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_146
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 187
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc581a4d0ea84c7a0800000000000000
+      internalID: -6357804075695634995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_147
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 185
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aab2729c4d397660800000000000000
+      internalID: 7384000463134440101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_148
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 184
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49297fbffd3f0210800000000000000
+      internalID: 1301326985971706188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_149
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 167
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b816c2ea61c9e960800000000000000
+      internalID: 7631843708371343542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_150
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 169
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786db146caeda9610800000000000000
+      internalID: 1628859047243142791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_151
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 179
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f38fe32d4e9ba40800000000000000
+      internalID: 5384586421148860278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_152
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 173
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc291364ed29a9f0800000000000000
+      internalID: -456783428263006992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_153
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 173
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df0cf7c21f63fdc0800000000000000
+      internalID: -3606416750138355755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_154
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 173
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b912293032bcefdb0800000000000000
+      internalID: -4756140805212462693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_155
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 173
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edacf1009ed3ce880800000000000000
+      internalID: -8580415119108879650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_156
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 172
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a04d4e42a7850470800000000000000
+      internalID: 8360237414451331235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_157
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 171
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea95d71d1ce63e40800000000000000
+      internalID: 5635951593398835943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_158
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 173
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3121a59d3a2d49f20800000000000000
+      internalID: 3428596817503851027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_159
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 169
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee564e0558c397ce0800000000000000
+      internalID: -1407026865291106834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_160
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 173
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9211a2dcb9173ab80800000000000000
+      internalID: -8384733167257775831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_161
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 150
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3882c9f7889495b30800000000000000
+      internalID: 4276530171770316931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_162
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de02fab7a0f3ca840800000000000000
+      internalID: 5236629780982341869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_163
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 150
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1b45e1855439e90800000000000000
+      internalID: -7020191149372165712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_164
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 158
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce69213c0b15c3190800000000000000
+      internalID: -7981414619978492180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_165
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 150
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e6ac77fe1d9bb70800000000000000
+      internalID: 8915387763793751562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_166
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 158
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afdf5ac3d9184970800000000000000
+      internalID: 8739263474336522145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_167
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09492e53ad46c82d0800000000000000
+      internalID: -3275131940635503472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_168
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1624b920df3612c0800000000000000
+      internalID: -4461308217578478054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_169
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 136
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0b2592f00c2da00800000000000000
+      internalID: 779896856838844620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_170
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 135
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3a11f471b36d570800000000000000
+      internalID: 8491039118750491605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_171
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 135
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc27274616d17ea40800000000000000
+      internalID: 5397314982561084108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_172
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 135
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d52f46b32c1bc180800000000000000
+      internalID: -9094144082836511278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_173
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 135
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6867c8895d151efe0800000000000000
+      internalID: -1161557251055651194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_174
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 135
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b71871ca8e9a500800000000000000
+      internalID: 408113067080121110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_175
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aba06de0de7c2fe0800000000000000
+      internalID: -1212454763868673114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_176
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5234d27f4345ebb70800000000000000
+      internalID: 8916656898702132005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_177
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 134
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa75810b5fe8bcb0800000000000000
+      internalID: -4847861824717751568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_178
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 139
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a28dadcab8ea64d0800000000000000
+      internalID: -3140441901125238111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_179
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 139
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e58ad6f25ec5fa0800000000000000
+      internalID: -5810517427348808156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_180
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 134
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da96e9953c11ac610800000000000000
+      internalID: 1642144544849815981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_181
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55010ccd4bd0c2240800000000000000
+      internalID: 4768201175927361621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_182
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70834154d1c96c930800000000000000
+      internalID: 4163186555077539847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_183
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 125
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a2b8273ad4ae640800000000000000
+      internalID: 5109982091601980040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_184
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 121
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b541bb1dde7aa60e0800000000000000
+      internalID: -2275822021814578085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_185
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 121
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ac093acb008e6b0800000000000000
+      internalID: -5266958954011768202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_186
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 122
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef3954b7e44bda90800000000000000
+      internalID: -7288155810015133728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_187
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 122
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff36efb1984eabc0800000000000000
+      internalID: -3769996047235530765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_188
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 121
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88ca7270a26118a0800000000000000
+      internalID: -6336174759478638453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_189
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 121
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa250debc9e26420800000000000000
+      internalID: 2621914995147221674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_190
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 125
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5948ee71a442d9d0800000000000000
+      internalID: -2751060961960375970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_191
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 103
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631819dc29b853870800000000000000
+      internalID: 8661982920947368246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_192
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 102
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0919a8ca6b749a0800000000000000
+      internalID: -6248825105777848119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_193
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 106
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d8fdb1d036b95c0800000000000000
+      internalID: -4207660518894236403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_194
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 106
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9679c678daee6fc20800000000000000
+      internalID: 3240039411008444265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_195
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 106
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49280cbe874618540800000000000000
+      internalID: 5008394731126817428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_196
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 106
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78e14243c2a12120800000000000000
+      internalID: 2387368236997011583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_197
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 63
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eecc9c9b1d39b7b0800000000000000
+      internalID: -5208064305276334365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_198
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 22
+        width: 39
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14abebc3799d99440800000000000000
+      internalID: 4943221309598251585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_199
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 71
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76983862634a625b0800000000000000
+      internalID: -5393442951248246425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_200
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 85
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8526dfb051ba6f530800000000000000
+      internalID: 3888483435164820056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_201
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 85
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e96375ec1f54fe0800000000000000
+      internalID: -1205291456722985400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_202
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 64
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd81a249614bcdd0800000000000000
+      internalID: -2464804450709959235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_203
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 71
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412b734bbd437f1b0800000000000000
+      internalID: -5622967491522743788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_204
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 78
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76341e24cf08858c0800000000000000
+      internalID: -4010313647231253657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_205
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 100
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81c2991063cd8170800000000000000
+      internalID: 8182410915515384207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_206
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dafb290295bf1380800000000000000
+      internalID: -8998273891639231784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_207
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 85
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17e26a764aac1960800000000000000
+      internalID: 7574115893008066331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_208
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 54
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be83bd831d29e40f0800000000000000
+      internalID: -1130805029123704597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_209
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 44
+        width: 9
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565a1b0034068de00800000000000000
+      internalID: 1069710752391210341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_210
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 68
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bafd606d9f1bf5b0800000000000000
+      internalID: -5333634572902073677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_211
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ad0620f4f374740800000000000000
+      internalID: 5136143508614208086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_212
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 53
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245ed7a543f9d5860800000000000000
+      internalID: 7520341999983912258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_213
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 55
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bcf0306c9c59d80800000000000000
+      internalID: -8244461690539750585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_214
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69566d37920ffa40800000000000000
+      internalID: 5404040926461319533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_215
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 53
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3c7ae7d3f1bef60800000000000000
+      internalID: 8064573906715394996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_216
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4839330ae28105cd0800000000000000
+      internalID: -2571528798693256316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_217
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 53
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994aa405dcb3c96e0800000000000000
+      internalID: -1829521595617860455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_218
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 44
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eb08ebc7cfa9120800000000000000
+      internalID: 2421525362367315463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_219
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 69
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5a1157527659eb0800000000000000
+      internalID: -4713748024397814360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_220
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 69
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7b742a65dfdbfd0800000000000000
+      internalID: -2324423284121684019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_221
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 73
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565e4377ca92a8fb0800000000000000
+      internalID: -4644854244968176283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_222
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 73
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbd6b76b22094550800000000000000
+      internalID: 6145445551970638788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_223
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 73
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b724c98ff9bf85620800000000000000
+      internalID: 2763235035881161339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_224
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 24
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045b6bbf14ceedb00800000000000000
+      internalID: 855380747387057472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_225
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732415e87578a03e0800000000000000
+      internalID: -2086706667213209033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_226
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78afb17fb800dbe0800000000000000
+      internalID: -1454653061300508546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_227
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 44
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24723c5781e728090800000000000000
+      internalID: -8033720141755504830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_228
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 36
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5391512495be6d6d0800000000000000
+      internalID: -2965924535983597259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_229
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 40
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67d8ad213881bc10800000000000000
+      internalID: 2067583448740583276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_230
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 40
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9236f898f54ece0800000000000000
+      internalID: -1376870541647730223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_231
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 42
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3d4b87b813c0a30800000000000000
+      internalID: 4182772629015679947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_232
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 52
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72196259d25d7a920800000000000000
+      internalID: 3001602068418302247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_233
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 48
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2b22d1495863e20800000000000000
+      internalID: 3329995845677527771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_234
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 23
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d0ee2d4006e7c10800000000000000
+      internalID: 2053184053962476922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_235
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd55d5d3ea7ffe70800000000000000
+      internalID: 9151168086803832280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_236
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 16
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cdf1dff6008db30800000000000000
+      internalID: 4312197124195343482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_237
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 20
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6176f5926b35e7750800000000000000
+      internalID: 6304568570208544534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_238
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 7
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830680bc8daa358a0800000000000000
+      internalID: -6317518004174692296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_239
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 26
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86adadf2c66a33320800000000000000
+      internalID: 2536553998729271912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_240
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 28
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6e87fd155b48e60800000000000000
+      internalID: 7963689404344100601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_241
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 36
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff08be99d41ebe70800000000000000
+      internalID: 9132760019257266174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_242
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 4
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a320f7ef907d740800000000000000
+      internalID: 5176617285342870139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_243
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 33
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dfc33a02b40b4c0800000000000000
+      internalID: -4273833442824880802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_244
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 30
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a682706aabde9810800000000000000
+      internalID: 1774096828039595682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_245
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 41
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5294b94392c43cbc0800000000000000
+      internalID: -3764081123691640539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_246
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 4
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9940785725f119270800000000000000
+      internalID: 8255414030966391961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_247
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09301b62949b25cf0800000000000000
+      internalID: -264945704228551792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_248
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 4
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416dd1d15a9fa9150800000000000000
+      internalID: 5880286751039018516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_249
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723751bab83f6ef60800000000000000
+      internalID: 8063399964049765159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_250
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 3
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b8a64071f3604d0800000000000000
+      internalID: -3168775919717676166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_251
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 7
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe789d2abdbdb960800000000000000
+      internalID: 7619454751907282672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_252
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 7
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a1c16f95e658ca0800000000000000
+      internalID: -6015280394623247826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_253
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 11
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d27d5d84f1beb300800000000000000
+      internalID: 269848691590656721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_254
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d288b864b571a08d0800000000000000
+      internalID: -2879463330956998611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_255
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466ede661aeb8bc10800000000000000
+      internalID: 2069613629202622052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_256
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 5
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a34adcdcc21454d0800000000000000
+      internalID: -3146869568537214040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_257
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 6
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ef889acf726a800800000000000000
+      internalID: 623229564566961695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_258
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7179f1b14fb2183f0800000000000000
+      internalID: -900390123070318825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_259
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edebce8c37743cf0800000000000000
+      internalID: -273462575385285148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_260
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753c68af655ee6330800000000000000
+      internalID: 3706151705105580887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_261
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 8
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187afd5d094d5e6e0800000000000000
+      internalID: -1808805956790802559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_262
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 11
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b7e2125cd37f910800000000000000
+      internalID: 1871032087070276402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_263
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 4
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74376017dfcdfbfd0800000000000000
+      internalID: -2323895901618801849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Casualties_Intro_264
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b48a11e9a5608600800000000000000
+      internalID: 468486141547021491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

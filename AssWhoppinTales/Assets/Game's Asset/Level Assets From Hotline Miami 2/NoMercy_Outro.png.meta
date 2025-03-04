@@ -1,0 +1,4180 @@
+fileFormatVersion: 2
+guid: c0222735ef4ba6445b8820b851f89b7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4185053847106521662
+    second: NoMercy_Outro_0
+  - first:
+      213: 1764890449426264228
+    second: NoMercy_Outro_1
+  - first:
+      213: -7835577689596226526
+    second: NoMercy_Outro_2
+  - first:
+      213: -6526277561521219029
+    second: NoMercy_Outro_3
+  - first:
+      213: -159068294930636621
+    second: NoMercy_Outro_4
+  - first:
+      213: 5590442320626421173
+    second: NoMercy_Outro_5
+  - first:
+      213: -4897726915507194846
+    second: NoMercy_Outro_6
+  - first:
+      213: -8620323273622686821
+    second: NoMercy_Outro_7
+  - first:
+      213: 7008856052098055173
+    second: NoMercy_Outro_8
+  - first:
+      213: -1884197908181090092
+    second: NoMercy_Outro_9
+  - first:
+      213: 8398866727210716707
+    second: NoMercy_Outro_10
+  - first:
+      213: 381448928070668736
+    second: NoMercy_Outro_11
+  - first:
+      213: -2089953850989523142
+    second: NoMercy_Outro_12
+  - first:
+      213: 7871169252491070580
+    second: NoMercy_Outro_13
+  - first:
+      213: 7308469337235576832
+    second: NoMercy_Outro_14
+  - first:
+      213: 1757902644366693219
+    second: NoMercy_Outro_15
+  - first:
+      213: -4112091711328582392
+    second: NoMercy_Outro_16
+  - first:
+      213: 2656502379599940693
+    second: NoMercy_Outro_17
+  - first:
+      213: -244029775328611524
+    second: NoMercy_Outro_18
+  - first:
+      213: 4752078766772778540
+    second: NoMercy_Outro_19
+  - first:
+      213: -1590677270557553499
+    second: NoMercy_Outro_20
+  - first:
+      213: 7315190820106378916
+    second: NoMercy_Outro_21
+  - first:
+      213: -663051350791052189
+    second: NoMercy_Outro_22
+  - first:
+      213: 1511931323570119241
+    second: NoMercy_Outro_23
+  - first:
+      213: -5732048379863286827
+    second: NoMercy_Outro_24
+  - first:
+      213: 2643028985874500869
+    second: NoMercy_Outro_25
+  - first:
+      213: -1239265952029475121
+    second: NoMercy_Outro_26
+  - first:
+      213: -224056585650604677
+    second: NoMercy_Outro_27
+  - first:
+      213: -7577233010320921463
+    second: NoMercy_Outro_28
+  - first:
+      213: -4764190700399478653
+    second: NoMercy_Outro_29
+  - first:
+      213: -8479934743033234935
+    second: NoMercy_Outro_30
+  - first:
+      213: -4007764489185848793
+    second: NoMercy_Outro_31
+  - first:
+      213: -6841385375644448695
+    second: NoMercy_Outro_32
+  - first:
+      213: 6780407778938225864
+    second: NoMercy_Outro_33
+  - first:
+      213: 3491861820606987630
+    second: NoMercy_Outro_34
+  - first:
+      213: -3492831583786194038
+    second: NoMercy_Outro_35
+  - first:
+      213: -1291434831811915507
+    second: NoMercy_Outro_36
+  - first:
+      213: 8015533517771814866
+    second: NoMercy_Outro_37
+  - first:
+      213: 7372955932430013668
+    second: NoMercy_Outro_38
+  - first:
+      213: 8543878992534480075
+    second: NoMercy_Outro_39
+  - first:
+      213: -919092319625097388
+    second: NoMercy_Outro_40
+  - first:
+      213: -5324399764858974433
+    second: NoMercy_Outro_41
+  - first:
+      213: 7683000022494840442
+    second: NoMercy_Outro_42
+  - first:
+      213: 3156607564551135369
+    second: NoMercy_Outro_43
+  - first:
+      213: -5454661652470982769
+    second: NoMercy_Outro_44
+  - first:
+      213: 695891621947909559
+    second: NoMercy_Outro_45
+  - first:
+      213: -2673941848697300593
+    second: NoMercy_Outro_46
+  - first:
+      213: -976970200075258098
+    second: NoMercy_Outro_47
+  - first:
+      213: 6699230002046681541
+    second: NoMercy_Outro_48
+  - first:
+      213: -5950698945184618231
+    second: NoMercy_Outro_49
+  - first:
+      213: 7653182240585391724
+    second: NoMercy_Outro_50
+  - first:
+      213: 4121329900572661583
+    second: NoMercy_Outro_51
+  - first:
+      213: -5527176780411662590
+    second: NoMercy_Outro_52
+  - first:
+      213: -6838290435608392558
+    second: NoMercy_Outro_53
+  - first:
+      213: -1973154264222636485
+    second: NoMercy_Outro_54
+  - first:
+      213: -7560725714605434454
+    second: NoMercy_Outro_55
+  - first:
+      213: -8261891189498438002
+    second: NoMercy_Outro_56
+  - first:
+      213: 8457317323949980682
+    second: NoMercy_Outro_57
+  - first:
+      213: -707003146627164654
+    second: NoMercy_Outro_58
+  - first:
+      213: 6255903984598861632
+    second: NoMercy_Outro_59
+  - first:
+      213: 8853751256305278063
+    second: NoMercy_Outro_60
+  - first:
+      213: 3294586546006571797
+    second: NoMercy_Outro_61
+  - first:
+      213: -6280906361395477331
+    second: NoMercy_Outro_62
+  - first:
+      213: 4397963970815230569
+    second: NoMercy_Outro_63
+  - first:
+      213: -4528212642565538357
+    second: NoMercy_Outro_64
+  - first:
+      213: -7002151676377135025
+    second: NoMercy_Outro_65
+  - first:
+      213: 3660315645149073299
+    second: NoMercy_Outro_66
+  - first:
+      213: -4327871869751268788
+    second: NoMercy_Outro_67
+  - first:
+      213: 434034331935235722
+    second: NoMercy_Outro_68
+  - first:
+      213: 2849474467677396146
+    second: NoMercy_Outro_69
+  - first:
+      213: -2221261797903314110
+    second: NoMercy_Outro_70
+  - first:
+      213: -8891116873343364913
+    second: NoMercy_Outro_71
+  - first:
+      213: 3091310573705426256
+    second: NoMercy_Outro_72
+  - first:
+      213: 3033931000040413788
+    second: NoMercy_Outro_73
+  - first:
+      213: -6152440943294577456
+    second: NoMercy_Outro_74
+  - first:
+      213: -2176596926563222366
+    second: NoMercy_Outro_75
+  - first:
+      213: 4885563451482805504
+    second: NoMercy_Outro_76
+  - first:
+      213: -6651200580607745936
+    second: NoMercy_Outro_77
+  - first:
+      213: -3052751684085588596
+    second: NoMercy_Outro_78
+  - first:
+      213: -104644925940965619
+    second: NoMercy_Outro_79
+  - first:
+      213: -7539731341094583919
+    second: NoMercy_Outro_80
+  - first:
+      213: -1487500222516305190
+    second: NoMercy_Outro_81
+  - first:
+      213: -8683381632311878619
+    second: NoMercy_Outro_82
+  - first:
+      213: 4743091473899015940
+    second: NoMercy_Outro_83
+  - first:
+      213: -7875814192637479641
+    second: NoMercy_Outro_84
+  - first:
+      213: -3043783170616659209
+    second: NoMercy_Outro_85
+  - first:
+      213: 4837859783555512297
+    second: NoMercy_Outro_86
+  - first:
+      213: -8321282552234851820
+    second: NoMercy_Outro_87
+  - first:
+      213: -1410463795592046287
+    second: NoMercy_Outro_88
+  - first:
+      213: -2796197627040785201
+    second: NoMercy_Outro_89
+  - first:
+      213: -7925062222687839886
+    second: NoMercy_Outro_90
+  - first:
+      213: 1111353967841778111
+    second: NoMercy_Outro_91
+  - first:
+      213: 3435323633537280217
+    second: NoMercy_Outro_92
+  - first:
+      213: -2571308101200644441
+    second: NoMercy_Outro_93
+  - first:
+      213: -1911838844651231080
+    second: NoMercy_Outro_94
+  - first:
+      213: 4477782174984029713
+    second: NoMercy_Outro_95
+  - first:
+      213: 6659360729745372006
+    second: NoMercy_Outro_96
+  - first:
+      213: -4026555241442748973
+    second: NoMercy_Outro_97
+  - first:
+      213: -325205872459509378
+    second: NoMercy_Outro_98
+  - first:
+      213: 1312902606539584912
+    second: NoMercy_Outro_99
+  - first:
+      213: 2235137963254617446
+    second: NoMercy_Outro_100
+  - first:
+      213: 3662800645429609359
+    second: NoMercy_Outro_101
+  - first:
+      213: 4960186973111673497
+    second: NoMercy_Outro_102
+  - first:
+      213: 4136499420327303970
+    second: NoMercy_Outro_103
+  - first:
+      213: -5770355088891806563
+    second: NoMercy_Outro_104
+  - first:
+      213: -8900494007975641817
+    second: NoMercy_Outro_105
+  - first:
+      213: -3258635290201863083
+    second: NoMercy_Outro_106
+  - first:
+      213: -8346645761586951888
+    second: NoMercy_Outro_107
+  - first:
+      213: -5364514819183439379
+    second: NoMercy_Outro_108
+  - first:
+      213: 7433218111913287746
+    second: NoMercy_Outro_109
+  - first:
+      213: -3381724298854844466
+    second: NoMercy_Outro_110
+  - first:
+      213: -6269721904970401960
+    second: NoMercy_Outro_111
+  - first:
+      213: -8767504742726505089
+    second: NoMercy_Outro_112
+  - first:
+      213: -6301263302587717774
+    second: NoMercy_Outro_113
+  - first:
+      213: -9013853022309202257
+    second: NoMercy_Outro_114
+  - first:
+      213: 5252644491155711830
+    second: NoMercy_Outro_115
+  - first:
+      213: -3735807751881392522
+    second: NoMercy_Outro_116
+  - first:
+      213: 6758792270338121341
+    second: NoMercy_Outro_117
+  - first:
+      213: 5447340774753056845
+    second: NoMercy_Outro_118
+  - first:
+      213: 3790849739121242657
+    second: NoMercy_Outro_119
+  - first:
+      213: -838692102510981078
+    second: NoMercy_Outro_120
+  - first:
+      213: 2706453575356744505
+    second: NoMercy_Outro_121
+  - first:
+      213: -320429434696096315
+    second: NoMercy_Outro_122
+  - first:
+      213: -9091293498670660139
+    second: NoMercy_Outro_123
+  - first:
+      213: -1166462577465411289
+    second: NoMercy_Outro_124
+  - first:
+      213: 1935467083498627289
+    second: NoMercy_Outro_125
+  - first:
+      213: 5155244569145071107
+    second: NoMercy_Outro_126
+  - first:
+      213: -7394430656266154606
+    second: NoMercy_Outro_127
+  - first:
+      213: 5999414243393428203
+    second: NoMercy_Outro_128
+  - first:
+      213: 4934866057136892200
+    second: NoMercy_Outro_129
+  - first:
+      213: -1039324220425699963
+    second: NoMercy_Outro_130
+  - first:
+      213: -3665548301210945134
+    second: NoMercy_Outro_131
+  - first:
+      213: -2188473465129184115
+    second: NoMercy_Outro_132
+  - first:
+      213: -8432465885315428167
+    second: NoMercy_Outro_133
+  - first:
+      213: 6870507130577538369
+    second: NoMercy_Outro_134
+  - first:
+      213: 1673701064728918520
+    second: NoMercy_Outro_135
+  - first:
+      213: -4538786609149766917
+    second: NoMercy_Outro_136
+  - first:
+      213: 3424020643627276070
+    second: NoMercy_Outro_137
+  - first:
+      213: -3214393877846709566
+    second: NoMercy_Outro_138
+  - first:
+      213: 8419333900375536890
+    second: NoMercy_Outro_139
+  - first:
+      213: -2951422984991482895
+    second: NoMercy_Outro_140
+  - first:
+      213: -2080147789428763056
+    second: NoMercy_Outro_141
+  - first:
+      213: -8903833266181475394
+    second: NoMercy_Outro_142
+  - first:
+      213: -2522854404403952023
+    second: NoMercy_Outro_143
+  - first:
+      213: -4357864969352050609
+    second: NoMercy_Outro_144
+  - first:
+      213: -219556704018135342
+    second: NoMercy_Outro_145
+  - first:
+      213: 5191935350454800983
+    second: NoMercy_Outro_146
+  - first:
+      213: -8989956017534856283
+    second: NoMercy_Outro_147
+  - first:
+      213: 1141373423079492422
+    second: NoMercy_Outro_148
+  - first:
+      213: 4943455354830196092
+    second: NoMercy_Outro_149
+  - first:
+      213: -6609615622488390783
+    second: NoMercy_Outro_150
+  - first:
+      213: -2114808040669532539
+    second: NoMercy_Outro_151
+  - first:
+      213: -4679597360151993116
+    second: NoMercy_Outro_152
+  - first:
+      213: 2269247951280389670
+    second: NoMercy_Outro_153
+  - first:
+      213: 1518782552998579256
+    second: NoMercy_Outro_154
+  - first:
+      213: 4164349147386974604
+    second: NoMercy_Outro_155
+  - first:
+      213: -9196260326214794935
+    second: NoMercy_Outro_156
+  - first:
+      213: -8622087333924919134
+    second: NoMercy_Outro_157
+  - first:
+      213: 5480921340619319208
+    second: NoMercy_Outro_158
+  - first:
+      213: 1868534439216270540
+    second: NoMercy_Outro_159
+  - first:
+      213: 5381669113111475225
+    second: NoMercy_Outro_160
+  - first:
+      213: 2241270664570968636
+    second: NoMercy_Outro_161
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NoMercy_Outro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 481
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a8aa2fc4c441a30800000000000000
+      internalID: 4185053847106521662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 417
+        width: 6
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0388153862e7810800000000000000
+      internalID: 1764890449426264228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 417
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22414a12b9f624390800000000000000
+      internalID: -7835577689596226526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_3
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 513
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2adcefa2210e65a0800000000000000
+      internalID: -6526277561521219029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_4
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 513
+        width: 38
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0e1a18a30eacdf0800000000000000
+      internalID: -159068294930636621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_5
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 445
+        width: 114
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd8f32dbad359d40800000000000000
+      internalID: 5590442320626421173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_6
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 593
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224f252d157c70cb0800000000000000
+      internalID: -4897726915507194846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_7
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 560
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93ffa2b7a57e5880800000000000000
+      internalID: -8620323273622686821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_8
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 527
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cb623e175744160800000000000000
+      internalID: 7008856052098055173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_9
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 401
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d005544cfbf9d5e0800000000000000
+      internalID: -1884197908181090092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_10
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 401
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e0e3f0ac4ce8470800000000000000
+      internalID: 8398866727210716707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_11
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 402
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c11b9177cd2b4500800000000000000
+      internalID: 381448928070668736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_12
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 443
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f4fcaab0efef2e0800000000000000
+      internalID: -2089953850989523142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_13
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 402
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c05bd5bb20c3d60800000000000000
+      internalID: 7871169252491070580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_14
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 443
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008d2c9e326ec6560800000000000000
+      internalID: 7308469337235576832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_15
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 444
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363523b2423556810800000000000000
+      internalID: 1757902644366693219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_16
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 422
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8058e66106aeee6c0800000000000000
+      internalID: -4112091711328582392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 374
+        width: 70
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cc809e6dacdd420800000000000000
+      internalID: 2656502379599940693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_18
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 376
+        width: 70
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c337be656380d9cf0800000000000000
+      internalID: -244029775328611524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_19
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 382
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26fa26f576c2f140800000000000000
+      internalID: 4752078766772778540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_20
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 401
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac01204377cce9e0800000000000000
+      internalID: -1590677270557553499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_21
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 384
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae93a81b47c48560800000000000000
+      internalID: 7315190820106378916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_22
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 401
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364a1483f4e5cc6f0800000000000000
+      internalID: -663051350791052189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_23
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 376
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942ee2a37857bf410800000000000000
+      internalID: 1511931323570119241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_24
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 371
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db35e24e5ca370b0800000000000000
+      internalID: -5732048379863286827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_25
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 369
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d4c1afbdceda420800000000000000
+      internalID: 2643028985874500869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 369
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcefb0bbe2e3dcee0800000000000000
+      internalID: -1239265952029475121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_27
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 370
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7575b2f8bdf3ecf0800000000000000
+      internalID: -224056585650604677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 193
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c257719b248d690800000000000000
+      internalID: -7577233010320921463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388387cbcc132edb0800000000000000
+      internalID: -4764190700399478653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_30
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 323
+        width: 105
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ab203a748315a80800000000000000
+      internalID: -8479934743033234935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_31
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 277
+        width: 105
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72217ae5e6f8168c0800000000000000
+      internalID: -4007764489185848793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_32
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 323
+        width: 105
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94809218f348e01a0800000000000000
+      internalID: -6841385375644448695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_33
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 288
+        width: 95
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c488e763f8d81e50800000000000000
+      internalID: 6780407778938225864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_34
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 323
+        width: 105
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d370e33d5957030800000000000000
+      internalID: 3491861820606987630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_35
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 298
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ba82c2e28f68fc0800000000000000
+      internalID: -3492831583786194038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_36
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 288
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01d84fdcd6e31ee0800000000000000
+      internalID: -1291434831811915507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_37
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 324
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7b60c2445ec3f60800000000000000
+      internalID: 8015533517771814866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_38
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 290
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e499116b50025660800000000000000
+      internalID: 7372955932430013668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_39
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 292
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4a0f12da4f19670800000000000000
+      internalID: 8543878992534480075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_40
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 309
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fc4f4a76abe33f0800000000000000
+      internalID: -919092319625097388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_41
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f486daf9eeb16b0800000000000000
+      internalID: -5324399764858974433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_42
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 289
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a768f1e60df7f9a60800000000000000
+      internalID: 7683000022494840442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_43
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 289
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980a1640bd58ecb20800000000000000
+      internalID: 3156607564551135369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_44
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 289
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87958a80262d44b0800000000000000
+      internalID: -5454661652470982769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_45
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 289
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b520604ebd48a900800000000000000
+      internalID: 695891621947909559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_46
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 265
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8998564e0044ead0800000000000000
+      internalID: -2673941848697300593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_47
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 238
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e073f5c77ca1172f0800000000000000
+      internalID: -976970200075258098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_48
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 223
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1c1ac513278fc50800000000000000
+      internalID: 6699230002046681541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_49
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 229
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909aaf666deda6da0800000000000000
+      internalID: -5950698945184618231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_50
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 236
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e9b6313b0953a60800000000000000
+      internalID: 7653182240585391724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_51
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 249
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4754d575b7e13930800000000000000
+      internalID: 4121329900572661583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_52
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 229
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f86c0a0068b43b0800000000000000
+      internalID: -5527176780411662590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_53
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 230
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c4c9264138911a0800000000000000
+      internalID: -6838290435608392558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_54
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 238
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3666f1a6a2fd94e0800000000000000
+      internalID: -1973154264222636485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_55
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 229
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa918c06508e21790800000000000000
+      internalID: -7560725714605434454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_56
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 187
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e140d8cbdd75d80800000000000000
+      internalID: -8261891189498438002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_57
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 199
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cbbce1c4d6e5570800000000000000
+      internalID: 8457317323949980682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_58
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 191
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216543e42683036f0800000000000000
+      internalID: -707003146627164654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_59
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 138
+        width: 28
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04747fe578f61d650800000000000000
+      internalID: 6255903984598861632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_60
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 146
+        width: 19
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c9eb1cbd7deda70800000000000000
+      internalID: 8853751256305278063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_61
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 156
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bb0841209b8bd20800000000000000
+      internalID: 3294586546006571797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_62
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 191
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4088521fcb5d8a0800000000000000
+      internalID: -6280906361395477331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_63
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 191
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96288671ee4b80d30800000000000000
+      internalID: 4397963970815230569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_64
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 198
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdb274d79e8821c0800000000000000
+      internalID: -4528212642565538357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_65
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 198
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48822a362c53de90800000000000000
+      internalID: -7002151676377135025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_66
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 211
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f4ae2afad0cc230800000000000000
+      internalID: 3660315645149073299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 79
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ae11ae67f40f3c0800000000000000
+      internalID: -4327871869751268788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_68
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 131
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ed25fdceff50600800000000000000
+      internalID: 434034331935235722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_69
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 142
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcd4726eed5b8720800000000000000
+      internalID: 2849474467677396146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_70
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 154
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243d3ded92e7c21e0800000000000000
+      internalID: -2221261797903314110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_71
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 143
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc013e39f486c9480800000000000000
+      internalID: -8891116873343364913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_72
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 143
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055fe1c969a86ea20800000000000000
+      internalID: 3091310573705426256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_73
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 150
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a547a8b20ba1a20800000000000000
+      internalID: 3033931000040413788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_74
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 150
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d48b512f832e9aa0800000000000000
+      internalID: -6152440943294577456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_75
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 150
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acfdfc90ac2bc1e0800000000000000
+      internalID: -2176596926563222366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_76
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 175
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005934503120dc340800000000000000
+      internalID: 4885563451482805504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_77
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 158
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070e00fbf4032b3a0800000000000000
+      internalID: -6651200580607745936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_78
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 181
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d5a9a748272a5d0800000000000000
+      internalID: -3052751684085588596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 161
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fddb98ef93c8ef0800000000000000
+      internalID: -104644925940965619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_80
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 39
+        width: 24
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1918d20ea4e7d5790800000000000000
+      internalID: -7539731341094583919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_81
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 41
+        width: 7
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2e991cd665b5be0800000000000000
+      internalID: -1487500222516305190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_82
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 146
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c16e4796e6e7780800000000000000
+      internalID: -8683381632311878619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_83
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 130
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f4fe6c098d2d140800000000000000
+      internalID: 4743091473899015940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_84
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 97
+        width: 13
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725fcda38bc73b290800000000000000
+      internalID: -7875814192637479641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_85
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 113
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2f41e355f42c5d0800000000000000
+      internalID: -3043783170616659209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 107
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e779ff47d7832340800000000000000
+      internalID: 4837859783555512297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_87
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 147
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412c2665b9dd48c80800000000000000
+      internalID: -8321282552234851820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_88
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139df2f96a60d6ce0800000000000000
+      internalID: -1410463795592046287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_89
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 74
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc9176b219e139d0800000000000000
+      internalID: -2796197627040785201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_90
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 74
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279d2d1b5e5840290800000000000000
+      internalID: -7925062222687839886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_91
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 97
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb91ee8ab825c6f00800000000000000
+      internalID: 1111353967841778111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_92
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 109
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d86e71c4a8bcaf20800000000000000
+      internalID: 3435323633537280217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_93
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 49
+        width: 28
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6f9d3c7e0e05cd0800000000000000
+      internalID: -2571308101200644441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_94
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 93
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89825cc33b8c775e0800000000000000
+      internalID: -1911838844651231080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_95
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 93
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116cf71f927442e30800000000000000
+      internalID: 4477782174984029713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_96
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 93
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663b8a70d4dca6c50800000000000000
+      internalID: 6659360729745372006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_97
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 126
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5515d675dce18c0800000000000000
+      internalID: -4026555241442748973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_98
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 125
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e711e256bf2ac7bf0800000000000000
+      internalID: -325205872459509378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_99
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 124
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095f97fe6fd583210800000000000000
+      internalID: 1312902606539584912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_100
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66518c3a22ec40f10800000000000000
+      internalID: 2235137963254617446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_101
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 56
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8347e9d7c1e4d230800000000000000
+      internalID: 3662800645429609359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_102
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 98
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99267d795cf16d440800000000000000
+      internalID: 4960186973111673497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_103
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 98
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bd7328e4cc76930800000000000000
+      internalID: 4136499420327303970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_104
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 99
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c7cba8e949befa0800000000000000
+      internalID: -5770355088891806563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_105
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 52
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d7e194bd71b7480800000000000000
+      internalID: -8900494007975641817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_106
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 64
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c47f2f77007c2d0800000000000000
+      internalID: -3258635290201863083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_107
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 69
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039079af6e1ca2c80800000000000000
+      internalID: -8346645761586951888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_108
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 63
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de19042c13a6d85b0800000000000000
+      internalID: -5364514819183439379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_109
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 63
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240679a6d78182760800000000000000
+      internalID: 7433218111913287746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_110
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 45
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec73376daa3b111d0800000000000000
+      internalID: -3381724298854844466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_111
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 42
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857f0c555297df8a0800000000000000
+      internalID: -6269721904970401960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_112
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 77
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7deb3383e0935680800000000000000
+      internalID: -8767504742726505089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_113
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 62
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277ed0d696a6d88a0800000000000000
+      internalID: -6301263302587717774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_114
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 70
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6cda30f6c58e280800000000000000
+      internalID: -9013853022309202257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_115
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 70
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657afb2c55425e840800000000000000
+      internalID: 5252644491155711830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_116
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 65
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e75ff84aeb72cc0800000000000000
+      internalID: -3735807751881392522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 17
+        width: 105
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ed820a2cd0ccd50800000000000000
+      internalID: 6758792270338121341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_118
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 15
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4838a9c297d89b40800000000000000
+      internalID: 5447340774753056845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_119
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1223431c0cdcb9430800000000000000
+      internalID: 3790849739121242657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_120
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 30
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2058e1f9fd5c54f0800000000000000
+      internalID: -838692102510981078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_121
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 30
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9338938ff214f8520800000000000000
+      internalID: 2706453575356744505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_122
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 51
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c52c59702b9d8bf0800000000000000
+      internalID: -320429434696096315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_123
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 45
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5caee0bbc35d180800000000000000
+      internalID: -9091293498670660139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_124
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 56
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729336a4774efcfe0800000000000000
+      internalID: -1166462577465411289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_125
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 47
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0a562de092cda10800000000000000
+      internalID: 1935467083498627289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_126
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 56
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306572a3f9b1b8740800000000000000
+      internalID: 5155244569145071107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_127
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 39
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d4ff8de74b16990800000000000000
+      internalID: -7394430656266154606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_128
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 31
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea52e5d773324350800000000000000
+      internalID: 5999414243393428203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_129
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 40
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829e6cd688a2c7440800000000000000
+      internalID: 4934866057136892200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_130
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 3
+        width: 13
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58df01bc0249391f0800000000000000
+      internalID: -1039324220425699963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_131
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 4
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299f84fad3b512dc0800000000000000
+      internalID: -3665548301210945134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_132
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 7
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d845b9e7afaf0a1e0800000000000000
+      internalID: -2188473465129184115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_133
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 7
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b09c2554fcd9fa80800000000000000
+      internalID: -8432465885315428167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_134
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dccd075d1f85f50800000000000000
+      internalID: 6870507130577538369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_135
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f93c5f204e2a3710800000000000000
+      internalID: 1673701064728918520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_136
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 26
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2145260adf201c0800000000000000
+      internalID: -4538786609149766917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_137
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 36
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627120752a0948f20800000000000000
+      internalID: 3424020643627276070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_138
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 38
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caa1c67ccd2463d0800000000000000
+      internalID: -3214393877846709566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 65
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4b949239b77d470800000000000000
+      internalID: 8419333900375536890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_140
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 7
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbd8a5be607a07d0800000000000000
+      internalID: -2951422984991482895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_141
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056d8ca4b94d123e0800000000000000
+      internalID: -2080147789428763056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_142
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 14
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb372f5a1da3f6480800000000000000
+      internalID: -8903833266181475394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_143
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 30
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966097d29450dfcd0800000000000000
+      internalID: -2522854404403952023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_144
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 10
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4807aa36e0c583c0800000000000000
+      internalID: -4357864969352050609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_145
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 6
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d681f8475af3fcf0800000000000000
+      internalID: -219556704018135342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_146
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 7
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752d6a471b57d0840800000000000000
+      internalID: 5191935350454800983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_147
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 13
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3137402a24d3380800000000000000
+      internalID: -8989956017534856283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_148
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 12
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b89beb419f6df00800000000000000
+      internalID: 1141373423079492422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_149
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 12
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d08a3247eaa9440800000000000000
+      internalID: 4943455354830196092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18305bf4c9de544a0800000000000000
+      internalID: -6609615622488390783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_151
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ea0cfaa41b6a2e0800000000000000
+      internalID: -2114808040669532539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_152
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4e8489efabe0fb0800000000000000
+      internalID: -4679597360151993116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_153
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62eb95b1dfcfd7f10800000000000000
+      internalID: 2269247951280389670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_154
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 11
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c8a826facc31510800000000000000
+      internalID: 1518782552998579256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_155
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8193b26c7dbac930800000000000000
+      internalID: 4164349147386974604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_156
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94103f905f1506080800000000000000
+      internalID: -9196260326214794935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_157
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8a2076041385880800000000000000
+      internalID: -8622087333924919134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_158
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7e87d8be4201c40800000000000000
+      internalID: 5480921340619319208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_159
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccc11c2c2e5ee910800000000000000
+      internalID: 1868534439216270540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_160
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91473b98b878faa40800000000000000
+      internalID: 5381669113111475225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoMercy_Outro_161
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a914f6bc79a1f10800000000000000
+      internalID: 2241270664570968636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5030 @@
+fileFormatVersion: 2
+guid: 1d95a454e43a87f4885361a69bbca12d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3127938286379229313
+    second: rmOceanSide_0
+  - first:
+      213: 7155119686527611956
+    second: rmOceanSide_1
+  - first:
+      213: 8488318837870141547
+    second: rmOceanSide_2
+  - first:
+      213: -6823396834781189748
+    second: rmOceanSide_3
+  - first:
+      213: -675971603723187945
+    second: rmOceanSide_4
+  - first:
+      213: -4756510684557345817
+    second: rmOceanSide_5
+  - first:
+      213: 8793298843046724105
+    second: rmOceanSide_6
+  - first:
+      213: -1160643496724633701
+    second: rmOceanSide_7
+  - first:
+      213: 1667805441010557146
+    second: rmOceanSide_8
+  - first:
+      213: -4084500531846111505
+    second: rmOceanSide_9
+  - first:
+      213: -2719702410555881370
+    second: rmOceanSide_10
+  - first:
+      213: 6755541142044604005
+    second: rmOceanSide_11
+  - first:
+      213: 327125938269422988
+    second: rmOceanSide_12
+  - first:
+      213: -8674710028632342922
+    second: rmOceanSide_13
+  - first:
+      213: -5682985173784903094
+    second: rmOceanSide_14
+  - first:
+      213: 5043526499383267573
+    second: rmOceanSide_15
+  - first:
+      213: -8831436679986364376
+    second: rmOceanSide_16
+  - first:
+      213: 4946275743068355252
+    second: rmOceanSide_17
+  - first:
+      213: 7525297697956463879
+    second: rmOceanSide_18
+  - first:
+      213: 4907101448686679636
+    second: rmOceanSide_19
+  - first:
+      213: -4242439610642856101
+    second: rmOceanSide_20
+  - first:
+      213: -3534543314842476229
+    second: rmOceanSide_21
+  - first:
+      213: 4414859604283802262
+    second: rmOceanSide_22
+  - first:
+      213: 740326886462790827
+    second: rmOceanSide_23
+  - first:
+      213: 9087662834763220604
+    second: rmOceanSide_24
+  - first:
+      213: 7883920168420420092
+    second: rmOceanSide_25
+  - first:
+      213: 6223291592862375720
+    second: rmOceanSide_26
+  - first:
+      213: -762956326920405515
+    second: rmOceanSide_27
+  - first:
+      213: 887242425573469287
+    second: rmOceanSide_28
+  - first:
+      213: -7274257815560090088
+    second: rmOceanSide_29
+  - first:
+      213: -5749140716071600997
+    second: rmOceanSide_30
+  - first:
+      213: -6826410942441037569
+    second: rmOceanSide_31
+  - first:
+      213: -343631240188904384
+    second: rmOceanSide_32
+  - first:
+      213: 2087237833923243109
+    second: rmOceanSide_33
+  - first:
+      213: -1670921386056780283
+    second: rmOceanSide_34
+  - first:
+      213: -6506294376272876947
+    second: rmOceanSide_35
+  - first:
+      213: -5998200813090949302
+    second: rmOceanSide_36
+  - first:
+      213: 3037062355406849222
+    second: rmOceanSide_37
+  - first:
+      213: -6642623813570538420
+    second: rmOceanSide_38
+  - first:
+      213: -1841737804270998263
+    second: rmOceanSide_39
+  - first:
+      213: -3736763803019496908
+    second: rmOceanSide_40
+  - first:
+      213: -2504397023407571133
+    second: rmOceanSide_41
+  - first:
+      213: 2683605100937988065
+    second: rmOceanSide_42
+  - first:
+      213: -1049147468698121508
+    second: rmOceanSide_43
+  - first:
+      213: -2413357574344945963
+    second: rmOceanSide_44
+  - first:
+      213: 1808186810854623370
+    second: rmOceanSide_45
+  - first:
+      213: -1253136293657479693
+    second: rmOceanSide_46
+  - first:
+      213: -1297046648178083963
+    second: rmOceanSide_47
+  - first:
+      213: 8802801253535501419
+    second: rmOceanSide_48
+  - first:
+      213: -2821525985871060798
+    second: rmOceanSide_49
+  - first:
+      213: 8857571845174270675
+    second: rmOceanSide_50
+  - first:
+      213: 6949213667841638857
+    second: rmOceanSide_51
+  - first:
+      213: 333898505533253829
+    second: rmOceanSide_52
+  - first:
+      213: 2246765567430903001
+    second: rmOceanSide_53
+  - first:
+      213: -8947515587112397905
+    second: rmOceanSide_54
+  - first:
+      213: -5604264563307518941
+    second: rmOceanSide_55
+  - first:
+      213: 3696080978315368925
+    second: rmOceanSide_56
+  - first:
+      213: 1805943710215510552
+    second: rmOceanSide_57
+  - first:
+      213: 5919744437378393075
+    second: rmOceanSide_58
+  - first:
+      213: 6129246486502116199
+    second: rmOceanSide_59
+  - first:
+      213: -1219798603800745398
+    second: rmOceanSide_60
+  - first:
+      213: 8929611390430846652
+    second: rmOceanSide_61
+  - first:
+      213: 970918631843986859
+    second: rmOceanSide_62
+  - first:
+      213: -855735731247216313
+    second: rmOceanSide_63
+  - first:
+      213: -5727138003521993089
+    second: rmOceanSide_64
+  - first:
+      213: -3522949453186028096
+    second: rmOceanSide_65
+  - first:
+      213: 712651488935616223
+    second: rmOceanSide_66
+  - first:
+      213: 108291003301960837
+    second: rmOceanSide_67
+  - first:
+      213: 689524185462466140
+    second: rmOceanSide_68
+  - first:
+      213: -1475739757598997755
+    second: rmOceanSide_69
+  - first:
+      213: 3790305675025337442
+    second: rmOceanSide_70
+  - first:
+      213: -4481070083662805830
+    second: rmOceanSide_71
+  - first:
+      213: 5052576338632862801
+    second: rmOceanSide_72
+  - first:
+      213: -2189529830917779302
+    second: rmOceanSide_73
+  - first:
+      213: 3339159855915125594
+    second: rmOceanSide_74
+  - first:
+      213: -7478795727758812119
+    second: rmOceanSide_75
+  - first:
+      213: -7361687912701009116
+    second: rmOceanSide_76
+  - first:
+      213: -6697661862440816269
+    second: rmOceanSide_77
+  - first:
+      213: -2465388632977956276
+    second: rmOceanSide_78
+  - first:
+      213: 7957373289391842104
+    second: rmOceanSide_79
+  - first:
+      213: -239540280718770210
+    second: rmOceanSide_80
+  - first:
+      213: 5713745809298872573
+    second: rmOceanSide_81
+  - first:
+      213: 5248056039801283485
+    second: rmOceanSide_82
+  - first:
+      213: -5265084134827399154
+    second: rmOceanSide_83
+  - first:
+      213: -6489619052636036614
+    second: rmOceanSide_84
+  - first:
+      213: -6139252867314058852
+    second: rmOceanSide_85
+  - first:
+      213: 35776262475871477
+    second: rmOceanSide_86
+  - first:
+      213: 3849091910955364590
+    second: rmOceanSide_87
+  - first:
+      213: 1573702584465024356
+    second: rmOceanSide_88
+  - first:
+      213: -5139648008091843484
+    second: rmOceanSide_89
+  - first:
+      213: -5158465512548327840
+    second: rmOceanSide_90
+  - first:
+      213: 8988056940901275905
+    second: rmOceanSide_91
+  - first:
+      213: 6856451206801492054
+    second: rmOceanSide_92
+  - first:
+      213: -2953914562645357302
+    second: rmOceanSide_93
+  - first:
+      213: -6441120311641254779
+    second: rmOceanSide_94
+  - first:
+      213: -2837950304036554761
+    second: rmOceanSide_95
+  - first:
+      213: 2292379802161139195
+    second: rmOceanSide_96
+  - first:
+      213: -7201520942610643902
+    second: rmOceanSide_97
+  - first:
+      213: -8282900405387163071
+    second: rmOceanSide_98
+  - first:
+      213: 3660119002147831663
+    second: rmOceanSide_99
+  - first:
+      213: -2659825255897476123
+    second: rmOceanSide_100
+  - first:
+      213: 7061418716402345269
+    second: rmOceanSide_101
+  - first:
+      213: -3604903191468108216
+    second: rmOceanSide_102
+  - first:
+      213: 8943693221577944253
+    second: rmOceanSide_103
+  - first:
+      213: -7579501900037357992
+    second: rmOceanSide_104
+  - first:
+      213: -4620513959712793883
+    second: rmOceanSide_105
+  - first:
+      213: 4306504623456729877
+    second: rmOceanSide_106
+  - first:
+      213: 7446957235936865871
+    second: rmOceanSide_107
+  - first:
+      213: -3918794404797056838
+    second: rmOceanSide_108
+  - first:
+      213: 5380654811292741738
+    second: rmOceanSide_109
+  - first:
+      213: -5205774352391703843
+    second: rmOceanSide_110
+  - first:
+      213: -2308944969372231398
+    second: rmOceanSide_111
+  - first:
+      213: 3768556936116464546
+    second: rmOceanSide_112
+  - first:
+      213: 4065504061789120503
+    second: rmOceanSide_113
+  - first:
+      213: -4506108743211611151
+    second: rmOceanSide_114
+  - first:
+      213: -5964929340102574333
+    second: rmOceanSide_115
+  - first:
+      213: -1278507302667576463
+    second: rmOceanSide_116
+  - first:
+      213: -3423061512381822430
+    second: rmOceanSide_117
+  - first:
+      213: -8180968589707880934
+    second: rmOceanSide_118
+  - first:
+      213: 2288159231023074447
+    second: rmOceanSide_119
+  - first:
+      213: -5282951550221836655
+    second: rmOceanSide_120
+  - first:
+      213: -501968694385426080
+    second: rmOceanSide_121
+  - first:
+      213: 5566260145502685398
+    second: rmOceanSide_122
+  - first:
+      213: -5278737367343742077
+    second: rmOceanSide_123
+  - first:
+      213: -4933097989340512553
+    second: rmOceanSide_124
+  - first:
+      213: -1601138377276440449
+    second: rmOceanSide_125
+  - first:
+      213: 7535672060257323233
+    second: rmOceanSide_126
+  - first:
+      213: -6123011220754259106
+    second: rmOceanSide_127
+  - first:
+      213: -1599490402457473644
+    second: rmOceanSide_128
+  - first:
+      213: 1671320096524609335
+    second: rmOceanSide_129
+  - first:
+      213: 6285131747038424831
+    second: rmOceanSide_130
+  - first:
+      213: 2299208901028199646
+    second: rmOceanSide_131
+  - first:
+      213: -646260674717548677
+    second: rmOceanSide_132
+  - first:
+      213: -175654235613478490
+    second: rmOceanSide_133
+  - first:
+      213: -3825808563214056221
+    second: rmOceanSide_134
+  - first:
+      213: -4052458745643365531
+    second: rmOceanSide_135
+  - first:
+      213: 6927777298839743698
+    second: rmOceanSide_136
+  - first:
+      213: -3553297676787225276
+    second: rmOceanSide_137
+  - first:
+      213: -2194960654497077612
+    second: rmOceanSide_138
+  - first:
+      213: 2930642889876980229
+    second: rmOceanSide_139
+  - first:
+      213: -1941703005894255809
+    second: rmOceanSide_140
+  - first:
+      213: 3078104766076346527
+    second: rmOceanSide_141
+  - first:
+      213: -6056213096111134968
+    second: rmOceanSide_142
+  - first:
+      213: -6154640494496579778
+    second: rmOceanSide_143
+  - first:
+      213: 5570307572038679620
+    second: rmOceanSide_144
+  - first:
+      213: -7350765522384277400
+    second: rmOceanSide_145
+  - first:
+      213: -3842535408747710225
+    second: rmOceanSide_146
+  - first:
+      213: -3951478059416271388
+    second: rmOceanSide_147
+  - first:
+      213: 8325174569150761052
+    second: rmOceanSide_148
+  - first:
+      213: -7735840897587130452
+    second: rmOceanSide_149
+  - first:
+      213: -5757555908994202199
+    second: rmOceanSide_150
+  - first:
+      213: 1704344259998723040
+    second: rmOceanSide_151
+  - first:
+      213: 4195489940892123359
+    second: rmOceanSide_152
+  - first:
+      213: -3204946110439005204
+    second: rmOceanSide_153
+  - first:
+      213: -3153463881686145857
+    second: rmOceanSide_154
+  - first:
+      213: 7198192809012523096
+    second: rmOceanSide_155
+  - first:
+      213: 5208084886067100278
+    second: rmOceanSide_156
+  - first:
+      213: 7163833475821003007
+    second: rmOceanSide_157
+  - first:
+      213: 5263791547131236068
+    second: rmOceanSide_158
+  - first:
+      213: 8630985449823666624
+    second: rmOceanSide_159
+  - first:
+      213: -2331521327975142900
+    second: rmOceanSide_160
+  - first:
+      213: 7928350609233110371
+    second: rmOceanSide_161
+  - first:
+      213: 1563552310200765191
+    second: rmOceanSide_162
+  - first:
+      213: -5399269653502212607
+    second: rmOceanSide_163
+  - first:
+      213: 1191500876949070824
+    second: rmOceanSide_164
+  - first:
+      213: 7828466556803378982
+    second: rmOceanSide_165
+  - first:
+      213: -7985685076861856384
+    second: rmOceanSide_166
+  - first:
+      213: 4894730386625118684
+    second: rmOceanSide_167
+  - first:
+      213: 7150547141707489704
+    second: rmOceanSide_168
+  - first:
+      213: -409805029776003332
+    second: rmOceanSide_169
+  - first:
+      213: -2527834722686839344
+    second: rmOceanSide_170
+  - first:
+      213: 203658787441421849
+    second: rmOceanSide_171
+  - first:
+      213: 4237908094931865080
+    second: rmOceanSide_172
+  - first:
+      213: -7779361180424619214
+    second: rmOceanSide_173
+  - first:
+      213: 6728108316117190238
+    second: rmOceanSide_174
+  - first:
+      213: 2299385533380180730
+    second: rmOceanSide_175
+  - first:
+      213: 3077523952675049527
+    second: rmOceanSide_176
+  - first:
+      213: -9040068126114700912
+    second: rmOceanSide_177
+  - first:
+      213: 2785608343704148052
+    second: rmOceanSide_178
+  - first:
+      213: -541959598866244582
+    second: rmOceanSide_179
+  - first:
+      213: 803805645690172739
+    second: rmOceanSide_180
+  - first:
+      213: -4740290191746018288
+    second: rmOceanSide_181
+  - first:
+      213: -4864644974264031740
+    second: rmOceanSide_182
+  - first:
+      213: 8561149000478347260
+    second: rmOceanSide_183
+  - first:
+      213: 2499628428744826713
+    second: rmOceanSide_184
+  - first:
+      213: 6927718193971352928
+    second: rmOceanSide_185
+  - first:
+      213: 3569681152834910299
+    second: rmOceanSide_186
+  - first:
+      213: -3591726226039266729
+    second: rmOceanSide_187
+  - first:
+      213: -5834427456724086836
+    second: rmOceanSide_188
+  - first:
+      213: 3852552803636052191
+    second: rmOceanSide_189
+  - first:
+      213: -908717596536331893
+    second: rmOceanSide_190
+  - first:
+      213: 280227610050843852
+    second: rmOceanSide_191
+  - first:
+      213: 273544482759980706
+    second: rmOceanSide_192
+  - first:
+      213: -6189278585631697178
+    second: rmOceanSide_193
+  - first:
+      213: 2353896464410857186
+    second: rmOceanSide_194
+  - first:
+      213: 4229458602458767151
+    second: rmOceanSide_195
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmOceanSide_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1806af68c4ba86b20800000000000000
+      internalID: 3127938286379229313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 375
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434f1e802771c4360800000000000000
+      internalID: 7155119686527611956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 471
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60a18f82019cc570800000000000000
+      internalID: 8488318837870141547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 471
+        width: 38
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89a75d0bbc6e41a0800000000000000
+      internalID: -6823396834781189748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 375
+        width: 194
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71904d968677e96f0800000000000000
+      internalID: -675971603723187945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 501
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebfb94cbba7dfdb0800000000000000
+      internalID: -4756510684557345817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_6
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 519
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90247a775b2180a70800000000000000
+      internalID: 8793298843046724105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_7
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 501
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b976cda93e094efe0800000000000000
+      internalID: -1160643496724633701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_8
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 493
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0e5e1563c352710800000000000000
+      internalID: 1667805441010557146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_9
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 493
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee1b6a2860f057c0800000000000000
+      internalID: -4084500531846111505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 493
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6680b04311da14ad0800000000000000
+      internalID: -2719702410555881370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 428
+        width: 7
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566fa1550e080cd50800000000000000
+      internalID: 6755541142044604005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_12
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 460
+        width: 5
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c858d53ce4f2a8400800000000000000
+      internalID: 327125938269422988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 359
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67eb9d5803d3d9780800000000000000
+      internalID: -8674710028632342922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 359
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a424dbc181bf121b0800000000000000
+      internalID: -5682985173784903094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_15
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 424
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0520321a43ef540800000000000000
+      internalID: 5043526499383267573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_16
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 424
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820ce09612f607580800000000000000
+      internalID: -8831436679986364376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_17
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 451
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba78b2f493b4a440800000000000000
+      internalID: 4946275743068355252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 361
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70582c3b26a3f6860800000000000000
+      internalID: 7525297697956463879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_19
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 387
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45636c5c4c6891440800000000000000
+      internalID: 4907101448686679636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_20
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 365
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57069ac6a3df15c0800000000000000
+      internalID: -4242439610642856101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_21
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 368
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31259bf497c2fec0800000000000000
+      internalID: -3534543314842476229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 379
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692ce8e4b6bb44d30800000000000000
+      internalID: 4414859604283802262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 369
+        width: 66
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac194d716b264a00800000000000000
+      internalID: 740326886462790827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76c490233ddd1e70800000000000000
+      internalID: 9087662834763220604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 361
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9ac345f9f496d60800000000000000
+      internalID: 7883920168420420092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_26
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 364
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f9c363bb29d5650800000000000000
+      internalID: 6223291592862375720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 366
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdb5c2534f6965f0800000000000000
+      internalID: -762956326920405515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_28
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 366
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c66f5094e105c00800000000000000
+      internalID: 887242425573469287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_29
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 366
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e8ee2be05ac0b90800000000000000
+      internalID: -7274257815560090088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_30
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 359
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c31de9af2f630b0800000000000000
+      internalID: -5749140716071600997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_31
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 366
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff066fc6a67b341a0800000000000000
+      internalID: -6826410942441037569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c30da253d2b3bf0800000000000000
+      internalID: -343631240188904384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_33
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 337
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c20c450cb57fc10800000000000000
+      internalID: 2087237833923243109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 361
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5067b703ad1bfc8e0800000000000000
+      internalID: -1670921386056780283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_35
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 361
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a22229cbff4b5a0800000000000000
+      internalID: -6506294376272876947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_36
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 361
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47314ce32c12cca0800000000000000
+      internalID: -5998200813090949302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_37
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 361
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c48cb60f10d52a20800000000000000
+      internalID: 3037062355406849222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_38
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 361
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44d39fe5d8a0d3a0800000000000000
+      internalID: -6642623813570538420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 193
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90de4079935d076e0800000000000000
+      internalID: -1841737804270998263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 278
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4323c7f8e19542cc0800000000000000
+      internalID: -3736763803019496908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 312
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ffe331d289e3dd0800000000000000
+      internalID: -2504397023407571133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_42
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 324
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7c5d6fe941e3520800000000000000
+      internalID: 2683605100937988065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_43
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 324
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda8f339feda071f0800000000000000
+      internalID: -1049147468698121508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 324
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5decb299218028ed0800000000000000
+      internalID: -2413357574344945963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_45
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 324
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8849840358f71910800000000000000
+      internalID: 1808186810854623370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_46
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 335
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f575692e27fb9ee0800000000000000
+      internalID: -1253136293657479693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_47
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 297
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587fb3e02f6fffde0800000000000000
+      internalID: -1297046648178083963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cc851d915d92a70800000000000000
+      internalID: 8802801253535501419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 294
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c02f9f901de7d8d0800000000000000
+      internalID: -2821525985871060798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_50
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da1d1ce9aa6cea70800000000000000
+      internalID: 8857571845174270675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 294
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c18dfb2301907060800000000000000
+      internalID: 6949213667841638857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8e755fbee32a400800000000000000
+      internalID: 333898505533253829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_53
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 294
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d44c44316d1e2f10800000000000000
+      internalID: 2246765567430903001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_54
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa315efbaf904d380800000000000000
+      internalID: -8947515587112397905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 294
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324eeb48217a932b0800000000000000
+      internalID: -5604264563307518941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_56
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9d09d211e1b4330800000000000000
+      internalID: 3696080978315368925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_57
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 294
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a1fb37c30001910800000000000000
+      internalID: 1805943710215510552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_58
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 296
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3a80f9338272250800000000000000
+      internalID: 5919744437378393075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_59
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 309
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b05c094357f0550800000000000000
+      internalID: 6129246486502116199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_60
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 302
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a60f2f1a7621fe0800000000000000
+      internalID: -1219798603800745398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_61
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 302
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe99ec9f3a5ceb70800000000000000
+      internalID: 8929611390430846652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_62
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 301
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad7edcf955697d00800000000000000
+      internalID: 970918631843986859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_63
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 295
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7498665e2e0df14f0800000000000000
+      internalID: -855735731247216313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_64
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 300
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f768e68545e1580b0800000000000000
+      internalID: -5727138003521993089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_65
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 301
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cda0314328fb1fc0800000000000000
+      internalID: -3522949453186028096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_66
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 295
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde19aed0c8d3e900800000000000000
+      internalID: 712651488935616223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_67
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 301
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c1f20081ab08100800000000000000
+      internalID: 108291003301960837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_68
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 300
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56e78ae79ea19900800000000000000
+      internalID: 689524185462466140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 225
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503046f528e158be0800000000000000
+      internalID: -1475739757598997755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_70
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 225
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c4806fdeed99430800000000000000
+      internalID: 3790305675025337442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_71
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 261
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab406a9208a00d1c0800000000000000
+      internalID: -4481070083662805830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_72
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 238
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c61c8096b5e1640800000000000000
+      internalID: 5052576338632862801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_73
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 261
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90560b283a3d91e0800000000000000
+      internalID: -2189529830917779302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 226
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bc0148234175e20800000000000000
+      internalID: 3339159855915125594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_75
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 254
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c1a33f8eaf53890800000000000000
+      internalID: -7478795727758812119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_76
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 259
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4236b28e8d706d990800000000000000
+      internalID: -7361687912701009116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_77
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 259
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371b88795002d03a0800000000000000
+      internalID: -6697661862440816269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_78
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 259
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42201ab91e29cdd0800000000000000
+      internalID: -2465388632977956276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_79
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 259
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833e163c8d44e6e60800000000000000
+      internalID: 7957373289391842104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_80
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 259
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf3c52426bfcacf0800000000000000
+      internalID: -239540280718770210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_81
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 261
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8d2247a8d4b4f40800000000000000
+      internalID: 5713745809298872573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_82
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 261
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93e2bda927d4d840800000000000000
+      internalID: 5248056039801283485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_83
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 261
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08611fffd9aee6b0800000000000000
+      internalID: -5265084134827399154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_84
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 221
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1a508eadd30f5a0800000000000000
+      internalID: -6489619052636036614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_85
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 225
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9972795b0efccaa0800000000000000
+      internalID: -6139252867314058852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_86
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 229
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4f348325a1f7000800000000000000
+      internalID: 35776262475871477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_87
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 218
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0f25c13b8ba6530800000000000000
+      internalID: 3849091910955364590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_88
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 218
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465e629a92ae6d510800000000000000
+      internalID: 1573702584465024356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_89
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 218
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464442f1e5d4ca8b0800000000000000
+      internalID: -5139648008091843484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_90
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 218
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e147272f27968b0800000000000000
+      internalID: -5158465512548327840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_91
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 218
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109976fba2efbbc70800000000000000
+      internalID: 8988056940901275905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_92
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 220
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6588339ab02072f50800000000000000
+      internalID: 6856451206801492054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_93
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 220
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d8ba41b569107d0800000000000000
+      internalID: -2953914562645357302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_94
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 220
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584d11df33b8c96a0800000000000000
+      internalID: -6441120311641254779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_95
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 152
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f770bd0c339d98d0800000000000000
+      internalID: -2837950304036554761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_96
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 152
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd4816d84b20df10800000000000000
+      internalID: 2292379802161139195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_97
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 198
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2440825abde0f0c90800000000000000
+      internalID: -7201520942610643902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 173
+        width: 17
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a85fa47f93d0d80800000000000000
+      internalID: -8282900405387163071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_99
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 173
+        width: 17
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fbdae17da5bc230800000000000000
+      internalID: 3660119002147831663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 193
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e35e99a507661bd0800000000000000
+      internalID: -2659825255897476123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_101
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 177
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535e479d8e23ff160800000000000000
+      internalID: 7061418716402345269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_102
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 177
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8461fde95afc8fdc0800000000000000
+      internalID: -3604903191468108216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_103
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 184
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbce83c69916e1c70800000000000000
+      internalID: 8943693221577944253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_104
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 196
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85effd90e2330d690800000000000000
+      internalID: -7579501900037357992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_105
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 186
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ead59fb803a0efb0800000000000000
+      internalID: -4620513959712793883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_106
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 202
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b37b06327c3cb30800000000000000
+      internalID: 4306504623456729877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_107
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 195
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eaa818628e85760800000000000000
+      internalID: 7446957235936865871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_108
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 193
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab878426045ad99c0800000000000000
+      internalID: -3918794404797056838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_109
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 179
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60b91efa0debaa40800000000000000
+      internalID: 5380654811292741738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 167
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd27ad0decf51c7b0800000000000000
+      internalID: -5205774352391703843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_111
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 184
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1994ae98caf4ffd0800000000000000
+      internalID: -2308944969372231398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_112
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 183
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab6e05119a9c4430800000000000000
+      internalID: 3768556936116464546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_113
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 182
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f729db77629b6830800000000000000
+      internalID: 4065504061789120503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_114
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 182
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb0791f8f51771c0800000000000000
+      internalID: -4506108743211611151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_115
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 178
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f71e46e50583da0800000000000000
+      internalID: -5964929340102574333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_116
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 177
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b91cdc164d14ee0800000000000000
+      internalID: -1278507302667576463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_117
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 180
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a8b2ec0b7de70d0800000000000000
+      internalID: -3423061512381822430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_118
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 150
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1655db896c577e80800000000000000
+      internalID: -8180968589707880934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_119
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 154
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c49aa82bc21cf10800000000000000
+      internalID: 2288159231023074447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 147
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e9d6b2e8f2fa6b0800000000000000
+      internalID: -5282951550221836655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_121
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 136
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0614acac126a809f0800000000000000
+      internalID: -501968694385426080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_122
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 137
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d80a1c6c145f3d40800000000000000
+      internalID: 5566260145502685398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_123
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 143
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38345e415582eb6b0800000000000000
+      internalID: -5278737367343742077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_124
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 154
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de3a2fe38d1a8bb0800000000000000
+      internalID: -4933097989340512553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_125
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 154
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70413a012d97c9e0800000000000000
+      internalID: -1601138377276440449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_126
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 154
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8497720d5149860800000000000000
+      internalID: 7535672060257323233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_127
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 153
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53263f5cb1b60ba0800000000000000
+      internalID: -6123011220754259106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_128
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d20e314f77dc9e0800000000000000
+      internalID: -1599490402457473644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_129
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 79
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7372253d5c8b13710800000000000000
+      internalID: 1671320096524609335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_130
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 125
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe61cc1606493750800000000000000
+      internalID: 6285131747038424831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 127
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcb332505e68ef10800000000000000
+      internalID: 2299208901028199646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_132
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 103
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ff72327550807f0800000000000000
+      internalID: -646260674717548677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_133
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 109
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a147f24763ff8df0800000000000000
+      internalID: -175654235613478490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_134
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 121
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e48afab16ff7eac0800000000000000
+      internalID: -3825808563214056221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_135
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 129
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b800fdd36c2c7c0800000000000000
+      internalID: -4052458745643365531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_136
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 121
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcab549fb8642060800000000000000
+      internalID: 6927777298839743698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_137
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 129
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d60e1d69620bec0800000000000000
+      internalID: -3553297676787225276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_138
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 121
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4962eb40aeee981e0800000000000000
+      internalID: -2194960654497077612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_139
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 129
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50244ae5e2cbba820800000000000000
+      internalID: 2930642889876980229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_140
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 94
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b5d5a576fad05e0800000000000000
+      internalID: -1941703005894255809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 107
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90ea6be9ff97ba20800000000000000
+      internalID: 3078104766076346527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_142
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 95
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8072a3ab64204fba0800000000000000
+      internalID: -6056213096111134968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_143
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 75
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ffb453413569aa0800000000000000
+      internalID: -6154640494496579778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_144
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 96
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cb8095935bd4d40800000000000000
+      internalID: 5570307572038679620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_145
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 104
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860b81314b5dcf990800000000000000
+      internalID: -7350765522384277400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_146
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 95
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe87bb487629caac0800000000000000
+      internalID: -3842535408747710225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_147
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 95
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e54eba04a78929c0800000000000000
+      internalID: -3951478059416271388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_148
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 104
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58c8577926f88370800000000000000
+      internalID: 8325174569150761052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 88
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf416c90b5c4a490800000000000000
+      internalID: -7735840897587130452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_150
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 69
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a503f5d76d0910b0800000000000000
+      internalID: -5757555908994202199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_151
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 71
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb2330131c07a710800000000000000
+      internalID: 1704344259998723040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_152
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 79
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd089916fdf593a30800000000000000
+      internalID: 4195489940892123359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_153
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 62
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3630b3e7eb583d0800000000000000
+      internalID: -3204946110439005204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_154
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 79
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4a210be45ac34d0800000000000000
+      internalID: -3153463881686145857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_155
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 79
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85076fdd83e15e360800000000000000
+      internalID: 7198192809012523096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_156
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 79
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a3c1a3c95d64840800000000000000
+      internalID: 5208084886067100278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_157
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 50
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0ec54379c0b6360800000000000000
+      internalID: 7163833475821003007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_158
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 77
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee067af58ebc0940800000000000000
+      internalID: 5263791547131236068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_159
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 77
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c10e46a98b67c770800000000000000
+      internalID: 8630985449823666624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 69
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a6bc384b5c4afd0800000000000000
+      internalID: -2331521327975142900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_161
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 54
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36567167fd8270e60800000000000000
+      internalID: 7928350609233110371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_162
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b0245ca8ad2b510800000000000000
+      internalID: 1563552310200765191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_163
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10644705bd0f115b0800000000000000
+      internalID: -5399269653502212607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_164
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 52
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3ad181cbf098010800000000000000
+      internalID: 1191500876949070824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_165
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 49
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f6a4e3bdc44ac60800000000000000
+      internalID: 7828466556803378982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_166
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 35
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085d2898bb52d2190800000000000000
+      internalID: -7985685076861856384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_167
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 44
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1c91e6a539de340800000000000000
+      internalID: 4894730386625118684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_168
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 46
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1e82b7db8db3360800000000000000
+      internalID: 7150547141707489704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_169
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 54
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe68052f74105af0800000000000000
+      internalID: -409805029776003332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_170
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 58
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d55a5776b35becd0800000000000000
+      internalID: -2527834722686839344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_171
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 42
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e25d0969a83d200800000000000000
+      internalID: 203658787441421849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_172
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 17
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd8a2d75f210da30800000000000000
+      internalID: 4237908094931865080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_173
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bb35529382a0490800000000000000
+      internalID: -7779361180424619214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_174
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 50
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e564480ddda0f5d50800000000000000
+      internalID: 6728108316117190238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_175
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 21
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa3cceb5fe09ef10800000000000000
+      internalID: 2299385533380180730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_176
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 27
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730d3f2cabf85ba20800000000000000
+      internalID: 3077523952675049527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_177
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 13
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0912a958fe93b8280800000000000000
+      internalID: -9040068126114700912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_178
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 4
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45899d1a70878a620800000000000000
+      internalID: 2785608343704148052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_179
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 20
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cd6f2cd929a78f0800000000000000
+      internalID: -541959598866244582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_180
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 26
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345f0dbd9f0b72b00800000000000000
+      internalID: 803805645690172739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_181
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014d5bc8f2b173eb0800000000000000
+      internalID: -4740290191746018288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_182
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 37
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4066a9e7b2f4d7cb0800000000000000
+      internalID: -4864644974264031740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_183
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 37
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffc3b238af4fc670800000000000000
+      internalID: 8561149000478347260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f9dc5ffc670b220800000000000000
+      internalID: 2499628428744826713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_185
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0655ca72ef2342060800000000000000
+      internalID: 6927718193971352928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_186
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 10
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58b124781e0a8130800000000000000
+      internalID: 3569681152834910299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_187
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752a976f600a72ec0800000000000000
+      internalID: -3591726226039266729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_188
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 26
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfcc26e323f70fa0800000000000000
+      internalID: -5834427456724086836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_189
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0892bfc54077530800000000000000
+      internalID: 3852552803636052191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_190
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b812e4919269363f0800000000000000
+      internalID: -908717596536331893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_191
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc45651d68193e300800000000000000
+      internalID: 280227610050843852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_192
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 3
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a63d2df143dbc300800000000000000
+      internalID: 273544482759980706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_193
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e69d772be34b1aa0800000000000000
+      internalID: -6189278585631697178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_194
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 5
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eec147ec58baa020800000000000000
+      internalID: 2353896464410857186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmOceanSide_195
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 4
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f56c7b03e02ba30800000000000000
+      internalID: 4229458602458767151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

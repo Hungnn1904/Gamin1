@@ -1,0 +1,6555 @@
+fileFormatVersion: 2
+guid: 0f4a0e82e93c1d8419607d4fa16252ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1020869616938643841
+    second: TakeOver_Intro_0
+  - first:
+      213: -3415474078588760196
+    second: TakeOver_Intro_1
+  - first:
+      213: -6157421282712445109
+    second: TakeOver_Intro_2
+  - first:
+      213: -4955408205309381061
+    second: TakeOver_Intro_3
+  - first:
+      213: 5705508196819692172
+    second: TakeOver_Intro_4
+  - first:
+      213: 1921315167141247262
+    second: TakeOver_Intro_5
+  - first:
+      213: -5684975820479052478
+    second: TakeOver_Intro_6
+  - first:
+      213: -6253045912915531270
+    second: TakeOver_Intro_7
+  - first:
+      213: -3342404310562556535
+    second: TakeOver_Intro_8
+  - first:
+      213: 7624780416243907834
+    second: TakeOver_Intro_9
+  - first:
+      213: 8604102475289531844
+    second: TakeOver_Intro_10
+  - first:
+      213: -1329322369748439174
+    second: TakeOver_Intro_11
+  - first:
+      213: -7534921365759855279
+    second: TakeOver_Intro_12
+  - first:
+      213: 4907847483534803029
+    second: TakeOver_Intro_13
+  - first:
+      213: 2029108319589025638
+    second: TakeOver_Intro_14
+  - first:
+      213: -3726321653080718700
+    second: TakeOver_Intro_15
+  - first:
+      213: -3243141355367467779
+    second: TakeOver_Intro_16
+  - first:
+      213: -5265271450075646410
+    second: TakeOver_Intro_17
+  - first:
+      213: -5324965062708578617
+    second: TakeOver_Intro_18
+  - first:
+      213: 8088214717688088375
+    second: TakeOver_Intro_19
+  - first:
+      213: 5334364697927034898
+    second: TakeOver_Intro_20
+  - first:
+      213: 3561148450242219404
+    second: TakeOver_Intro_21
+  - first:
+      213: -1356103929501422948
+    second: TakeOver_Intro_22
+  - first:
+      213: -8323109694488487931
+    second: TakeOver_Intro_23
+  - first:
+      213: 1215622857439649020
+    second: TakeOver_Intro_24
+  - first:
+      213: 115313068157457195
+    second: TakeOver_Intro_25
+  - first:
+      213: 7911884285695034905
+    second: TakeOver_Intro_26
+  - first:
+      213: 1067021819555756180
+    second: TakeOver_Intro_27
+  - first:
+      213: 7838557213095148389
+    second: TakeOver_Intro_28
+  - first:
+      213: 5016023716019193300
+    second: TakeOver_Intro_29
+  - first:
+      213: 5111769847459302909
+    second: TakeOver_Intro_30
+  - first:
+      213: -7436417333426653614
+    second: TakeOver_Intro_31
+  - first:
+      213: -3664822878449875219
+    second: TakeOver_Intro_32
+  - first:
+      213: -4929954552395009087
+    second: TakeOver_Intro_33
+  - first:
+      213: -2960491964447382547
+    second: TakeOver_Intro_34
+  - first:
+      213: -4725060928910140645
+    second: TakeOver_Intro_35
+  - first:
+      213: 7926374100143337216
+    second: TakeOver_Intro_36
+  - first:
+      213: -7155161918758454245
+    second: TakeOver_Intro_37
+  - first:
+      213: -4809719014168776806
+    second: TakeOver_Intro_38
+  - first:
+      213: -8201000157796530658
+    second: TakeOver_Intro_39
+  - first:
+      213: 6870060452494865397
+    second: TakeOver_Intro_40
+  - first:
+      213: -3652352892203933371
+    second: TakeOver_Intro_41
+  - first:
+      213: -5569048134742618786
+    second: TakeOver_Intro_42
+  - first:
+      213: -7270277350743158252
+    second: TakeOver_Intro_43
+  - first:
+      213: -4426680957972008287
+    second: TakeOver_Intro_44
+  - first:
+      213: -8981544422824050294
+    second: TakeOver_Intro_45
+  - first:
+      213: 4602323695056390718
+    second: TakeOver_Intro_46
+  - first:
+      213: 2256207339672922775
+    second: TakeOver_Intro_47
+  - first:
+      213: -444738081801613753
+    second: TakeOver_Intro_48
+  - first:
+      213: -2625018880555542900
+    second: TakeOver_Intro_49
+  - first:
+      213: 2024310452835441255
+    second: TakeOver_Intro_50
+  - first:
+      213: 4423328294330751400
+    second: TakeOver_Intro_51
+  - first:
+      213: -5108842671138126160
+    second: TakeOver_Intro_52
+  - first:
+      213: 8891923214444909466
+    second: TakeOver_Intro_53
+  - first:
+      213: 2865873069617529784
+    second: TakeOver_Intro_54
+  - first:
+      213: 3544428620975957384
+    second: TakeOver_Intro_55
+  - first:
+      213: 5454757346739309759
+    second: TakeOver_Intro_56
+  - first:
+      213: -535207893630269093
+    second: TakeOver_Intro_57
+  - first:
+      213: 2584300359900500159
+    second: TakeOver_Intro_58
+  - first:
+      213: -6409921168496400646
+    second: TakeOver_Intro_59
+  - first:
+      213: 6699250277727678248
+    second: TakeOver_Intro_60
+  - first:
+      213: -8559494772427089660
+    second: TakeOver_Intro_61
+  - first:
+      213: 6790206719841912213
+    second: TakeOver_Intro_62
+  - first:
+      213: 3491968007985005996
+    second: TakeOver_Intro_63
+  - first:
+      213: -5631826263945301658
+    second: TakeOver_Intro_64
+  - first:
+      213: -7416702968671530755
+    second: TakeOver_Intro_65
+  - first:
+      213: 5805851897283576764
+    second: TakeOver_Intro_66
+  - first:
+      213: 9180459614704861068
+    second: TakeOver_Intro_67
+  - first:
+      213: -1879957124789652935
+    second: TakeOver_Intro_68
+  - first:
+      213: 7271039831591742025
+    second: TakeOver_Intro_69
+  - first:
+      213: -99462371107567719
+    second: TakeOver_Intro_70
+  - first:
+      213: 2959619167043132481
+    second: TakeOver_Intro_71
+  - first:
+      213: -816999802603067009
+    second: TakeOver_Intro_72
+  - first:
+      213: 578643917997845754
+    second: TakeOver_Intro_73
+  - first:
+      213: 334729703480158066
+    second: TakeOver_Intro_74
+  - first:
+      213: -5154070828244940462
+    second: TakeOver_Intro_75
+  - first:
+      213: 6302212508634134724
+    second: TakeOver_Intro_76
+  - first:
+      213: 1237791295662781605
+    second: TakeOver_Intro_77
+  - first:
+      213: -8980854310876364468
+    second: TakeOver_Intro_78
+  - first:
+      213: -6350634935675532633
+    second: TakeOver_Intro_79
+  - first:
+      213: 670373908808354321
+    second: TakeOver_Intro_80
+  - first:
+      213: -7637880300633248370
+    second: TakeOver_Intro_81
+  - first:
+      213: 281148635350894435
+    second: TakeOver_Intro_82
+  - first:
+      213: -8219304869899670444
+    second: TakeOver_Intro_83
+  - first:
+      213: -6419828797184015004
+    second: TakeOver_Intro_84
+  - first:
+      213: 8031987000625817745
+    second: TakeOver_Intro_85
+  - first:
+      213: -642285732881235139
+    second: TakeOver_Intro_86
+  - first:
+      213: -1287476324614181401
+    second: TakeOver_Intro_87
+  - first:
+      213: -2058638083469510234
+    second: TakeOver_Intro_88
+  - first:
+      213: 7897787653549719631
+    second: TakeOver_Intro_89
+  - first:
+      213: -1360207502478322290
+    second: TakeOver_Intro_90
+  - first:
+      213: 4342151194481112172
+    second: TakeOver_Intro_91
+  - first:
+      213: 3739036460391185106
+    second: TakeOver_Intro_92
+  - first:
+      213: -1168291140861693198
+    second: TakeOver_Intro_93
+  - first:
+      213: 6644151950342393444
+    second: TakeOver_Intro_94
+  - first:
+      213: 5587310800205050828
+    second: TakeOver_Intro_95
+  - first:
+      213: 4590434520953031239
+    second: TakeOver_Intro_96
+  - first:
+      213: 3071194468699895232
+    second: TakeOver_Intro_97
+  - first:
+      213: -1003394199106328721
+    second: TakeOver_Intro_98
+  - first:
+      213: -7156536675206343753
+    second: TakeOver_Intro_99
+  - first:
+      213: -5862263466203099781
+    second: TakeOver_Intro_100
+  - first:
+      213: -4855503935672923954
+    second: TakeOver_Intro_101
+  - first:
+      213: 7169658554535679697
+    second: TakeOver_Intro_102
+  - first:
+      213: 978103393023998744
+    second: TakeOver_Intro_103
+  - first:
+      213: -4838741460550628297
+    second: TakeOver_Intro_104
+  - first:
+      213: -974269170529323440
+    second: TakeOver_Intro_105
+  - first:
+      213: 2969063337339820969
+    second: TakeOver_Intro_106
+  - first:
+      213: -3963433847747440571
+    second: TakeOver_Intro_107
+  - first:
+      213: -4597436607652538139
+    second: TakeOver_Intro_108
+  - first:
+      213: -7744918153348046266
+    second: TakeOver_Intro_109
+  - first:
+      213: -1952517935097753297
+    second: TakeOver_Intro_110
+  - first:
+      213: 524661293070010561
+    second: TakeOver_Intro_111
+  - first:
+      213: 2188103969537129418
+    second: TakeOver_Intro_112
+  - first:
+      213: -2457719596366332780
+    second: TakeOver_Intro_113
+  - first:
+      213: -5661000058469495658
+    second: TakeOver_Intro_114
+  - first:
+      213: 3596090643892620658
+    second: TakeOver_Intro_115
+  - first:
+      213: -3940928081079497122
+    second: TakeOver_Intro_116
+  - first:
+      213: -2185854526765840002
+    second: TakeOver_Intro_117
+  - first:
+      213: -8650622766616984192
+    second: TakeOver_Intro_118
+  - first:
+      213: -1948449766530265356
+    second: TakeOver_Intro_119
+  - first:
+      213: 1817788209402053049
+    second: TakeOver_Intro_120
+  - first:
+      213: -2449378620725105937
+    second: TakeOver_Intro_121
+  - first:
+      213: -8517873064043541032
+    second: TakeOver_Intro_122
+  - first:
+      213: -1510382174770869695
+    second: TakeOver_Intro_123
+  - first:
+      213: -2897043987595418480
+    second: TakeOver_Intro_124
+  - first:
+      213: 5737088774657411404
+    second: TakeOver_Intro_125
+  - first:
+      213: 7924234776312463972
+    second: TakeOver_Intro_126
+  - first:
+      213: 144447670475512525
+    second: TakeOver_Intro_127
+  - first:
+      213: -7458562090378557530
+    second: TakeOver_Intro_128
+  - first:
+      213: -2995424801834056155
+    second: TakeOver_Intro_129
+  - first:
+      213: -496991632994766314
+    second: TakeOver_Intro_130
+  - first:
+      213: -5073677083464806480
+    second: TakeOver_Intro_131
+  - first:
+      213: -5443213120327833890
+    second: TakeOver_Intro_132
+  - first:
+      213: -566238708958006134
+    second: TakeOver_Intro_133
+  - first:
+      213: 7099006530530147526
+    second: TakeOver_Intro_134
+  - first:
+      213: -5091488035975282774
+    second: TakeOver_Intro_135
+  - first:
+      213: -7685776070227469096
+    second: TakeOver_Intro_136
+  - first:
+      213: 8625923921450629477
+    second: TakeOver_Intro_137
+  - first:
+      213: 6101940478133213874
+    second: TakeOver_Intro_138
+  - first:
+      213: -2745563554997689331
+    second: TakeOver_Intro_139
+  - first:
+      213: 275083992692639154
+    second: TakeOver_Intro_140
+  - first:
+      213: 8571848535359280738
+    second: TakeOver_Intro_141
+  - first:
+      213: -420626137983473585
+    second: TakeOver_Intro_142
+  - first:
+      213: -245577005971954273
+    second: TakeOver_Intro_143
+  - first:
+      213: 29003601575129385
+    second: TakeOver_Intro_144
+  - first:
+      213: 484669588005710386
+    second: TakeOver_Intro_145
+  - first:
+      213: -950467467343006766
+    second: TakeOver_Intro_146
+  - first:
+      213: 8438293139266450864
+    second: TakeOver_Intro_147
+  - first:
+      213: -1732830325139493663
+    second: TakeOver_Intro_148
+  - first:
+      213: -6464041223398736796
+    second: TakeOver_Intro_149
+  - first:
+      213: -5196194733405821321
+    second: TakeOver_Intro_150
+  - first:
+      213: -2152535644705621384
+    second: TakeOver_Intro_151
+  - first:
+      213: 3509446773199034596
+    second: TakeOver_Intro_152
+  - first:
+      213: 576321519110080786
+    second: TakeOver_Intro_153
+  - first:
+      213: 121276374473085631
+    second: TakeOver_Intro_154
+  - first:
+      213: 8516300884064245644
+    second: TakeOver_Intro_155
+  - first:
+      213: -4972442485389851176
+    second: TakeOver_Intro_156
+  - first:
+      213: -6222713841004582623
+    second: TakeOver_Intro_157
+  - first:
+      213: -3803080784080509556
+    second: TakeOver_Intro_158
+  - first:
+      213: 8721224901046474670
+    second: TakeOver_Intro_159
+  - first:
+      213: -6990206667511441787
+    second: TakeOver_Intro_160
+  - first:
+      213: 209834197741002913
+    second: TakeOver_Intro_161
+  - first:
+      213: -8584535563065394041
+    second: TakeOver_Intro_162
+  - first:
+      213: 6955224654480717928
+    second: TakeOver_Intro_163
+  - first:
+      213: 875196765136086956
+    second: TakeOver_Intro_164
+  - first:
+      213: 3742843710459077430
+    second: TakeOver_Intro_165
+  - first:
+      213: 6570096213360302042
+    second: TakeOver_Intro_166
+  - first:
+      213: -7786695035807655172
+    second: TakeOver_Intro_167
+  - first:
+      213: -3629034545653229155
+    second: TakeOver_Intro_168
+  - first:
+      213: -8033330538465754696
+    second: TakeOver_Intro_169
+  - first:
+      213: -4217985409688026531
+    second: TakeOver_Intro_170
+  - first:
+      213: -7842814637381282783
+    second: TakeOver_Intro_171
+  - first:
+      213: -3689705288509608373
+    second: TakeOver_Intro_172
+  - first:
+      213: 129655491020398806
+    second: TakeOver_Intro_173
+  - first:
+      213: 4120076730214772993
+    second: TakeOver_Intro_174
+  - first:
+      213: 5337303747492699716
+    second: TakeOver_Intro_175
+  - first:
+      213: 6943612643620483530
+    second: TakeOver_Intro_176
+  - first:
+      213: 4304447780177360351
+    second: TakeOver_Intro_177
+  - first:
+      213: -8291501177009330495
+    second: TakeOver_Intro_178
+  - first:
+      213: -1211707355507290402
+    second: TakeOver_Intro_179
+  - first:
+      213: -2898280004500054663
+    second: TakeOver_Intro_180
+  - first:
+      213: 295475658162114078
+    second: TakeOver_Intro_181
+  - first:
+      213: -1569481387094700469
+    second: TakeOver_Intro_182
+  - first:
+      213: -7180959108408271084
+    second: TakeOver_Intro_183
+  - first:
+      213: 8373629288540396316
+    second: TakeOver_Intro_184
+  - first:
+      213: 3586421015581157575
+    second: TakeOver_Intro_185
+  - first:
+      213: -6107744010420634740
+    second: TakeOver_Intro_186
+  - first:
+      213: 983006241825278445
+    second: TakeOver_Intro_187
+  - first:
+      213: 8515636443506496633
+    second: TakeOver_Intro_188
+  - first:
+      213: -7423049695176742860
+    second: TakeOver_Intro_189
+  - first:
+      213: 1275959156133314324
+    second: TakeOver_Intro_190
+  - first:
+      213: 3783775881199695250
+    second: TakeOver_Intro_191
+  - first:
+      213: -4200786975558366609
+    second: TakeOver_Intro_192
+  - first:
+      213: -1070911371726823361
+    second: TakeOver_Intro_193
+  - first:
+      213: -3301240396446044472
+    second: TakeOver_Intro_194
+  - first:
+      213: 2210056601425684149
+    second: TakeOver_Intro_195
+  - first:
+      213: 4842114037066923818
+    second: TakeOver_Intro_196
+  - first:
+      213: -7782939617185126185
+    second: TakeOver_Intro_197
+  - first:
+      213: -7204794006630529218
+    second: TakeOver_Intro_198
+  - first:
+      213: 8534653872628061764
+    second: TakeOver_Intro_199
+  - first:
+      213: 1397565037580696292
+    second: TakeOver_Intro_200
+  - first:
+      213: 7052016653302730398
+    second: TakeOver_Intro_201
+  - first:
+      213: -2666319644288398717
+    second: TakeOver_Intro_202
+  - first:
+      213: -7678214835589381102
+    second: TakeOver_Intro_203
+  - first:
+      213: -4833925880703199146
+    second: TakeOver_Intro_204
+  - first:
+      213: -7499322448589109638
+    second: TakeOver_Intro_205
+  - first:
+      213: -446668248000076211
+    second: TakeOver_Intro_206
+  - first:
+      213: -5220631286496724076
+    second: TakeOver_Intro_207
+  - first:
+      213: -5561338083977433295
+    second: TakeOver_Intro_208
+  - first:
+      213: 2765204633525768197
+    second: TakeOver_Intro_209
+  - first:
+      213: 4073726575360498454
+    second: TakeOver_Intro_210
+  - first:
+      213: 8330255565994570354
+    second: TakeOver_Intro_211
+  - first:
+      213: -1935879378394187716
+    second: TakeOver_Intro_212
+  - first:
+      213: -5801794552561714679
+    second: TakeOver_Intro_213
+  - first:
+      213: 5055284992522775622
+    second: TakeOver_Intro_214
+  - first:
+      213: -393951529228675281
+    second: TakeOver_Intro_215
+  - first:
+      213: -5895951209887178005
+    second: TakeOver_Intro_216
+  - first:
+      213: -4645644576535398739
+    second: TakeOver_Intro_217
+  - first:
+      213: -5517995717254510771
+    second: TakeOver_Intro_218
+  - first:
+      213: -897488327765218364
+    second: TakeOver_Intro_219
+  - first:
+      213: 4237070328789521591
+    second: TakeOver_Intro_220
+  - first:
+      213: -544808362270202406
+    second: TakeOver_Intro_221
+  - first:
+      213: -6221798700161993316
+    second: TakeOver_Intro_222
+  - first:
+      213: 83306952018594173
+    second: TakeOver_Intro_223
+  - first:
+      213: -4808065091847973637
+    second: TakeOver_Intro_224
+  - first:
+      213: -427681417670024191
+    second: TakeOver_Intro_225
+  - first:
+      213: -8721146602216547069
+    second: TakeOver_Intro_226
+  - first:
+      213: 4458402540358494169
+    second: TakeOver_Intro_227
+  - first:
+      213: -6470635752667369980
+    second: TakeOver_Intro_228
+  - first:
+      213: -7848360973809523265
+    second: TakeOver_Intro_229
+  - first:
+      213: 2931653815540800293
+    second: TakeOver_Intro_230
+  - first:
+      213: -2443968546109081512
+    second: TakeOver_Intro_231
+  - first:
+      213: 8953403159388406149
+    second: TakeOver_Intro_232
+  - first:
+      213: 3981339712119362177
+    second: TakeOver_Intro_233
+  - first:
+      213: 2356043473758465251
+    second: TakeOver_Intro_234
+  - first:
+      213: -970853255000965451
+    second: TakeOver_Intro_235
+  - first:
+      213: 5973347878327912423
+    second: TakeOver_Intro_236
+  - first:
+      213: -3310309577423149959
+    second: TakeOver_Intro_237
+  - first:
+      213: 3231340502723710616
+    second: TakeOver_Intro_238
+  - first:
+      213: -4893638785361972800
+    second: TakeOver_Intro_239
+  - first:
+      213: -5414809945966961323
+    second: TakeOver_Intro_240
+  - first:
+      213: -3839352308762042236
+    second: TakeOver_Intro_241
+  - first:
+      213: 3445529827384442669
+    second: TakeOver_Intro_242
+  - first:
+      213: 758311237833181043
+    second: TakeOver_Intro_243
+  - first:
+      213: -5484934609789289010
+    second: TakeOver_Intro_244
+  - first:
+      213: -5519169391802747817
+    second: TakeOver_Intro_245
+  - first:
+      213: 7965632018070671539
+    second: TakeOver_Intro_246
+  - first:
+      213: -8864557841333241886
+    second: TakeOver_Intro_247
+  - first:
+      213: -5271218456923787813
+    second: TakeOver_Intro_248
+  - first:
+      213: 5412780062616005225
+    second: TakeOver_Intro_249
+  - first:
+      213: 3949484698003155690
+    second: TakeOver_Intro_250
+  - first:
+      213: -7317252387589181383
+    second: TakeOver_Intro_251
+  - first:
+      213: -6626296985538093466
+    second: TakeOver_Intro_252
+  - first:
+      213: -5971062601746632030
+    second: TakeOver_Intro_253
+  - first:
+      213: -8094300815484020378
+    second: TakeOver_Intro_254
+  - first:
+      213: 8272345152626668499
+    second: TakeOver_Intro_255
+  - first:
+      213: 6998745707271748059
+    second: TakeOver_Intro_256
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TakeOver_Intro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e02600e7425d1f0800000000000000
+      internalID: -1020869616938643841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 551
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f8926eb6cc990d0800000000000000
+      internalID: -3415474078588760196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 647
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f9e7f77f17c8aa0800000000000000
+      internalID: -6157421282712445109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 647
+        width: 38
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b367a7dfd7ada3bb0800000000000000
+      internalID: -4955408205309381061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 583
+        width: 114
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a6486d9790e2f40800000000000000
+      internalID: 5705508196819692172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 713
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19360707f1e9aa10800000000000000
+      internalID: 1921315167141247262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 754
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24549af8c98ea11b0800000000000000
+      internalID: -5684975820479052478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 713
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9267c4fd7b839a0800000000000000
+      internalID: -6253045912915531270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 754
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9853f250df46d91d0800000000000000
+      internalID: -3342404310562556535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_9
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 755
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcb2980469a0d960800000000000000
+      internalID: 7624780416243907834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 716
+        width: 120
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c511b26d99e76770800000000000000
+      internalID: 8604102475289531844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 716
+        width: 120
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fe927095c4d8de0800000000000000
+      internalID: -1329322369748439174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_12
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 696
+        width: 109
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155f16780f49e6790800000000000000
+      internalID: -7534921365759855279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_13
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 733
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55003eb884d2c1440800000000000000
+      internalID: 4907847483534803029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 712
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667c4e71447d82c10800000000000000
+      internalID: 2029108319589025638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 695
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492074d0332794cc0800000000000000
+      internalID: -3726321653080718700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_16
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 712
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df471f4ce1c0ef2d0800000000000000
+      internalID: -3243141355367467779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 596
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6363c34438ffde6b0800000000000000
+      internalID: -5265271450075646410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_18
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 624
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6b3e30d7ce916b0800000000000000
+      internalID: -5324965062708578617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_19
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 671
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73782eabe6c1f3070800000000000000
+      internalID: 8088214717688088375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 665
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218235a1e68770a40800000000000000
+      internalID: 5334364697927034898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_21
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 665
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dce11d5adbb6130800000000000000
+      internalID: 3561148450242219404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_22
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 610
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a6e8b39a62e2de0800000000000000
+      internalID: -1356103929501422948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_23
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 638
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5085761a4df5e7c80800000000000000
+      internalID: -8323109694488487931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_24
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 683
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc19865c82ced010800000000000000
+      internalID: 1215622857439649020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_25
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 670
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b235c71ef9ca99100800000000000000
+      internalID: 115313068157457195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 637
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91609d0c6d8accd60800000000000000
+      internalID: 7911884285695034905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_27
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 614
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498363a01b2dece00800000000000000
+      internalID: 1067021819555756180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_28
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 614
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bbc1e314628cc60800000000000000
+      internalID: 7838557213095148389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_29
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 602
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d542426efe7c9540800000000000000
+      internalID: 5016023716019193300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 525
+        width: 50
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd4d5bc797a0f640800000000000000
+      internalID: 5111769847459302909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 528
+        width: 40
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256fb87c5d98cc890800000000000000
+      internalID: -7436417333426653614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_32
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 584
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de64545520fe32dc0800000000000000
+      internalID: -3664822878449875219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 587
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3fca16478459bb0800000000000000
+      internalID: -4929954552395009087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_34
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 588
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de327b26e383ae6d0800000000000000
+      internalID: -2960491964447382547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_35
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 583
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bdb3e9e163d6eb0800000000000000
+      internalID: -4725060928910140645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_36
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 591
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f66e39f33200e60800000000000000
+      internalID: 7926374100143337216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_37
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 589
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cfff10522c3bc90800000000000000
+      internalID: -7155161918758454245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_38
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 591
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f27032a02704db0800000000000000
+      internalID: -4809719014168776806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_39
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 594
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e168d97aec1303e80800000000000000
+      internalID: -8201000157796530658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_40
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 591
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f37a68159b575f50800000000000000
+      internalID: 6870060452494865397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_41
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 587
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54160d1456c305dc0800000000000000
+      internalID: -3652352892203933371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_42
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 590
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d4d9f3a34c6b2b0800000000000000
+      internalID: -5569048134742618786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 539
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412d262e449ca1b90800000000000000
+      internalID: -7270277350743158252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_44
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 539
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2b71e4f154192c0800000000000000
+      internalID: -4426680957972008287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_45
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 539
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a818e270fe42b5380800000000000000
+      internalID: -8981544422824050294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_46
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 539
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a0339340dbedf30800000000000000
+      internalID: 4602323695056390718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_47
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 555
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a65dc1f98af4f10800000000000000
+      internalID: 2256207339672922775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 488
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e40282219f3d9f0800000000000000
+      internalID: -444738081801613753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 511
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c861bcf6c3f029bd0800000000000000
+      internalID: -2625018880555542900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 521
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76add50b1abc71c10800000000000000
+      internalID: 2024310452835441255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 521
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9d48cd5a1d26d30800000000000000
+      internalID: 4423328294330751400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_52
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 488
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6447d88aeb919b0800000000000000
+      internalID: -5108842671138126160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 454
+        width: 19
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93d9075d05766b70800000000000000
+      internalID: 8891923214444909466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_54
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 502
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b349ed6f50a5c720800000000000000
+      internalID: 2865873069617529784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 488
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885eff43d07503130800000000000000
+      internalID: 3544428620975957384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_56
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 488
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc495408e033bb40800000000000000
+      internalID: 5454757346739309759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_57
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 488
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59ce23a14f8298f0800000000000000
+      internalID: -535207893630269093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_58
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 488
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb098c03c774dd320800000000000000
+      internalID: 2584300359900500159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_59
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 505
+        width: 72
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6e38198a26b07a0800000000000000
+      internalID: -6409921168496400646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 507
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f256922a488fc50800000000000000
+      internalID: 6699250277727678248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 504
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4099ba8cad0963980800000000000000
+      internalID: -8559494772427089660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_62
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 489
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595c5af1909ab3e50800000000000000
+      internalID: 6790206719841912213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_63
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 503
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca589fae666f57030800000000000000
+      internalID: 3491968007985005996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_64
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 503
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66133d40adbb7d1b0800000000000000
+      internalID: -5631826263945301658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_65
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 489
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df09fb302f3921990800000000000000
+      internalID: -7416702968671530755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_66
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 504
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb38d143a87829050800000000000000
+      internalID: 5805851897283576764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_67
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 511
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f7d41216b876f70800000000000000
+      internalID: 9180459614704861068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 507
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932b2f794fc09e5e0800000000000000
+      internalID: -1879957124789652935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_69
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 504
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94aedb5043ce7e460800000000000000
+      internalID: 7271039831591742025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 504
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9978d9d1083ae9ef0800000000000000
+      internalID: -99462371107567719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 489
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c1b02a3fda21920800000000000000
+      internalID: 2959619167043132481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_72
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 496
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79a748120f69a4f0800000000000000
+      internalID: -816999802603067009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_73
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 490
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afca3bfd391c70800800000000000000
+      internalID: 578643917997845754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_74
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 489
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277e4bf44e235a400800000000000000
+      internalID: 334729703480158066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 489
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259c14f93ef0978b0800000000000000
+      internalID: -5154070828244940462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_76
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 489
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c83924d2e4f57750800000000000000
+      internalID: 6302212508634134724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_77
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 496
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4fc0410a48d2110800000000000000
+      internalID: 1237791295662781605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_78
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 489
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41cdac36989d5380800000000000000
+      internalID: -8980854310876364468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_79
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 469
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aacfd05c230ed7a0800000000000000
+      internalID: -6350634935675532633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a463da485ad4900800000000000000
+      internalID: 670373908808354321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 475
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d2dc3755cc00690800000000000000
+      internalID: -7637880300633248370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_82
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 473
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3670d2bb137d6e300800000000000000
+      internalID: 281148635350894435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 473
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cedf0c4c92fed80800000000000000
+      internalID: -8219304869899670444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_84
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 475
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465060109bf28e6a0800000000000000
+      internalID: -6419828797184015004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_85
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 472
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1986bdc2f99577f60800000000000000
+      internalID: 8031987000625817745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_86
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 471
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33005767842617f0800000000000000
+      internalID: -642285732881235139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 475
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed65a6aa17f12ee0800000000000000
+      internalID: -1287476324614181401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_88
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 471
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a975b9f19f3e63e0800000000000000
+      internalID: -2058638083469510234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_89
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 472
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f400c41d6049a9d60800000000000000
+      internalID: 7897787653549719631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_90
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 473
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8555f1bb729f1de0800000000000000
+      internalID: -1360207502478322290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_91
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 473
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64b514718b624c30800000000000000
+      internalID: 4342151194481112172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_92
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 475
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dab9d7b9d9b3e330800000000000000
+      internalID: 3739036460391185106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_93
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 472
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2f3b2b56569cfe0800000000000000
+      internalID: -1168291140861693198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_94
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 437
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e80e12ff4c43c50800000000000000
+      internalID: 6644151950342393444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_95
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 437
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3fce7e19d1a8d40800000000000000
+      internalID: 5587310800205050828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_96
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 437
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a881a20ef74bf30800000000000000
+      internalID: 4590434520953031239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_97
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 437
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5700fe8131f9a20800000000000000
+      internalID: 3071194468699895232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_98
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 445
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f676498ca4a3312f0800000000000000
+      internalID: -1003394199106328721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_99
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 448
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b355449fcfdeac90800000000000000
+      internalID: -7156536675206343753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dc635ef6e05aea0800000000000000
+      internalID: -5862263466203099781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_101
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 459
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec844b465e8cd9cb0800000000000000
+      internalID: -4855503935672923954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_102
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 456
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d690f7087ebf7360800000000000000
+      internalID: 7169658554535679697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 440
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bbcce8adbe29d00800000000000000
+      internalID: 978103393023998744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_104
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 461
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ccce3474659dcb0800000000000000
+      internalID: -4838741460550628297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_105
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 464
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0563cfee953ba72f0800000000000000
+      internalID: -974269170529323440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 464
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab96c1ef5b343920800000000000000
+      internalID: 2969063337339820969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_107
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 461
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54011462aed0ff8c0800000000000000
+      internalID: -3963433847747440571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_108
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 440
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e85e7b73cf9230c0800000000000000
+      internalID: -4597436607652538139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_109
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 456
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642273f49f5848490800000000000000
+      internalID: -7744918153348046266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_110
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 459
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f215bec684347e4e0800000000000000
+      internalID: -1952517935097753297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_111
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 440
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8c5d09aa8f74700800000000000000
+      internalID: 524661293070010561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_112
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 456
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbf1eb97f4bd5e10800000000000000
+      internalID: 2188103969537129418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_113
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 456
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c71157c0d64edd0800000000000000
+      internalID: -2457719596366332780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_114
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 443
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cc579a0761071b0800000000000000
+      internalID: -5661000058469495658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_115
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 440
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d43514361e7e130800000000000000
+      internalID: 3596090643892620658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 439
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e05e94ac20f49c0800000000000000
+      internalID: -3940928081079497122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_117
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 440
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79417993e84aa1e0800000000000000
+      internalID: -2185854526765840002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_118
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 440
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08543ed3d60d2f780800000000000000
+      internalID: -8650622766616984192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_119
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 439
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe454bb247b5f4e0800000000000000
+      internalID: -1948449766530265356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_120
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 440
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b18d42deb41a3910800000000000000
+      internalID: 1817788209402053049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_121
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 344
+        width: 51
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea6e3f2f1f020ed0800000000000000
+      internalID: -2449378620725105937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_122
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 443
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd01dfe39f6ac980800000000000000
+      internalID: -8517873064043541032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a43b51a6b0a0be0800000000000000
+      internalID: -1510382174770869695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_124
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 425
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094a1bca7d1abc7d0800000000000000
+      internalID: -2897043987595418480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_125
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 432
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49065a18db3e9f40800000000000000
+      internalID: 5737088774657411404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_126
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 431
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462c6ee6b8988fd60800000000000000
+      internalID: 7924234776312463972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_127
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 424
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca5357146e210200800000000000000
+      internalID: 144447670475512525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_128
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 423
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a78ac3cb4ddd7890800000000000000
+      internalID: -7458562090378557530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_129
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 423
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526494f530d1e66d0800000000000000
+      internalID: -2995424801834056155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_130
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 424
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61271033eb45a19f0800000000000000
+      internalID: -496991632994766314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_131
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 431
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf4a07f29da699b0800000000000000
+      internalID: -5073677083464806480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 425
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed62d16a182d574b0800000000000000
+      internalID: -5443213120327833890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_133
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 401
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a847b7ee4e05428f0800000000000000
+      internalID: -566238708958006134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_134
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 432
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc7d6ec3dcb48260800000000000000
+      internalID: 7099006530530147526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_135
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 425
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafba8d6b966759b0800000000000000
+      internalID: -5091488035975282774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_136
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 425
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcd4e69263a65590800000000000000
+      internalID: -7685776070227469096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_137
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 386
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569fb9dba1075b770800000000000000
+      internalID: 8625923921450629477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_138
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 386
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba15bf09827ea450800000000000000
+      internalID: 6101940478133213874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_139
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 386
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04aa1c4e7cc5e9d0800000000000000
+      internalID: -2745563554997689331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_140
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 386
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b547d31f6b41d300800000000000000
+      internalID: 275083992692639154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_141
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 399
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266da8ac3d255f670800000000000000
+      internalID: 8571848535359280738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_142
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 402
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48204e81c2a92af0800000000000000
+      internalID: -420626137983473585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_143
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 392
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95a902a309879cf0800000000000000
+      internalID: -245577005971954273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_144
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 396
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921b7193f9a076000800000000000000
+      internalID: 29003601575129385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_145
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 408
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ae3822c64e9b600800000000000000
+      internalID: 484669588005710386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_146
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 408
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3747ecfd24fc2f0800000000000000
+      internalID: -950467467343006766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_147
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 396
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5b794f6e6da1570800000000000000
+      internalID: 8438293139266450864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_148
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 392
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec290e0000c3f7e0800000000000000
+      internalID: -1732830325139493663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_149
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 391
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c36d951cc1b46a0800000000000000
+      internalID: -6464041223398736796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_150
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776279bab6863e7b0800000000000000
+      internalID: -5196194733405821321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_151
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 394
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a74fa5c38a022e0800000000000000
+      internalID: -2152535644705621384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_152
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e85ba21f3f04b030800000000000000
+      internalID: 3509446773199034596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_153
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 391
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21948fe3e518ff700800000000000000
+      internalID: 576321519110080786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_154
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 371
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb29d14583cdea100800000000000000
+      internalID: 121276374473085631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_155
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 361
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c879ef2688aff2670800000000000000
+      internalID: 8516300884064245644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_156
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 376
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5074897e55efab0800000000000000
+      internalID: -4972442485389851176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_157
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 359
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129e3002bba74a9a0800000000000000
+      internalID: -6222713841004582623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_158
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 377
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8564cc2d2eb83bc0800000000000000
+      internalID: -3803080784080509556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_159
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 379
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea79a2927d3080970800000000000000
+      internalID: 8721224901046474670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_160
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 377
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586d964521ccdfe90800000000000000
+      internalID: -6990206667511441787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 376
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0e412571b79e200800000000000000
+      internalID: 209834197741002913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_162
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 359
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c77c1636a9dd880800000000000000
+      internalID: -8584535563065394041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_163
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 361
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868bc5f09fbe58060800000000000000
+      internalID: 6955224654480717928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_164
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 371
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7e18622d2552c00800000000000000
+      internalID: 875196765136086956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_165
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 335
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633e7b3368041f330800000000000000
+      internalID: 3742843710459077430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_166
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 335
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7da7932bbad2b50800000000000000
+      internalID: 6570096213360302042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_167
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 367
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa1360ee1a10f390800000000000000
+      internalID: -7786695035807655172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_168
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 365
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99d7b4ee4413adc0800000000000000
+      internalID: -3629034545653229155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_169
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 361
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1837b0070e38090800000000000000
+      internalID: -8033330538465754696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_170
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 365
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52c3c32e94b675c0800000000000000
+      internalID: -4217985409688026531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_171
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 353
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12497abe3a9b82390800000000000000
+      internalID: -7842814637381282783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_172
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 334
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e2188c6988bccc0800000000000000
+      internalID: -3689705288509608373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_173
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 334
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0237d6bf0acc100800000000000000
+      internalID: 129655491020398806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_174
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 342
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101fdcff4f37d2930800000000000000
+      internalID: 4120076730214772993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_175
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ed9a7ea79e11a40800000000000000
+      internalID: 5337303747492699716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_176
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 342
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1f8e819eaac5060800000000000000
+      internalID: 6943612643620483530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_177
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 350
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5b0bb33787cbb30800000000000000
+      internalID: 4304447780177360351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_178
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 342
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c620a91c9baeec80800000000000000
+      internalID: -8291501177009330495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_179
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 350
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede824f74962f2fe0800000000000000
+      internalID: -1211707355507290402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_180
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d182011bd37c7d0800000000000000
+      internalID: -2898280004500054663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_181
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 342
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e078cab8db91400800000000000000
+      internalID: 295475658162114078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_182
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 331
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e02a07ef4183ae0800000000000000
+      internalID: -1569481387094700469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_183
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 331
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f18bcbcbb185c90800000000000000
+      internalID: -7180959108408271084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_184
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 328
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bd148f87b153470800000000000000
+      internalID: 8373629288540396316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_185
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 326
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8e5b879e685c130800000000000000
+      internalID: 3586421015581157575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_186
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 331
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bbbd7ce2fec3ba0800000000000000
+      internalID: -6107744010420634740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_187
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 331
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9ccfff7f654ad00800000000000000
+      internalID: 983006241825278445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_188
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 326
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97453934a3e9d2670800000000000000
+      internalID: 8515636443506496633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_189
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 328
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4382be891a70cf890800000000000000
+      internalID: -7423049695176742860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_190
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 331
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fbb39971e15b110800000000000000
+      internalID: 1275959156133314324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_191
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 287
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295399cdd1ca28430800000000000000
+      internalID: 3783775881199695250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_192
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 287
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a81c0a08ec3b5c0800000000000000
+      internalID: -4200786975558366609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_193
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 287
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30eb4608cb5321f0800000000000000
+      internalID: -1070911371726823361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_194
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 317
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cee9a3a953af22d0800000000000000
+      internalID: -3301240396446044472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_195
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 313
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b62c7505c2bbae10800000000000000
+      internalID: 2210056601425684149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_196
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 313
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f7e45ef05a23340800000000000000
+      internalID: 4842114037066923818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_197
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 314
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8ad5967a17df390800000000000000
+      internalID: -7782939617185126185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_198
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 314
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e378cea060e630c90800000000000000
+      internalID: -7204794006630529218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_199
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 313
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44658e68a7e217670800000000000000
+      internalID: 8534653872628061764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_200
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 313
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eab08f3ff5256310800000000000000
+      internalID: 1397565037580696292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_201
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 317
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e8f3278cbcdd160800000000000000
+      internalID: 7052016653302730398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_202
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 312
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a4b8809645ffad0800000000000000
+      internalID: -2666319644288398717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_203
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 284
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2148f87b940817590800000000000000
+      internalID: -7678214835589381102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_204
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 284
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6585e12d5027aecb0800000000000000
+      internalID: -4833925880703199146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_205
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76cbb357fd0de790800000000000000
+      internalID: -7499322448589109638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_206
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 233
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d466281589d1dc9f0800000000000000
+      internalID: -446668248000076211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_207
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 233
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b721941879c87b0800000000000000
+      internalID: -5220631286496724076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_208
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 240
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f6ca45a7822d2b0800000000000000
+      internalID: -5561338083977433295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_209
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 240
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5005198a6faff5620800000000000000
+      internalID: 2765204633525768197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_210
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 238
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b5e6c9cb8c88830800000000000000
+      internalID: 4073726575360498454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_211
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 182
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272b35b3d430b9370800000000000000
+      internalID: 8330255565994570354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_212
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 182
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c387fca46ff5225e0800000000000000
+      internalID: -1935879378394187716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_213
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 191
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a33caf792eb7fa0800000000000000
+      internalID: -5801794552561714679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_214
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ceea9aaeaf72640800000000000000
+      internalID: 5055284992522775622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_215
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 190
+        width: 104
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f275a91eb27688af0800000000000000
+      internalID: -393951529228675281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_216
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 190
+        width: 104
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2e3a9dc9f5d2ea0800000000000000
+      internalID: -5895951209887178005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_217
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 131
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da633ee0fda578fb0800000000000000
+      internalID: -4645644576535398739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_218
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 131
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d470be871242c63b0800000000000000
+      internalID: -5517995717254510771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_219
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 158
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbae79fe1b7b83f0800000000000000
+      internalID: -897488327765218364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_220
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 158
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4d8dbd3091dca30800000000000000
+      internalID: 4237070328789521591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_221
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 162
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5e8385ea37078f0800000000000000
+      internalID: -544808362270202406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_222
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 162
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c957bd4fb0bb7a9a0800000000000000
+      internalID: -6221798700161993316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_223
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 162
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7983624b37f72100800000000000000
+      internalID: 83306952018594173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 12
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4127fe542564db0800000000000000
+      internalID: -4808065091847973637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_225
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 68
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1042ebe3402901af0800000000000000
+      internalID: -427681417670024191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_226
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 34
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d17c43f5348f680800000000000000
+      internalID: -8721146602216547069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_227
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d764c32d7d6fdd30800000000000000
+      internalID: 4458402540358494169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_228
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 80
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ea15bd01fa336a0800000000000000
+      internalID: -6470635752667369980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_229
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 25
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb56b07d645051390800000000000000
+      internalID: -7848360973809523265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_230
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 97
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b5ab7dc935fa820800000000000000
+      internalID: 2931653815540800293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_231
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 101
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858b0f65e87451ed0800000000000000
+      internalID: -2443968546109081512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_232
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 106
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581c43e7cb0e04c70800000000000000
+      internalID: 8953403159388406149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_233
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 108
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182d707cf5f804730800000000000000
+      internalID: 3981339712119362177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_234
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 109
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec20c87e0952b020800000000000000
+      internalID: 2356043473758465251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_235
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 95
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5beb2aebb16d682f0800000000000000
+      internalID: -970853255000965451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_236
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 96
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e781974f3895e250800000000000000
+      internalID: 5973347878327912423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_237
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 50
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974ae156afa6f02d0800000000000000
+      internalID: -3310309577423149959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_238
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 97
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ecd2d111708dc20800000000000000
+      internalID: 3231340502723710616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_239
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1fc6bc37d461cb0800000000000000
+      internalID: -4893638785361972800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_240
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 63
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d13640b0bbad4b0800000000000000
+      internalID: -5414809945966961323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_241
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 68
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480a9acba61e7bac0800000000000000
+      internalID: -3839352308762042236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_242
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 81
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f33407f1bf0df20800000000000000
+      internalID: 3445529827384442669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_243
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377cb389d00168a00800000000000000
+      internalID: 758311237833181043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_244
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 65
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd7347680991e3b0800000000000000
+      internalID: -5484934609789289010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_245
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 29
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75473621ea8f763b0800000000000000
+      internalID: -5519169391802747817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_246
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 50
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b09490ed1c9b8e60800000000000000
+      internalID: 7965632018070671539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_247
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 30
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7bd681c93caf480800000000000000
+      internalID: -8864557841333241886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_248
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd2395ddbed8d6b0800000000000000
+      internalID: -5271218456923787813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_249
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 36
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a2b8fe9ce0e1b40800000000000000
+      internalID: 5412780062616005225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_250
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 35
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaa15658636fc630800000000000000
+      internalID: 3949484698003155690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_251
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 22
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9303ed1d8b5e37a90800000000000000
+      internalID: -7317252387589181383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_252
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 6
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e92c0dff9aa04a0800000000000000
+      internalID: -6626296985538093466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_253
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 6
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2b5432336822da0800000000000000
+      internalID: -5971062601746632030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_254
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 9
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6699be33b444baf80800000000000000
+      internalID: -8094300815484020378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_255
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3bcb966164dc270800000000000000
+      internalID: 8272345152626668499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeOver_Intro_256
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9f83bc32a802160800000000000000
+      internalID: 6998745707271748059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

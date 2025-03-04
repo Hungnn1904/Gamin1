@@ -1,0 +1,6430 @@
+fileFormatVersion: 2
+guid: 4daa53958c08c074092a6c6735905a53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6341516130280217780
+    second: rmEndCamp1_0
+  - first:
+      213: 7851775018479749092
+    second: rmEndCamp1_1
+  - first:
+      213: 7597608966686213483
+    second: rmEndCamp1_2
+  - first:
+      213: -4768519294660140487
+    second: rmEndCamp1_3
+  - first:
+      213: -8346424148024493632
+    second: rmEndCamp1_4
+  - first:
+      213: 307628507133268085
+    second: rmEndCamp1_5
+  - first:
+      213: 6893718923364124825
+    second: rmEndCamp1_6
+  - first:
+      213: 3178192629688331636
+    second: rmEndCamp1_7
+  - first:
+      213: 3200605607882297505
+    second: rmEndCamp1_8
+  - first:
+      213: 7304436766585464172
+    second: rmEndCamp1_9
+  - first:
+      213: 2851477592206626284
+    second: rmEndCamp1_10
+  - first:
+      213: 8101424179301103987
+    second: rmEndCamp1_11
+  - first:
+      213: -227294571091495550
+    second: rmEndCamp1_12
+  - first:
+      213: -9217853755346833582
+    second: rmEndCamp1_13
+  - first:
+      213: 6496784317655033246
+    second: rmEndCamp1_14
+  - first:
+      213: -8456004671430984724
+    second: rmEndCamp1_15
+  - first:
+      213: 5635855827376169593
+    second: rmEndCamp1_16
+  - first:
+      213: 2887906507362914520
+    second: rmEndCamp1_17
+  - first:
+      213: 1794776879505136592
+    second: rmEndCamp1_18
+  - first:
+      213: -872122407170634216
+    second: rmEndCamp1_19
+  - first:
+      213: 888158501165925530
+    second: rmEndCamp1_20
+  - first:
+      213: -8696016553996746945
+    second: rmEndCamp1_21
+  - first:
+      213: 4110202338831113279
+    second: rmEndCamp1_22
+  - first:
+      213: 5652833496977235719
+    second: rmEndCamp1_23
+  - first:
+      213: 5400381965831490270
+    second: rmEndCamp1_24
+  - first:
+      213: 3297617188016538900
+    second: rmEndCamp1_25
+  - first:
+      213: 4028429847140930563
+    second: rmEndCamp1_26
+  - first:
+      213: -5643080622125657852
+    second: rmEndCamp1_27
+  - first:
+      213: 7555732410425514008
+    second: rmEndCamp1_28
+  - first:
+      213: 8435237521543190475
+    second: rmEndCamp1_29
+  - first:
+      213: -1131617695961605509
+    second: rmEndCamp1_30
+  - first:
+      213: 2225832242618574417
+    second: rmEndCamp1_31
+  - first:
+      213: 9129567873435580474
+    second: rmEndCamp1_32
+  - first:
+      213: -3795735096784531893
+    second: rmEndCamp1_33
+  - first:
+      213: -9142450705592997122
+    second: rmEndCamp1_34
+  - first:
+      213: -4314998798282648017
+    second: rmEndCamp1_35
+  - first:
+      213: 1719736762785392705
+    second: rmEndCamp1_36
+  - first:
+      213: -7416693540801907382
+    second: rmEndCamp1_37
+  - first:
+      213: -5172734083786621957
+    second: rmEndCamp1_38
+  - first:
+      213: -4216295733364383214
+    second: rmEndCamp1_39
+  - first:
+      213: 1644533341570476706
+    second: rmEndCamp1_40
+  - first:
+      213: -7134816969684652616
+    second: rmEndCamp1_41
+  - first:
+      213: -4115232107021473388
+    second: rmEndCamp1_42
+  - first:
+      213: -8233735049220079105
+    second: rmEndCamp1_43
+  - first:
+      213: -2578986852758088053
+    second: rmEndCamp1_44
+  - first:
+      213: 7029683879360601667
+    second: rmEndCamp1_45
+  - first:
+      213: 764062819826595465
+    second: rmEndCamp1_46
+  - first:
+      213: 3467559059162664737
+    second: rmEndCamp1_47
+  - first:
+      213: -5262592930429763043
+    second: rmEndCamp1_48
+  - first:
+      213: 8200783096051771940
+    second: rmEndCamp1_49
+  - first:
+      213: 5586379193047224341
+    second: rmEndCamp1_50
+  - first:
+      213: 633123425317642540
+    second: rmEndCamp1_51
+  - first:
+      213: -3833576563874056468
+    second: rmEndCamp1_52
+  - first:
+      213: -3290952939438509670
+    second: rmEndCamp1_53
+  - first:
+      213: -3330927893200735347
+    second: rmEndCamp1_54
+  - first:
+      213: -3881753485566136774
+    second: rmEndCamp1_55
+  - first:
+      213: 6121706248866109436
+    second: rmEndCamp1_56
+  - first:
+      213: 4820566276458538716
+    second: rmEndCamp1_57
+  - first:
+      213: 2579583418185053972
+    second: rmEndCamp1_58
+  - first:
+      213: 4996382687994097137
+    second: rmEndCamp1_59
+  - first:
+      213: -1914436403905762714
+    second: rmEndCamp1_60
+  - first:
+      213: 4940579269608398759
+    second: rmEndCamp1_61
+  - first:
+      213: -6177488699574473629
+    second: rmEndCamp1_62
+  - first:
+      213: -8445303481834067654
+    second: rmEndCamp1_63
+  - first:
+      213: -5041602234330638001
+    second: rmEndCamp1_64
+  - first:
+      213: -8677542303916330381
+    second: rmEndCamp1_65
+  - first:
+      213: -3255338406564771026
+    second: rmEndCamp1_66
+  - first:
+      213: 1732711104796829530
+    second: rmEndCamp1_67
+  - first:
+      213: 2625659079873947871
+    second: rmEndCamp1_68
+  - first:
+      213: 2988976250956302548
+    second: rmEndCamp1_69
+  - first:
+      213: -7312028989067013776
+    second: rmEndCamp1_70
+  - first:
+      213: 433992671104916144
+    second: rmEndCamp1_71
+  - first:
+      213: 5918153977956063962
+    second: rmEndCamp1_72
+  - first:
+      213: 5157336080758088340
+    second: rmEndCamp1_73
+  - first:
+      213: -5787656735716471103
+    second: rmEndCamp1_74
+  - first:
+      213: -4989301943021535780
+    second: rmEndCamp1_75
+  - first:
+      213: -258348719834228357
+    second: rmEndCamp1_76
+  - first:
+      213: -6826949739772680905
+    second: rmEndCamp1_77
+  - first:
+      213: 2181530172672248041
+    second: rmEndCamp1_78
+  - first:
+      213: 3429303147337890629
+    second: rmEndCamp1_79
+  - first:
+      213: 7536050562325459297
+    second: rmEndCamp1_80
+  - first:
+      213: -3069996182377259031
+    second: rmEndCamp1_81
+  - first:
+      213: 7497023751457805240
+    second: rmEndCamp1_82
+  - first:
+      213: 113345061213373630
+    second: rmEndCamp1_83
+  - first:
+      213: 5011731984038944099
+    second: rmEndCamp1_84
+  - first:
+      213: 2642283888373988405
+    second: rmEndCamp1_85
+  - first:
+      213: 7542179667842235425
+    second: rmEndCamp1_86
+  - first:
+      213: 4063003796793474217
+    second: rmEndCamp1_87
+  - first:
+      213: -1764075657521093347
+    second: rmEndCamp1_88
+  - first:
+      213: -4012641321027085352
+    second: rmEndCamp1_89
+  - first:
+      213: 7301348380254237529
+    second: rmEndCamp1_90
+  - first:
+      213: 7119412333788003865
+    second: rmEndCamp1_91
+  - first:
+      213: 7296841228239182734
+    second: rmEndCamp1_92
+  - first:
+      213: 2701916981837306227
+    second: rmEndCamp1_93
+  - first:
+      213: 1020745363346014858
+    second: rmEndCamp1_94
+  - first:
+      213: -7950239493485283881
+    second: rmEndCamp1_95
+  - first:
+      213: 7503041952436429472
+    second: rmEndCamp1_96
+  - first:
+      213: 4430042537995873833
+    second: rmEndCamp1_97
+  - first:
+      213: 2891794424249690459
+    second: rmEndCamp1_98
+  - first:
+      213: 1880301585621190100
+    second: rmEndCamp1_99
+  - first:
+      213: -8987572625470191018
+    second: rmEndCamp1_100
+  - first:
+      213: -810440280258448259
+    second: rmEndCamp1_101
+  - first:
+      213: 9034336212615128252
+    second: rmEndCamp1_102
+  - first:
+      213: 8025307457851085562
+    second: rmEndCamp1_103
+  - first:
+      213: 6288565621816401728
+    second: rmEndCamp1_104
+  - first:
+      213: 8034932935930223074
+    second: rmEndCamp1_105
+  - first:
+      213: 7092408200587277873
+    second: rmEndCamp1_106
+  - first:
+      213: -2894537022830767340
+    second: rmEndCamp1_107
+  - first:
+      213: 7479310287759957281
+    second: rmEndCamp1_108
+  - first:
+      213: -3590082983790038512
+    second: rmEndCamp1_109
+  - first:
+      213: 3277722531630979340
+    second: rmEndCamp1_110
+  - first:
+      213: 3896335008505389943
+    second: rmEndCamp1_111
+  - first:
+      213: 5155861912494477494
+    second: rmEndCamp1_112
+  - first:
+      213: 260928028763882611
+    second: rmEndCamp1_113
+  - first:
+      213: 1509696446939777206
+    second: rmEndCamp1_114
+  - first:
+      213: -6781910146391996076
+    second: rmEndCamp1_115
+  - first:
+      213: 7248407999461827921
+    second: rmEndCamp1_116
+  - first:
+      213: -1638242549193195622
+    second: rmEndCamp1_117
+  - first:
+      213: -7099260805145881006
+    second: rmEndCamp1_118
+  - first:
+      213: 5225408241046913165
+    second: rmEndCamp1_119
+  - first:
+      213: 7752603780424923236
+    second: rmEndCamp1_120
+  - first:
+      213: -1397903706773169151
+    second: rmEndCamp1_121
+  - first:
+      213: -9113636500013382726
+    second: rmEndCamp1_122
+  - first:
+      213: 8441334217940350042
+    second: rmEndCamp1_123
+  - first:
+      213: 7990966069698423756
+    second: rmEndCamp1_124
+  - first:
+      213: 7008883990833168838
+    second: rmEndCamp1_125
+  - first:
+      213: 5973756302409480889
+    second: rmEndCamp1_126
+  - first:
+      213: 1655892547743940877
+    second: rmEndCamp1_127
+  - first:
+      213: -9063997411456791610
+    second: rmEndCamp1_128
+  - first:
+      213: -2672110659742062035
+    second: rmEndCamp1_129
+  - first:
+      213: 1135911627732433727
+    second: rmEndCamp1_130
+  - first:
+      213: 2902458657328582590
+    second: rmEndCamp1_131
+  - first:
+      213: -3400853378009164021
+    second: rmEndCamp1_132
+  - first:
+      213: -3156822052858502984
+    second: rmEndCamp1_133
+  - first:
+      213: -5003249736301832628
+    second: rmEndCamp1_134
+  - first:
+      213: -5544162735960377255
+    second: rmEndCamp1_135
+  - first:
+      213: 2970565962907067822
+    second: rmEndCamp1_136
+  - first:
+      213: 5200435654507390622
+    second: rmEndCamp1_137
+  - first:
+      213: -172962345729445269
+    second: rmEndCamp1_138
+  - first:
+      213: 314496952575691767
+    second: rmEndCamp1_139
+  - first:
+      213: -4723948928009521117
+    second: rmEndCamp1_140
+  - first:
+      213: -4142535429503547821
+    second: rmEndCamp1_141
+  - first:
+      213: 1855503795103204808
+    second: rmEndCamp1_142
+  - first:
+      213: -5067468156617710858
+    second: rmEndCamp1_143
+  - first:
+      213: -1095658590540620791
+    second: rmEndCamp1_144
+  - first:
+      213: 259390755260407832
+    second: rmEndCamp1_145
+  - first:
+      213: -5029738117892473313
+    second: rmEndCamp1_146
+  - first:
+      213: 2455402433381731589
+    second: rmEndCamp1_147
+  - first:
+      213: 8258683373404386944
+    second: rmEndCamp1_148
+  - first:
+      213: 5492295302002942586
+    second: rmEndCamp1_149
+  - first:
+      213: -1365407651173367895
+    second: rmEndCamp1_150
+  - first:
+      213: -7374543270046904749
+    second: rmEndCamp1_151
+  - first:
+      213: -8505841523196907200
+    second: rmEndCamp1_152
+  - first:
+      213: -3882557866294330520
+    second: rmEndCamp1_153
+  - first:
+      213: -6438811835295507499
+    second: rmEndCamp1_154
+  - first:
+      213: -1346536156992180767
+    second: rmEndCamp1_155
+  - first:
+      213: 7578807710147018217
+    second: rmEndCamp1_156
+  - first:
+      213: -2660596311805998309
+    second: rmEndCamp1_157
+  - first:
+      213: 3064070446528777483
+    second: rmEndCamp1_158
+  - first:
+      213: -8532876696768943346
+    second: rmEndCamp1_159
+  - first:
+      213: 7872491914219684946
+    second: rmEndCamp1_160
+  - first:
+      213: 6208315546998044432
+    second: rmEndCamp1_161
+  - first:
+      213: 1019368083652856108
+    second: rmEndCamp1_162
+  - first:
+      213: -4462670665352220808
+    second: rmEndCamp1_163
+  - first:
+      213: 7744279789741200150
+    second: rmEndCamp1_164
+  - first:
+      213: 4965172575590903195
+    second: rmEndCamp1_165
+  - first:
+      213: -2248620494328047378
+    second: rmEndCamp1_166
+  - first:
+      213: 7468640866574368096
+    second: rmEndCamp1_167
+  - first:
+      213: -5568823738150029698
+    second: rmEndCamp1_168
+  - first:
+      213: 124925251002107047
+    second: rmEndCamp1_169
+  - first:
+      213: -6828059790590040905
+    second: rmEndCamp1_170
+  - first:
+      213: 2971725359065667180
+    second: rmEndCamp1_171
+  - first:
+      213: -230151293328959261
+    second: rmEndCamp1_172
+  - first:
+      213: 1361359446368436430
+    second: rmEndCamp1_173
+  - first:
+      213: 7809545402628320205
+    second: rmEndCamp1_174
+  - first:
+      213: -644306165622701808
+    second: rmEndCamp1_175
+  - first:
+      213: -8257523919723883809
+    second: rmEndCamp1_176
+  - first:
+      213: -5069478441925460394
+    second: rmEndCamp1_177
+  - first:
+      213: 2610585878269424627
+    second: rmEndCamp1_178
+  - first:
+      213: -9086477602014064641
+    second: rmEndCamp1_179
+  - first:
+      213: 2031659116574869821
+    second: rmEndCamp1_180
+  - first:
+      213: 2700258338089542518
+    second: rmEndCamp1_181
+  - first:
+      213: 7191540248451519118
+    second: rmEndCamp1_182
+  - first:
+      213: -6364763259978676915
+    second: rmEndCamp1_183
+  - first:
+      213: -9094249700634647215
+    second: rmEndCamp1_184
+  - first:
+      213: 3901568178271501094
+    second: rmEndCamp1_185
+  - first:
+      213: 4578492127392932863
+    second: rmEndCamp1_186
+  - first:
+      213: -4687347521318791994
+    second: rmEndCamp1_187
+  - first:
+      213: -5117693986805321503
+    second: rmEndCamp1_188
+  - first:
+      213: -5628497115533498056
+    second: rmEndCamp1_189
+  - first:
+      213: -4494425539897505792
+    second: rmEndCamp1_190
+  - first:
+      213: 8479496374165713564
+    second: rmEndCamp1_191
+  - first:
+      213: -7990974285930565804
+    second: rmEndCamp1_192
+  - first:
+      213: 8744746398735540514
+    second: rmEndCamp1_193
+  - first:
+      213: -8121754079163199448
+    second: rmEndCamp1_194
+  - first:
+      213: 7201321103305604940
+    second: rmEndCamp1_195
+  - first:
+      213: 3616761651137422655
+    second: rmEndCamp1_196
+  - first:
+      213: -4439138582618882504
+    second: rmEndCamp1_197
+  - first:
+      213: 8448135678476719979
+    second: rmEndCamp1_198
+  - first:
+      213: 3534346354288126626
+    second: rmEndCamp1_199
+  - first:
+      213: 5163996041510153804
+    second: rmEndCamp1_200
+  - first:
+      213: -4161296424987683701
+    second: rmEndCamp1_201
+  - first:
+      213: 4321688656610824623
+    second: rmEndCamp1_202
+  - first:
+      213: -4788833601452289597
+    second: rmEndCamp1_203
+  - first:
+      213: -8547951875781880933
+    second: rmEndCamp1_204
+  - first:
+      213: -8842709670571561146
+    second: rmEndCamp1_205
+  - first:
+      213: 4046861517908915955
+    second: rmEndCamp1_206
+  - first:
+      213: 8020602218074437767
+    second: rmEndCamp1_207
+  - first:
+      213: -7541697870666464785
+    second: rmEndCamp1_208
+  - first:
+      213: -7947456349452373639
+    second: rmEndCamp1_209
+  - first:
+      213: -7443109210203710096
+    second: rmEndCamp1_210
+  - first:
+      213: -3091639403843162936
+    second: rmEndCamp1_211
+  - first:
+      213: 5922896794583991631
+    second: rmEndCamp1_212
+  - first:
+      213: -3395368835099272006
+    second: rmEndCamp1_213
+  - first:
+      213: -4342839647804825418
+    second: rmEndCamp1_214
+  - first:
+      213: -6160438561979115637
+    second: rmEndCamp1_215
+  - first:
+      213: -7227922992096682619
+    second: rmEndCamp1_216
+  - first:
+      213: 5867581295389476377
+    second: rmEndCamp1_217
+  - first:
+      213: -7388115417230066334
+    second: rmEndCamp1_218
+  - first:
+      213: -8324706840597477129
+    second: rmEndCamp1_219
+  - first:
+      213: 2294677723625942393
+    second: rmEndCamp1_220
+  - first:
+      213: 1425925634742225439
+    second: rmEndCamp1_221
+  - first:
+      213: 6933872319225416184
+    second: rmEndCamp1_222
+  - first:
+      213: -9047890785220822748
+    second: rmEndCamp1_223
+  - first:
+      213: -1461480697027606559
+    second: rmEndCamp1_224
+  - first:
+      213: -812904093751712109
+    second: rmEndCamp1_225
+  - first:
+      213: -2497765229090482071
+    second: rmEndCamp1_226
+  - first:
+      213: -1919084160349922258
+    second: rmEndCamp1_227
+  - first:
+      213: 8050664301999951985
+    second: rmEndCamp1_228
+  - first:
+      213: -1123995312512643622
+    second: rmEndCamp1_229
+  - first:
+      213: -4255504421126010267
+    second: rmEndCamp1_230
+  - first:
+      213: -8124001396279244358
+    second: rmEndCamp1_231
+  - first:
+      213: -7843086143746228039
+    second: rmEndCamp1_232
+  - first:
+      213: 2798851894151841265
+    second: rmEndCamp1_233
+  - first:
+      213: -3671305532771219050
+    second: rmEndCamp1_234
+  - first:
+      213: 6717040273668534931
+    second: rmEndCamp1_235
+  - first:
+      213: 1972299397811421572
+    second: rmEndCamp1_236
+  - first:
+      213: -4241271958905911794
+    second: rmEndCamp1_237
+  - first:
+      213: -7872452563983027527
+    second: rmEndCamp1_238
+  - first:
+      213: -7797269456873610238
+    second: rmEndCamp1_239
+  - first:
+      213: -3104184524641944535
+    second: rmEndCamp1_240
+  - first:
+      213: 8996607161643665035
+    second: rmEndCamp1_241
+  - first:
+      213: -1304172225195243872
+    second: rmEndCamp1_242
+  - first:
+      213: 8200286077057494465
+    second: rmEndCamp1_243
+  - first:
+      213: -6958280963409937781
+    second: rmEndCamp1_244
+  - first:
+      213: -5599494337692744752
+    second: rmEndCamp1_245
+  - first:
+      213: -7315261440727103292
+    second: rmEndCamp1_246
+  - first:
+      213: -1278394331907291814
+    second: rmEndCamp1_247
+  - first:
+      213: -3355240926787268752
+    second: rmEndCamp1_248
+  - first:
+      213: 3691103614922962249
+    second: rmEndCamp1_249
+  - first:
+      213: 4200121220073133057
+    second: rmEndCamp1_250
+  - first:
+      213: 3212532811531970132
+    second: rmEndCamp1_251
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmEndCamp1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc13ca5257910850800000000000000
+      internalID: 6341516130280217780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 395
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e785c067cb17fc60800000000000000
+      internalID: 7851775018479749092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 491
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6587a1f911207960800000000000000
+      internalID: 7597608966686213483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 470
+        width: 63
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932af2957f0d2ddb0800000000000000
+      internalID: -4768519294660140487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 576
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9f148657b8b2c80800000000000000
+      internalID: -8346424148024493632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 580
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57056725f7ae44400800000000000000
+      internalID: 307628507133268085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 590
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998c18816d86baf50800000000000000
+      internalID: 6893718923364124825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 590
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d6650ab553b1c20800000000000000
+      internalID: 3178192629688331636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 580
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a092f3c7d5da6c20800000000000000
+      internalID: 3200605607882297505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 557
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6521a4e9829e5560800000000000000
+      internalID: 7304436766585464172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 521
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced467823cb729720800000000000000
+      internalID: 2851477592206626284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 539
+        width: 7
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379b00e2e5a0e6070800000000000000
+      internalID: 8101424179301103987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_12
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 580
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28577b6bacc78dcf0800000000000000
+      internalID: -227294571091495550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_13
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 595
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f2d0909da931080800000000000000
+      internalID: -9217853755346833582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_14
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 585
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95282c5ae6392a50800000000000000
+      internalID: 6496784317655033246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 558
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebff4c9d8c36aa80800000000000000
+      internalID: -8456004671430984724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 573
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9726214d305963e40800000000000000
+      internalID: 5635855827376169593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 576
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0d7ebeaa7e31820800000000000000
+      internalID: 2887906507362914520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 565
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbdcf1101458e810800000000000000
+      internalID: 1794776879505136592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 559
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e8fe79a4995e3f0800000000000000
+      internalID: -872122407170634216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 573
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a940d3e737f535c00800000000000000
+      internalID: 888158501165925530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_21
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 558
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f7b12840b815780800000000000000
+      internalID: -8696016553996746945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 572
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c1209104f5a0930800000000000000
+      internalID: 4110202338831113279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_23
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 558
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fd1c19d16e27e40800000000000000
+      internalID: 5652833496977235719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 558
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edacfc419c202fa40800000000000000
+      internalID: 5400381965831490270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_25
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 572
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415c2f86c5d73cd20800000000000000
+      internalID: 3297617188016538900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_26
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 558
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3049a693a9bd7e730800000000000000
+      internalID: 4028429847140930563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 558
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4015f4f8210cfa1b0800000000000000
+      internalID: -5643080622125657852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_28
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 573
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8189155689a5bd860800000000000000
+      internalID: 7555732410425514008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 565
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7d0a385dbff0570800000000000000
+      internalID: 8435237521543190475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 576
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a99aa73bfab40f0800000000000000
+      internalID: -1131617695961605509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_31
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 558
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15624e6b1aeb3ee10800000000000000
+      internalID: 2225832242618574417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 573
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3832f04c9db2be70800000000000000
+      internalID: 9129567873435580474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_33
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 548
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ecca64a07d25bc0800000000000000
+      internalID: -3795735096784531893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 541
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa2c94a58d7f1180800000000000000
+      internalID: -9142450705592997122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_35
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 544
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26102e647b0e14c0800000000000000
+      internalID: -4314998798282648017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_36
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 542
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148e005697bbdd710800000000000000
+      internalID: 1719736762785392705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_37
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 542
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45719c158c921990800000000000000
+      internalID: -7416693540801907382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 544
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbb752d1c1c638b0800000000000000
+      internalID: -5172734083786621957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_39
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 541
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21222d09e55bc75c0800000000000000
+      internalID: -4216295733364383214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 540
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa289d6c5e82d610800000000000000
+      internalID: 1644533341570476706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_41
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 544
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd648894c90cfc90800000000000000
+      internalID: -7134816969684652616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_42
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 540
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499e3bcb332c3e6c0800000000000000
+      internalID: -4115232107021473388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_43
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 541
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1cd80d895ebbd80800000000000000
+      internalID: -8233735049220079105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 542
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8693f81f19953cd0800000000000000
+      internalID: -2578986852758088053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_45
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 542
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e14905e347e8160800000000000000
+      internalID: 7029683879360601667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_46
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 544
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986f8d1261f7a9a00800000000000000
+      internalID: 764062819826595465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_47
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 541
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f0417a79e3f1030800000000000000
+      internalID: 3467559059162664737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_48
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d128048bc9387f6b0800000000000000
+      internalID: -5262592930429763043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_49
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 525
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aa138b6c80fc170800000000000000
+      internalID: 8200783096051771940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_50
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 528
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5109636374ec68d40800000000000000
+      internalID: 5586379193047224341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_51
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 525
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c216901a66e49c800800000000000000
+      internalID: 633123425317642540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_52
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 509
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce636032d666ccac0800000000000000
+      internalID: -3833576563874056468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 530
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a917d30ecbf2452d0800000000000000
+      internalID: -3290952939438509670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_54
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 533
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d837459aaba26c1d0800000000000000
+      internalID: -3330927893200735347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_55
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 533
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e223375cd312ac0800000000000000
+      internalID: -3881753485566136774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 530
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf714fe266ba4f450800000000000000
+      internalID: 6121706248866109436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 509
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6e98cec7716e240800000000000000
+      internalID: 4820566276458538716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_58
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 525
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417786d93758cc320800000000000000
+      internalID: 2579583418185053972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_59
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 528
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdaccf2597b65540800000000000000
+      internalID: 4996382687994097137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_60
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 509
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aee18db3e8e65e0800000000000000
+      internalID: -1914436403905762714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_61
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 518
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afdaad5ba6709440800000000000000
+      internalID: 4940579269608398759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_62
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 525
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cafd9e1c6254aa0800000000000000
+      internalID: -6177488699574473629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_63
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 525
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3929e87a314cca80800000000000000
+      internalID: -8445303481834067654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_64
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 512
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4918ebba71a80ab0800000000000000
+      internalID: -5041602234330638001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_65
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 509
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37274ab004d239780800000000000000
+      internalID: -8677542303916330381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_66
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 508
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b450d77f6b2d2d0800000000000000
+      internalID: -3255338406564771026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_67
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 509
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a572acbc193db0810800000000000000
+      internalID: 1732711104796829530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_68
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 509
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd86a259507307420800000000000000
+      internalID: 2625659079873947871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_69
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 508
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d84450601afa7920800000000000000
+      internalID: 2988976250956302548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 509
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0715d4f0064768a90800000000000000
+      internalID: -7312028989067013776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_71
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 512
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bad454f80ad50600800000000000000
+      internalID: 433992671104916144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_72
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 454
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adad22eefa1812250800000000000000
+      internalID: 5918153977956063962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_73
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 480
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49224e837d9829740800000000000000
+      internalID: 5157336080758088340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_74
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 493
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce09b9fcdc1eafa0800000000000000
+      internalID: -5787656735716471103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_75
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 494
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddf809315072cab0800000000000000
+      internalID: -4989301943021535780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_76
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 501
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b799a1645392a6cf0800000000000000
+      internalID: -258348719834228357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 500
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7356765e16dc141a0800000000000000
+      internalID: -6826949739772680905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_78
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 493
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e80de0422a564e10800000000000000
+      internalID: 2181530172672248041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_79
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 492
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b34341b05579f20800000000000000
+      internalID: 3429303147337890629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_80
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 492
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161bac80f0e659860800000000000000
+      internalID: 7536050562325459297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_81
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 493
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef1997dcbe2565d0800000000000000
+      internalID: -3069996182377259031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_82
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 500
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b31f4a8167ca0860800000000000000
+      internalID: 7497023751457805240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_83
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 494
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb40bae8bbea29100800000000000000
+      internalID: 113345061213373630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_84
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 412
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dda1aafaf3d8540800000000000000
+      internalID: 5011731984038944099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_85
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 501
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cf44272374ba420800000000000000
+      internalID: 2642283888373988405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_86
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 494
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cf8ed92743ba860800000000000000
+      internalID: 7542179667842235425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_87
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 494
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac30fc2d60b26830800000000000000
+      internalID: 4063003796793474217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_88
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 379
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15aa84398eb487e0800000000000000
+      internalID: -1764075657521093347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_89
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 379
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db50297afb3058c0800000000000000
+      internalID: -4012641321027085352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_90
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 461
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9537d6aeaa9935560800000000000000
+      internalID: 7301348380254237529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_91
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 465
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ef7fc1ccb3dc260800000000000000
+      internalID: 7119412333788003865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_92
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 477
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b1f9fcf66934560800000000000000
+      internalID: 7296841228239182734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_93
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 477
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379120bfd232f7520800000000000000
+      internalID: 2701916981837306227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 465
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82cd54ff7a6a2e00800000000000000
+      internalID: 1020745363346014858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_95
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 461
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d537878d431ba190800000000000000
+      internalID: -7950239493485283881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_96
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 459
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2a3d527e8202860800000000000000
+      internalID: 7503041952436429472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_97
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 460
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e2d19873caa7d30800000000000000
+      internalID: 4430042537995873833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_98
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 461
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59abdc15b7b12820800000000000000
+      internalID: 2891794424249690459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_99
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 463
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d50e81745c281a10800000000000000
+      internalID: 1880301585621190100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_100
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 461
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a03d9b05ab54380800000000000000
+      internalID: -8987572625470191018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_101
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 460
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74f687ebdcb0c4f0800000000000000
+      internalID: -810440280258448259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_102
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 430
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb46f5e5be8606d70800000000000000
+      internalID: 9034336212615128252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_103
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 440
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2d18eec9e9f5f60800000000000000
+      internalID: 8025307457851085562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_104
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 445
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f99136d19754750800000000000000
+      internalID: 6288565621816401728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_105
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 428
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e915303fe0d18f60800000000000000
+      internalID: 8034932935930223074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_106
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 446
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13672166eab4d6260800000000000000
+      internalID: 7092408200587277873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_107
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 448
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41394f4e9e984d7d0800000000000000
+      internalID: -2894537022830767340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 446
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d5bd26419dbc760800000000000000
+      internalID: 7479310287759957281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_109
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 445
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012350d1c867d2ec0800000000000000
+      internalID: -3590082983790038512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_110
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 428
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c099822c64fcc7d20800000000000000
+      internalID: 3277722531630979340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_111
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 430
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773e1ebeb00921630800000000000000
+      internalID: 3896335008505389943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_112
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 440
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0133da71d4d8740800000000000000
+      internalID: 5155861912494477494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_113
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 395
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3740a62e8a00f9300800000000000000
+      internalID: 260928028763882611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_114
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 395
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8c3867be483f410800000000000000
+      internalID: 1509696446939777206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_115
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 413
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45900b967a0d1e1a0800000000000000
+      internalID: -6781910146391996076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_116
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 434
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155a50bfba4879460800000000000000
+      internalID: 7248407999461827921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_117
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 430
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fb86fc41bc349e0800000000000000
+      internalID: -1638242549193195622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 434
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2561d6549eb5a7d90800000000000000
+      internalID: -7099260805145881006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_119
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 411
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80000e1c11648840800000000000000
+      internalID: 5225408241046913165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_120
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 422
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468f3903018c69b60800000000000000
+      internalID: 7752603780424923236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_121
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 411
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c559f2cf5a99ce0800000000000000
+      internalID: -1397903706773169151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_122
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 419
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab30baca3ebd58180800000000000000
+      internalID: -9113636500013382726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_123
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 411
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a543fa24fb4a52570800000000000000
+      internalID: 8441334217940350042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_124
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 419
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbe29c6d4d95ee60800000000000000
+      internalID: 7990966069698423756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_125
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 422
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c18881eade844160800000000000000
+      internalID: 7008883990833168838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_126
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 411
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba3edbe4bb07e250800000000000000
+      internalID: 5973756302409480889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_127
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 400
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d018e76bf79eaf610800000000000000
+      internalID: 1655892547743940877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_128
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 397
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbce0d9066363280800000000000000
+      internalID: -9063997411456791610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_129
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 395
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a2a8d2381caead0800000000000000
+      internalID: -2672110659742062035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_130
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 400
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b3a3b6b9193cf00800000000000000
+      internalID: 1135911627732433727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_131
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 400
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfc35d55ca974820800000000000000
+      internalID: 2902458657328582590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_132
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 395
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0793960fddbdc0d0800000000000000
+      internalID: -3400853378009164021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_133
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 397
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0ef388117b034d0800000000000000
+      internalID: -3156822052858502984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_134
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 400
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4699298fd2e09ab0800000000000000
+      internalID: -5003249736301832628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_135
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 384
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958bf1aad5d2f03b0800000000000000
+      internalID: -5544162735960377255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_136
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 386
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea521f82102993920800000000000000
+      internalID: 2970565962907067822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_137
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 382
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e966038bca8ab2840800000000000000
+      internalID: 5200435654507390622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_138
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 382
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b623747b9a3899df0800000000000000
+      internalID: -172962345729445269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_139
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 383
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb8735ef415d5400800000000000000
+      internalID: 314496952575691767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_140
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 383
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328b7e08a79217eb0800000000000000
+      internalID: -4723948928009521117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_141
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 382
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35688f699f1c286c0800000000000000
+      internalID: -4142535429503547821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_142
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 382
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5048aeed210c910800000000000000
+      internalID: 1855503795103204808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_143
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 386
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2a2366f8cbca9b0800000000000000
+      internalID: -5067468156617710858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_144
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 386
+        width: 73
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c98b321507bc0f0800000000000000
+      internalID: -1095658590540620791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_145
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 380
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8102151848a899300800000000000000
+      internalID: 259390755260407832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_146
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 384
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ef6c994d7c23ab0800000000000000
+      internalID: -5029738117892473313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_147
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d095ef087531220800000000000000
+      internalID: 2455402433381731589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_148
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 320
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086713095ccbc9270800000000000000
+      internalID: 8258683373404386944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_149
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 320
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72ae6d4a7d883c40800000000000000
+      internalID: 5492295302002942586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_150
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 320
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aff53ab9f81d0de0800000000000000
+      internalID: -1365407651173367895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_151
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 320
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e4b18c7fb58a990800000000000000
+      internalID: -7374543270046904749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_152
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 320
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041b416533e25f980800000000000000
+      internalID: -8505841523196907200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_153
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 320
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bb0a7f0326e1ac0800000000000000
+      internalID: -3882557866294330520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_154
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 338
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db51a500ceb4a6a0800000000000000
+      internalID: -6438811835295507499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_155
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 261
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ede24ddf74205de0800000000000000
+      internalID: -1346536156992180767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_156
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 261
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edfd4845755d2960800000000000000
+      internalID: 7578807710147018217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_157
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 261
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bc61830c9a31bd0800000000000000
+      internalID: -2660596311805998309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_158
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 265
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dce1446d3c58a20800000000000000
+      internalID: 3064070446528777483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_159
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 283
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0be0e87ad1259980800000000000000
+      internalID: -8532876696768943346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_160
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 285
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254033c8fa5b04d60800000000000000
+      internalID: 7872491914219684946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_161
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 285
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0177a50d81e582650800000000000000
+      internalID: 6208315546998044432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_162
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 202
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29cf790fd5852e00800000000000000
+      internalID: 1019368083652856108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_163
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 202
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fef129ca86112c0800000000000000
+      internalID: -4462670665352220808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_164
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 260
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613d2c41075397b60800000000000000
+      internalID: 7744279789741200150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_165
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 262
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d6b90a626d7e440800000000000000
+      internalID: 4965172575590903195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_166
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 259
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8d9e8f29b4bc0e0800000000000000
+      internalID: -2248620494328047378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_167
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 260
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d712f2c41f5a760800000000000000
+      internalID: 7468640866574368096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_168
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 212
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76fdc6a05097b2b0800000000000000
+      internalID: -5568823738150029698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_169
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 224
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a405799ad2dbb100800000000000000
+      internalID: 124925251002107047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_170
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 224
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4a0cc0ccbdd31a0800000000000000
+      internalID: -6828059790590040905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_171
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 224
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66112d1870bd3920800000000000000
+      internalID: 2971725359065667180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_172
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 224
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8d78c3e965eccf0800000000000000
+      internalID: -230151293328959261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_173
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 211
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0c964243584e210800000000000000
+      internalID: 1361359446368436430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_174
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 194
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb22fcba24116c60800000000000000
+      internalID: 7809545402628320205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_175
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 183
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011077fb4f6fe07f0800000000000000
+      internalID: -644306165622701808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_176
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 159
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd21198ceb1676d80800000000000000
+      internalID: -8257523919723883809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_177
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 159
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e3880673895a9b0800000000000000
+      internalID: -5069478441925460394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_178
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 193
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f376e9560aaa3420800000000000000
+      internalID: 2610585878269424627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_179
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 167
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff886063c856e180800000000000000
+      internalID: -9086477602014064641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_180
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 192
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39012cc337e13c10800000000000000
+      internalID: 2031659116574869821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_181
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 207
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6732d93e6ae397520800000000000000
+      internalID: 2700258338089542518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_182
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 143
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8290e8e0cb7dc360800000000000000
+      internalID: 7191540248451519118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_183
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 137
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4583897981dba7a0800000000000000
+      internalID: -6364763259978676915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_184
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 169
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15528f6a41cbac180800000000000000
+      internalID: -9094249700634647215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_185
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 161
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b37d43697252630800000000000000
+      internalID: 3901568178271501094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_186
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 161
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3ad2cf4521a8f30800000000000000
+      internalID: 4578492127392932863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_187
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 195
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c45cf4934233feb0800000000000000
+      internalID: -4687347521318791994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_188
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 195
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0f0570f6c4af8b0800000000000000
+      internalID: -5117693986805321503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_189
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 136
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839a059c1bf83e1b0800000000000000
+      internalID: -5628497115533498056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_190
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 135
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00847f0b8c790a1c0800000000000000
+      internalID: -4494425539897505792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_191
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 140
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c923c58a6093da570800000000000000
+      internalID: 8479496374165713564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_192
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 167
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fe3d5993b5a1190800000000000000
+      internalID: -7990974285930565804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_193
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 165
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221228b94849b5970800000000000000
+      internalID: 8744746398735540514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_194
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 168
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820d56622bbb94f80800000000000000
+      internalID: -8121754079163199448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_195
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 157
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ffd04a36b30f360800000000000000
+      internalID: 7201321103305604940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_196
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 159
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f352d4d2f81513230800000000000000
+      internalID: 3616761651137422655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_197
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 151
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e354a8af20562c0800000000000000
+      internalID: -4439138582618882504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_198
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 98
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6798e1b3aecd3570800000000000000
+      internalID: 8448135678476719979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_199
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 131
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa6a8098458c0130800000000000000
+      internalID: 3534346354288126626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_200
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 131
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e6cbb2a033aa740800000000000000
+      internalID: 5163996041510153804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_201
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 131
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84918fe2fa1046c0800000000000000
+      internalID: -4161296424987683701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_202
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 131
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa19f179fe8b9fb30800000000000000
+      internalID: 4321688656610824623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_203
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 131
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c15bf83635aa8db0800000000000000
+      internalID: -4788833601452289597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_204
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 84
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9313e6de039f5980800000000000000
+      internalID: -8547951875781880933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_205
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 71
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64faba1c762684580800000000000000
+      internalID: -8842709670571561146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_206
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 103
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6b82efb17592830800000000000000
+      internalID: 4046861517908915955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_207
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 136
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788790de837ee4f60800000000000000
+      internalID: 8020602218074437767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_208
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 95
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe10b978eb1865790800000000000000
+      internalID: -7541697870666464785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_209
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 74
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971f7febe86f4b190800000000000000
+      internalID: -7947456349452373639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_210
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 100
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d9e5dcb93c4b890800000000000000
+      internalID: -7443109210203710096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_211
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 100
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cce358a75a4815d0800000000000000
+      internalID: -3091639403843162936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_212
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 96
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f458a7af04b523250800000000000000
+      internalID: 5922896794583991631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_213
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 98
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcd97ea80a31e0d0800000000000000
+      internalID: -3395368835099272006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_214
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 98
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b06c1489522bb3c0800000000000000
+      internalID: -4342839647804825418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_215
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 98
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87dd9c64c9b18aa0800000000000000
+      internalID: -6160438561979115637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_216
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 98
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dd238755241bb90800000000000000
+      internalID: -7227922992096682619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_217
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 98
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9168a62b916dd6150800000000000000
+      internalID: 5867581295389476377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_218
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 25
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d3a640c24287990800000000000000
+      internalID: -7388115417230066334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_219
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 73
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f84ce21c33b87c80800000000000000
+      internalID: -8324706840597477129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_220
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 39
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97de9be5b3558df10800000000000000
+      internalID: 2294677723625942393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_221
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 17
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a0fe65fc7e9c310800000000000000
+      internalID: 1425925634742225439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_222
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 73
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9485913201a3060800000000000000
+      internalID: 6933872319225416184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_223
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 36
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429f164c44f6f6280800000000000000
+      internalID: -9047890785220822748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_224
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 26
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7449f9c07c7bbe0800000000000000
+      internalID: -1461480697027606559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_225
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 37
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396e77f980cf7b4f0800000000000000
+      internalID: -812904093751712109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_226
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 65
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9685db302c7265dd0800000000000000
+      internalID: -2497765229090482071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_227
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 65
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c9348bf1b0e55e0800000000000000
+      internalID: -1919084160349922258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_228
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 65
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17010a64784b9bf60800000000000000
+      internalID: 8050664301999951985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_229
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 49
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addca7ce734c660f0800000000000000
+      internalID: -1123995312512643622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_230
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 82
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a0eae864961f4c0800000000000000
+      internalID: -4255504421126010267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_231
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 73
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab98ffbd5cfb14f80800000000000000
+      internalID: -8124001396279244358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_232
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 64
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0c73be4b2c72390800000000000000
+      internalID: -7843086143746228039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_233
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 6
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f589d108f487d620800000000000000
+      internalID: 2798851894151841265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_234
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 38
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699ce31c117ec0dc0800000000000000
+      internalID: -3671305532771219050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_235
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 5
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392710e5a88b73d50800000000000000
+      internalID: 6717040273668534931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_236
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2
+        width: 23
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48144454ad30f5b10800000000000000
+      internalID: 1972299397811421572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_237
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 32
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e068695ef99f325c0800000000000000
+      internalID: -4241271958905911794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_238
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 32
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2bda46a1e6fb290800000000000000
+      internalID: -7872452563983027527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_239
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 32
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204ab0d9db88ac390800000000000000
+      internalID: -7797269456873610238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cb37b1f98bbe4d0800000000000000
+      internalID: -3104184524641944535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_241
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8681852c8e5adc70800000000000000
+      internalID: 8996607161643665035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_242
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 6
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a68e4f5546a6ede0800000000000000
+      internalID: -1304172225195243872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_243
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cde7977db44dc170800000000000000
+      internalID: 8200286077057494465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_244
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 6
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a769094583f6f90800000000000000
+      internalID: -6958280963409937781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_245
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3430831999a42b0800000000000000
+      internalID: -5599494337692744752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_246
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c849524a78fa7a90800000000000000
+      internalID: -7315261440727103292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_247
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 8
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a550bcbd02b324ee0800000000000000
+      internalID: -1278394331907291814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_248
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 16
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f0ef6672acf61d0800000000000000
+      internalID: -3355240926787268752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_249
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 7
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945b4a47e2f693330800000000000000
+      internalID: 3691103614922962249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_250
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 16
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1041a081ff3d94a30800000000000000
+      internalID: 4200121220073133057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmEndCamp1_251
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 7
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45666a44295359c20800000000000000
+      internalID: 3212532811531970132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

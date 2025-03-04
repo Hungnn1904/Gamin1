@@ -1,0 +1,5980 @@
+fileFormatVersion: 2
+guid: e210803a47136944897a670fed190d96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8468102055594209993
+    second: rmPizzaPlace_0
+  - first:
+      213: 446223844499535416
+    second: rmPizzaPlace_1
+  - first:
+      213: 5414762617277863364
+    second: rmPizzaPlace_2
+  - first:
+      213: -2100474684247954071
+    second: rmPizzaPlace_3
+  - first:
+      213: -8589338615143400125
+    second: rmPizzaPlace_4
+  - first:
+      213: 4041848731702118634
+    second: rmPizzaPlace_5
+  - first:
+      213: 3219005916838491265
+    second: rmPizzaPlace_6
+  - first:
+      213: -6615565936999630263
+    second: rmPizzaPlace_7
+  - first:
+      213: -6603898760167204957
+    second: rmPizzaPlace_8
+  - first:
+      213: -7389346922268091764
+    second: rmPizzaPlace_9
+  - first:
+      213: -2936035402965672470
+    second: rmPizzaPlace_10
+  - first:
+      213: 4343442228767016798
+    second: rmPizzaPlace_11
+  - first:
+      213: -5990279579440659937
+    second: rmPizzaPlace_12
+  - first:
+      213: -8187821755966244958
+    second: rmPizzaPlace_13
+  - first:
+      213: -4517804386299844204
+    second: rmPizzaPlace_14
+  - first:
+      213: -5546203399836100073
+    second: rmPizzaPlace_15
+  - first:
+      213: 7395496746483089288
+    second: rmPizzaPlace_16
+  - first:
+      213: 5779686058148434335
+    second: rmPizzaPlace_17
+  - first:
+      213: 78184783395129067
+    second: rmPizzaPlace_18
+  - first:
+      213: 1511093629851483525
+    second: rmPizzaPlace_19
+  - first:
+      213: 3864950002952217231
+    second: rmPizzaPlace_20
+  - first:
+      213: 7644467866921486879
+    second: rmPizzaPlace_21
+  - first:
+      213: -5632328589563893305
+    second: rmPizzaPlace_22
+  - first:
+      213: 8507966675031613616
+    second: rmPizzaPlace_23
+  - first:
+      213: -661628862491567386
+    second: rmPizzaPlace_24
+  - first:
+      213: 9153676465516438764
+    second: rmPizzaPlace_25
+  - first:
+      213: 4128687670700493522
+    second: rmPizzaPlace_26
+  - first:
+      213: -5205129305953896471
+    second: rmPizzaPlace_27
+  - first:
+      213: 1274877711865793288
+    second: rmPizzaPlace_28
+  - first:
+      213: 2737072108292137982
+    second: rmPizzaPlace_29
+  - first:
+      213: 1207479507502559997
+    second: rmPizzaPlace_30
+  - first:
+      213: 6787216982082358799
+    second: rmPizzaPlace_31
+  - first:
+      213: 1023256491515657604
+    second: rmPizzaPlace_32
+  - first:
+      213: 8115656778966498934
+    second: rmPizzaPlace_33
+  - first:
+      213: -3604604639908250837
+    second: rmPizzaPlace_34
+  - first:
+      213: -4521207896506616371
+    second: rmPizzaPlace_35
+  - first:
+      213: -1204418372186784395
+    second: rmPizzaPlace_36
+  - first:
+      213: -237997851506686601
+    second: rmPizzaPlace_37
+  - first:
+      213: -2101057502173117373
+    second: rmPizzaPlace_38
+  - first:
+      213: -3435424828441036785
+    second: rmPizzaPlace_39
+  - first:
+      213: 2973538457278456584
+    second: rmPizzaPlace_40
+  - first:
+      213: -8550694943996046436
+    second: rmPizzaPlace_41
+  - first:
+      213: -8121714723494990154
+    second: rmPizzaPlace_42
+  - first:
+      213: -3623995661131434642
+    second: rmPizzaPlace_43
+  - first:
+      213: -6294493124569827482
+    second: rmPizzaPlace_44
+  - first:
+      213: 6933501362194084470
+    second: rmPizzaPlace_45
+  - first:
+      213: -4996369470719165150
+    second: rmPizzaPlace_46
+  - first:
+      213: 5211179544600544231
+    second: rmPizzaPlace_47
+  - first:
+      213: 6282264505156659519
+    second: rmPizzaPlace_48
+  - first:
+      213: 1132341222927492018
+    second: rmPizzaPlace_49
+  - first:
+      213: 4092427277267164223
+    second: rmPizzaPlace_50
+  - first:
+      213: -1082644750091644847
+    second: rmPizzaPlace_51
+  - first:
+      213: -8574179032328683673
+    second: rmPizzaPlace_52
+  - first:
+      213: 6979939775573249809
+    second: rmPizzaPlace_53
+  - first:
+      213: 6623143357843242168
+    second: rmPizzaPlace_54
+  - first:
+      213: -5936473706127422530
+    second: rmPizzaPlace_55
+  - first:
+      213: -8688023309494550128
+    second: rmPizzaPlace_56
+  - first:
+      213: -2309160014361739804
+    second: rmPizzaPlace_57
+  - first:
+      213: 6806444878442122933
+    second: rmPizzaPlace_58
+  - first:
+      213: 388399370569083110
+    second: rmPizzaPlace_59
+  - first:
+      213: -8601729983550118095
+    second: rmPizzaPlace_60
+  - first:
+      213: -2383051196396317043
+    second: rmPizzaPlace_61
+  - first:
+      213: -8416189469069744520
+    second: rmPizzaPlace_62
+  - first:
+      213: 3520045940824146426
+    second: rmPizzaPlace_63
+  - first:
+      213: -3946100310132392355
+    second: rmPizzaPlace_64
+  - first:
+      213: 8260033932544165620
+    second: rmPizzaPlace_65
+  - first:
+      213: 2841916522002120380
+    second: rmPizzaPlace_66
+  - first:
+      213: 8254013915056848110
+    second: rmPizzaPlace_67
+  - first:
+      213: 5495102441979104225
+    second: rmPizzaPlace_68
+  - first:
+      213: 2988489524472569166
+    second: rmPizzaPlace_69
+  - first:
+      213: 4223017790883992309
+    second: rmPizzaPlace_70
+  - first:
+      213: 7223776419796614408
+    second: rmPizzaPlace_71
+  - first:
+      213: -3562223498145149020
+    second: rmPizzaPlace_72
+  - first:
+      213: 369083377687639446
+    second: rmPizzaPlace_73
+  - first:
+      213: 7483779683721830201
+    second: rmPizzaPlace_74
+  - first:
+      213: -2431795263277795592
+    second: rmPizzaPlace_75
+  - first:
+      213: -5896095126853191906
+    second: rmPizzaPlace_76
+  - first:
+      213: 4351123920760872582
+    second: rmPizzaPlace_77
+  - first:
+      213: -6275363339416514748
+    second: rmPizzaPlace_78
+  - first:
+      213: 6473385900544433244
+    second: rmPizzaPlace_79
+  - first:
+      213: 1475250249997016527
+    second: rmPizzaPlace_80
+  - first:
+      213: -6877333924470412637
+    second: rmPizzaPlace_81
+  - first:
+      213: -24607383487889933
+    second: rmPizzaPlace_82
+  - first:
+      213: 1934020110007192717
+    second: rmPizzaPlace_83
+  - first:
+      213: -4763848773634495722
+    second: rmPizzaPlace_84
+  - first:
+      213: 2863436091182247111
+    second: rmPizzaPlace_85
+  - first:
+      213: 3755007686807713589
+    second: rmPizzaPlace_86
+  - first:
+      213: -1947176464170521167
+    second: rmPizzaPlace_87
+  - first:
+      213: -8127538688437469933
+    second: rmPizzaPlace_88
+  - first:
+      213: 3041325837421019220
+    second: rmPizzaPlace_89
+  - first:
+      213: 4586474088515075019
+    second: rmPizzaPlace_90
+  - first:
+      213: 7350132248421826072
+    second: rmPizzaPlace_91
+  - first:
+      213: 2575046579947151417
+    second: rmPizzaPlace_92
+  - first:
+      213: 819805038862899633
+    second: rmPizzaPlace_93
+  - first:
+      213: 3455143636011888465
+    second: rmPizzaPlace_94
+  - first:
+      213: 3090257384373863029
+    second: rmPizzaPlace_95
+  - first:
+      213: 4976339996785482399
+    second: rmPizzaPlace_96
+  - first:
+      213: -4680155381603353120
+    second: rmPizzaPlace_97
+  - first:
+      213: -8084317739175480247
+    second: rmPizzaPlace_98
+  - first:
+      213: 6420173001221385100
+    second: rmPizzaPlace_99
+  - first:
+      213: -285699254519700947
+    second: rmPizzaPlace_100
+  - first:
+      213: 7463772779260900205
+    second: rmPizzaPlace_101
+  - first:
+      213: -3838170203048621514
+    second: rmPizzaPlace_102
+  - first:
+      213: -8357156509142490075
+    second: rmPizzaPlace_103
+  - first:
+      213: 6145851489352727281
+    second: rmPizzaPlace_104
+  - first:
+      213: 7604400570469173344
+    second: rmPizzaPlace_105
+  - first:
+      213: 6933644748205988113
+    second: rmPizzaPlace_106
+  - first:
+      213: 8725889010770556265
+    second: rmPizzaPlace_107
+  - first:
+      213: -854403786189853795
+    second: rmPizzaPlace_108
+  - first:
+      213: 40930718846355264
+    second: rmPizzaPlace_109
+  - first:
+      213: 7680446371657999997
+    second: rmPizzaPlace_110
+  - first:
+      213: -1138259429558703987
+    second: rmPizzaPlace_111
+  - first:
+      213: 7993547413868106569
+    second: rmPizzaPlace_112
+  - first:
+      213: 7954229416558541591
+    second: rmPizzaPlace_113
+  - first:
+      213: 7713014943020480023
+    second: rmPizzaPlace_114
+  - first:
+      213: 3566135461060936245
+    second: rmPizzaPlace_115
+  - first:
+      213: -4882389407497927119
+    second: rmPizzaPlace_116
+  - first:
+      213: -8503117243987125650
+    second: rmPizzaPlace_117
+  - first:
+      213: 2817393720562267760
+    second: rmPizzaPlace_118
+  - first:
+      213: 8973427552248217697
+    second: rmPizzaPlace_119
+  - first:
+      213: -5111420801659006014
+    second: rmPizzaPlace_120
+  - first:
+      213: -7015695929970908727
+    second: rmPizzaPlace_121
+  - first:
+      213: -8449377397313859058
+    second: rmPizzaPlace_122
+  - first:
+      213: 6453147454727739146
+    second: rmPizzaPlace_123
+  - first:
+      213: -4655480977825639747
+    second: rmPizzaPlace_124
+  - first:
+      213: -1260727075897432436
+    second: rmPizzaPlace_125
+  - first:
+      213: 1431963796591640606
+    second: rmPizzaPlace_126
+  - first:
+      213: -3627537457319018507
+    second: rmPizzaPlace_127
+  - first:
+      213: -7770084047828826072
+    second: rmPizzaPlace_128
+  - first:
+      213: -5023167468287195538
+    second: rmPizzaPlace_129
+  - first:
+      213: 7639378525432023164
+    second: rmPizzaPlace_130
+  - first:
+      213: 3750177588044889235
+    second: rmPizzaPlace_131
+  - first:
+      213: 5588391835010188135
+    second: rmPizzaPlace_132
+  - first:
+      213: 3762491310163929497
+    second: rmPizzaPlace_133
+  - first:
+      213: -1732859287477692672
+    second: rmPizzaPlace_134
+  - first:
+      213: 2340959203579653110
+    second: rmPizzaPlace_135
+  - first:
+      213: 6297098731782111444
+    second: rmPizzaPlace_136
+  - first:
+      213: -2979202886878526200
+    second: rmPizzaPlace_137
+  - first:
+      213: -7790862731370912709
+    second: rmPizzaPlace_138
+  - first:
+      213: -8694116698999155918
+    second: rmPizzaPlace_139
+  - first:
+      213: 7205008570713638207
+    second: rmPizzaPlace_140
+  - first:
+      213: 2090100869153095112
+    second: rmPizzaPlace_141
+  - first:
+      213: -3436550326278808792
+    second: rmPizzaPlace_142
+  - first:
+      213: -3703944780056705750
+    second: rmPizzaPlace_143
+  - first:
+      213: -6328564563943151557
+    second: rmPizzaPlace_144
+  - first:
+      213: -1292884196051843427
+    second: rmPizzaPlace_145
+  - first:
+      213: -8391043622067608246
+    second: rmPizzaPlace_146
+  - first:
+      213: -8537675265935956818
+    second: rmPizzaPlace_147
+  - first:
+      213: 3347036712245208375
+    second: rmPizzaPlace_148
+  - first:
+      213: -3935832956453244505
+    second: rmPizzaPlace_149
+  - first:
+      213: 521196954216553906
+    second: rmPizzaPlace_150
+  - first:
+      213: -7611507013869691368
+    second: rmPizzaPlace_151
+  - first:
+      213: -8974666758644397866
+    second: rmPizzaPlace_152
+  - first:
+      213: 6245831510069815907
+    second: rmPizzaPlace_153
+  - first:
+      213: -4024509343128882984
+    second: rmPizzaPlace_154
+  - first:
+      213: -7343711584327453839
+    second: rmPizzaPlace_155
+  - first:
+      213: 422658575334301083
+    second: rmPizzaPlace_156
+  - first:
+      213: -7179505660440446466
+    second: rmPizzaPlace_157
+  - first:
+      213: 5068753417170758485
+    second: rmPizzaPlace_158
+  - first:
+      213: -6909717137674529690
+    second: rmPizzaPlace_159
+  - first:
+      213: -8668745706019511821
+    second: rmPizzaPlace_160
+  - first:
+      213: 7562474840158409894
+    second: rmPizzaPlace_161
+  - first:
+      213: 108845264069090827
+    second: rmPizzaPlace_162
+  - first:
+      213: -7976863801103414744
+    second: rmPizzaPlace_163
+  - first:
+      213: -6562064886140775130
+    second: rmPizzaPlace_164
+  - first:
+      213: -8810537245443619346
+    second: rmPizzaPlace_165
+  - first:
+      213: -8326855350788161059
+    second: rmPizzaPlace_166
+  - first:
+      213: 768683423019746372
+    second: rmPizzaPlace_167
+  - first:
+      213: -1552251759879137897
+    second: rmPizzaPlace_168
+  - first:
+      213: -2097576300982599335
+    second: rmPizzaPlace_169
+  - first:
+      213: -7263109763582533084
+    second: rmPizzaPlace_170
+  - first:
+      213: 492503617767516271
+    second: rmPizzaPlace_171
+  - first:
+      213: 8727863356108337972
+    second: rmPizzaPlace_172
+  - first:
+      213: 2340877493840056549
+    second: rmPizzaPlace_173
+  - first:
+      213: 6588274382960020236
+    second: rmPizzaPlace_174
+  - first:
+      213: 3672555664459811330
+    second: rmPizzaPlace_175
+  - first:
+      213: 2684445251859632299
+    second: rmPizzaPlace_176
+  - first:
+      213: -5927815197814895017
+    second: rmPizzaPlace_177
+  - first:
+      213: 2724236635509990478
+    second: rmPizzaPlace_178
+  - first:
+      213: -288433371346702664
+    second: rmPizzaPlace_179
+  - first:
+      213: 1342298771572461618
+    second: rmPizzaPlace_180
+  - first:
+      213: -1010955360335483358
+    second: rmPizzaPlace_181
+  - first:
+      213: -4326443824823050971
+    second: rmPizzaPlace_182
+  - first:
+      213: 4220374145774218926
+    second: rmPizzaPlace_183
+  - first:
+      213: 3036518322135656874
+    second: rmPizzaPlace_184
+  - first:
+      213: -1925259309018628932
+    second: rmPizzaPlace_185
+  - first:
+      213: 3193565949088002483
+    second: rmPizzaPlace_186
+  - first:
+      213: 6494496967543874868
+    second: rmPizzaPlace_187
+  - first:
+      213: -2183071089912570696
+    second: rmPizzaPlace_188
+  - first:
+      213: 748589157290774922
+    second: rmPizzaPlace_189
+  - first:
+      213: 2425203469516372210
+    second: rmPizzaPlace_190
+  - first:
+      213: -8728793774629917059
+    second: rmPizzaPlace_191
+  - first:
+      213: -2880434301761541499
+    second: rmPizzaPlace_192
+  - first:
+      213: -2911923280549476690
+    second: rmPizzaPlace_193
+  - first:
+      213: 7717205271000692760
+    second: rmPizzaPlace_194
+  - first:
+      213: 5868727209670705818
+    second: rmPizzaPlace_195
+  - first:
+      213: -256154905604363539
+    second: rmPizzaPlace_196
+  - first:
+      213: -8662562630579269493
+    second: rmPizzaPlace_197
+  - first:
+      213: -4946103127057352336
+    second: rmPizzaPlace_198
+  - first:
+      213: -2509957434236463118
+    second: rmPizzaPlace_199
+  - first:
+      213: -7324600752622742215
+    second: rmPizzaPlace_200
+  - first:
+      213: -3908983050535471140
+    second: rmPizzaPlace_201
+  - first:
+      213: 3255869279440370844
+    second: rmPizzaPlace_202
+  - first:
+      213: 6622738789748708945
+    second: rmPizzaPlace_203
+  - first:
+      213: 2024585082838446141
+    second: rmPizzaPlace_204
+  - first:
+      213: -6576837938357534126
+    second: rmPizzaPlace_205
+  - first:
+      213: 4685080624365177896
+    second: rmPizzaPlace_206
+  - first:
+      213: 1510543789309863466
+    second: rmPizzaPlace_207
+  - first:
+      213: -7092244387481570829
+    second: rmPizzaPlace_208
+  - first:
+      213: 937500950106581966
+    second: rmPizzaPlace_209
+  - first:
+      213: 4891283408107876791
+    second: rmPizzaPlace_210
+  - first:
+      213: 4088359421271881181
+    second: rmPizzaPlace_211
+  - first:
+      213: 4778740037972406732
+    second: rmPizzaPlace_212
+  - first:
+      213: 7439949919230797044
+    second: rmPizzaPlace_213
+  - first:
+      213: -9076726712067512844
+    second: rmPizzaPlace_214
+  - first:
+      213: -6475698098941996680
+    second: rmPizzaPlace_215
+  - first:
+      213: 6197802937045198432
+    second: rmPizzaPlace_216
+  - first:
+      213: -5667587723703480139
+    second: rmPizzaPlace_217
+  - first:
+      213: -1629178284739128441
+    second: rmPizzaPlace_218
+  - first:
+      213: -2863590004191200853
+    second: rmPizzaPlace_219
+  - first:
+      213: 7736251833969839380
+    second: rmPizzaPlace_220
+  - first:
+      213: 757815619140870431
+    second: rmPizzaPlace_221
+  - first:
+      213: 4951143041524508829
+    second: rmPizzaPlace_222
+  - first:
+      213: -3984532917247370027
+    second: rmPizzaPlace_223
+  - first:
+      213: -5669748160472253448
+    second: rmPizzaPlace_224
+  - first:
+      213: 678733524941497396
+    second: rmPizzaPlace_225
+  - first:
+      213: 6221927290302531754
+    second: rmPizzaPlace_226
+  - first:
+      213: -1974296090247422459
+    second: rmPizzaPlace_227
+  - first:
+      213: -1932489210537593633
+    second: rmPizzaPlace_228
+  - first:
+      213: -8792987020947843459
+    second: rmPizzaPlace_229
+  - first:
+      213: 3318343565883499794
+    second: rmPizzaPlace_230
+  - first:
+      213: -3247582980213329258
+    second: rmPizzaPlace_231
+  - first:
+      213: 7326494924985084546
+    second: rmPizzaPlace_232
+  - first:
+      213: 281501979109803039
+    second: rmPizzaPlace_233
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmPizzaPlace_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2b27124fdb48570800000000000000
+      internalID: 8468102055594209993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 469
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83634bde83e413600800000000000000
+      internalID: 446223844499535416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 565
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c559e969e9152b40800000000000000
+      internalID: 5414762617277863364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 565
+        width: 38
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d23b9476d99d2e0800000000000000
+      internalID: -2100474684247954071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 501
+        width: 114
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34df4dca90a8cc880800000000000000
+      internalID: -8589338615143400125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 549
+        width: 162
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8c7f0c108871830800000000000000
+      internalID: 4041848731702118634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_6
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 651
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184f90b83d43cac20800000000000000
+      internalID: 3219005916838491265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_7
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 623
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a76f0c4d9c034a0800000000000000
+      internalID: -6615565936999630263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 649
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7579b011d3a54a0800000000000000
+      internalID: -6603898760167204957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_9
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 645
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a9518ef14c37990800000000000000
+      internalID: -7389346922268091764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 623
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed92465b5b1147d0800000000000000
+      internalID: -2936035402965672470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 624
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57c61cc1b1074c30800000000000000
+      internalID: 4343442228767016798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_12
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 562
+        width: 129
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12c92ad5704edca0800000000000000
+      internalID: -5990279579440659937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_13
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 554
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7ba6f6e730f5e80800000000000000
+      internalID: -8187821755966244958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_14
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 599
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49965e5d8d88d41c0800000000000000
+      internalID: -4517804386299844204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_15
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 578
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a94b4946de703b0800000000000000
+      internalID: -5546203399836100073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_16
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 567
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f7eaf9b1512a660800000000000000
+      internalID: 7395496746483089288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 443
+        width: 50
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91173909d1953050800000000000000
+      internalID: 5779686058148434335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 453
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be68b1175a4c51100800000000000000
+      internalID: 78184783395129067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 512
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d37a576ab78f410800000000000000
+      internalID: 1511093629851483525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 525
+        width: 65
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82ac90ec8f03a530800000000000000
+      internalID: 3864950002952217231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_21
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 507
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a4eb8d50b961a60800000000000000
+      internalID: 7644467866921486879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 506
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c964c83df2f5d1b0800000000000000
+      internalID: -5632328589563893305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 504
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0ee122d9e521670800000000000000
+      internalID: 8507966675031613616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_24
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea5b061e0c61d6f0800000000000000
+      internalID: -661628862491567386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_25
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 504
+        width: 129
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4e5f34f34680f70800000000000000
+      internalID: 9153676465516438764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_26
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 520
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da43a0df8b0c4930800000000000000
+      internalID: 4128687670700493522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_27
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 507
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e774a4697aa3c7b0800000000000000
+      internalID: -5205129305953896471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 443
+        width: 129
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bc2db368641b110800000000000000
+      internalID: 1274877711865793288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_29
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 443
+        width: 129
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3e163b4980cf520800000000000000
+      internalID: 2737072108292137982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_30
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 443
+        width: 129
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2f04ee634d1c010800000000000000
+      internalID: 1207479507502559997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_31
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 468
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e848e82e9013e50800000000000000
+      internalID: 6787216982082358799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_32
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 475
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d37ea8b56533e00800000000000000
+      internalID: 1023256491515657604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_33
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 456
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ef94587da90a070800000000000000
+      internalID: 8115656778966498934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_34
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 457
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b3b829d2fd9fdc0800000000000000
+      internalID: -3604604639908250837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 406
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5380d5f517141c0800000000000000
+      internalID: -4521207896506616371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 429
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d3adc2fdb094fe0800000000000000
+      internalID: -1204418372186784395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 439
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77543ab073672bcf0800000000000000
+      internalID: -237997851506686601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 439
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3444d4a655b87d2e0800000000000000
+      internalID: -2101057502173117373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 406
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08f638f15be250d0800000000000000
+      internalID: -3435424828441036785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_40
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 428
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803ab00f871244920800000000000000
+      internalID: 2973538457278456584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_41
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 385
+        width: 129
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9313608044d55980800000000000000
+      internalID: -8550694943996046436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 385
+        width: 129
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be650b5d7fd94f80800000000000000
+      internalID: -8121714723494990154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_43
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 385
+        width: 129
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6534be952bf4bdc0800000000000000
+      internalID: -3623995661131434642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_44
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 416
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66770e45ad775a8a0800000000000000
+      internalID: -6294493124569827482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_45
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 415
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672f34fe0ceb83060800000000000000
+      internalID: 6933501362194084470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_46
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 425
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d7d23307459aab0800000000000000
+      internalID: -4996369470719165150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_47
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 422
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e382b09f24d15840800000000000000
+      internalID: 5211179544600544231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 407
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3968e658461f2750800000000000000
+      internalID: 6282264505156659519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_49
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 421
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3ef15c752e6bf00800000000000000
+      internalID: 1132341222927492018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_50
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 421
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cd0a21de83bc830800000000000000
+      internalID: 4092427277267164223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 407
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15098dcf55ca9f0f0800000000000000
+      internalID: -1082644750091644847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_52
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 422
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f32791995620980800000000000000
+      internalID: -8574179032328683673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_53
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 429
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fc9ac9e3abdd060800000000000000
+      internalID: 6979939775573249809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 425
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcfbb40bc12aeb50800000000000000
+      internalID: 6623143357843242168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_55
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 422
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb04d7fd986d9da0800000000000000
+      internalID: -5936473706127422530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 422
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0918345c4d0fd6780800000000000000
+      internalID: -8688023309494550128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 402
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edbe6e833734ffd0800000000000000
+      internalID: -2309160014361739804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 407
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bec1da0e89557e50800000000000000
+      internalID: 6806444878442122933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_59
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e861c17b2fd36500800000000000000
+      internalID: 388399370569083110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_60
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 408
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1372ba4672480a880800000000000000
+      internalID: -8601729983550118095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_61
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 407
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d865a351093bdeed0800000000000000
+      internalID: -2383051196396317043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 407
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876e6bdc440b33b80800000000000000
+      internalID: -8416189469069744520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 407
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af101e71227b9d030800000000000000
+      internalID: 3520045940824146426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_64
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5eff7edca2ac39c0800000000000000
+      internalID: -3946100310132392355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_65
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 407
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6c7fd191981a270800000000000000
+      internalID: 8260033932544165620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeff370504807720800000000000000
+      internalID: 2841916522002120380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 393
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec38129ce52c8270800000000000000
+      internalID: 8254013915056848110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_68
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 391
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebcb828e86824c40800000000000000
+      internalID: 5495102441979104225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 391
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dd929836f397920800000000000000
+      internalID: 2988489524472569166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_70
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 393
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f29bc96e4c2b9a30800000000000000
+      internalID: 4223017790883992309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_71
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 390
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80df1de6162004460800000000000000
+      internalID: 7223776419796614408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_72
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af42861a90709ec0800000000000000
+      internalID: -3562223498145149020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 393
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695b293606f3f1500800000000000000
+      internalID: 369083377687639446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f5689b8f9bbd760800000000000000
+      internalID: 7483779683721830201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_75
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 390
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f679dd9717804ed0800000000000000
+      internalID: -2431795263277795592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_76
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 391
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17f00298bcdc2ea0800000000000000
+      internalID: -5896095126853191906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_77
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 391
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e18a6172c426c30800000000000000
+      internalID: 4351123920760872582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_78
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 393
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fc1958a4e69e8a0800000000000000
+      internalID: -6275363339416514748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_79
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 390
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c19f7dd2616d950800000000000000
+      internalID: 6473385900544433244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 381
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdd0e14944297410800000000000000
+      internalID: 1475250249997016527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaa23ebb3dce80a0800000000000000
+      internalID: -6877333924470412637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_82
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 377
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd3a5017b398aff0800000000000000
+      internalID: -24607383487889933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_83
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 374
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cc07d0b0507da10800000000000000
+      internalID: 1934020110007192717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 358
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61be5d3c7c863edb0800000000000000
+      internalID: -4763848773634495722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_85
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 379
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc63fb24f7fcb720800000000000000
+      internalID: 2863436091182247111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_86
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 382
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537f805a8977c1430800000000000000
+      internalID: 3755007686807713589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 382
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd6d1a825d3af4e0800000000000000
+      internalID: -1947176464170521167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 379
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31db079df9e253f80800000000000000
+      internalID: -8127538688437469933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_89
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 358
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45082b94cb5f43a20800000000000000
+      internalID: 3041325837421019220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_90
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 374
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb797122ed66af30800000000000000
+      internalID: 4586474088515075019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_91
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 377
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e7357565ae00660800000000000000
+      internalID: 7350132248421826072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_92
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 358
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930a5d5a8376cb320800000000000000
+      internalID: 2575046579947151417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_93
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 374
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b99f7ed658806b00800000000000000
+      internalID: 819805038862899633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_94
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 374
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fa070b4d223ff20800000000000000
+      internalID: 3455143636011888465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_95
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 327
+        width: 129
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572c12cd7bcc2ea20800000000000000
+      internalID: 3090257384373863029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_96
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 327
+        width: 129
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a97fd7cd28f0540800000000000000
+      internalID: 4976339996785482399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_97
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 327
+        width: 129
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed36e91a7fbc0fb0800000000000000
+      internalID: -4680155381603353120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_98
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 357
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9447e0949dbbecf80800000000000000
+      internalID: -8084317739175480247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_99
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 357
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8baa5e3459091950800000000000000
+      internalID: 6420173001221385100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_100
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 361
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2262cdaa0ef80cf0800000000000000
+      internalID: -285699254519700947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_101
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 358
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6373184cc5a49760800000000000000
+      internalID: 7463772779260900205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 357
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a4ccb29841cbac0800000000000000
+      internalID: -3838170203048621514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_103
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 358
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524e73cde6a650c80800000000000000
+      internalID: -8357156509142490075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_104
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 358
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fabc211e537a4550800000000000000
+      internalID: 6145851489352727281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_105
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 357
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068c79c6702488960800000000000000
+      internalID: 7604400570469173344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_106
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 358
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11912979921493060800000000000000
+      internalID: 6933644748205988113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_107
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 361
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965b674d2d5981970800000000000000
+      internalID: 8725889010770556265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 356
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ba765884c8424f0800000000000000
+      internalID: -854403786189853795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0470d3d954a619000800000000000000
+      internalID: 40930718846355264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_110
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 343
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76ec13484d669a60800000000000000
+      internalID: 7680446371657999997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_111
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 350
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d882aee54171430f0800000000000000
+      internalID: -1138259429558703987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_112
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 349
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943d9d27509ceee60800000000000000
+      internalID: 7993547413868106569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_113
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 342
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b3fe3d289136e60800000000000000
+      internalID: 7954229416558541591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_114
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 341
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716f302b9322a0b60800000000000000
+      internalID: 7713014943020480023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_115
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 341
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5320671ce457d7130800000000000000
+      internalID: 3566135461060936245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_116
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 342
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136c4fea3b44e3cb0800000000000000
+      internalID: -4882389407497927119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_117
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 349
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a16a40bebdef980800000000000000
+      internalID: -8503117243987125650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 343
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076b78269a4691720800000000000000
+      internalID: 2817393720562267760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_119
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 319
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1604575c0d4088c70800000000000000
+      internalID: 8973427552248217697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_120
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 350
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c39293ccd59019b0800000000000000
+      internalID: -5111420801659006014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 343
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c12ee1f8bd33ae90800000000000000
+      internalID: -7015695929970908727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_122
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 343
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0294eb1608cdba80800000000000000
+      internalID: -8449377397313859058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_123
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 331
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07534a7b6f2e8950800000000000000
+      internalID: 6453147454727739146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_124
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 310
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db25d1a67b8646fb0800000000000000
+      internalID: -4655480977825639747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_125
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 314
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86aa62776ff08ee0800000000000000
+      internalID: -1260727075897432436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_126
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 326
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1080137c7b5fd310800000000000000
+      internalID: 1431963796591640606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_127
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 326
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff731fe6e568adc0800000000000000
+      internalID: -3627537457319018507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_128
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 314
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828cb36e9bd1b2490800000000000000
+      internalID: -7770084047828826072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_129
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 310
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66817d2dcf1a4ab0800000000000000
+      internalID: -5023167468287195538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_130
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 309
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c788f113b46840a60800000000000000
+      internalID: 7639378525432023164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_131
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 310
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cfb04a5ae4b0430800000000000000
+      internalID: 3750177588044889235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_132
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 312
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763c97fe3c4fd8d40800000000000000
+      internalID: 5588391835010188135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_133
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 310
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999a0dc79ed073430800000000000000
+      internalID: 3762491310163929497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_134
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 309
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007d72cb8a5a3f7e0800000000000000
+      internalID: -1732859287477692672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_135
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 261
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbeb032ef1cc7020800000000000000
+      internalID: 2340959203579653110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_136
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 269
+        width: 129
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d08f6fdee9c36750800000000000000
+      internalID: 6297098731782111444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_137
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 269
+        width: 129
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80589c542ceb7a6d0800000000000000
+      internalID: -2979202886878526200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_138
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 269
+        width: 129
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34aec2af9b41e390800000000000000
+      internalID: -7790862731370912709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_139
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 299
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2331d58fcea485780800000000000000
+      internalID: -8694116698999155918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_140
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 299
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35080d0f155df360800000000000000
+      internalID: 7205008570713638207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_141
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 289
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdfa9aaaa7810d10800000000000000
+      internalID: 2090100869153095112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_142
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 279
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b16659fabee40d0800000000000000
+      internalID: -3436550326278808792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_143
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 294
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25ce0dc8d1f89cc0800000000000000
+      internalID: -3703944780056705750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_144
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 277
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b382b0c2f0c6c28a0800000000000000
+      internalID: -6328564563943151557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_145
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 295
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d960d967ca0ce0ee0800000000000000
+      internalID: -1292884196051843427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_146
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 297
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a456adb88460d8b80800000000000000
+      internalID: -8391043622067608246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_147
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 295
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4af368495148980800000000000000
+      internalID: -8537675265935956818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 294
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735219b0820137e20800000000000000
+      internalID: 3347036712245208375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 277
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1345f67cc1169c0800000000000000
+      internalID: -3935832956453244505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_150
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 279
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdd7125ed9ab3700800000000000000
+      internalID: 521196954216553906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_151
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 289
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e17e8c2be7e5690800000000000000
+      internalID: -7611507013869691368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_152
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 277
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d88e710224937380800000000000000
+      internalID: -8974666758644397866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_153
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 283
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a27a4aaa6ada650800000000000000
+      internalID: 6245831510069815907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 279
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0ff8f33121628c0800000000000000
+      internalID: -4024509343128882984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_155
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 283
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173bd330935e51a90800000000000000
+      internalID: -7343711584327453839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dd2142cb59dd500800000000000000
+      internalID: 422658575334301083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_157
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 271
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef97a86f3a54d5c90800000000000000
+      internalID: -7179505660440446466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_158
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 260
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ba284a064d75640800000000000000
+      internalID: 5068753417170758485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_159
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 268
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6641b7e5fd0cb10a0800000000000000
+      internalID: -6909717137674529690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_160
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 260
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1a38895bd62b780800000000000000
+      internalID: -8668745706019511821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_161
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 268
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a49876acce43f860800000000000000
+      internalID: 7562474840158409894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_162
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 271
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e5254e032b28100800000000000000
+      internalID: 108845264069090827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_163
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a0f89d2ac7c4190800000000000000
+      internalID: -7976863801103414744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_164
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 234
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625d38cd0ccdee4a0800000000000000
+      internalID: -6562064886140775130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_165
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 249
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee50cf43e0faab580800000000000000
+      internalID: -8810537245443619346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_166
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 246
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd106301d21117c80800000000000000
+      internalID: -8326855350788161059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_167
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 244
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444c2d52089eaaa00800000000000000
+      internalID: 768683423019746372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_168
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 249
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795dd62af3b457ae0800000000000000
+      internalID: -1552251759879137897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_169
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 249
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95187aab779e3e2e0800000000000000
+      internalID: -2097576300982599335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_170
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 244
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422edf0d620443b90800000000000000
+      internalID: -7263109763582533084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_171
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 246
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68a0a35e69b5d600800000000000000
+      internalID: 492503617767516271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_172
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 249
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4337cfcea799f1970800000000000000
+      internalID: 8727863356108337972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_173
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 211
+        width: 129
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e01b0b9da77c7020800000000000000
+      internalID: 2340877493840056549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_174
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 207
+        width: 129
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b432725a04e6b50800000000000000
+      internalID: 6588274382960020236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_175
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 242
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ac9f53be987f230800000000000000
+      internalID: 3672555664459811330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_176
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 241
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0d318dbb0114520800000000000000
+      internalID: 2684445251859632299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_177
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 244
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ec4180c7b2cbda0800000000000000
+      internalID: -5927815197814895017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_178
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 235
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44adaf49ce6ec520800000000000000
+      internalID: 2724236635509990478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_179
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 231
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bee28f70674ffbf0800000000000000
+      internalID: -288433371346702664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_180
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 231
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2301506fe9dc0a210800000000000000
+      internalID: 1342298771572461618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_181
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 232
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e2d6fb47d58f1f0800000000000000
+      internalID: -1010955360335483358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_182
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 232
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d5db8834265f3c0800000000000000
+      internalID: -4326443824823050971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_183
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 231
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae6d12dce7c19a30800000000000000
+      internalID: 4220374145774218926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_184
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 231
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa96cd86351e32a20800000000000000
+      internalID: 3036518322135656874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_185
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 235
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc3e61ebda1845e0800000000000000
+      internalID: -1925259309018628932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_186
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b17c2a7f43d15c20800000000000000
+      internalID: 3193565949088002483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435ed492596112a50800000000000000
+      internalID: 6494496967543874868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_188
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 153
+        width: 129
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc165ef86c24b1e0800000000000000
+      internalID: -2183071089912570696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_189
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 164
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8196035fd5836a00800000000000000
+      internalID: 748589157290774922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_190
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 205
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8719cc4bd08a120800000000000000
+      internalID: 2425203469516372210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_191
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 206
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7eea812f481dd680800000000000000
+      internalID: -8728793774629917059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_192
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 194
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a27a48344a608d0800000000000000
+      internalID: -2880434301761541499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_193
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 174
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea688a15435c697d0800000000000000
+      internalID: -2911923280549476690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_194
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 184
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818b4c47e45091b60800000000000000
+      internalID: 7717205271000692760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_195
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 179
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a928718ad48e17150800000000000000
+      internalID: 5868727209670705818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_196
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 146
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea6af37874f17cf0800000000000000
+      internalID: -256154905604363539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_197
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 145
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80dfb70f2568c780800000000000000
+      internalID: -8662562630579269493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_198
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 145
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0793c495969eb5bb0800000000000000
+      internalID: -4946103127057352336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_199
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 146
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f71cfa0307da2dd0800000000000000
+      internalID: -2509957434236463118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_200
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 163
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935dc524c6ac95a90800000000000000
+      internalID: -7324600752622742215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_201
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 133
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd77fcf40a080c9c0800000000000000
+      internalID: -3908983050535471140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_202
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 95
+        width: 129
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c762cfbdb2f2d20800000000000000
+      internalID: 3255869279440370844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_203
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 109
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1561c2b27d1b8eb50800000000000000
+      internalID: 6622738789748708945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_204
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 92
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30f328f765c81c10800000000000000
+      internalID: 2024585082838446141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_205
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 84
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25203ea9db06ab4a0800000000000000
+      internalID: -6576837938357534126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_206
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 112
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c0a575100c40140800000000000000
+      internalID: 4685080624365177896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_207
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 112
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26ac7bb29786f410800000000000000
+      internalID: 1510543789309863466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_208
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 112
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f137ef4e49439d90800000000000000
+      internalID: -7092244387481570829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_209
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 37
+        width: 129
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecba1b3a52ca20d00800000000000000
+      internalID: 937500950106581966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_210
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 68
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b13804385451e340800000000000000
+      internalID: 4891283408107876791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_211
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 51
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5380b8b35ccb830800000000000000
+      internalID: 4088359421271881181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_212
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 79
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc13845eebe715240800000000000000
+      internalID: 4778740037972406732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_213
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 84
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4a2727803004760800000000000000
+      internalID: 7439949919230797044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_214
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 85
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5aaeb552df80280800000000000000
+      internalID: -9076726712067512844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_215
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871d3e383e2b126a0800000000000000
+      internalID: -6475698098941996680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_216
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 14
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066a3721fe4030650800000000000000
+      internalID: 6197802937045198432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_217
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 29
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b01a435efea851b0800000000000000
+      internalID: -5667587723703480139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_218
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 27
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78318565bfef369e0800000000000000
+      internalID: -1629178284739128441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_219
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 42
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9f2d9201c7248d0800000000000000
+      internalID: -2863590004191200853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_220
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 46
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d8cb8fd00bc5b60800000000000000
+      internalID: 7736251833969839380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_221
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 52
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1162206a4d448a00800000000000000
+      internalID: 757815619140870431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_222
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 50
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98273e2d5ef5b440800000000000000
+      internalID: 4951143041524508829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_223
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 12
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc9e973c6814b8c0800000000000000
+      internalID: -3984532917247370027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_224
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 26
+        width: 98
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb702176120151b0800000000000000
+      internalID: -5669748160472253448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_225
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 10
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434694b7b885b6900800000000000000
+      internalID: 678733524941497396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_226
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 23
+        width: 69
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa88ac4c7e9b85650800000000000000
+      internalID: 6221927290302531754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_227
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e1c5b8a24e994e0800000000000000
+      internalID: -1974296090247422459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_228
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 17
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4b1a14d4b6e25e0800000000000000
+      internalID: -1932489210537593633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_229
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 18
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7698c544e809f580800000000000000
+      internalID: -8792987020947843459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215603f44ef1d0e20800000000000000
+      internalID: 3318343565883499794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_231
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692b7c56c744ee2d0800000000000000
+      internalID: -3247582980213329258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_232
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a207c1150fca560800000000000000
+      internalID: 7326494924985084546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmPizzaPlace_233
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14c86cfe8818e300800000000000000
+      internalID: 281501979109803039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

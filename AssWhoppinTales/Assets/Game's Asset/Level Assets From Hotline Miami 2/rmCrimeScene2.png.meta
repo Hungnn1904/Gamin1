@@ -1,0 +1,6330 @@
+fileFormatVersion: 2
+guid: 2a9cee6a0610d7142a999eafcce067e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7434170757138875333
+    second: rmCrimeScene2_0
+  - first:
+      213: -8495479241911455407
+    second: rmCrimeScene2_1
+  - first:
+      213: 8014009093766744757
+    second: rmCrimeScene2_2
+  - first:
+      213: 9059393847871413711
+    second: rmCrimeScene2_3
+  - first:
+      213: -9188022985224563929
+    second: rmCrimeScene2_4
+  - first:
+      213: -3211542963034104780
+    second: rmCrimeScene2_5
+  - first:
+      213: 3358331263343530737
+    second: rmCrimeScene2_6
+  - first:
+      213: 2757307124601011943
+    second: rmCrimeScene2_7
+  - first:
+      213: -3316040668822608464
+    second: rmCrimeScene2_8
+  - first:
+      213: 8994530938207474254
+    second: rmCrimeScene2_9
+  - first:
+      213: 1193182289396251127
+    second: rmCrimeScene2_10
+  - first:
+      213: 6813594359937983661
+    second: rmCrimeScene2_11
+  - first:
+      213: -1809389658512236534
+    second: rmCrimeScene2_12
+  - first:
+      213: 1327641422550932566
+    second: rmCrimeScene2_13
+  - first:
+      213: -7729249934632529070
+    second: rmCrimeScene2_14
+  - first:
+      213: 292135504868011397
+    second: rmCrimeScene2_15
+  - first:
+      213: 4686892543891378493
+    second: rmCrimeScene2_16
+  - first:
+      213: -6320868396520608116
+    second: rmCrimeScene2_17
+  - first:
+      213: 3832087353289395996
+    second: rmCrimeScene2_18
+  - first:
+      213: 4662039889716434483
+    second: rmCrimeScene2_19
+  - first:
+      213: -3508546702541810114
+    second: rmCrimeScene2_20
+  - first:
+      213: 4563736754421048641
+    second: rmCrimeScene2_21
+  - first:
+      213: 6420068235821638836
+    second: rmCrimeScene2_22
+  - first:
+      213: 6847719206227043541
+    second: rmCrimeScene2_23
+  - first:
+      213: -1941426376021453389
+    second: rmCrimeScene2_24
+  - first:
+      213: 2278953332346309888
+    second: rmCrimeScene2_25
+  - first:
+      213: 1224367079244494739
+    second: rmCrimeScene2_26
+  - first:
+      213: 7302193578870516964
+    second: rmCrimeScene2_27
+  - first:
+      213: -305510522091149373
+    second: rmCrimeScene2_28
+  - first:
+      213: 3624591509620149189
+    second: rmCrimeScene2_29
+  - first:
+      213: -268208680669066928
+    second: rmCrimeScene2_30
+  - first:
+      213: -5930275025451738227
+    second: rmCrimeScene2_31
+  - first:
+      213: 6331677518439327082
+    second: rmCrimeScene2_32
+  - first:
+      213: -2319047565554589742
+    second: rmCrimeScene2_33
+  - first:
+      213: -3479158524668867519
+    second: rmCrimeScene2_34
+  - first:
+      213: -5826396323450849493
+    second: rmCrimeScene2_35
+  - first:
+      213: -555127098642011459
+    second: rmCrimeScene2_36
+  - first:
+      213: -4584824784368422754
+    second: rmCrimeScene2_37
+  - first:
+      213: -3844643967511149835
+    second: rmCrimeScene2_38
+  - first:
+      213: -4720813596342055601
+    second: rmCrimeScene2_39
+  - first:
+      213: -2130159432651436099
+    second: rmCrimeScene2_40
+  - first:
+      213: 4599309627435550796
+    second: rmCrimeScene2_41
+  - first:
+      213: 2236758263514866147
+    second: rmCrimeScene2_42
+  - first:
+      213: -7561969935907645502
+    second: rmCrimeScene2_43
+  - first:
+      213: -2761460578927011095
+    second: rmCrimeScene2_44
+  - first:
+      213: -8684268023433133989
+    second: rmCrimeScene2_45
+  - first:
+      213: 6022464652155720852
+    second: rmCrimeScene2_46
+  - first:
+      213: 3368109946075019422
+    second: rmCrimeScene2_47
+  - first:
+      213: -1365026367401652856
+    second: rmCrimeScene2_48
+  - first:
+      213: 6458927781989178939
+    second: rmCrimeScene2_49
+  - first:
+      213: 8963585224949602937
+    second: rmCrimeScene2_50
+  - first:
+      213: -6573747703701032618
+    second: rmCrimeScene2_51
+  - first:
+      213: 2024422489041154861
+    second: rmCrimeScene2_52
+  - first:
+      213: 7590352996279071357
+    second: rmCrimeScene2_53
+  - first:
+      213: 7920508229322091788
+    second: rmCrimeScene2_54
+  - first:
+      213: 2056212983882963787
+    second: rmCrimeScene2_55
+  - first:
+      213: -8007663823790750699
+    second: rmCrimeScene2_56
+  - first:
+      213: -8556903192115354128
+    second: rmCrimeScene2_57
+  - first:
+      213: -3498997529161079758
+    second: rmCrimeScene2_58
+  - first:
+      213: 3993403630294800381
+    second: rmCrimeScene2_59
+  - first:
+      213: 2834544865454854852
+    second: rmCrimeScene2_60
+  - first:
+      213: 4990512231635174746
+    second: rmCrimeScene2_61
+  - first:
+      213: -869515682495993590
+    second: rmCrimeScene2_62
+  - first:
+      213: 5037439676611222077
+    second: rmCrimeScene2_63
+  - first:
+      213: -6525890936801743443
+    second: rmCrimeScene2_64
+  - first:
+      213: 1448260643808143144
+    second: rmCrimeScene2_65
+  - first:
+      213: -4616062164096144273
+    second: rmCrimeScene2_66
+  - first:
+      213: -3590669045135981403
+    second: rmCrimeScene2_67
+  - first:
+      213: -2387977872153892559
+    second: rmCrimeScene2_68
+  - first:
+      213: 1562699119538875834
+    second: rmCrimeScene2_69
+  - first:
+      213: -2476751234164085303
+    second: rmCrimeScene2_70
+  - first:
+      213: -7851809192679662249
+    second: rmCrimeScene2_71
+  - first:
+      213: 165852265990998442
+    second: rmCrimeScene2_72
+  - first:
+      213: 8825651225143060671
+    second: rmCrimeScene2_73
+  - first:
+      213: 4697614985118327336
+    second: rmCrimeScene2_74
+  - first:
+      213: 8799585884203394635
+    second: rmCrimeScene2_75
+  - first:
+      213: -1102876966889206746
+    second: rmCrimeScene2_76
+  - first:
+      213: -3167540127882737213
+    second: rmCrimeScene2_77
+  - first:
+      213: -7854729902787767603
+    second: rmCrimeScene2_78
+  - first:
+      213: -6207450584259507722
+    second: rmCrimeScene2_79
+  - first:
+      213: -2847352125586528868
+    second: rmCrimeScene2_80
+  - first:
+      213: -3827126078429940642
+    second: rmCrimeScene2_81
+  - first:
+      213: -2118830767304197639
+    second: rmCrimeScene2_82
+  - first:
+      213: 8163177525345553940
+    second: rmCrimeScene2_83
+  - first:
+      213: 5090865319337811360
+    second: rmCrimeScene2_84
+  - first:
+      213: 7229677195187739126
+    second: rmCrimeScene2_85
+  - first:
+      213: -6982994765049854286
+    second: rmCrimeScene2_86
+  - first:
+      213: -3349182870097161219
+    second: rmCrimeScene2_87
+  - first:
+      213: 7162979009186507759
+    second: rmCrimeScene2_88
+  - first:
+      213: -8221315086788366281
+    second: rmCrimeScene2_89
+  - first:
+      213: -458917423600314848
+    second: rmCrimeScene2_90
+  - first:
+      213: 5571988396370537527
+    second: rmCrimeScene2_91
+  - first:
+      213: -8726752568975574133
+    second: rmCrimeScene2_92
+  - first:
+      213: -1131832763863147414
+    second: rmCrimeScene2_93
+  - first:
+      213: 8370863225881798558
+    second: rmCrimeScene2_94
+  - first:
+      213: 1312447949594323772
+    second: rmCrimeScene2_95
+  - first:
+      213: -2267048462728949964
+    second: rmCrimeScene2_96
+  - first:
+      213: -6225217325009369162
+    second: rmCrimeScene2_97
+  - first:
+      213: 336375096194059760
+    second: rmCrimeScene2_98
+  - first:
+      213: -8236500135579589905
+    second: rmCrimeScene2_99
+  - first:
+      213: 8224943990436340011
+    second: rmCrimeScene2_100
+  - first:
+      213: -1315050132894669217
+    second: rmCrimeScene2_101
+  - first:
+      213: 7920382626084943945
+    second: rmCrimeScene2_102
+  - first:
+      213: -1672732422664390940
+    second: rmCrimeScene2_103
+  - first:
+      213: 8579141772046952097
+    second: rmCrimeScene2_104
+  - first:
+      213: -8114630335013250447
+    second: rmCrimeScene2_105
+  - first:
+      213: -2005572948314073502
+    second: rmCrimeScene2_106
+  - first:
+      213: -7893352041459693391
+    second: rmCrimeScene2_107
+  - first:
+      213: 6224626632674719659
+    second: rmCrimeScene2_108
+  - first:
+      213: 5792018674905612489
+    second: rmCrimeScene2_109
+  - first:
+      213: 1479414465684772059
+    second: rmCrimeScene2_110
+  - first:
+      213: -3052218123828732173
+    second: rmCrimeScene2_111
+  - first:
+      213: -4647078132064728791
+    second: rmCrimeScene2_112
+  - first:
+      213: -6274685507729899929
+    second: rmCrimeScene2_113
+  - first:
+      213: -3526609212222351869
+    second: rmCrimeScene2_114
+  - first:
+      213: -8672436193010870782
+    second: rmCrimeScene2_115
+  - first:
+      213: 3920169161402874134
+    second: rmCrimeScene2_116
+  - first:
+      213: -2354352914906015233
+    second: rmCrimeScene2_117
+  - first:
+      213: 572513152179742901
+    second: rmCrimeScene2_118
+  - first:
+      213: 2468725308908820940
+    second: rmCrimeScene2_119
+  - first:
+      213: 7225843775378722248
+    second: rmCrimeScene2_120
+  - first:
+      213: -3450237533303883603
+    second: rmCrimeScene2_121
+  - first:
+      213: -1778087869878457795
+    second: rmCrimeScene2_122
+  - first:
+      213: -8915162671214378639
+    second: rmCrimeScene2_123
+  - first:
+      213: 2678182677066782785
+    second: rmCrimeScene2_124
+  - first:
+      213: 9010900658092430461
+    second: rmCrimeScene2_125
+  - first:
+      213: 6682155148321555493
+    second: rmCrimeScene2_126
+  - first:
+      213: 9028679030459329229
+    second: rmCrimeScene2_127
+  - first:
+      213: 3390729020849315341
+    second: rmCrimeScene2_128
+  - first:
+      213: -6607791667584255361
+    second: rmCrimeScene2_129
+  - first:
+      213: -7332921036983551294
+    second: rmCrimeScene2_130
+  - first:
+      213: -4239167153802898881
+    second: rmCrimeScene2_131
+  - first:
+      213: -1531765425853257477
+    second: rmCrimeScene2_132
+  - first:
+      213: 1181522228662123257
+    second: rmCrimeScene2_133
+  - first:
+      213: -7090538669787195711
+    second: rmCrimeScene2_134
+  - first:
+      213: 2734743498291166510
+    second: rmCrimeScene2_135
+  - first:
+      213: 524595250468647133
+    second: rmCrimeScene2_136
+  - first:
+      213: 953252499239657207
+    second: rmCrimeScene2_137
+  - first:
+      213: -8008478583465072416
+    second: rmCrimeScene2_138
+  - first:
+      213: 8681482747564279037
+    second: rmCrimeScene2_139
+  - first:
+      213: 7501447704793380585
+    second: rmCrimeScene2_140
+  - first:
+      213: 6726615219991238695
+    second: rmCrimeScene2_141
+  - first:
+      213: 296289467569193678
+    second: rmCrimeScene2_142
+  - first:
+      213: 1802958011254434785
+    second: rmCrimeScene2_143
+  - first:
+      213: -2299307534852107075
+    second: rmCrimeScene2_144
+  - first:
+      213: -6310551140710577593
+    second: rmCrimeScene2_145
+  - first:
+      213: 4796790151291453389
+    second: rmCrimeScene2_146
+  - first:
+      213: 1184059749405529275
+    second: rmCrimeScene2_147
+  - first:
+      213: -5534760034439451786
+    second: rmCrimeScene2_148
+  - first:
+      213: -6018061268533597444
+    second: rmCrimeScene2_149
+  - first:
+      213: 7880474383833099282
+    second: rmCrimeScene2_150
+  - first:
+      213: -500135973554835915
+    second: rmCrimeScene2_151
+  - first:
+      213: -5143135030322686603
+    second: rmCrimeScene2_152
+  - first:
+      213: -7324223427881113336
+    second: rmCrimeScene2_153
+  - first:
+      213: -2641694857370586615
+    second: rmCrimeScene2_154
+  - first:
+      213: -3061405671009726619
+    second: rmCrimeScene2_155
+  - first:
+      213: -2027462531318570648
+    second: rmCrimeScene2_156
+  - first:
+      213: 3558089263799750479
+    second: rmCrimeScene2_157
+  - first:
+      213: -8638806688119174295
+    second: rmCrimeScene2_158
+  - first:
+      213: 2864357926447214039
+    second: rmCrimeScene2_159
+  - first:
+      213: -3626392468074432996
+    second: rmCrimeScene2_160
+  - first:
+      213: 1510940321524262198
+    second: rmCrimeScene2_161
+  - first:
+      213: -7685073611961787996
+    second: rmCrimeScene2_162
+  - first:
+      213: 2710362446747812074
+    second: rmCrimeScene2_163
+  - first:
+      213: 5335872843897612970
+    second: rmCrimeScene2_164
+  - first:
+      213: 3252021592606839837
+    second: rmCrimeScene2_165
+  - first:
+      213: 223674269557208577
+    second: rmCrimeScene2_166
+  - first:
+      213: -1578011326962952998
+    second: rmCrimeScene2_167
+  - first:
+      213: 3020778694957131996
+    second: rmCrimeScene2_168
+  - first:
+      213: -5453866025848007817
+    second: rmCrimeScene2_169
+  - first:
+      213: -3548287561406122757
+    second: rmCrimeScene2_170
+  - first:
+      213: 838342763591611784
+    second: rmCrimeScene2_171
+  - first:
+      213: 8483857374759246379
+    second: rmCrimeScene2_172
+  - first:
+      213: -3584733370544927485
+    second: rmCrimeScene2_173
+  - first:
+      213: -2115395949358182260
+    second: rmCrimeScene2_174
+  - first:
+      213: -7785165747341458
+    second: rmCrimeScene2_175
+  - first:
+      213: -8716267656679243029
+    second: rmCrimeScene2_176
+  - first:
+      213: 2395556275562655264
+    second: rmCrimeScene2_177
+  - first:
+      213: 1021899193407533357
+    second: rmCrimeScene2_178
+  - first:
+      213: -2387352645824190206
+    second: rmCrimeScene2_179
+  - first:
+      213: -8985152563791150687
+    second: rmCrimeScene2_180
+  - first:
+      213: 7114481362868329923
+    second: rmCrimeScene2_181
+  - first:
+      213: 3303508022281048302
+    second: rmCrimeScene2_182
+  - first:
+      213: 2281386126796274061
+    second: rmCrimeScene2_183
+  - first:
+      213: -5050297878366993221
+    second: rmCrimeScene2_184
+  - first:
+      213: -7083250352233476903
+    second: rmCrimeScene2_185
+  - first:
+      213: 2604546235741684287
+    second: rmCrimeScene2_186
+  - first:
+      213: 1485086582964429963
+    second: rmCrimeScene2_187
+  - first:
+      213: 8300148783393469369
+    second: rmCrimeScene2_188
+  - first:
+      213: -8737734035231496433
+    second: rmCrimeScene2_189
+  - first:
+      213: 6035464316439505985
+    second: rmCrimeScene2_190
+  - first:
+      213: 545081674311326007
+    second: rmCrimeScene2_191
+  - first:
+      213: 7517725669284697591
+    second: rmCrimeScene2_192
+  - first:
+      213: 4795438850970903718
+    second: rmCrimeScene2_193
+  - first:
+      213: 3417426569630967450
+    second: rmCrimeScene2_194
+  - first:
+      213: 282499679732601460
+    second: rmCrimeScene2_195
+  - first:
+      213: -6300025196240102822
+    second: rmCrimeScene2_196
+  - first:
+      213: 8303818282768850712
+    second: rmCrimeScene2_197
+  - first:
+      213: 5191584398849847997
+    second: rmCrimeScene2_198
+  - first:
+      213: 1104405894195873147
+    second: rmCrimeScene2_199
+  - first:
+      213: -3474756829367227126
+    second: rmCrimeScene2_200
+  - first:
+      213: -2633514084056576129
+    second: rmCrimeScene2_201
+  - first:
+      213: -1986985164876176792
+    second: rmCrimeScene2_202
+  - first:
+      213: -2654001891255384584
+    second: rmCrimeScene2_203
+  - first:
+      213: 8106253332668877035
+    second: rmCrimeScene2_204
+  - first:
+      213: -7037614173275246644
+    second: rmCrimeScene2_205
+  - first:
+      213: -2052492290311739008
+    second: rmCrimeScene2_206
+  - first:
+      213: 2544995072157584612
+    second: rmCrimeScene2_207
+  - first:
+      213: 7473341104281008212
+    second: rmCrimeScene2_208
+  - first:
+      213: 1000087247073855013
+    second: rmCrimeScene2_209
+  - first:
+      213: -3759869231100924724
+    second: rmCrimeScene2_210
+  - first:
+      213: -4101579101571962900
+    second: rmCrimeScene2_211
+  - first:
+      213: 7346714466209637532
+    second: rmCrimeScene2_212
+  - first:
+      213: -2296673643374031488
+    second: rmCrimeScene2_213
+  - first:
+      213: -8825180253095231477
+    second: rmCrimeScene2_214
+  - first:
+      213: -5422741435594052908
+    second: rmCrimeScene2_215
+  - first:
+      213: 9198897541349286074
+    second: rmCrimeScene2_216
+  - first:
+      213: -5799185457723587355
+    second: rmCrimeScene2_217
+  - first:
+      213: -7801906515006546399
+    second: rmCrimeScene2_218
+  - first:
+      213: 7755419470394614896
+    second: rmCrimeScene2_219
+  - first:
+      213: 7944604725337439797
+    second: rmCrimeScene2_220
+  - first:
+      213: 1546262059622391756
+    second: rmCrimeScene2_221
+  - first:
+      213: -1183560678752516609
+    second: rmCrimeScene2_222
+  - first:
+      213: 1911711907443755309
+    second: rmCrimeScene2_223
+  - first:
+      213: -3310950592570150484
+    second: rmCrimeScene2_224
+  - first:
+      213: -3299940520587601698
+    second: rmCrimeScene2_225
+  - first:
+      213: 539276933643970821
+    second: rmCrimeScene2_226
+  - first:
+      213: -1419761972468872533
+    second: rmCrimeScene2_227
+  - first:
+      213: 8367275770893059860
+    second: rmCrimeScene2_228
+  - first:
+      213: 6830504303361938268
+    second: rmCrimeScene2_229
+  - first:
+      213: -3236303798274495565
+    second: rmCrimeScene2_230
+  - first:
+      213: -5563476180346194774
+    second: rmCrimeScene2_231
+  - first:
+      213: 4181671657895723231
+    second: rmCrimeScene2_232
+  - first:
+      213: -7902492752263255840
+    second: rmCrimeScene2_233
+  - first:
+      213: 8277238818485178719
+    second: rmCrimeScene2_234
+  - first:
+      213: -6995598780713995490
+    second: rmCrimeScene2_235
+  - first:
+      213: 7650219052340175211
+    second: rmCrimeScene2_236
+  - first:
+      213: -1648474507053318437
+    second: rmCrimeScene2_237
+  - first:
+      213: 3817835172044129916
+    second: rmCrimeScene2_238
+  - first:
+      213: -390218157725400381
+    second: rmCrimeScene2_239
+  - first:
+      213: -5737790584698909053
+    second: rmCrimeScene2_240
+  - first:
+      213: 3614922670041231149
+    second: rmCrimeScene2_241
+  - first:
+      213: -1519126142910336558
+    second: rmCrimeScene2_242
+  - first:
+      213: 4100701550432215450
+    second: rmCrimeScene2_243
+  - first:
+      213: 505804141703483234
+    second: rmCrimeScene2_244
+  - first:
+      213: -4839399248881744348
+    second: rmCrimeScene2_245
+  - first:
+      213: 7617976162647853182
+    second: rmCrimeScene2_246
+  - first:
+      213: -3561955642766692989
+    second: rmCrimeScene2_247
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmCrimeScene2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 5
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cf325951584d890800000000000000
+      internalID: -7434170757138875333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 385
+        width: 43
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151b925f3aef91a80800000000000000
+      internalID: -8495479241911455407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 481
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba87bc8fca773f60800000000000000
+      internalID: 8014009093766744757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 460
+        width: 63
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd1cb6b4be69bd70800000000000000
+      internalID: 9059393847871413711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 566
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723d09176c59d7080800000000000000
+      internalID: -9188022985224563929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 570
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c527bc0be4e63d0800000000000000
+      internalID: -3211542963034104780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 580
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f21ea5ad703b9e20800000000000000
+      internalID: 3358331263343530737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 580
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee3f72983ce34620800000000000000
+      internalID: 2757307124601011943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 570
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b56412b49e0bf1d0800000000000000
+      internalID: -3316040668822608464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 422
+        width: 90
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e421e15bb3ef2dc70800000000000000
+      internalID: 8994530938207474254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 566
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f930cf68f80f8010800000000000000
+      internalID: 1193182289396251127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 547
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da465bb68ffbe8e50800000000000000
+      internalID: 6813594359937983661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_12
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 561
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00ec1031b1c3e6e0800000000000000
+      internalID: -1809389658512236534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 548
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c1e34f6dabc6210800000000000000
+      internalID: 1327641422550932566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 563
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2535402c2203cb490800000000000000
+      internalID: -7729249934632529070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 566
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58defe1a1bfdd0400800000000000000
+      internalID: 292135504868011397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31921bbfef2b0140800000000000000
+      internalID: 4686892543891378493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 549
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e6569cea3c748a0800000000000000
+      internalID: -6320868396520608116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 563
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fc411052f4e2530800000000000000
+      internalID: 3832087353289395996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 548
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336df334494e2b040800000000000000
+      internalID: 4662039889716434483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 562
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e369025fc532f4fc0800000000000000
+      internalID: -3508546702541810114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_21
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 548
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14529aff566a55f30800000000000000
+      internalID: 4563736754421048641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 548
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4eae5ab0aa81950800000000000000
+      internalID: 6420068235821638836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 562
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d468c8565cf70f50800000000000000
+      internalID: 6847719206227043541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 548
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5daa34ffaae05e0800000000000000
+      internalID: -1941426376021453389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_25
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 548
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dc13a3bf770af10800000000000000
+      internalID: 2278953332346309888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_26
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 563
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397fc012f53ddf010800000000000000
+      internalID: 1224367079244494739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec27bd0f5a965560800000000000000
+      internalID: 7302193578870516964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_28
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 566
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7ec9f7ccb92cbf0800000000000000
+      internalID: -305510522091149373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 548
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb4eca26c22d4230800000000000000
+      internalID: 3624591509620149189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 563
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0594b0f30a1274cf0800000000000000
+      internalID: -268208680669066928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_31
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 546
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b1497c84e63bda0800000000000000
+      internalID: -5930275025451738227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_32
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 529
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6527e60823aed750800000000000000
+      internalID: 6331677518439327082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_33
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 531
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df52e5a68611dfd0800000000000000
+      internalID: -2319047565554589742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_34
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 534
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c07d351cb87bfc0800000000000000
+      internalID: -3479158524668867519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_35
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 532
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27f114d96b742fa0800000000000000
+      internalID: -5826396323450849493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 532
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaef3058dacb48f0800000000000000
+      internalID: -555127098642011459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_37
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 534
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90305a662e6f50c0800000000000000
+      internalID: -4584824784368422754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 531
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f246ac6ea415aac0800000000000000
+      internalID: -3844643967511149835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d823bcb0d4c7eb0800000000000000
+      internalID: -4720813596342055601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_40
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 534
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf0dd538472072e0800000000000000
+      internalID: -2130159432651436099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_41
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48845becb704df30800000000000000
+      internalID: 4599309627435550796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_42
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 531
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e129313acf8a0f10800000000000000
+      internalID: 2236758263514866147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 532
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c79a08886c7e0790800000000000000
+      internalID: -7561969935907645502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_44
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 532
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea9fcbfb325da9d0800000000000000
+      internalID: -2761460578927011095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_45
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 534
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b500cf07e384b7780800000000000000
+      internalID: -8684268023433133989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_46
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 531
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494961851b7149350800000000000000
+      internalID: 6022464652155720852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_47
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 515
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98f244a62eedbe20800000000000000
+      internalID: 3368109946075019422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 518
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d8bf540c37e0de0800000000000000
+      internalID: -1365026367401652856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_49
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 515
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3edd5bc898b2a950800000000000000
+      internalID: 6458927781989178939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_50
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 499
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a9f0f554d056c70800000000000000
+      internalID: 8963585224949602937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_51
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 520
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6513cddea4b55c4a0800000000000000
+      internalID: -6573747703701032618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_52
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 523
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d233c962781381c10800000000000000
+      internalID: 2024422489041154861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_53
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 523
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72390fa5d9565960800000000000000
+      internalID: 7590352996279071357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_54
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 520
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d2d49154c4bed60800000000000000
+      internalID: 7920508229322091788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 499
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bd3e680d2298c10800000000000000
+      internalID: 2056212983882963787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_56
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 515
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514c43ebd201fd090800000000000000
+      internalID: -8007663823790750699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_57
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 518
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5ee8812e5cf3980800000000000000
+      internalID: -8556903192115354128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_58
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 515
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23462642940117fc0800000000000000
+      internalID: -3498997529161079758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_59
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 496
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df71a7c917b6b6730800000000000000
+      internalID: 3993403630294800381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_60
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 515
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2185d7983565720800000000000000
+      internalID: 2834544865454854852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_61
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 515
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a554bdd0f6cd14540800000000000000
+      internalID: 4990512231635174746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_62
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 500
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09e13af71cdee3f0800000000000000
+      internalID: -869515682495993590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_63
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 502
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aded542b498e540800000000000000
+      internalID: 5037439676611222077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_64
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 499
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadadf4c4c06f65a0800000000000000
+      internalID: -6525890936801743443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_65
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 498
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827ec50e161491410800000000000000
+      internalID: 1448260643808143144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_66
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 499
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cadef2be370ffb0800000000000000
+      internalID: -4616062164096144273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_67
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 499
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4cda217816b2ec0800000000000000
+      internalID: -3590669045135981403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_68
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 498
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13926cef6c23cded0800000000000000
+      internalID: -2387977872153892559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 499
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd2ee6d192dfa510800000000000000
+      internalID: 1562699119538875834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_70
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 502
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cda3aaffdfc0add0800000000000000
+      internalID: -2476751234164085303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_71
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 483
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d9e22d325c80390800000000000000
+      internalID: -7851809192679662249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_72
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 484
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa94697d1c93d4200800000000000000
+      internalID: 165852265990998442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_73
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 491
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8a42a67030b7a70800000000000000
+      internalID: 8825651225143060671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 490
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822a78f90f7413140800000000000000
+      internalID: 4697614985118327336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_75
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 483
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b462c7e4db86e1a70800000000000000
+      internalID: 8799585884203394635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_76
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 482
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ccb9ded3bc1b0f0800000000000000
+      internalID: -1102876966889206746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_77
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 482
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c901c93903aa04d0800000000000000
+      internalID: -3167540127882737213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_78
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 483
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc252b105c46ef290800000000000000
+      internalID: -7854729902787767603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_79
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 490
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9cb640594bad9a0800000000000000
+      internalID: -6207450584259507722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_80
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 484
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9526f3e35c2c78d0800000000000000
+      internalID: -2847352125586528868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_81
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 491
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54bc80db1153eac0800000000000000
+      internalID: -3827126078429940642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_82
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 483
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f93aa7a4a66892e0800000000000000
+      internalID: -2118830767304197639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_83
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 484
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e8cac75be694170800000000000000
+      internalID: 8163177525345553940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_84
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 484
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad5c7e090366a640800000000000000
+      internalID: 5090865319337811360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_85
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 455
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f958e3ca19f45460800000000000000
+      internalID: 7229677195187739126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_86
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 455
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b68ac8324b671f90800000000000000
+      internalID: -6982994765049854286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_87
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 369
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df31904acef4581d0800000000000000
+      internalID: -3349182870097161219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_88
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 369
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb24203573086360800000000000000
+      internalID: 7162979009186507759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_89
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 451
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7307b69ac7508ed80800000000000000
+      internalID: -8221315086788366281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_90
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 455
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026d011e80991a9f0800000000000000
+      internalID: -458917423600314848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_91
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 467
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ca342cceda35d40800000000000000
+      internalID: 5571988396370537527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_92
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 467
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bbb7b56c854e680800000000000000
+      internalID: -8726752568975574133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 455
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cd9c4191cea40f0800000000000000
+      internalID: -1131832763863147414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_94
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 451
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97a012d0c74b2470800000000000000
+      internalID: 8370863225881798558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_95
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 450
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b62cdd470c63210800000000000000
+      internalID: 1312447949594323772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_96
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 451
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f027a3f63d980e0800000000000000
+      internalID: -2267048462728949964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_97
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 453
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7853553d59b99a0800000000000000
+      internalID: -6225217325009369162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_98
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 451
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd4fe72e5b0ba400800000000000000
+      internalID: 336375096194059760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_99
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 450
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2625af3c212bd80800000000000000
+      internalID: -8236500135579589905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_100
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 420
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21217f4bfed42270800000000000000
+      internalID: 8224943990436340011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_101
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 435
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56abfe1fd000cde0800000000000000
+      internalID: -1315050132894669217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_102
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 438
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948f7f0d80adaed60800000000000000
+      internalID: 7920382626084943945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_103
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 435
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e67fce59b249c8e0800000000000000
+      internalID: -1672732422664390940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_104
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 420
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6e298ccfb3f0770800000000000000
+      internalID: 8579141772046952097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_105
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 402
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a1de514ba036f80800000000000000
+      internalID: -8114630335013250447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_106
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 444
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2665b9c8706ca24e0800000000000000
+      internalID: -2005572948314073502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_107
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 403
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8c0b9932e257290800000000000000
+      internalID: -7893352041459693391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_108
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 444
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7330461f0526650800000000000000
+      internalID: 6224626632674719659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_109
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 445
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c08d222c42616050800000000000000
+      internalID: 5792018674905612489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_110
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 430
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd417b64e9fe78410800000000000000
+      internalID: 1479414465684772059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_111
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 418
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fedd28a9c754a5d0800000000000000
+      internalID: -3052218123828732173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_112
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 436
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929cbc66f03428fb0800000000000000
+      internalID: -4647078132064728791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 436
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eb77286c6dbe8a0800000000000000
+      internalID: -6274685507729899929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_114
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 418
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306ddd33b97fe0fc0800000000000000
+      internalID: -3526609212222351869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_115
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 430
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20698522b3155a780800000000000000
+      internalID: -8672436193010870782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_116
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 424
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619fbd4151d376630800000000000000
+      internalID: 3920169161402874134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_117
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 420
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff91f1f6f78a35fd0800000000000000
+      internalID: -2354352914906015233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 424
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8a9e8bda9f1f700800000000000000
+      internalID: 572513152179742901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_119
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 423
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9d68da69ca24220800000000000000
+      internalID: 2468725308908820940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_120
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 401
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd8ae921aa574460800000000000000
+      internalID: 7225843775378722248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_121
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 412
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8b3bc5e3b4e10d0800000000000000
+      internalID: -3450237533303883603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_122
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 401
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aa678c086f257e0800000000000000
+      internalID: -1778087869878457795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_123
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 409
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171c17bf8caf64480800000000000000
+      internalID: -8915162671214378639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_124
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 401
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1489b2684f0da2520800000000000000
+      internalID: 2678182677066782785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_125
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 409
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74deef18662d0d70800000000000000
+      internalID: 9010900658092430461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_126
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 412
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52401cd24b8cbbc50800000000000000
+      internalID: 6682155148321555493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_127
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 401
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaeb810ebf4c4d70800000000000000
+      internalID: 9028679030459329229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_128
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 402
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ed451641a4e0f20800000000000000
+      internalID: 3390729020849315341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_129
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 385
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7abad7ec786c44a0800000000000000
+      internalID: -6607791667584255361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_130
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 402
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca3b981b2b3c3a90800000000000000
+      internalID: -7332921036983551294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_131
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 390
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3213160fe37b25c0800000000000000
+      internalID: -4239167153802898881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_132
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 387
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8aac8f5731ebae0800000000000000
+      internalID: -1531765425853257477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_133
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 385
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa32adf43c956010800000000000000
+      internalID: 1181522228662123257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_134
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 390
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6d929a5a8599d90800000000000000
+      internalID: -7090538669787195711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_135
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 390
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d347fe8b2c3f520800000000000000
+      internalID: 2734743498291166510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_136
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 385
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd07a03d99cb74700800000000000000
+      internalID: 524595250468647133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_137
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 387
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fede66f812aa3d00800000000000000
+      internalID: 953252499239657207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_138
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 390
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8ad39b82b2cd090800000000000000
+      internalID: -8008478583465072416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_139
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 376
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4404cff82da7870800000000000000
+      internalID: 8681482747564279037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_140
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 372
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6f06171fe7a1860800000000000000
+      internalID: 7501447704793380585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_141
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 372
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728505847ecb95d50800000000000000
+      internalID: 6726615219991238695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_142
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 373
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2c62173b1ac1400800000000000000
+      internalID: 296289467569193678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_143
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 373
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebe3cd32c4650910800000000000000
+      internalID: 1802958011254434785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_144
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 372
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4d2c3baf73710e0800000000000000
+      internalID: -2299307534852107075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_145
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 372
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a82091c2b6c68a0800000000000000
+      internalID: -6310551140710577593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_146
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 376
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfb1d56a3f919240800000000000000
+      internalID: 4796790151291453389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_147
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 372
+        width: 102
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb497249110ae6010800000000000000
+      internalID: 1184059749405529275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_148
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 372
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b2536b2159033b0800000000000000
+      internalID: -5534760034439451786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 108
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaa48c492d8b7ca0800000000000000
+      internalID: -6018061268533597444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_150
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 324
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cefe513b11d5d60800000000000000
+      internalID: 7880474383833099282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_151
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 324
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eaedc5bf82f09f0800000000000000
+      internalID: -500135973554835915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_152
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 324
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5759fbd70f9ef98b0800000000000000
+      internalID: -5143135030322686603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_153
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 328
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8096d8509912b5a90800000000000000
+      internalID: -7324223427881113336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 108
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90233750680d65bd0800000000000000
+      internalID: -2641694857370586615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_155
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 275
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f491223c3b385d0800000000000000
+      internalID: -3061405671009726619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_156
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 275
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861a759d1910dd3e0800000000000000
+      internalID: -2027462531318570648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_157
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 275
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f4ae7755fd06130800000000000000
+      internalID: 3558089263799750479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_158
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 281
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b4367661bcc1880800000000000000
+      internalID: -8638806688119174295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_159
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 263
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dde57bab5e30c720800000000000000
+      internalID: 2864357926447214039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_160
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 228
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16754483477cadc0800000000000000
+      internalID: -3626392468074432996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_161
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 227
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635a4459730f7f410800000000000000
+      internalID: 1510940321524262198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_162
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 249
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a91a466442295590800000000000000
+      internalID: -7685073611961787996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_163
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 247
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae046f209442d9520800000000000000
+      internalID: 2710362446747812074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_164
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 261
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaab23b414dc0a40800000000000000
+      internalID: 5335872843897612970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_165
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 237
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d141b359860812d20800000000000000
+      internalID: 3252021592606839837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_166
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 246
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1063a562096aa1300800000000000000
+      internalID: 223674269557208577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_167
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 231
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad494dc0f07c91ae0800000000000000
+      internalID: -1578011326962952998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_168
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8ecf1e736fbe920800000000000000
+      internalID: 3020778694957131996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_169
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 181
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77312ccceb9ff44b0800000000000000
+      internalID: -5453866025848007817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_170
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 221
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf473753343f1cec0800000000000000
+      internalID: -3548287561406122757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_171
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 221
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885b5ef3d4462ab00800000000000000
+      internalID: 838342763591611784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_172
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 221
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a5a9b3557bcb570800000000000000
+      internalID: 8483857374759246379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_173
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 224
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d4e220ef7704ec0800000000000000
+      internalID: -3584733370544927485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_174
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 211
+        width: 69
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c809437879a94a2e0800000000000000
+      internalID: -2115395949358182260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_175
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 165
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67bc19de6754eff0800000000000000
+      internalID: -7785165747341458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_176
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 183
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2486c3fb8990780800000000000000
+      internalID: -8716267656679243029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_177
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 184
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02eae5c8db9be3120800000000000000
+      internalID: 2395556275562655264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_178
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 184
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d217053f6e38e2e00800000000000000
+      internalID: 1021899193407533357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_179
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 184
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2096f08da6b6eded0800000000000000
+      internalID: -2387352645824190206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_180
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 184
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1c98e39535e4380800000000000000
+      internalID: -8985152563791150687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_181
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 184
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd57eafa17bbb260800000000000000
+      internalID: 7114481362868329923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_182
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee017b42b0b68dd20800000000000000
+      internalID: 3303508022281048302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_183
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 134
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d893233589c19af10800000000000000
+      internalID: 2281386126796274061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_184
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 164
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4c60656dcb9e9b0800000000000000
+      internalID: -5050297878366993221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_185
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 154
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc86f3555d33bd90800000000000000
+      internalID: -7083250352233476903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_186
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 151
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32c67e7005352420800000000000000
+      internalID: 2604546235741684287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_187
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 154
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b842b4ef0661c9410800000000000000
+      internalID: 1485086582964429963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_188
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 151
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3fe09a75d003370800000000000000
+      internalID: 8300148783393469369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_189
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 151
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07af2080355db680800000000000000
+      internalID: -8737734035231496433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_190
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 160
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c2ceb81d642c350800000000000000
+      internalID: 6035464316439505985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_191
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 162
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739d6e215e4809700800000000000000
+      internalID: 545081674311326007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_192
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 162
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5dc846aa3545860800000000000000
+      internalID: 7517725669284697591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_193
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 160
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a46a364a32dc8240800000000000000
+      internalID: 4795438850970903718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_194
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 152
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96e5d8db532d6f20800000000000000
+      internalID: 3417426569630967450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_195
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 89
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4729f9346f3abe300800000000000000
+      internalID: 282499679732601460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_196
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 102
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a19168670d198a0800000000000000
+      internalID: -6300025196240102822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_197
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 120
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fd4df8bb61d3370800000000000000
+      internalID: 8303818282768850712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_198
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 118
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2b7ea21863c0840800000000000000
+      internalID: 5191584398849847997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_199
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 118
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7584633f43a35f00800000000000000
+      internalID: 1104405894195873147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_200
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 125
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d24b0e21f27cfc0800000000000000
+      internalID: -3474756829367227126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_201
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 121
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fc1dcb4e0e37bd0800000000000000
+      internalID: -2633514084056576129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_202
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 120
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862a591258fcc64e0800000000000000
+      internalID: -1986985164876176792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_203
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 119
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5028667571b2bd0800000000000000
+      internalID: -2654001891255384584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_204
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 96
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be80e0115723f7070800000000000000
+      internalID: 8106253332668877035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_205
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 81
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfacaf323f555e90800000000000000
+      internalID: -7037614173275246644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_206
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 87
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089adb3f2251483e0800000000000000
+      internalID: -2052492290311739008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_207
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 85
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec821fb883a15320800000000000000
+      internalID: 2544995072157584612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_208
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 85
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458befd8324a6b760800000000000000
+      internalID: 7473341104281008212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_209
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 90
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5264c327d0601ed00800000000000000
+      internalID: 1000087247073855013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_210
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 84
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccee4edad242dbc0800000000000000
+      internalID: -3759869231100924724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_211
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 83
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce723a8c9834417c0800000000000000
+      internalID: -4101579101571962900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_212
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 84
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9426a8e1e5c4f560800000000000000
+      internalID: 7346714466209637532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_213
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 42
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d40b95d739020e0800000000000000
+      internalID: -2296673643374031488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_214
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 26
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00877f4159a68580800000000000000
+      internalID: -8825180253095231477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_215
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 52
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daef9e256d8eb4b0800000000000000
+      internalID: -5422741435594052908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_216
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 54
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0a655739c09af70800000000000000
+      internalID: 9198897541349286074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_217
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 52
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e446c53d87258fa0800000000000000
+      internalID: -5799185457723587355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_218
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 52
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e9a326c5f0ab390800000000000000
+      internalID: -7801906515006546399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_219
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 56
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074e4091be8c0ab60800000000000000
+      internalID: 7755419470394614896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_220
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 49
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eb0a6c7e7e04e60800000000000000
+      internalID: 7944604725337439797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_221
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 52
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfd479962d657510800000000000000
+      internalID: 1546262059622391756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_222
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 53
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff506dc55d5239fe0800000000000000
+      internalID: -1183560678752516609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_223
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 104
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29c114e9d3c78a10800000000000000
+      internalID: 1911711907443755309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1bcfc6af32d02d0800000000000000
+      internalID: -3310950592570150484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_225
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8557294914432d0800000000000000
+      internalID: -3299940520587601698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_226
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50929619385eb7700800000000000000
+      internalID: 539276933643970821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_227
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa826d120efb4ce0800000000000000
+      internalID: -1419761972468872533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_228
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41740dd5bf88e1470800000000000000
+      internalID: 8367275770893059860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_229
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c535aae6973dace50800000000000000
+      internalID: 6830504303361938268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_230
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbe99697d65613d0800000000000000
+      internalID: -3236303798274495565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_231
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa43e1af3ef8ac2b0800000000000000
+      internalID: -5563476180346194774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_232
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 15
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd08138a738480a30800000000000000
+      internalID: 4181671657895723231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_233
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 6
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8ef3506b4b45290800000000000000
+      internalID: -7902492752263255840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_234
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5112e8c9d8aed270800000000000000
+      internalID: 8277238818485178719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_235
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 21
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13f26429f3aaee90800000000000000
+      internalID: -6995598780713995490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_236
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 4
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6169ac02b90b2a60800000000000000
+      internalID: 7650219052340175211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_237
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdebcc97b217f19e0800000000000000
+      internalID: -1648474507053318437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_238
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 21
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76cea87cdcabf430800000000000000
+      internalID: 3817835172044129916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_239
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2cedb27aaa59af0800000000000000
+      internalID: -390218157725400381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_240
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ec0730dd54f50b0800000000000000
+      internalID: -5737790584698909053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_241
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f60560409ca2230800000000000000
+      internalID: 3614922670041231149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_242
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1f1da52dafaeae0800000000000000
+      internalID: -1519126142910336558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_243
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91e76b655e98e830800000000000000
+      internalID: 4100701550432215450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_244
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 23
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f4820ef2af40700800000000000000
+      internalID: 505804141703483234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_245
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 15
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4268c1cf50007dcb0800000000000000
+      internalID: -4839399248881744348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_246
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 21
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78c40a45fc78b960800000000000000
+      internalID: 7617976162647853182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmCrimeScene2_247
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 24
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d61370734619ec0800000000000000
+      internalID: -3561955642766692989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
