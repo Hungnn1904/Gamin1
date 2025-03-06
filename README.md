@@ -8,3 +8,6 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 3h13 - 4/3/2025: up lên vài asset.
 
 10h42 - 5/3/2025: up vài assset từ nguồn này https://youtu.be/m9gOLsQlGEM
+
+
+2h13 - 5/3/2025: up asset lên, thông nhất kế hoạch tạo tutorial stage trong tuần này.
