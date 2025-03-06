@@ -11,3 +11,6 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 
 
 2h13 - 5/3/2025: up asset lên, thông nhất kế hoạch tạo tutorial stage trong tuần này.
+
+
+7h25 - - 6/3/2025: hoàn thiện 8 directional movement + animation, test trên Tutorial stage.
