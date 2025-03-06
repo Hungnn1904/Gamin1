@@ -394,6 +394,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2522,7 +2535,103 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Small-8-Direction-Characters_by_AxulArt_0: -2435844364801655190
+      Small-8-Direction-Characters_by_AxulArt_1: 7175731444254453771
+      Small-8-Direction-Characters_by_AxulArt_10: 7816623607877588722
+      Small-8-Direction-Characters_by_AxulArt_11: -8084914006142342286
+      Small-8-Direction-Characters_by_AxulArt_12: 5804860221266551222
+      Small-8-Direction-Characters_by_AxulArt_13: 2268126058798432628
+      Small-8-Direction-Characters_by_AxulArt_14: -5036999683891687474
+      Small-8-Direction-Characters_by_AxulArt_15: -910125685513904026
+      Small-8-Direction-Characters_by_AxulArt_16: -8929045473793675167
+      Small-8-Direction-Characters_by_AxulArt_17: 6238477924663562830
+      Small-8-Direction-Characters_by_AxulArt_18: -1156473527028081769
+      Small-8-Direction-Characters_by_AxulArt_19: 9174447302323967937
+      Small-8-Direction-Characters_by_AxulArt_2: -2513202401464725267
+      Small-8-Direction-Characters_by_AxulArt_20: 1125379381859389362
+      Small-8-Direction-Characters_by_AxulArt_21: 7371839111093928353
+      Small-8-Direction-Characters_by_AxulArt_22: -8249210625284332867
+      Small-8-Direction-Characters_by_AxulArt_23: 4815724037285249570
+      Small-8-Direction-Characters_by_AxulArt_24: -3457985245324429367
+      Small-8-Direction-Characters_by_AxulArt_25: 5128978612201748033
+      Small-8-Direction-Characters_by_AxulArt_26: 6791523069707314898
+      Small-8-Direction-Characters_by_AxulArt_27: -789916411574100575
+      Small-8-Direction-Characters_by_AxulArt_28: -2379768906167555784
+      Small-8-Direction-Characters_by_AxulArt_29: 305644616828894888
+      Small-8-Direction-Characters_by_AxulArt_3: 116222062276264994
+      Small-8-Direction-Characters_by_AxulArt_30: -214118042222032536
+      Small-8-Direction-Characters_by_AxulArt_31: -2585834147628311387
+      Small-8-Direction-Characters_by_AxulArt_32: 5647512037368807884
+      Small-8-Direction-Characters_by_AxulArt_33: -6021471363535740621
+      Small-8-Direction-Characters_by_AxulArt_34: 7412986676604390447
+      Small-8-Direction-Characters_by_AxulArt_35: -6036984999704407040
+      Small-8-Direction-Characters_by_AxulArt_36: -678965117449167510
+      Small-8-Direction-Characters_by_AxulArt_37: 4298877907444212546
+      Small-8-Direction-Characters_by_AxulArt_38: -8989780477179548062
+      Small-8-Direction-Characters_by_AxulArt_39: 534821202343493053
+      Small-8-Direction-Characters_by_AxulArt_4: 2822392472766049395
+      Small-8-Direction-Characters_by_AxulArt_40: 6396989588978632775
+      Small-8-Direction-Characters_by_AxulArt_41: 4231563231303591020
+      Small-8-Direction-Characters_by_AxulArt_42: 7400792001476597451
+      Small-8-Direction-Characters_by_AxulArt_43: -8527564442724020587
+      Small-8-Direction-Characters_by_AxulArt_44: 6046623275608860670
+      Small-8-Direction-Characters_by_AxulArt_45: 1408869818135702755
+      Small-8-Direction-Characters_by_AxulArt_46: -8734128555168634486
+      Small-8-Direction-Characters_by_AxulArt_47: 866086912981252047
+      Small-8-Direction-Characters_by_AxulArt_48: 2552153717530130704
+      Small-8-Direction-Characters_by_AxulArt_49: 7074741479498802654
+      Small-8-Direction-Characters_by_AxulArt_5: 1875530579765883208
+      Small-8-Direction-Characters_by_AxulArt_50: 6279345569671006892
+      Small-8-Direction-Characters_by_AxulArt_51: -7025250049320907596
+      Small-8-Direction-Characters_by_AxulArt_52: -2298216017647605559
+      Small-8-Direction-Characters_by_AxulArt_53: 4339810400250722761
+      Small-8-Direction-Characters_by_AxulArt_54: -6383814987320937140
+      Small-8-Direction-Characters_by_AxulArt_55: -5851069236004528113
+      Small-8-Direction-Characters_by_AxulArt_56: 7057583873565921941
+      Small-8-Direction-Characters_by_AxulArt_57: 2125592803057769448
+      Small-8-Direction-Characters_by_AxulArt_58: 2174973545699553740
+      Small-8-Direction-Characters_by_AxulArt_59: 794618213534797419
+      Small-8-Direction-Characters_by_AxulArt_6: -7377568353495923986
+      Small-8-Direction-Characters_by_AxulArt_60: 1508543048977820341
+      Small-8-Direction-Characters_by_AxulArt_61: -2452734956274390962
+      Small-8-Direction-Characters_by_AxulArt_62: 7347338698923434759
+      Small-8-Direction-Characters_by_AxulArt_63: 3541480090103695939
+      Small-8-Direction-Characters_by_AxulArt_64: 2197348649194065261
+      Small-8-Direction-Characters_by_AxulArt_65: 4560302371093485484
+      Small-8-Direction-Characters_by_AxulArt_66: 2458117366700952819
+      Small-8-Direction-Characters_by_AxulArt_67: -9017804762970478057
+      Small-8-Direction-Characters_by_AxulArt_68: 1341646128421906504
+      Small-8-Direction-Characters_by_AxulArt_69: -8228718450966499750
+      Small-8-Direction-Characters_by_AxulArt_7: 7079225024882659134
+      Small-8-Direction-Characters_by_AxulArt_70: 5384635773643376758
+      Small-8-Direction-Characters_by_AxulArt_71: -2422168181252944228
+      Small-8-Direction-Characters_by_AxulArt_72: -8733201210518621926
+      Small-8-Direction-Characters_by_AxulArt_73: 2688246280272161830
+      Small-8-Direction-Characters_by_AxulArt_74: -1736497411315213830
+      Small-8-Direction-Characters_by_AxulArt_75: -109630665561108195
+      Small-8-Direction-Characters_by_AxulArt_76: 753877317691797494
+      Small-8-Direction-Characters_by_AxulArt_77: 7150588167059960457
+      Small-8-Direction-Characters_by_AxulArt_78: -7562760845128292968
+      Small-8-Direction-Characters_by_AxulArt_79: -1568536323721896422
+      Small-8-Direction-Characters_by_AxulArt_8: 5554300686759545946
+      Small-8-Direction-Characters_by_AxulArt_80: -380362419353694245
+      Small-8-Direction-Characters_by_AxulArt_81: -4871531732248455920
+      Small-8-Direction-Characters_by_AxulArt_82: 5073013363320654238
+      Small-8-Direction-Characters_by_AxulArt_83: -6821322843767666820
+      Small-8-Direction-Characters_by_AxulArt_84: 5497369311495656864
+      Small-8-Direction-Characters_by_AxulArt_85: 5012592327895361995
+      Small-8-Direction-Characters_by_AxulArt_86: 1903504555360657301
+      Small-8-Direction-Characters_by_AxulArt_87: 6400548867142685080
+      Small-8-Direction-Characters_by_AxulArt_88: 6733315936822877014
+      Small-8-Direction-Characters_by_AxulArt_89: 437893514989610912
+      Small-8-Direction-Characters_by_AxulArt_9: 2414728556034474308
+      Small-8-Direction-Characters_by_AxulArt_90: -7106271704611935847
+      Small-8-Direction-Characters_by_AxulArt_91: 2780501898652255178
+      Small-8-Direction-Characters_by_AxulArt_92: 2945151375013764024
+      Small-8-Direction-Characters_by_AxulArt_93: -619213138225017795
+      Small-8-Direction-Characters_by_AxulArt_94: -7662571426202723118
+      Small-8-Direction-Characters_by_AxulArt_95: -3274840466366865838
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
