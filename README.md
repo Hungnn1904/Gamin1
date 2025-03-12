@@ -16,3 +16,5 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 7h25 - - 6/3/2025: hoàn thiện 8 directional movement + animation, test trên Tutorial stage.
 
 1h08 -- 7/3/2025: import và thiết kế qua phần maptile cơ bản cho phần Tutorial stage
+
+6h13 -- 12/3/2025: Chỉnh lại background setup lại cam cho menu credit và intro
