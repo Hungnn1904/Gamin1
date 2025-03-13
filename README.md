@@ -18,3 +18,5 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 1h08 -- 7/3/2025: import và thiết kế qua phần maptile cơ bản cho phần Tutorial stage
 
 6h13 -- 12/3/2025: Chỉnh lại background setup lại cam cho menu credit và intro
+
+19h25 - 13/3/2025: Tạo UI, lỡ force push nên log vừa r bị mất, Ui có CSheet, Settings và inventory, setting chỉ còn gắn code về mainmenu và desktop.
