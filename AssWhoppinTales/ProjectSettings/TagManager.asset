@@ -38,13 +38,16 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
   - name: Ground
     uniqueID: 3534246253
     locked: 0
   - name: water
     uniqueID: 4072123041
     locked: 0
-  - name: up
+  - name: floor
     uniqueID: 1469248895
     locked: 0
   - name: Rock
@@ -53,11 +56,11 @@ TagManager:
   - name: Tree
     uniqueID: 677952377
     locked: 0
-  - name: Default
-    uniqueID: 0
-    locked: 0
   - name: PLayer
     uniqueID: 2275778779
+    locked: 0
+  - name: Ui
+    uniqueID: 3183561743
     locked: 0
   m_RenderingLayers:
   - Default

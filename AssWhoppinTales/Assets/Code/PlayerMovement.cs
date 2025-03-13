@@ -20,27 +20,25 @@ public class PlayerMovement : MonoBehaviour
     }
 
     void Update()
+{
+    X = Input.GetAxisRaw("Horizontal");
+    Y = Input.GetAxisRaw("Vertical");
+
+    bool isWalking = (X != 0 || Y != 0);
+
+    animator.SetBool("isWalking", isWalking);
+
+    animator.SetFloat("InputX", X);
+    animator.SetFloat("InputY", Y);
+
+    // ✅ Store last direction *only if moving*
+    if (isWalking) 
     {
-        X = Input.GetAxisRaw("Horizontal");
-        Y = Input.GetAxisRaw("Vertical");
-
-        // If moving
-        bool isWalking = (X != 0 || Y != 0);
-
-        // Update the "isWalking" for switching between idle and walk
-        animator.SetBool("isWalking", isWalking);
-
-        // Update movement input values for the Blend Tree
-        animator.SetFloat("InputX", X);
-        animator.SetFloat("InputY", Y);
-
-        // Store the last movement direction when stopping(for idle direction)
-        if (!isWalking)
-        {
-            animator.SetFloat("LastKeyPressX", X);
-            animator.SetFloat("LastKeyPressY", Y);
-        }
+        animator.SetFloat("LastKeyPressX", X);
+        animator.SetFloat("LastKeyPressY", Y);
     }
+}
+
 
     void FixedUpdate()
     {
