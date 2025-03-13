@@ -41,17 +41,23 @@ TagManager:
   - name: Ground
     uniqueID: 3534246253
     locked: 0
+  - name: water
+    uniqueID: 4072123041
+    locked: 0
+  - name: up
+    uniqueID: 1469248895
+    locked: 0
   - name: Rock
     uniqueID: 569369079
+    locked: 0
+  - name: Tree
+    uniqueID: 677952377
     locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
   - name: PLayer
     uniqueID: 2275778779
-    locked: 0
-  - name: Grass and Tree
-    uniqueID: 677952377
     locked: 0
   m_RenderingLayers:
   - Default
