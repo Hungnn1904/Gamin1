@@ -24,3 +24,5 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 19h25 - 13/3/2025: Tạo UI, lỡ force push nên log vừa r bị mất, Ui có CSheet, Settings và inventory, setting chỉ còn gắn code về mainmenu và desktop.
 
 3h05 -- 14/3/2025: tạo map mới, chỉnh sửa lại rigitbody, add thêm vài layer cho map mới, phần di chuyển qua các map đang làm dở
+
+12h24 -- 14/3/2025: hoàn thiện nốt chi tiết cho map, di chuyển giữa các map đã xong
