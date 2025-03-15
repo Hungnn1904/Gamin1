@@ -32,16 +32,16 @@ public class Transpoint : MonoBehaviour
         switch (direction)
         {
             case Direction.Up:
-                newPos.y += 1;
+                newPos.y += 2;
                 break;
             case Direction.Down:
-                newPos.y -= 1;
+                newPos.y -= 2;
                 break;
             case Direction.Left:
-                newPos.x -= 1;
+                newPos.x -= 2;
                 break;
             case Direction.Right:
-                newPos.x += 1;
+                newPos.x += 2;
                 break;
         }
         player.transform.position = newPos;

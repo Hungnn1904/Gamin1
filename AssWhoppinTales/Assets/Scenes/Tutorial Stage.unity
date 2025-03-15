@@ -939,7 +939,7 @@ Transform:
   m_GameObject: {fileID: 453128654}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 28.78, z: 0}
+  m_LocalPosition: {x: 0, y: 25.4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -994,8 +994,9 @@ PolygonCollider2D:
     m_Paths:
     - - {x: 28.314808, y: 0.64694786}
       - {x: -18.603678, y: 0.80329114}
-      - {x: -18.531748, y: -27.291834}
-      - {x: 27.874979, y: -26.425575}
+      - {x: -18.579865, y: -28.639177}
+      - {x: 5.9364357, y: -28.487692}
+      - {x: 28.16369, y: -28.35035}
   m_UseDelaunayMesh: 0
 --- !u!1 &488139205
 GameObject:
@@ -6104,6 +6105,36 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+  - first: {x: 47, y: -29, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 11
+      m_TileSpriteIndex: 11
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 48, y: -29, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 11
+      m_TileSpriteIndex: 11
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 49, y: -29, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 11
+      m_TileSpriteIndex: 11
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
   - first: {x: 50, y: -29, z: 0}
     second:
       serializedVersion: 2
@@ -6764,6 +6795,26 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+  - first: {x: 39, y: -27, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 11
+      m_TileSpriteIndex: 11
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 47, y: -27, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 11
+      m_TileSpriteIndex: 11
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
   - first: {x: 48, y: -27, z: 0}
     second:
       serializedVersion: 2
@@ -6948,7 +6999,7 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 4738af36e115eab4395f062ed09c00fc, type: 2}
   - m_RefCount: 27
     m_Data: {fileID: 11400000, guid: 7f4fc80e75733fc49a7c732c9b9da78b, type: 2}
-  - m_RefCount: 25
+  - m_RefCount: 30
     m_Data: {fileID: 11400000, guid: 56c6be88f4bf43648883f0ac6ac29fbb, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 221a38ce1467cbb40ba17b80479e3e2a, type: 2}
@@ -7223,7 +7274,7 @@ Tilemap:
     m_Data: {fileID: 21300086, guid: 95d22684aba5646d79a26b3287a692b6, type: 3}
   - m_RefCount: 27
     m_Data: {fileID: 21300046, guid: 95d22684aba5646d79a26b3287a692b6, type: 3}
-  - m_RefCount: 25
+  - m_RefCount: 30
     m_Data: {fileID: 21300006, guid: 95d22684aba5646d79a26b3287a692b6, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 21300042, guid: 95d22684aba5646d79a26b3287a692b6, type: 3}
@@ -7476,7 +7527,7 @@ Tilemap:
   - m_RefCount: 3
     m_Data: {fileID: 817475689, guid: fa9008ba27d044823835d85918621932, type: 3}
   m_TileMatrixArray:
-  - m_RefCount: 500
+  - m_RefCount: 505
     m_Data:
       e00: 1
       e01: 0
@@ -7495,7 +7546,7 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
-  - m_RefCount: 500
+  - m_RefCount: 505
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
@@ -7898,13 +7949,9 @@ CompositeCollider2D:
         Y: -328435680
       - X: 483672032
         Y: -294459584
-      - X: 460640000
+      - X: 460640032
         Y: -294459584
-      - X: 460640000
-        Y: -305784928
-      - X: 449124032
-        Y: -305784928
-      - X: 449124032
+      - X: 460640032
         Y: -294459552
       - X: 276384000
         Y: -294459552
@@ -7912,29 +7959,25 @@ CompositeCollider2D:
         Y: -566268416
       - X: 656411968
         Y: -566268416
-    - - X: 541252032
-        Y: -317110304
-      - X: 575800000
-        Y: -317110304
-      - X: 575800000
-        Y: -328435680
-      - X: 656411968
-        Y: -328435680
-      - X: 656411968
+    - - X: 656411968
         Y: -294459552
-      - X: 552768000
+      - X: 541251968
         Y: -294459552
-      - X: 552768000
-        Y: -305784928
-      - X: 541252032
-        Y: -305784928
-      - X: 541252032
+      - X: 541251968
         Y: -294459584
       - X: 518220000
         Y: -294459584
       - X: 518220000
         Y: -328435680
-      - X: 541252032
+      - X: 656411968
+        Y: -328435680
+    - - X: 679443968
+        Y: -294459552
+      - X: 656412032
+        Y: -294459552
+      - X: 656412032
+        Y: -328435680
+      - X: 679443968
         Y: -328435680
     - - X: 737024000
         Y: -294459552
@@ -7959,14 +8002,6 @@ CompositeCollider2D:
       - X: 679444032
         Y: -328435680
       - X: 702475968
-        Y: -328435680
-    - - X: 679443968
-        Y: -294459552
-      - X: 656412032
-        Y: -294459552
-      - X: 656412032
-        Y: -328435680
-      - X: 679443968
         Y: -328435680
     - - X: 413856288
         Y: -532292288
@@ -8016,16 +8051,8 @@ CompositeCollider2D:
     m_Paths:
     - - {x: 73.70237, y: -56.626842}
       - {x: 73.70237, y: -29.445955}
-      - {x: 55.276802, y: -29.445984}
-      - {x: 55.276768, y: -30.578493}
-      - {x: 54.125202, y: -30.578465}
-      - {x: 54.12517, y: -29.44596}
       - {x: 51.822002, y: -29.445988}
       - {x: 51.82203, y: -32.843567}
-      - {x: 54.125202, y: -32.84354}
-      - {x: 54.125237, y: -31.711031}
-      - {x: 57.58, y: -31.71106}
-      - {x: 57.580032, y: -32.843567}
       - {x: 70.247604, y: -32.843597}
       - {x: 70.247574, y: -53.22923}
       - {x: 62.11449, y: -53.229168}
@@ -8195,10 +8222,6 @@ CompositeCollider2D:
       - {x: 31.09323, y: -32.843567}
       - {x: 48.367203, y: -32.84354}
       - {x: 48.367176, y: -29.44596}
-      - {x: 46.064, y: -29.445988}
-      - {x: 46.063972, y: -30.578493}
-      - {x: 44.912403, y: -30.578465}
-      - {x: 44.912376, y: -29.445955}
       - {x: 27.638401, y: -29.445984}
       - {x: 27.63843, y: -56.626842}
     - - {x: 42.82502, y: -53.22916}
@@ -37791,7 +37814,7 @@ Transform:
   m_GameObject: {fileID: 1209805997}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.43, y: -22.29, z: 0}
+  m_LocalPosition: {x: -3.07, y: -19.98, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -37811,7 +37834,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mapBoundary: {fileID: 2100648451}
   confiner: {fileID: 49388302}
-  direction: 0
+  direction: 1
 --- !u!60 &1209806000
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -37858,11 +37881,10 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 3.102028, y: -6.025778}
-      - {x: 13.299919, y: -5.8214035}
-      - {x: 13.279697, y: -4.6885185}
-      - {x: 13.360817, y: -4.517473}
-      - {x: 3.0348969, y: -4.584841}
+    - - {x: 9.128914, y: -6.8352375}
+      - {x: 5.72501, y: -6.8119297}
+      - {x: 5.7144623, y: -6.9558144}
+      - {x: 9.1027565, y: -6.959221}
   m_UseDelaunayMesh: 0
 --- !u!1 &1211772681
 GameObject:
@@ -49992,7 +50014,7 @@ Transform:
   m_GameObject: {fileID: 2120884589}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.04, y: 1.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -50059,11 +50081,10 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 5.9584618, y: -2.7708473}
-      - {x: 4.6151733, y: -2.796629}
-      - {x: 2.5542383, y: -2.8245032}
-      - {x: 2.598845, y: -3.6558075}
-      - {x: 6.164388, y: -3.7300966}
+    - - {x: 5.926811, y: -2.6451035}
+      - {x: 2.5911446, y: -2.6304474}
+      - {x: 2.6038332, y: -2.8244994}
+      - {x: 5.921347, y: -2.8532352}
   m_UseDelaunayMesh: 0
 --- !u!1 &2137105730
 GameObject:
