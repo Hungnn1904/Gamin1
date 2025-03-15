@@ -28,4 +28,5 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 12h24 -- 14/3/2025: hoàn thiện nốt chi tiết cho map, di chuyển giữa các map đã xong
 
 11h24 - 15/3/2025: Hoàn thành ui, chưa sử dụng được, tiếp tục làm cơ chế kéo thả, interact với các item
+
 5h26 -- 15/3/2025: Hoàn thành map trans, sửa cam lmao, thêm colider chho map mới
