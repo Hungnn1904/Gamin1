@@ -30,3 +30,5 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 11h24 - 15/3/2025: Hoàn thành ui, chưa sử dụng được, tiếp tục làm cơ chế kéo thả, interact với các item
 
 5h26 -- 15/3/2025: Hoàn thành map trans, sửa cam lmao, thêm colider chho map mới
+
+11h57 - 17/3/2025:Hoàn thiện cơ chế nhặt đồ dùng 1 lần, hiện ra trong invetory và hud, ấn 1 2 3 để dùng nhanh
