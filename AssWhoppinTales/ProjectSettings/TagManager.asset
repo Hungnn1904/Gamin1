@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Item
   layers:
   - Default
   - TransparentFX
@@ -12,7 +13,7 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
+  - Props
   - 
   - 
   - 
@@ -58,6 +59,9 @@ TagManager:
     locked: 0
   - name: PLayer
     uniqueID: 2275778779
+    locked: 0
+  - name: Item
+    uniqueID: 846477603
     locked: 0
   - name: Ui
     uniqueID: 3183561743
