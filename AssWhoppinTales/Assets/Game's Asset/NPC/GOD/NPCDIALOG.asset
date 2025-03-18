@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: NPCDIALOG
   m_EditorClassIdentifier: 
   npcName: god
-  npcPortrait: {fileID: 0}
+  npcPortrait: {fileID: 381566585, guid: 0f39a9205e4394ee1b6ba8269428d176, type: 3}
   dialogueLines:
   - Bonjour you holy shit mother FUCKERRRR
   - TOI LA NAN NHAN CUA NGUYEN MANH HUNG
