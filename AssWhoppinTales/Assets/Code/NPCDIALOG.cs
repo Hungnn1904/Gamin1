@@ -1,6 +1,6 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "NPCDIALOG", menuName = "NPCDIALOG")]
+[CreateAssetMenu(fileName = "NEWNPCDIALOGue", menuName = "NPC Dialogue")]
 public class NPCDIALOG : ScriptableObject
 {
     public string npcName;

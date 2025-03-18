@@ -1,17 +1,16 @@
-using Microsoft.Unity.VisualStudio.Editor;
 using System.Collections;
 using TMPro;
-using UnityEditor.Rendering;
-using UnityEditor.VersionControl;
 using UnityEngine;
 using UnityEngine.UI;
+using System;
+using System.Collections.Generic;
 
 public class NPC : MonoBehaviour, IInteractable
 {
     public NPCDIALOG dialogueData;
     public GameObject dialoguePanel;
     public TMP_Text dialogueText, nameText;
-    public UnityEngine.UI.Image portraitImage;
+    public Image portraitImage;
     private int dialogueIndex;
     private bool isTyping, isDialogueActive;
     public bool CanInteract()
