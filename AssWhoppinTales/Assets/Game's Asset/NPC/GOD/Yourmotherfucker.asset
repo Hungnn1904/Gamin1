@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b0b2de118bed734b8f42f982fa24b57, type: 3}
+  m_Name: Yourmotherfucker
+  m_EditorClassIdentifier: 
+  npcName: god
+  npcPortrait: {fileID: 381566585, guid: 0f39a9205e4394ee1b6ba8269428d176, type: 3}
+  dialogueLines:
+  - Bonjour you holy shit mother FUCKERRRR
+  - TOI LA NAN NHAN CUA NGUYEN MANH HUNG
+  - Chao mung ban toi dia nguc tran gian noi bajn de bij but's fuck by nmh
+  - Toi se la nguoi huong dan ban tung buoc den voi cac dia nguc nay
+  autoProgressLines: 01010101
+  autoProgressDelay: 1.5
+  typingspeed: 0.05
+  voiceSound: {fileID: 8300000, guid: cd51dc49c0ce84322ae5184ad6f159e6, type: 3}
+  voicePitch: 1.5
+  autoProgressTime: 2
