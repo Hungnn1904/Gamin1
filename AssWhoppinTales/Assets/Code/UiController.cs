@@ -32,29 +32,28 @@ public class UiController : MonoBehaviour
 
     public void AddItem(string itemName, Sprite itemSprite)
     {
-        // Kiểm tra xem item đã có trong inventory chưa
+        // Check if an item with the same name AND sprite exists
         foreach (Slot slot in inventorySlots)
         {
-            if (slot.isFull && slot.itemName == itemName)
+            if (slot.isFull && slot.itemName == itemName && slot.itemSprite == itemSprite)
             {
                 Debug.Log("Item already exists in inventory: " + itemName);
-                return;
+                return; // Prevent duplicate
             }
         }
 
-        // Tìm slot trống trong inventory và HUD
+        // Find an empty slot to add the item
         for (int i = 0; i < inventorySlots.Length; i++)
         {
             if (!inventorySlots[i].isFull)
             {
                 inventorySlots[i].AddItem(itemName, itemSprite);
-                hudSlots[i].AddItem(itemName, itemSprite); // Đồng bộ với HUD
+                hudSlots[i].AddItem(itemName, itemSprite); // Sync with HUD
                 return;
             }
         }
         Debug.Log("Inventory is full! Cannot pick up: " + itemName);
     }
-
     public void RemoveItem(int slotIndex)
     {
         if (slotIndex < inventorySlots.Length)

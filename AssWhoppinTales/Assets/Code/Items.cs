@@ -12,9 +12,9 @@ public class Items : MonoBehaviour
         inventoryManager = GameObject.Find("U.I").GetComponent<UiController>();
     }
 
-    private void OnTriggerEnter2D(Collider2D collision) 
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Player")) 
+        if (collision.gameObject.CompareTag("Player"))
         {
             Debug.Log("Player picked up: " + itemName);
 
