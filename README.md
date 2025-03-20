@@ -34,4 +34,7 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 11h57 - 17/3/2025:Hoàn thiện cơ chế nhặt đồ dùng 1 lần, hiện ra trong invetory và hud, ấn 1 2 3 để dùng nhanh
 
 9h41 -- 17/03/2004: add thêm mai free voice asset vào, còn một vài voice nữa nhưng tạm chưa dùng, thêm npc + npc dialog vào
+
 9h50 -- 19/3/2025: Chỉnh sửa font cho dialog và hoàn thiện cơ chế tương tác
+
+3h49 - đặt vào item vũ khí(không cho vào ô slot inventory), hoàn thiện cơ chế bắn đạn
