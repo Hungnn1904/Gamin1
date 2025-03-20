@@ -32,7 +32,11 @@ public class PistolGun : MonoBehaviour
 
     public void Shoot()
     {
+
         GameObject bullet = Instantiate(bulletPrefab, bulletSpawnPoint.position, Quaternion.identity);
+        bullet.GetComponent<Bullets>().setLifeTime();
+
         bullet.GetComponent<Rigidbody2D>().linearVelocity = direction.normalized * 10f;
+
     }
 }

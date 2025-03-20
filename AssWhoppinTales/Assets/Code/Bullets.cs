@@ -5,9 +5,19 @@ public class Bullets : MonoBehaviour
     private Rigidbody2D rb;
     public float speed;
     private Vector2 direction;
+    private float lifetime;
 
-    void Start()
+    private bool isFired;
+
+    public void setLifeTime()
     {
+        lifetime = 0;
+        isFired = true;
+
+    }
+    void Awake()
+    {
+        isFired = false;
         rb = GetComponent<Rigidbody2D>();
 
         // Get the Gun object
@@ -33,11 +43,23 @@ public class Bullets : MonoBehaviour
         }
 
         rb.linearVelocity = direction * speed; // Fixed: Use 'velocity', not 'linearVelocity'
+
+
     }
 
     void Update()
     {
         float angle = Mathf.Atan2(rb.linearVelocity.y, rb.linearVelocity.x) * Mathf.Rad2Deg;
         transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+
+        if (isFired)
+        {
+            lifetime += Time.deltaTime;
+
+        }
+        if (lifetime > 2f)
+        {
+            Destroy(gameObject);
+        }
     }
 }
