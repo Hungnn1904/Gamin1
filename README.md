@@ -37,4 +37,6 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 
 9h50 -- 19/3/2025: Chỉnh sửa font cho dialog và hoàn thiện cơ chế tương tác
 
-3h49 - đặt vào item vũ khí(không cho vào ô slot inventory), hoàn thiện cơ chế bắn đạn
+15h49 - 19/3/2025: đặt vào item vũ khí(không cho vào ô slot inventory), hoàn thiện cơ chế bắn đạn
+
+15h29 - 3/4/2025: Viết thêm các cơ chế cho các loại súng, thiết lập objectpooling (vẫn bị lỗi đạn vừa xuất hiện đã biến mất, sẽ sửa sau)
