@@ -3,73 +3,70 @@ using UnityEngine.UI;
 
 public class Weapons : MonoBehaviour
 {
-    [SerializeField] private string itemName; // Weapon name
-    [SerializeField] private Sprite weaponSprite; // Weapon image
-    [SerializeField] private Image weaponSlotUI; // UI Image for inventory slot
+    [SerializeField] private string itemName; // Tên vũ khí
+    [SerializeField] private Sprite weaponSprite; // Hình ảnh vũ khí
+    [SerializeField] private Image weaponSlotUI; // UI hiển thị vũ khí
 
-    [SerializeField] private SpriteRenderer playerWeaponSprite; // 👈 New: SpriteRenderer for the weapon on Player
+    [SerializeField] private SpriteRenderer playerWeaponSprite; // SpriteRenderer trên nhân vật
 
-    [Header("Weapon Type (Only check one)")]
-    [SerializeField] private bool isPistol;
-    [SerializeField] private bool isRifle;
-    [SerializeField] private bool isShotgun;
+    [Header("Weapon Script")]
+    [SerializeField] private MonoBehaviour weaponScript; // Gán script vũ khí qua Inspector
 
-    private static Weapons currentWeapon; // Store current weapon
+    private static Weapons currentWeapon; // Lưu vũ khí hiện tại
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            if (weaponSlotUI == null || playerWeaponSprite == null)
+            if (weaponSlotUI == null || playerWeaponSprite == null || weaponScript == null)
             {
-                Debug.LogError("[Weapons] weaponSlotUI or playerWeaponSprite is not assigned!");
+                Debug.LogError("[Weapons] weaponSlotUI, playerWeaponSprite hoặc weaponScript chưa được gán!");
                 return;
             }
 
-            // Remove old weapon
-            if (currentWeapon != null)
-            {
-                Destroy(currentWeapon.gameObject);
-                Debug.Log($"[Weapons] {currentWeapon.itemName} removed.");
-            }
+            // Vô hiệu hóa các script vũ khí cũ
+            DisableAllWeapons(collision.gameObject);
 
-            // Update UI slot
+            // Cập nhật UI
             weaponSlotUI.sprite = weaponSprite;
             weaponSlotUI.enabled = true;
 
-            // Update Player's weapon sprite 👇
+            // Cập nhật vũ khí trên nhân vật
             playerWeaponSprite.sprite = weaponSprite;
-            playerWeaponSprite.enabled = true; // Ensure it's visible
+            playerWeaponSprite.enabled = true;
 
-            // Adjust size & position if needed
-            UpdateWeaponUI(weaponSlotUI.rectTransform);
+            // Kích hoạt script vũ khí tương ứng
+            ActivateWeapon(collision.gameObject);
 
-            // Assign new weapon
+            // Lưu vũ khí mới
             currentWeapon = this;
 
-            Debug.Log($"[Weapons] {itemName} picked up and updated on player.");
+            Debug.Log($"[Weapons] {itemName} đã được nhặt.");
 
-            // Destroy weapon in game world
+            // Xóa vũ khí trên bản đồ
             Destroy(gameObject);
         }
     }
 
-    private void UpdateWeaponUI(RectTransform uiTransform)
+    // Vô hiệu hóa tất cả các script vũ khí của nhân vật
+    private void DisableAllWeapons(GameObject player)
     {
-        if (isPistol)
+        var pistol = player.GetComponent<PistolGun>();
+        var rifle = player.GetComponent<Rifle>();
+        var shotgun = player.GetComponent<Shotgun>();
+
+        if (pistol != null) pistol.enabled = false;
+        if (rifle != null) rifle.enabled = false;
+        if (shotgun != null) shotgun.enabled = false;
+    }
+
+    // Kích hoạt script vũ khí đã gán qua Inspector
+    private void ActivateWeapon(GameObject player)
+    {
+        if (weaponScript != null)
         {
-            uiTransform.anchoredPosition = new Vector2(-90, 0);
-            uiTransform.sizeDelta = new Vector2(100, 100);
-        }
-        else if (isRifle)
-        {
-            uiTransform.anchoredPosition = new Vector2(-50, 0);
-            uiTransform.sizeDelta = new Vector2(250, 100);
-        }
-        else if (isShotgun)
-        {
-            uiTransform.anchoredPosition = new Vector2(-30, 0);
-            uiTransform.sizeDelta = new Vector2(300, 100);
+            weaponScript.enabled = true; // Kích hoạt vũ khí đã gán
+            Debug.Log($"[Weapons] {weaponScript.GetType().Name} activated.");
         }
     }
 }

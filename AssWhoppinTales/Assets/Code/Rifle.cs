@@ -1,9 +1,9 @@
 using UnityEngine;
 
-public class PistolGun : MonoBehaviour
+public class Rifle : MonoBehaviour
 {
     public Transform bulletSpawnPoint;
-    public float fireRate = 0.5f;
+    public float fireRate = 0.167f; // Fast fire rate (3x Pistol)
     private float nextFireTime = 0f;
 
     void Awake()
@@ -13,13 +13,14 @@ public class PistolGun : MonoBehaviour
 
     void Update()
     {
-        if (!this.enabled) return;
-
-        UpdateGunDirection();
-
-        if (Input.GetButtonDown("Fire1"))
+        if (this.enabled)
         {
-            TryShoot();
+            UpdateGunDirection();
+
+            if (Input.GetButton("Fire1"))
+            {
+                TryShoot();
+            }
         }
     }
 
@@ -34,8 +35,8 @@ public class PistolGun : MonoBehaviour
 
     void UpdateGunDirection()
     {
-        Vector2 direction = GetMouseDirection().normalized;
-        transform.up = direction;
+        Vector2 direction = GetMouseDirection();
+        transform.right = direction;
     }
 
     Vector2 GetMouseDirection()
@@ -49,7 +50,7 @@ public class PistolGun : MonoBehaviour
     {
         GameObject bullet = BulletPool.Instance.GetBullet();
         bullet.transform.position = bulletSpawnPoint.position;
-        bullet.transform.rotation = Quaternion.identity;
-        bullet.GetComponent<Rigidbody2D>().linearVelocity = GetMouseDirection().normalized * 10f;
+        bullet.GetComponent<Bullets>().SetDirection(GetMouseDirection());
+        bullet.SetActive(true);
     }
 }

@@ -3,63 +3,46 @@ using UnityEngine;
 public class Bullets : MonoBehaviour
 {
     private Rigidbody2D rb;
-    public float speed;
     private Vector2 direction;
-    private float lifetime;
+    private float speed = 10f;
+    private float lifetime = 20f;
+    private float timeAlive = 0f;
 
-    private bool isFired;
-
-    public void setLifeTime()
-    {
-        lifetime = 0;
-        isFired = true;
-
-    }
     void Awake()
     {
-        isFired = false;
         rb = GetComponent<Rigidbody2D>();
+        gameObject.SetActive(false); // Ensure bullet is inactive when not in use
+    }
 
-        // Get the Gun object
-        GameObject gunObject = GameObject.FindWithTag("Gun");
-
-        if (gunObject != null)
-        {
-            PistolGun gun = gunObject.GetComponent<PistolGun>();
-            if (gun != null)
-            {
-                direction = gun.direction.normalized;
-            }
-            else
-            {
-                Debug.LogError("[Bullets] Gun script not found on the object with tag 'Gun'!");
-                return;
-            }
-        }
-        else
-        {
-            Debug.LogError("[Bullets] No object found with tag 'Gun'!");
-            return;
-        }
-
-        rb.linearVelocity = direction * speed; // Fixed: Use 'velocity', not 'linearVelocity'
-
-
+    public void SetDirection(Vector2 dir)
+    {
+        direction = dir.normalized;
+        rb.linearVelocity = direction * speed;
+        timeAlive = 0f; // Reset lifetime when bullet is fired
     }
 
     void Update()
     {
-        float angle = Mathf.Atan2(rb.linearVelocity.y, rb.linearVelocity.x) * Mathf.Rad2Deg;
-        transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
-
-        if (isFired)
+        if (timeAlive < lifetime)
         {
-            lifetime += Time.deltaTime;
-
+            timeAlive += Time.deltaTime; // Tăng thời gian sống
         }
-        if (lifetime > 2f)
+        else
         {
-            Destroy(gameObject);
+            DeactivateBullet(); // Nếu hết thời gian sống, vô hiệu hóa đạn
+        }
+    }
+
+    void DeactivateBullet()
+    {
+        gameObject.SetActive(false);
+    }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (!collision.CompareTag("Player"))
+        {
+            DeactivateBullet();
         }
     }
 }

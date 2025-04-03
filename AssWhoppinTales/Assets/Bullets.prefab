@@ -12,10 +12,10 @@ GameObject:
   - component: {fileID: 6479350020492736645}
   - component: {fileID: 6333309122771866716}
   - component: {fileID: 59186645010936575}
-  - component: {fileID: -9012820832119689745}
-  m_Layer: 0
+  - component: {fileID: -4648589173417333150}
+  m_Layer: 7
   m_Name: Bullets
-  m_TagString: Untagged
+  m_TagString: Gun
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30,7 +30,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
   m_LocalPosition: {x: 44.408, y: -36.078, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -78,7 +78,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 846477603
   m_SortingLayer: 7
-  m_SortingOrder: 0
+  m_SortingOrder: 10
   m_Sprite: {fileID: -2652133911391862278, guid: e87a07e233a05c34490e4689f8beada8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -163,7 +163,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &-9012820832119689745
+--- !u!114 &-4648589173417333150
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -175,4 +175,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45fd7a3598c20284faf3b9c263cb6c1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 20
