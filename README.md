@@ -40,3 +40,5 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 15h49 - 19/3/2025: đặt vào item vũ khí(không cho vào ô slot inventory), hoàn thiện cơ chế bắn đạn
 
 15h29 - 3/4/2025: Viết thêm các cơ chế cho các loại súng, thiết lập objectpooling (vẫn bị lỗi đạn vừa xuất hiện đã biến mất, sẽ sửa sau)
+
+5/7/2025 - 22h39: sửa cơ chế bắn đạn. xong
