@@ -972,7 +972,7 @@ GameObject:
   - component: {fileID: 115902553}
   m_Layer: 7
   m_Name: Shotgun
-  m_TagString: Untagged
+  m_TagString: Gun
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -56188,7 +56188,7 @@ GameObject:
   - component: {fileID: 1096547292}
   m_Layer: 7
   m_Name: Pistol
-  m_TagString: Untagged
+  m_TagString: Gun
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -56805,7 +56805,7 @@ GameObject:
   - component: {fileID: 1183137772}
   m_Layer: 7
   m_Name: Rifle
-  m_TagString: Untagged
+  m_TagString: Gun
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

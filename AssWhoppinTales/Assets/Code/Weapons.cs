@@ -31,9 +31,10 @@ public class Weapons : MonoBehaviour
             weaponSlotUI.sprite = weaponSprite;
             weaponSlotUI.enabled = true;
 
-            // Cập nhật vũ khí trên nhân vật
-            playerWeaponSprite.sprite = weaponSprite;
-            playerWeaponSprite.enabled = true;
+            // Cập nhật vũ khí trên nhân vật (reset sprite trước khi gán mới)
+            playerWeaponSprite.enabled = false; // Tắt sprite hiện tại để thay đổi
+            playerWeaponSprite.sprite = weaponSprite; // Gán sprite mới
+            playerWeaponSprite.enabled = true; // Bật lại sprite mới
 
             // Kích hoạt script vũ khí tương ứng
             ActivateWeapon(collision.gameObject);
@@ -51,13 +52,17 @@ public class Weapons : MonoBehaviour
     // Vô hiệu hóa tất cả các script vũ khí của nhân vật
     private void DisableAllWeapons(GameObject player)
     {
-        var pistol = player.GetComponent<PistolGun>();
-        var rifle = player.GetComponent<Rifle>();
-        var shotgun = player.GetComponent<Shotgun>();
+        // Disable all weapon scripts dynamically using GetComponents<MonoBehaviour>
+        var weaponScripts = player.GetComponents<MonoBehaviour>();
 
-        if (pistol != null) pistol.enabled = false;
-        if (rifle != null) rifle.enabled = false;
-        if (shotgun != null) shotgun.enabled = false;
+        foreach (var script in weaponScripts)
+        {
+            if (script is PistolGun || script is Rifle || script is Shotgun)
+            {
+                script.enabled = false;
+                Debug.Log($"[Weapons] Disabled {script.GetType().Name}.");
+            }
+        }
     }
 
     // Kích hoạt script vũ khí đã gán qua Inspector
