@@ -42,3 +42,5 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 15h29 - 3/4/2025: Viết thêm các cơ chế cho các loại súng, thiết lập objectpooling (vẫn bị lỗi đạn vừa xuất hiện đã biến mất, sẽ sửa sau)
 
 5/7/2025 - 22h39: sửa cơ chế bắn đạn. xong
+
+8/5/2025 -5:39: thiết kế xong tutorial stage
