@@ -44,3 +44,5 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 5/7/2025 - 22h39: sửa cơ chế bắn đạn. xong
 
 8/5/2025 -5:39: thiết kế xong tutorial stage
+
+11/5/2025 - 4:41: thiết kế xong stage 1 ruincity, add thêm vài maptile vào game asset
