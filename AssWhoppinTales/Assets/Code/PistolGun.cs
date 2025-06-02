@@ -1,4 +1,5 @@
 using UnityEngine;
+using TMPro;
 
 public class PistolGun : MonoBehaviour
 {
@@ -6,9 +7,27 @@ public class PistolGun : MonoBehaviour
     public float fireRate = 0.5f;
     private float nextFireTime = 0f;
 
+    [Header("Ammo")]
+    public int maxAmmo = 7;
+    private int currentAmmo;
+
+    [Header("UI")]
+    public TextMeshProUGUI ammoText;
+
     void Awake()
     {
-        this.enabled = false; // Disable script at start
+        this.enabled = false; // Bắt đầu inactive
+    }
+
+    void OnEnable()
+    {
+        currentAmmo = maxAmmo;
+        UpdateAmmoUI();
+    }
+
+    void OnDisable()
+    {
+        ResetAmmoUI();
     }
 
     void Update()
@@ -25,11 +44,32 @@ public class PistolGun : MonoBehaviour
 
     void TryShoot()
     {
-        if (Time.time >= nextFireTime)
+        if (Time.time >= nextFireTime && currentAmmo > 0)
         {
             Shoot();
+            currentAmmo--;
+            UpdateAmmoUI();
             nextFireTime = Time.time + fireRate;
+
+            if (currentAmmo <= 0)
+            {
+                this.enabled = false; // Tắt khi hết đạn
+                ResetAmmoUI();
+                Debug.Log("[PistolGun] Hết đạn, tắt súng.");
+            }
         }
+    }
+
+    void UpdateAmmoUI()
+    {
+        if (ammoText != null)
+            ammoText.text = $"{currentAmmo}/{maxAmmo}";
+    }
+
+    void ResetAmmoUI()
+    {
+        if (ammoText != null)
+            ammoText.text = "-/-";
     }
 
     void UpdateGunDirection()
@@ -51,5 +91,6 @@ public class PistolGun : MonoBehaviour
         bullet.transform.position = bulletSpawnPoint.position;
         bullet.transform.rotation = Quaternion.identity;
         bullet.GetComponent<Rigidbody2D>().linearVelocity = GetMouseDirection().normalized * 10f;
+        bullet.SetActive(true);
     }
 }

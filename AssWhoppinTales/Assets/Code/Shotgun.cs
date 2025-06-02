@@ -1,38 +1,78 @@
 using UnityEngine;
+using TMPro;
 
 public class Shotgun : MonoBehaviour
 {
     public Transform bulletSpawnPoint;
     public float fireRate = 1.0f;
     private float nextFireTime = 0f;
+
     public int pelletCount = 6;
     public float spreadAngle = 30f;
 
+    [Header("Ammo")]
+    public int maxAmmo = 2;
+    private int currentAmmo;
+
+    [Header("UI")]
+    public TextMeshProUGUI ammoText;
+
     void Awake()
     {
-        this.enabled = false; // Disable script at start
+        this.enabled = false; // Bắt đầu inactive
+    }
+
+    void OnEnable()
+    {
+        currentAmmo = maxAmmo;
+        UpdateAmmoUI();
+    }
+
+    void OnDisable()
+    {
+        ResetAmmoUI();
     }
 
     void Update()
     {
-        if (this.enabled)
-        {
-            UpdateGunDirection();
+        if (!this.enabled) return;
 
-            if (Input.GetButtonDown("Fire1"))
-            {
-                TryShoot();
-            }
+        UpdateGunDirection();
+
+        if (Input.GetButtonDown("Fire1"))
+        {
+            TryShoot();
         }
     }
 
     void TryShoot()
     {
-        if (Time.time >= nextFireTime)
+        if (Time.time >= nextFireTime && currentAmmo > 0)
         {
             Shoot();
+            currentAmmo--;
+            UpdateAmmoUI();
             nextFireTime = Time.time + fireRate;
+
+            if (currentAmmo <= 0)
+            {
+                this.enabled = false; // Tắt khi hết đạn
+                ResetAmmoUI();
+                Debug.Log("[Shotgun] Hết đạn, tắt súng.");
+            }
         }
+    }
+
+    void UpdateAmmoUI()
+    {
+        if (ammoText != null)
+            ammoText.text = $"{currentAmmo}/{maxAmmo}";
+    }
+
+    void ResetAmmoUI()
+    {
+        if (ammoText != null)
+            ammoText.text = "-/-";
     }
 
     void UpdateGunDirection()

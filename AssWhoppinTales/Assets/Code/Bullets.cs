@@ -4,29 +4,29 @@ public class Bullets : MonoBehaviour
 {
     private Rigidbody2D rb;
     private Vector2 direction;
-    private float speed = 10f;
-    private float lifetime = 10f; // sống 10 giây
+    public float speed = 30f;
+
+    private float lifetime = 10f;
     private float timeAlive = 0f;
 
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        gameObject.SetActive(false); // Đảm bảo đạn tắt khi khởi tạo
+        // KHÔNG tắt gameObject ở đây!
     }
 
     public void SetDirection(Vector2 dir)
     {
         direction = dir.normalized;
-        rb.linearVelocity = direction * speed; // Sử dụng velocity thay vì linearVelocity
+        rb.WakeUp(); // Đảm bảo Rigidbody không bị sleep
+        rb.linearVelocity = direction * speed;
         timeAlive = 0f;
 
-        // Lấy tất cả các viên đạn trong scene và tránh va chạm giữa chúng
         Bullets[] bullets = FindObjectsOfType<Bullets>();
         foreach (var bullet in bullets)
         {
-            if (bullet != this) // Tránh va chạm với chính nó
+            if (bullet != this)
             {
-                // Tắt va chạm giữa viên đạn hiện tại và tất cả các viên đạn khác
                 Physics2D.IgnoreCollision(this.GetComponent<Collider2D>(), bullet.GetComponent<Collider2D>(), true);
             }
         }
@@ -35,10 +35,9 @@ public class Bullets : MonoBehaviour
     void Update()
     {
         timeAlive += Time.deltaTime;
-
         if (timeAlive >= lifetime)
         {
-            DeactivateBullet(); // Sau 10 giây thì tắt đạn
+            DeactivateBullet();
         }
     }
 
@@ -46,6 +45,4 @@ public class Bullets : MonoBehaviour
     {
         BulletPool.Instance.ReturnBullet(this.gameObject);
     }
-
-    // Bỏ hoàn toàn hàm OnTriggerEnter2D nếu không cần xử lý va chạm
 }

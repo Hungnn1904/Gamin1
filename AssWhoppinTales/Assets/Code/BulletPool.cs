@@ -41,6 +41,7 @@ public class BulletPool : MonoBehaviour
 
     public void ReturnBullet(GameObject bullet)
     {
+        bullet.GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero; // Reset velocity
         bullet.SetActive(false);
         bulletPool.Enqueue(bullet);
     }
