@@ -48,3 +48,5 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 11/5/2025 - 4:41: thiết kế xong stage 1 ruincity, add thêm vài maptile vào game asset
 
 10:50 - 2/6/2025: Làm thêm giao diện súng,... mai làm kẻ địch với consumable.
+
+3j55 - 3/6/2025: Tạo cơ chế chính cho tất cả các kẻ didhcj, h làm kể địch mới chỉ cần thay spite và thêm code đặc trung, các code di chuyển và chueyern trạng thái đã có, code chuyển trạng thái bị lỗi
