@@ -21,8 +21,17 @@ public class Items : MonoBehaviour
             if (inventoryManager != null)
             {
                 Debug.Log("Gửi item đến inventory: " + itemName + ", Sprite: " + (sprite != null ? sprite.name : "null"));
-                inventoryManager.AddItem(itemName, sprite);
-                Destroy(gameObject);
+
+                // ✅ Chỉ xóa object nếu thêm thành công
+                bool added = inventoryManager.AddItem(itemName, sprite);
+                if (added)
+                {
+                    Destroy(gameObject);
+                }
+                else
+                {
+                    Debug.Log("Item trùng, không xóa khỏi map.");
+                }
             }
             else
             {
