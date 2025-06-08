@@ -52,3 +52,5 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 3h55 - 3/6/2025: Tạo cơ chế chính cho tất cả các kẻ didhcj, h làm kể địch mới chỉ cần thay spite và thêm code đặc trung, các code di chuyển và chueyern trạng thái đã có, code chuyển trạng thái bị lỗi
 
 6h - 8/6/2025: tạo maptiles, chỉnh sửa và thiết kế xong stage 2 và 3 cho project
+
+8h42 - 8/8/2025:   Xong cơ chế kẻ địch cơ bản, những kẻ địch sau chỉ cần sciprt khả năng đặc biệt, súng có cơ chế vô hạn đạn theo power up, monent có tính năng x2 tốc dộ theo powerup, có tính năng bất tử theo powerup, để trạng thái player chết là dừng game để làm sau, quái có thể chết sau 1 viên đạn, có poweup manager là bộ đếm 30s khi nhận ra có powerup, để trong object trống và gắn sciprt vào.
