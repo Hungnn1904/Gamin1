@@ -4,14 +4,25 @@ public class UiController : MonoBehaviour
 {
     public GameObject menuCanvas;
     public GameObject hudCanvas;
-    public Slot[] inventorySlots; // Inventory slots
-    public Slot[] hudSlots; // HUD slots
+    public Slot[] inventorySlots;
+    public Slot[] hudSlots;
+
+    private string[] powerUpTypes; // Store power-up type for each slot
+    private PowerUpManager powerUpManager;
 
     void Start()
     {
         menuCanvas.SetActive(false);
         hudCanvas.SetActive(true);
         Time.timeScale = 1f;
+
+        powerUpTypes = new string[inventorySlots.Length];
+        for (int i = 0; i < powerUpTypes.Length; i++)
+        {
+            powerUpTypes[i] = "None";
+        }
+
+        powerUpManager = PowerUpManager.Instance;
     }
 
     void Update()
@@ -29,32 +40,29 @@ public class UiController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Alpha3)) UseItem(2);
     }
 
-    // ✅ Đổi từ void -> bool
     public bool AddItem(string itemName, Sprite itemSprite)
     {
-        // Kiểm tra trùng item theo tên
         foreach (Slot slot in inventorySlots)
         {
             if (slot.isFull && slot.itemName == itemName)
             {
                 Debug.Log("Item already exists in inventory: " + itemName);
-                return false; // Không thêm nếu trùng
+                return false;
             }
         }
 
-        // Tìm slot trống để thêm
         for (int i = 0; i < inventorySlots.Length; i++)
         {
             if (!inventorySlots[i].isFull)
             {
                 inventorySlots[i].AddItem(itemName, itemSprite);
                 hudSlots[i].AddItem(itemName, itemSprite);
-                return true; // Thêm thành công
+                return true;
             }
         }
 
         Debug.Log("Inventory is full! Cannot pick up: " + itemName);
-        return false; // Không thêm được
+        return false;
     }
 
     public void RemoveItem(int slotIndex)
@@ -63,6 +71,7 @@ public class UiController : MonoBehaviour
         {
             inventorySlots[slotIndex].ClearSlot();
             hudSlots[slotIndex].ClearSlot();
+            powerUpTypes[slotIndex] = "None";
         }
     }
 
@@ -70,8 +79,25 @@ public class UiController : MonoBehaviour
     {
         if (slotIndex < inventorySlots.Length && inventorySlots[slotIndex].isFull)
         {
-            Debug.Log("Used item: " + inventorySlots[slotIndex].itemName);
+            string itemName = inventorySlots[slotIndex].itemName;
+            string powerUpType = powerUpTypes[slotIndex];
+            Debug.Log($"Used item: {itemName} with power-up: {powerUpType}");
+
+            if (powerUpType != "None" && powerUpManager != null)
+            {
+                powerUpManager.ActivatePowerUp(powerUpType);
+            }
+
             RemoveItem(slotIndex);
+        }
+    }
+
+    public void SetPowerUpType(int slotIndex, string powerUpType)
+    {
+        if (slotIndex >= 0 && slotIndex < powerUpTypes.Length)
+        {
+            powerUpTypes[slotIndex] = powerUpType;
+            Debug.Log($"[UiController] Slot {slotIndex} set to power-up: {powerUpType}");
         }
     }
 }

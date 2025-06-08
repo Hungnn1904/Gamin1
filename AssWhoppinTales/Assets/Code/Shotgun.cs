@@ -13,13 +13,14 @@ public class Shotgun : MonoBehaviour
     [Header("Ammo")]
     public int maxAmmo = 2;
     private int currentAmmo;
+    private bool infiniteAmmo;
 
     [Header("UI")]
     public TextMeshProUGUI ammoText;
 
     void Awake()
     {
-        this.enabled = false; // Bắt đầu inactive
+        this.enabled = false;
     }
 
     void OnEnable()
@@ -47,26 +48,28 @@ public class Shotgun : MonoBehaviour
 
     void TryShoot()
     {
-        if (Time.time >= nextFireTime && currentAmmo > 0)
+        if (Time.time >= nextFireTime && (infiniteAmmo || currentAmmo > 0))
         {
             Shoot();
-            currentAmmo--;
-            UpdateAmmoUI();
-            nextFireTime = Time.time + fireRate;
-
-            if (currentAmmo <= 0)
+            if (!infiniteAmmo)
             {
-                this.enabled = false; // Tắt khi hết đạn
-                ResetAmmoUI();
-                Debug.Log("[Shotgun] Hết đạn, tắt súng.");
+                currentAmmo--;
+                UpdateAmmoUI();
+                if (currentAmmo <= 0)
+                {
+                    this.enabled = false;
+                    ResetAmmoUI();
+                    Debug.Log("[Shotgun] Hết đạn, tắt súng.");
+                }
             }
+            nextFireTime = Time.time + fireRate;
         }
     }
 
     void UpdateAmmoUI()
     {
         if (ammoText != null)
-            ammoText.text = $"{currentAmmo}/{maxAmmo}";
+            ammoText.text = infiniteAmmo ? "∞/∞" : $"{currentAmmo}/{maxAmmo}";
     }
 
     void ResetAmmoUI()
@@ -105,5 +108,11 @@ public class Shotgun : MonoBehaviour
             bullet.GetComponent<Rigidbody2D>().linearVelocity = shotDirection * 8f;
             bullet.SetActive(true);
         }
+    }
+
+    public void SetInfiniteAmmo(bool enabled)
+    {
+        infiniteAmmo = enabled;
+        UpdateAmmoUI();
     }
 }

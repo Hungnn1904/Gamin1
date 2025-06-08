@@ -3,7 +3,7 @@ using UnityEngine;
 public class BasicZombie : MonoBehaviour
 {
     public float patrolSpeed = 3f;
-    public float chaseSpeed = 6f; // nhanh gấp đôi
+    public float chaseSpeed = 6f;
     public float chaseDuration = 10f;
 
     private Rigidbody2D rb;
@@ -14,14 +14,15 @@ public class BasicZombie : MonoBehaviour
     public State currentState = State.Patrol;
 
     private Transform player;
+    private PowerUpManager powerUpManager;
 
-    // Public getter cho moveDirection và player
     public Vector2 MoveDirection => moveDirection;
     public Transform Player => player;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        powerUpManager = PowerUpManager.Instance;
         ChooseRandomDirection();
     }
 
@@ -46,7 +47,6 @@ public class BasicZombie : MonoBehaviour
                 chaseTimer -= Time.fixedDeltaTime;
                 if (chaseTimer <= 0)
                 {
-                    // Quay về trạng thái Patrol
                     currentState = State.Patrol;
                     ChooseRandomDirection();
                 }
@@ -56,14 +56,28 @@ public class BasicZombie : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (currentState == State.Patrol)
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            if (powerUpManager != null && !powerUpManager.IsInvincible)
+            {
+                Debug.Log("[Zombie] Collided with Player! Game Over!");
+                Time.timeScale = 0f;
+            }
+            else
+            {
+                Debug.Log("[Zombie] Player is invincible, no game over!");
+            }
+        }
+        else if (currentState == State.Patrol || currentState == State.Chase)
         {
             BounceAway();
         }
-        else
-        {
-            BounceAway();
-        }
+    }
+
+    public void Die()
+    {
+        Debug.Log($"[Zombie] {gameObject.name} destroyed!");
+        Destroy(gameObject);
     }
 
     void ChooseRandomDirection()
@@ -81,7 +95,6 @@ public class BasicZombie : MonoBehaviour
         moveDirection = new Vector2(Mathf.Cos(radians), Mathf.Sin(radians)).normalized;
     }
 
-    // Hàm để PlayerAwareness gọi khi phát hiện player
     public void StartChasing(Transform playerTransform)
     {
         player = playerTransform;
@@ -89,7 +102,6 @@ public class BasicZombie : MonoBehaviour
         chaseTimer = chaseDuration;
     }
 
-    // Hàm để PlayerAwareness gọi khi mất dấu player
     public void StopChasing()
     {
         player = null;

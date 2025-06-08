@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Item
   - Gun
+  - Enemies
+  - Collision
   layers:
   - Default
   - TransparentFX
@@ -69,6 +71,9 @@ TagManager:
     locked: 0
   - name: decor
     uniqueID: 3832466435
+    locked: 0
+  - name: enemies
+    uniqueID: 1886026839
     locked: 0
   m_RenderingLayers:
   - Default

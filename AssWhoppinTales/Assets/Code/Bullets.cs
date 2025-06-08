@@ -12,13 +12,12 @@ public class Bullets : MonoBehaviour
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        // KHÔNG tắt gameObject ở đây!
     }
 
     public void SetDirection(Vector2 dir)
     {
         direction = dir.normalized;
-        rb.WakeUp(); // Đảm bảo Rigidbody không bị sleep
+        rb.WakeUp();
         rb.linearVelocity = direction * speed;
         timeAlive = 0f;
 
@@ -37,6 +36,20 @@ public class Bullets : MonoBehaviour
         timeAlive += Time.deltaTime;
         if (timeAlive >= lifetime)
         {
+            DeactivateBullet();
+        }
+    }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Enemies"))
+        {
+            BasicZombie zombie = collision.gameObject.GetComponent<BasicZombie>();
+            if (zombie != null)
+            {
+                zombie.Die();
+                Debug.Log($"[Bullets] Zombie {collision.gameObject.name} destroyed!");
+            }
             DeactivateBullet();
         }
     }

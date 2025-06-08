@@ -2,20 +2,25 @@ using UnityEngine;
 
 public class PlayerAwareness : MonoBehaviour
 {
-    public float viewAngle = 45f; // Góc nhìn 45 độ mỗi bên → hình nón 90 độ
+    public float viewAngle = 45f;
     public float viewDistance = 10f;
-    public LayerMask obstacleMask; // Layer của các vật cản như tường, cây cối,...
-    public LayerMask playerMask;   // Layer của player
+    public LayerMask obstacleMask;
+    public LayerMask playerMask;
 
     private BasicZombie basicZombie;
     private Transform player;
+    private Collider2D selfCollider;
 
     void Start()
     {
         basicZombie = GetComponent<BasicZombie>();
+        selfCollider = GetComponent<Collider2D>();
+
         GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
         if (playerObj != null)
             player = playerObj.transform;
+        else
+            Debug.LogError("[ERROR] Player not found! Ensure Player has tag 'Player'.");
     }
 
     void Update()
@@ -25,57 +30,67 @@ public class PlayerAwareness : MonoBehaviour
         Vector2 directionToPlayer = (player.position - transform.position).normalized;
         float distanceToPlayer = Vector2.Distance(transform.position, player.position);
 
+        Debug.DrawRay(transform.position, directionToPlayer * viewDistance, Color.red);
+
         if (distanceToPlayer <= viewDistance)
         {
-            Vector2 forward = Vector2.zero;
+            Vector2 facingDirection = transform.right; // Hướng zombie đang nhìn
+            float angleBetween = Vector2.Angle(facingDirection, directionToPlayer);
 
-            if (basicZombie.currentState == BasicZombie.State.Patrol)
-                forward = basicZombie.MoveDirection;
-            else
-                forward = (player.position - transform.position).normalized;
-
-            float angleBetween = Vector2.Angle(forward, directionToPlayer);
-            if (angleBetween <= viewAngle)
+            if (angleBetween <= viewAngle * 0.5f)
             {
-                // Kiểm tra vật cản giữa enemy và player
-                RaycastHit2D obstacleHit = Physics2D.Raycast(transform.position, directionToPlayer, distanceToPlayer, obstacleMask);
-                RaycastHit2D playerHit = Physics2D.Raycast(transform.position, directionToPlayer, distanceToPlayer, playerMask);
+                RaycastHit2D[] hits = Physics2D.RaycastAll(transform.position, directionToPlayer, distanceToPlayer, playerMask | obstacleMask);
 
-                // Nếu player được raycast trúng trước và không bị vật cản chặn
-                if (playerHit.collider != null && (obstacleHit.collider == null || playerHit.distance < obstacleHit.distance))
+                bool playerDetected = false;
+                float nearestObstacleDistance = Mathf.Infinity;
+
+                foreach (var hit in hits)
                 {
+                    if (hit.collider == selfCollider) continue;
+
+                    if (((1 << hit.collider.gameObject.layer) & obstacleMask) != 0)
+                    {
+                        if (hit.distance < nearestObstacleDistance)
+                            nearestObstacleDistance = hit.distance;
+                    }
+                    else if (((1 << hit.collider.gameObject.layer) & playerMask) != 0)
+                    {
+                        if (hit.distance < nearestObstacleDistance)
+                        {
+                            playerDetected = true;
+                            break;
+                        }
+                    }
+                }
+
+                if (playerDetected)
+                {
+                    Debug.Log("[INFO] Player spotted! Start chasing!");
                     basicZombie.StartChasing(player);
                     return;
                 }
             }
         }
 
-        // Nếu không phát hiện player, gọi dừng đuổi
         if (basicZombie.currentState == BasicZombie.State.Chase)
         {
+            Debug.Log("[INFO] Lost sight of player. Stop chasing.");
             basicZombie.StopChasing();
         }
     }
 
-    void OnDrawGizmosSelected()
+    void OnDrawGizmos()
     {
+        if (player == null) return;
+
+        Vector2 facingDirection = transform.right;
+        float halfAngle = viewAngle * 0.5f;
+
+        Vector2 leftRay = Quaternion.Euler(0, 0, -halfAngle) * facingDirection;
+        Vector2 rightRay = Quaternion.Euler(0, 0, halfAngle) * facingDirection;
+
         Gizmos.color = Color.yellow;
-        Vector3 pos = transform.position;
-        Vector3 forward = Vector3.right; // mặc định hướng mặt phải
-
-        if (Application.isPlaying)
-        {
-            if (basicZombie != null)
-            {
-                if (basicZombie.currentState == BasicZombie.State.Patrol)
-                    forward = basicZombie.MoveDirection;
-                else if (basicZombie.currentState == BasicZombie.State.Chase && basicZombie.Player != null)
-                    forward = (basicZombie.Player.position - transform.position).normalized;
-            }
-        }
-
-        Gizmos.DrawRay(pos, Quaternion.Euler(0, 0, viewAngle) * forward * viewDistance);
-        Gizmos.DrawRay(pos, Quaternion.Euler(0, 0, -viewAngle) * forward * viewDistance);
-        Gizmos.DrawWireSphere(pos, viewDistance);
+        Gizmos.DrawRay(transform.position, leftRay * viewDistance);
+        Gizmos.DrawRay(transform.position, rightRay * viewDistance);
     }
 }
