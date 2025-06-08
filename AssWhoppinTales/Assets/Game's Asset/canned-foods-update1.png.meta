@@ -139,6 +139,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -397,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      canned-foods-update1_0: 7795728021873878986
+      canned-foods-update1_1: 2715711338002047980
+      canned-foods-update1_10: -1304654786682058697
+      canned-foods-update1_2: 3051225608121651276
+      canned-foods-update1_3: 852880347941386124
+      canned-foods-update1_4: 7775835717833923627
+      canned-foods-update1_5: 3712435863251207497
+      canned-foods-update1_6: -5352687509314079172
+      canned-foods-update1_7: 4737217549951737081
+      canned-foods-update1_8: 2302886922802497580
+      canned-foods-update1_9: 5625847750132217578
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
