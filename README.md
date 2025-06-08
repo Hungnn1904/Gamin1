@@ -49,4 +49,6 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 
 10:50 - 2/6/2025: Làm thêm giao diện súng,... mai làm kẻ địch với consumable.
 
-3j55 - 3/6/2025: Tạo cơ chế chính cho tất cả các kẻ didhcj, h làm kể địch mới chỉ cần thay spite và thêm code đặc trung, các code di chuyển và chueyern trạng thái đã có, code chuyển trạng thái bị lỗi
+3h55 - 3/6/2025: Tạo cơ chế chính cho tất cả các kẻ didhcj, h làm kể địch mới chỉ cần thay spite và thêm code đặc trung, các code di chuyển và chueyern trạng thái đã có, code chuyển trạng thái bị lỗi
+
+6h - 8/6/2025: tạo maptiles, chỉnh sửa và thiết kế xong stage 2 và 3 cho project
