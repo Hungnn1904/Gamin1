@@ -1,86 +1,141 @@
+// Nguồn file: Code/GameManager.cs
 using UnityEngine;
-using UnityEngine.SceneManagement; // Cần thiết để tải lại màn hình
+using UnityEngine.SceneManagement;
+using TMPro;
 
 public class GameManager : MonoBehaviour
 {
-    // Tạo Singleton pattern để có thể dễ dàng truy cập GameManager từ bất kỳ đâu
     public static GameManager Instance { get; private set; }
+    private bool isGameOver = false;
 
-    // Biến để lưu vị trí và xoay ban đầu của người chơi
-    // Chúng ta sẽ tìm người chơi bằng Tag "Player" ở Start()
-    private Vector3 initialPlayerPosition;
-    private Quaternion initialPlayerRotation;
+    // === PHẦN ĐÃ SỬA: Tách riêng 2 panel ===
+    [Header("UI Panels")]
+    public GameObject victoryPanel; // Panel hiển thị khi thắng
+    public GameObject gameOverPanel; // Panel hiển thị khi thua
 
-    private bool isGameOver = false; // Theo dõi trạng thái game over
+    [Header("In-Game UI")]
+    public TMP_Text scoreText;
+
+    [Header("Victory Scoreboard")]
+    public TMP_Text finalScoreText_Victory;
+    public TMP_Text highScoreText_Victory;
+    public TMP_Text enemiesDefeatedText_Victory;
+    public GameObject newRecordTextObject;
+
+    [Header("Game Over Scoreboard")]
+    public TMP_Text finalScoreText_GameOver;
+
+    // === Biến theo dõi chỉ số ===
+    private int score = 0;
+    private int enemyCount;
+    private int enemiesDefeatedCount = 0;
 
     void Awake()
     {
-        // Đảm bảo chỉ có một instance của GameManager tồn tại
-        if (Instance != null && Instance != this)
-        {
-            Destroy(gameObject); // Hủy nếu đã có instance khác
-        }
-        else
-        {
-            Instance = this; // Gán instance hiện tại
-            // Tùy chọn: Nếu GameManager cần tồn tại qua nhiều màn hình, hãy bỏ comment dòng dưới
-            // DontDestroyOnLoad(gameObject);
-        }
+        if (Instance != null && Instance != this) Destroy(gameObject);
+        else Instance = this;
     }
 
     void Start()
     {
-        // Tìm GameObject của người chơi và lưu vị trí, xoay ban đầu của nó
-        // Đảm bảo GameObject của người chơi có Tag là "Player" trong Unity Editor
-        GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
-        if (playerObj != null)
-        {
-            initialPlayerPosition = playerObj.transform.position;
-            initialPlayerRotation = playerObj.transform.rotation;
-            Debug.Log("[GameManager] Đã lưu vị trí ban đầu của người chơi.");
-        }
-        else
-        {
-            Debug.LogError("[GameManager] LỖI: Không tìm thấy GameObject của người chơi với tag 'Player' ở Start! Đảm bảo người chơi có tag 'Player' trong Unity Editor.");
-        }
-
-        // Đảm bảo Time.timeScale được đặt lại về 1 khi màn hình bắt đầu
         Time.timeScale = 1f;
-        isGameOver = false; // Reset trạng thái game over khi màn hình tải
+        isGameOver = false;
+
+        // Ẩn cả 2 panel khi bắt đầu
+        if (victoryPanel != null) victoryPanel.SetActive(false);
+        if (gameOverPanel != null) gameOverPanel.SetActive(false);
+        if (newRecordTextObject != null) newRecordTextObject.SetActive(false);
+
+        // Đếm kẻ địch
+        enemyCount = GameObject.FindGameObjectsWithTag("Enemies").Length;
+        Debug.Log("[GameManager] Số lượng kẻ địch ban đầu: " + enemyCount);
+        
+        UpdateScoreUI();
     }
 
-    void Update()
+    public void AddScore(int amount)
     {
-        // Nếu game đang ở trạng thái Game Over, lắng nghe phím 'R' để khởi động lại
-        if (isGameOver)
-        {
-            if (Input.GetKeyDown(KeyCode.R))
-            {
-                RestartLevel(); // Gọi phương thức khởi động lại màn hình
-            }
-        }
+        score += amount;
+        UpdateScoreUI();
     }
 
-    // Phương thức công khai này sẽ được gọi bởi các script kẻ địch khi người chơi bị hạ gục
+    // Được gọi khi người chơi bị hạ gục
     public void PlayerDied()
     {
-        // Chỉ xử lý nếu game chưa ở trạng thái Game Over
         if (!isGameOver)
         {
-            isGameOver = true; // Đặt trạng thái game over
-            Time.timeScale = 0f; // Dừng toàn bộ thời gian trong game
-            Debug.Log("[GameManager] GAME OVER! Người chơi đã bị hạ gục. Nhấn 'R' để khởi động lại.");
-            // Ở đây bạn có thể thêm mã để hiển thị UI "Game Over" (ví dụ: một Canvas với Text "Game Over - Press R to Restart")
+            isGameOver = true;
+            Debug.Log("[GameManager] GAME OVER!");
+            ShowGameOverScreen();
+        }
+    }
+    
+    // Được gọi khi tiêu diệt hết kẻ địch
+    public void EnemyDefeated()
+    {
+        enemyCount--;
+        enemiesDefeatedCount++; // Tăng số lượng kẻ địch đã hạ gục để hiển thị
+        Debug.Log("[GameManager] Kẻ địch bị hạ! Còn lại: " + enemyCount);
+
+        if (enemyCount <= 0 && !isGameOver)
+        {
+            isGameOver = true;
+            Debug.Log("[GameManager] Đã tiêu diệt hết kẻ địch! CHIẾN THẮNG!");
+            ShowVictoryScreen();
         }
     }
 
-    // Phương thức để tải lại màn hình hiện tại, đưa mọi thứ về trạng thái ban đầu
+    // === PHẦN MỚI: Hàm hiển thị màn hình chiến thắng ===
+    private void ShowVictoryScreen()
+    {
+        Time.timeScale = 0f;
+        if (victoryPanel != null) victoryPanel.SetActive(true);
+
+        // Cập nhật text trên bảng chiến thắng
+        if (finalScoreText_Victory != null) finalScoreText_Victory.text = "Score: " + score;
+        if (enemiesDefeatedText_Victory != null) enemiesDefeatedText_Victory.text = "Enemies Defeated: " + enemiesDefeatedCount;
+
+        // Kiểm tra và hiển thị điểm cao
+        int highScore = PlayerPrefs.GetInt("HighScore", 0);
+        if (score > highScore)
+        {
+            highScore = score;
+            PlayerPrefs.SetInt("HighScore", highScore);
+            if (newRecordTextObject != null) newRecordTextObject.SetActive(true);
+        }
+        if (highScoreText_Victory != null) highScoreText_Victory.text = "High Score: " + highScore;
+    }
+
+    // === PHẦN MỚI: Hàm hiển thị màn hình thua cuộc ===
+    private void ShowGameOverScreen()
+    {
+        Time.timeScale = 0f;
+        if (gameOverPanel != null) gameOverPanel.SetActive(true);
+        
+        // Cập nhật text trên bảng thua cuộc
+        if (finalScoreText_GameOver != null) finalScoreText_GameOver.text = "Final Score: " + score;
+    }
+
+    private void UpdateScoreUI()
+    {
+        if (scoreText != null) scoreText.text = "Score: " + score;
+    }
+
     public void RestartLevel()
     {
-        Time.timeScale = 1f; // Đảm bảo game tiếp tục chạy trước khi tải lại màn hình
-        // Tải lại màn hình hiện tại theo Build Index (đảm bảo màn hình của bạn đã được thêm vào Build Settings)
+        Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-        isGameOver = false; // Reset trạng thái game over sau khi khởi động lại
-        Debug.Log("[GameManager] Đã khởi động lại màn hình.");
+    }
+    
+    public void LoadNextLevel()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
+
+    public void LoadMainMenu()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("MainMenu"); // Thay "MainMenu" bằng tên Scene menu chính của bạn
     }
 }

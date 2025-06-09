@@ -1,3 +1,4 @@
+// Nguồn file: Code/BasicZombie.cs
 using UnityEngine;
 
 public class BasicZombie : MonoBehaviour
@@ -5,6 +6,9 @@ public class BasicZombie : MonoBehaviour
     public float patrolSpeed = 3f;
     public float chaseSpeed = 6f;
     public float chaseDuration = 10f;
+
+    // === DÒNG MỚI: Thêm biến điểm số ===
+    public int scoreValue = 10;
 
     private Rigidbody2D rb;
     private Vector2 moveDirection;
@@ -14,7 +18,7 @@ public class BasicZombie : MonoBehaviour
     public State currentState = State.Patrol;
 
     private Transform player;
-    private Counter counter; // Đã đổi từ PowerUpManager sang Counter
+    private Counter counter;
 
     public Vector2 MoveDirection => moveDirection;
     public Transform Player => player;
@@ -22,22 +26,18 @@ public class BasicZombie : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        counter = Counter.Instance; // Lấy instance của Counter
+        counter = Counter.Instance;
         ChooseRandomDirection();
 
-        // Tìm người chơi khi bắt đầu
         GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
         if (playerObj != null)
             player = playerObj.transform;
         else
-            Debug.LogError("[BasicZombie] LỖI: Không tìm thấy GameObject của người chơi với tag 'Player' ở Start! Đảm bảo người chơi có tag 'Player'.");
+            Debug.LogError("[BasicZombie] LỖI: Không tìm thấy GameObject của người chơi với tag 'Player' ở Start!");
     }
 
     void FixedUpdate()
     {
-        // Logic phát hiện người chơi có thể được thêm ở đây nếu BasicZombie cần phát hiện tầm nhìn
-        // Hiện tại nó chưa có logic phát hiện tầm nhìn như Brute hay Assassin, chỉ có Chase khi được kích hoạt từ bên ngoài.
-
         switch (currentState)
         {
             case State.Patrol:
@@ -68,11 +68,10 @@ public class BasicZombie : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            // Kiểm tra Counter và trạng thái bất tử của người chơi
-            if (counter != null && !counter.IsInvincible) // Đã đổi từ powerUpManager sang counter
+            if (counter != null && !counter.IsInvincible)
             {
                 Debug.Log("[BasicZombie] Va chạm với người chơi! Game Over!");
-                GameManager.Instance.PlayerDied(); // Gọi GameManager để xử lý Game Over
+                GameManager.Instance.PlayerDied();
             }
             else
             {
@@ -81,14 +80,22 @@ public class BasicZombie : MonoBehaviour
         }
         else if (currentState == State.Patrol || currentState == State.Chase)
         {
-            // Khi va chạm với vật thể khác (trong trạng thái tuần tra hoặc rượt đuổi), bật ra
             BounceAway();
         }
     }
 
+    // === HÀM ĐÃ SỬA: Thêm logic báo cáo cho GameManager ===
     public void Die()
     {
         Debug.Log($"[Zombie] {gameObject.name} đã bị phá hủy!");
+
+        // Gọi GameManager để cộng điểm và báo cáo kẻ địch bị diệt
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.AddScore(scoreValue);
+            GameManager.Instance.EnemyDefeated();
+        }
+
         Destroy(gameObject);
     }
 
@@ -107,7 +114,6 @@ public class BasicZombie : MonoBehaviour
         moveDirection = new Vector2(Mathf.Cos(radians), Mathf.Sin(radians)).normalized;
     }
 
-    // Các phương thức StartChasing và StopChasing (nếu được gọi từ các script khác)
     public void StartChasing(Transform playerTransform)
     {
         player = playerTransform;

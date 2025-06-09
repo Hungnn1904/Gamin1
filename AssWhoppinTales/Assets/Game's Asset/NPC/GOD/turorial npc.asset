@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5b0b2de118bed734b8f42f982fa24b57, type: 3}
-  m_Name: script1
+  m_Name: turorial npc
   m_EditorClassIdentifier: 
-  npcName: god
+  npcName: tutorial npc
   npcPortrait: {fileID: 381566585, guid: 0f39a9205e4394ee1b6ba8269428d176, type: 3}
   dialogueLines:
   - Hello, Tran Tuan Hoang
