@@ -22,7 +22,7 @@ public class Bullets : MonoBehaviour
         rb.linearVelocity = direction * speed; // Đặt vận tốc cho viên đạn
         timeAlive = 0f; // Reset thời gian tồn tại
 
-        // Bỏ qua va chạm giữa các viên đạn với nhau
+        // Bỏ qua va chạm giữa các viên đạn với nhau để tránh lỗi
         Bullets[] bullets = FindObjectsOfType<Bullets>();
         foreach (var bullet in bullets)
         {
@@ -44,29 +44,67 @@ public class Bullets : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Enemies")) // Nếu va chạm với kẻ địch (có tag "Enemies")
+        // Chỉ xử lý va chạm với các đối tượng có Tag là "Enemies"
+        if (collision.gameObject.CompareTag("Enemies"))
         {
-            BasicZombie zombie = collision.gameObject.GetComponent<BasicZombie>(); // Thử lấy component BasicZombie
+            // Kiểm tra va chạm với BasicZombie (nếu vẫn còn trong game của bạn)
+            BasicZombie zombie = collision.gameObject.GetComponent<BasicZombie>();
             if (zombie != null)
             {
                 zombie.Die(); // Gọi phương thức Die() của BasicZombie
-                Debug.Log($"[Bullets] Zombie {collision.gameObject.name} destroyed!"); // Ghi log Zombie bị phá hủy
+                Debug.Log($"[Bullets] Zombie {collision.gameObject.name} destroyed!");
+                DeactivateBullet(); // Tắt viên đạn sau khi va chạm
+                return; // Thoát khỏi hàm để không xử lý tiếp cho cùng một va chạm
             }
 
-            Brute brute = collision.gameObject.GetComponent<Brute>(); // Thử lấy component Brute
+            // Kiểm tra va chạm với Brute (nếu vẫn còn trong game của bạn)
+            Brute brute = collision.gameObject.GetComponent<Brute>();
             if (brute != null)
             {
                 brute.Die(); // Gọi phương thức Die() của Brute
-                Debug.Log($"[Bullets] Brute {collision.gameObject.name} hit!"); // Ghi log Brute bị trúng đạn
+                Debug.Log($"[Bullets] Brute {collision.gameObject.name} hit!");
+                DeactivateBullet(); // Tắt viên đạn sau khi va chạm
+                return; // Thoát khỏi hàm
             }
 
-            DeactivateBullet(); // Tắt viên đạn sau khi va chạm
+            // === DÒNG MỚI: Xử lý va chạm với Core ===
+            Core core = collision.gameObject.GetComponent<Core>();
+            if (core != null)
+            {
+                core.Die(); // Gọi phương thức Die() của Core, Core sẽ tự phá hủy và kích hoạt cái chết của Cloud
+                Debug.Log($"[Bullets] Core {collision.gameObject.name} destroyed!");
+                DeactivateBullet(); // Tắt viên đạn sau khi va chạm với Core
+                return; // Thoát khỏi hàm
+            }
+
+            // === DÒNG MỚI: Xử lý va chạm với Cloud ===
+            Cloud cloud = collision.gameObject.GetComponent<Cloud>();
+            if (cloud != null)
+            {
+                // Cloud bất tử với đạn, KHÔNG gọi Die() ở đây.
+                Debug.Log($"[Bullets] Cloud {collision.gameObject.name} hit but is immune to bullets!");
+                DeactivateBullet(); // Viên đạn vẫn bị tắt sau khi va chạm với Cloud
+                return; // Thoát khỏi hàm
+            }
+
+            // Nếu va chạm với bất kỳ đối tượng nào khác có tag "Enemies" mà không phải là BasicZombie, Brute, Core, hoặc Cloud,
+            // thì viên đạn vẫn bị tắt.
+            DeactivateBullet();
         }
     }
 
     // Đưa viên đạn trở lại Bullet Pool
     void DeactivateBullet()
     {
-        BulletPool.Instance.ReturnBullet(this.gameObject);
+        // Đảm bảo BulletPool.Instance tồn tại trước khi gọi ReturnBullet
+        if (BulletPool.Instance != null)
+        {
+            BulletPool.Instance.ReturnBullet(this.gameObject);
+        }
+        else
+        {
+            // Nếu không có BulletPool, đơn giản là Destroy đối tượng
+            Destroy(this.gameObject);
+        }
     }
 }
