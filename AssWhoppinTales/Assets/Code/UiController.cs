@@ -8,7 +8,7 @@ public class UiController : MonoBehaviour
     public Slot[] hudSlots;
 
     private string[] powerUpTypes; // Store power-up type for each slot
-    private PowerUpManager powerUpManager;
+    private Counter counter; // Đã đổi từ PowerUpManager sang Counter
 
     void Start()
     {
@@ -22,7 +22,7 @@ public class UiController : MonoBehaviour
             powerUpTypes[i] = "None";
         }
 
-        powerUpManager = PowerUpManager.Instance;
+        counter = Counter.Instance; // Đã đổi từ PowerUpManager.Instance sang Counter.Instance
     }
 
     void Update()
@@ -59,6 +59,8 @@ public class UiController : MonoBehaviour
                 hudSlots[i].AddItem(itemName, itemSprite);
                 return true;
             }
+            // Thêm log để theo dõi vật phẩm khi inventory đầy hoặc trùng
+            // Debug.Log($"[UiController] Added '{itemName}' to slot {i}. Power-up type will be set later by Items.cs.");
         }
 
         Debug.Log("Inventory is full! Cannot pick up: " + itemName);
@@ -83,9 +85,9 @@ public class UiController : MonoBehaviour
             string powerUpType = powerUpTypes[slotIndex];
             Debug.Log($"Used item: {itemName} with power-up: {powerUpType}");
 
-            if (powerUpType != "None" && powerUpManager != null)
+            if (powerUpType != "None" && counter != null) // Đã đổi từ powerUpManager sang counter
             {
-                powerUpManager.ActivatePowerUp(powerUpType);
+                counter.ActivatePowerUp(powerUpType); // Đã đổi từ powerUpManager sang counter
             }
 
             RemoveItem(slotIndex);

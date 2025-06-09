@@ -15,6 +15,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Credits scene.unity
     guid: 8932eee3a1680fc4ab878d629b054d34
   - enabled: 1
+    path: Assets/Scenes/Tutorial Stage.unity
+    guid: e68807907229ce4439c897f4d994ea3a
+  - enabled: 1
+    path: Assets/Scenes/level1_ruincity.unity
+    guid: 0ffb3a5ddca294c40937e03a5bde0513
+  - enabled: 1
+    path: Assets/Scenes/Level2_hauntingbunker.unity
+    guid: af1a3b9f1fa84ce46ada143c2d608f89
+  - enabled: 1
+    path: Assets/Scenes/level3_cloudrush.unity
+    guid: cf6ef4ee26b1256499d131b2768906be
+  - enabled: 1
     path: Assets/Scenes/Special_level stage.unity
     guid: eafada3d8a2be07419130fcebe065bb1
   m_configObjects:
