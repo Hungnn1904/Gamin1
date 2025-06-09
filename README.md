@@ -58,3 +58,5 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 8h01 - 9/6/2025: Hoàn thiện map special, fix lại các lỗi vặt như không nhặt được súng add thêm enemy props cho các map đã tạo, chỉnh sửa các mục dialog, add thêm sprite vào npc
 
 12j06 - 9/6/2025: Sửa lại cơ chế consumable, sửa lại cơ chế bộ đếm 30s cho consumable, hoàn thiện ai kẻ địc basciazombie, xong ai kẻ địch brute, wizard, tạo cơ chế lưu dữ liệu ban đầu để khi chết, ấn r sẽ quay trở về thời điểm ban đầu, sửa lại bullet.cs để cập nhật cơ chế chết với mỗi kẻ didhcj, mỗi khi làm thêm kẻ địch thì phải update bullet.cs, tạo mẫu ui cho giao diện tính điểm và giao diện chọn nhân vật, tất cả để trong scene "UI TÍNH ĐIỂM VÀ UI CHỌN NHÂN VẬT" trong folder scene.
+
+6h12 - 9/6/2025: add và implement UI tính điểm và character, fix lại bug 5 map, add thêm game manager script phần tính điểm, thêm các nút next kết nối game lại với nhau, sửa lại mapboound cho các map.
