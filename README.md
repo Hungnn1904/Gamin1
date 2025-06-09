@@ -53,4 +53,6 @@ CHAN ĐÊ CHAN ĐÊ CHAN ĐÊ
 
 6h - 8/6/2025: tạo maptiles, chỉnh sửa và thiết kế xong stage 2 và 3 cho project
 
-8h42 - 8/8/2025:   Xong cơ chế kẻ địch cơ bản, những kẻ địch sau chỉ cần sciprt khả năng đặc biệt, súng có cơ chế vô hạn đạn theo power up, monent có tính năng x2 tốc dộ theo powerup, có tính năng bất tử theo powerup, để trạng thái player chết là dừng game để làm sau, quái có thể chết sau 1 viên đạn, có poweup manager là bộ đếm 30s khi nhận ra có powerup, để trong object trống và gắn sciprt vào.
+8h42 - 8/6/2025:   Xong cơ chế kẻ địch cơ bản, những kẻ địch sau chỉ cần sciprt khả năng đặc biệt, súng có cơ chế vô hạn đạn theo power up, monent có tính năng x2 tốc dộ theo powerup, có tính năng bất tử theo powerup, để trạng thái player chết là dừng game để làm sau, quái có thể chết sau 1 viên đạn, có poweup manager là bộ đếm 30s khi nhận ra có powerup, để trong object trống và gắn sciprt vào.
+
+8h01 - 9/6/2025: Hoàn thiện map special, fix lại các lỗi vặt như không nhặt được súng add thêm enemy props cho các map đã tạo, chỉnh sửa các mục dialog, add thêm sprite vào npc
