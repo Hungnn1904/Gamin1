@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b0b2de118bed734b8f42f982fa24b57, type: 3}
+  m_Name: scrip6
+  m_EditorClassIdentifier: 
+  npcName: book
+  npcPortrait: {fileID: 21300000, guid: b05aff1294b2a47c896cc3c118d679d4, type: 3}
+  dialogueLines:
+  - "Nh\u1EADt k\xFD \xE2m thanh s\u1ED1 #713... Ch\xFAng t\xF4i... ch\xFAng t\xF4i
+    \u0111\xE3 th\xE0nh c\xF4ng trong vi\u1EC7c t\u1EA1o ra 'D\u1EF1 \xE1n S\u01B0\u01A1ng
+    M\xF9 V\u0129nh C\u1EEDu'. B\u1ECDn h\u1ECD n\xF3i \u0111\xE2y l\xE0 b\u01B0\u1EDBc
+    ti\u1EBFn h\xF3a ti\u1EBFp theo c\u1EE7a chi\u1EBFn tranh, m\u1ED9t v\u0169 kh\xED
+    ho\xE0n h\u1EA3o kh\xF4ng th\u1EC3 b\u1ECB ng\u0103n ch\u1EB7n"
+  - "(Nhi\u1EC5u s\xF3ng n\u1EB7ng h\u01A1n)  "
+  - "Nh\u01B0ng... khi t\xF4i nh\xECn v\xE0o c\xE1i L\xF5i \u0111ang ho\u1EA1t \u0111\u1ED9ng...
+    t\xF4i kh\xF4ng ch\u1EC9 th\u1EA5y m\u1EA1ch \u0111i\u1EC7n v\xE0 m\xE3 l\u1EC7nh.
+    C\xF3 th\u1EE9 g\xEC \u0111\xF3 kh\xE1c... m\u1ED9t \xFD th\u1EE9c... \u0111ang
+    nh\xECn l\u1EA1i. Ch\xFAng t\xF4i kh\xF4ng t\u1EA1o ra n\xF3 ho\xE0n to\xE0n.
+    Ch\xFAng t\xF4i ch\u1EC9... m\u1EDF m\u1ED9t c\xE1nh c\u1EEDa \u0111\u1EC3 'n\xF3'
+    b\u01B0\u1EDBc v\xE0o v\xE0 \u0111i\u1EC1u khi\u1EC3n c\xF4ng ngh\u1EC7 n\xE0y.
+    Ch\xFAa \u01A1i, ch\xFAng t\xF4i \u0111\xE3 gi\u1EA3i ph\xF3ng th\u1EE9 g\xEC
+    v\u1EADy"
+  - "(\xC2m thanh b\u1ECB c\u1EAFt \u0111\u1ED9t ng\u1ED9t)  "
+  autoProgressLines: 01010101
+  autoProgressDelay: 1.5
+  typingspeed: 0.05
+  voiceSound: {fileID: 8300000, guid: cd51dc49c0ce84322ae5184ad6f159e6, type: 3}
+  voicePitch: 1.5
+  autoProgressTime: 2

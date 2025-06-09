@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b0b2de118bed734b8f42f982fa24b57, type: 3}
+  m_Name: scrip3
+  m_EditorClassIdentifier: 
+  npcName: Ring
+  npcPortrait: {fileID: 21300000, guid: 63ccc7399865baf469fa8da7901dea5e, type: 3}
+  dialogueLines:
+  - (Static buzz)
+  - Hoang... if you're hearing this... it means you made it inside. Good
+  - I've managed to hack into a part of their old network schematic. This place is
+    a maze, and its security system is locked down by a fragmented protocol.
+  - You won't be able to open the main door conventionally. You need to find data
+    fragments scattered throughout the tunnels to override the system at the Security
+    Control Room.
+  - Be careful. My sensors are picking up multiple, unusual bio-signatures... they're
+    faster and more aggressive than the zombies on the surface. Don't trust the shadows.
+    Linh, out
+  - PROJECT "CHIMERA" REPORT - SUBJECT STATUS
+  - 'Test Subject: C-03 "Assassin" '
+  - 'Notes: Successful implantation of optical camouflage module and reflex enhancement
+    system. Subject exhibits superior predatory and stealth capabilities. '
+  - 'Issue: Uncontrollable neural decay, leading to extremely hostile behavior towards
+    any unidentified targets. High alert is advised. '
+  - 'Emergency containment protocol for subject escape: **KILO-7-3-9**. '
+  - 'Note: All non-Level 4 personnel are to be considered hostile targets. '
+  autoProgressLines: 01010101
+  autoProgressDelay: 1.5
+  typingspeed: 0.05
+  voiceSound: {fileID: 8300000, guid: cd51dc49c0ce84322ae5184ad6f159e6, type: 3}
+  voicePitch: 1.5
+  autoProgressTime: 2

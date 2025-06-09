@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b0b2de118bed734b8f42f982fa24b57, type: 3}
+  m_Name: scrip5
+  m_EditorClassIdentifier: 
+  npcName: Ring
+  npcPortrait: {fileID: 21300000, guid: 63ccc7399865baf469fa8da7901dea5e, type: 3}
+  dialogueLines:
+  - "TR\xCDCH XU\u1EA4T D\u1EEE LI\u1EC6U T\u1EEA L\xD5I N\u0102NG L\u01AF\u1EE2NG...
+    HO\xC0N T\u1EA4T.  "
+  - "PH\xC2N T\xCDCH... "
+  - "Th\u1EF1c th\u1EC3 \"Cloud\" kh\xF4ng ph\u1EA3i l\xE0 d\u1EA1ng s\u1ED1ng sinh
+    h\u1ECDc hay hi\u1EC7n t\u01B0\u1EE3ng kh\xED t\u01B0\u1EE3ng. Ch\xFAng l\xE0
+    m\u1ED9t t\u1EADp h\u1EE3p v\u1EADt ch\u1EA5t nano \u0111\u01B0\u1EE3c l\u1EADp
+    tr\xECnh, l\u01A1 l\u1EEDng b\u1EDFi m\u1ED9t tr\u01B0\u1EDDng \u0111i\u1EC7n
+    t\u1EEB c\u1EE5c b\u1ED9.  "
+  - "L\xF5i (Cloud Core) ho\u1EA1t \u0111\u1ED9ng nh\u01B0 m\u1ED9t m\xE1y ph\xE1t
+    v\xE0 b\u1ED9 khu\u1EBFch \u0111\u1EA1i t\xEDn hi\u1EC7u, li\xEAn t\u1EE5c ph\xE1t
+    ra l\u1EC7nh 'T\xCCM V\xC0 DI\u1EC6T' \u0111\u1EBFn c\xE1c \u0111\xE1m m\xE2y
+    nano trong ph\u1EA1m vi.  "
+  - "VI\u1EC6C PH\xC1 H\u1EE6Y L\xD5I L\xC0M GI\xC1N \u0110O\u1EA0N T\xCDN HI\u1EC6U
+    T\u1EA0M TH\u1EDCI, KHI\u1EBEN C\xC1C \u0110\xC1M M\xC2Y M\u1EA4T \u0110I KH\u1EA2
+    N\u0102NG \u0110\u1ECANH V\u1ECA M\u1EE4C TI\xCAU.  "
+  - "K\u1EBFt lu\u1EADn: \u0110\xE2y l\xE0... c\xF4ng ngh\u1EC7 thu\u1EA7n t\xFAy.
+    T\xE0n nh\u1EABn v\xE0 v\xF4 c\xF9ng hi\u1EC7u qu\u1EA3.  "
+  autoProgressLines: 01010101
+  autoProgressDelay: 1.5
+  typingspeed: 0.05
+  voiceSound: {fileID: 8300000, guid: cd51dc49c0ce84322ae5184ad6f159e6, type: 3}
+  voicePitch: 1.5
+  autoProgressTime: 2
